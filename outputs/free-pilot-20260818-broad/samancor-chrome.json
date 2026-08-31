@@ -1,0 +1,657 @@
+{
+  "company_name": "Samancor Chrome Limited",
+  "candidates": [
+    {
+      "full_name": "Desmond McManus",
+      "current_title": "Chief Executive Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "Chief Executive Officer... Des... has been in his current position since 1 July 2019.",
+          "supports": "CEO of Samancor Chrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Sizwe Siyila",
+      "current_title": "COO: Smelting",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 92,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "COO: Smelting... has been in his current position since January 2022.",
+          "supports": "COO Smelting at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "George Kleynhans",
+      "current_title": "COO: Mining",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 92,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "COO: Mining... has been in his current position since July 2022.",
+          "supports": "COO Mining at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Wensheng Liu",
+      "current_title": "Chief Financial Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "Chief Financial Officer... has been in his current position since November 2024.",
+          "supports": "CFO at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Steph van Sittert",
+      "current_title": "Chief Technology Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 88,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "Chief Technology Officer... has been in his current position since December 2021.",
+          "supports": "CTO at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Hannes Prinsloo",
+      "current_title": "Head of SHEQ",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 72,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "Head of SHEQ... has been in his current role since November 2023.",
+          "supports": "Head of SHEQ at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Jomo Kwadi",
+      "current_title": "Head of Corporate Affairs and Transformation",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 78,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "Head of Corporate Affairs and Transformation... has been in his current position since June 2021.",
+          "supports": "Head of Corporate Affairs at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Leandra van der Merwe",
+      "current_title": "Head of Human Capital and Development",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 75,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "Head of Human Capital and Development... has been in his current position since January 2015.",
+          "supports": "Head of Human Capital at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Victor Omoighe",
+      "current_title": "Group General Counsel and Company Secretary",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 82,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "Group General Counsel and Company Secretary... has been in his current position since 2018.",
+          "supports": "Group General Counsel at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Sabelo Mkhwanazi",
+      "current_title": "General Manager: Dikwena Chrome",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "General Manager: Dikwena Chrome... has been in his current position since September 2023.",
+          "supports": "GM Dikwena Chrome at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Bertus Brink",
+      "current_title": "General Manager: Eastern Chrome Mines",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "General Manager: Eastern Chrome Mines... has been in his current position since July 2017.",
+          "supports": "GM Eastern Chrome Mines at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Charles Sebata",
+      "current_title": "General Manager: Western Chrome Mines",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "General Manager: Western Chrome Mines... has been in his current position since October 2024.",
+          "supports": "GM Western Chrome Mines at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Rembu Matodzi",
+      "current_title": "General Manager: Tubatse Alloy Smelter",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "General Manager, Tubatse Alloy Smelter... has been in his current position since 1 May 2024.",
+          "supports": "GM Tubatse Alloy Smelter at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Sydney Nkosi",
+      "current_title": "General Manager: Ferrometals",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "General Manager: Ferrometals... has been in his current position since January 2024.",
+          "supports": "GM Ferrometals at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Petrus Meyer",
+      "current_title": "General Manager: Tubatse Ferrochrome",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "General Manager: Tubatse Ferrochrome... has been in his current position since May 2020.",
+          "supports": "GM Tubatse Ferrochrome at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Bennie du Plessis",
+      "current_title": "General Manager: Middelburg Ferrochrome",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "General Manager: Middelburg Ferrochrome... has been in his current position since 1 January 2024.",
+          "supports": "GM Middelburg Ferrochrome at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Tumiso Thathane",
+      "current_title": "General Manager: TC Smelter",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "General Manager: TC Smelter... has been in his current position since November 2024.",
+          "supports": "GM TC Smelter at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Kyle Forsyth",
+      "current_title": "Senior Group Legal Counsel / Designated Information Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 70,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "kyle.forsyth@samancorcr.com",
+          "status": "observed",
+          "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+27112451130",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf",
+          "quote": "Designated Information Officer (1): Kyle Forsyth, Senior Group Legal Counsel, Telephone Number: +27 11 245 1130, E-mail Address: Kyle.Forsyth@samancorcr.com",
+          "supports": "Senior Group Legal Counsel and DI Officer at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.98,
+      "review_required": true
+    },
+    {
+      "full_name": "Sorrel Bolam-Geel",
+      "current_title": "Group Legal Counsel / Designated Information Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 68,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "sorrel.bolam-geel@samancorcr.com",
+          "status": "observed",
+          "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+27112451058",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf",
+          "quote": "Designated Information Officer (2): Sorrel Bolam-Geel, Group Legal Counsel, Telephone Number: +27 11 245 1058, Email Address: Sorrel.Bolam-Geel@samancorcr.com",
+          "supports": "Group Legal Counsel and DI Officer at Samancor Chrome"
+        }
+      ],
+      "confidence": 0.98,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "sales@samancorcr.com",
+      "status": "observed",
+      "source_url": "https://samancorcr.com/contact/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "gpsda@samancorcr.com",
+      "status": "observed",
+      "source_url": "https://samancorcr.com/contact/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "webmaster@samancorcr.com",
+      "status": "observed",
+      "source_url": "https://samancorcr.com/contact/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "khuphuka@samancorcr.com",
+      "status": "observed",
+      "source_url": "https://samancorcr.com/contact/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+27112451000",
+      "status": "valid_format",
+      "source_url": "https://samancorcr.com/contact/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Edwin Mahlase",
+      "current_title": "Unknown",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 20,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/edwin-mahlase-01686555",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/edwin-mahlase-01686555"
+        }
+      ],
+      "emails": [
+        {
+          "value": "edwinmahlase@yahoo.com",
+          "status": "observed",
+          "source_url": "https://linkedin.com/in/edwin-mahlase-01686555"
+        }
+      ],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/edwin-mahlase-01686555",
+          "quote": "Edwin Mahlase LinkedIn profile with email edwinmahlase@yahoo.com",
+          "supports": "Search excerpt only; current Samancor Chrome employment unverified"
+        }
+      ],
+      "confidence": 0.25,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Wilma Naude",
+      "current_title": "Unknown",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 20,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/wilma-naude-579025a0",
+          "status": "probable",
+          "source_url": "https://za.linkedin.com/in/wilma-naude-579025a0"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://za.linkedin.com/in/wilma-naude-579025a0",
+          "quote": "Wilma Naude LinkedIn profile URL",
+          "supports": "Search excerpt only; current Samancor Chrome employment unverified"
+        }
+      ],
+      "confidence": 0.25,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Christo Swanepoel",
+      "current_title": "Unknown",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 20,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/christo-swanepoel-92070a70",
+          "status": "probable",
+          "source_url": "https://za.linkedin.com/in/christo-swanepoel-92070a70"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://za.linkedin.com/in/christo-swanepoel-92070a70",
+          "quote": "Christo Swanepoel LinkedIn profile URL",
+          "supports": "Search excerpt only; current Samancor Chrome employment unverified"
+        }
+      ],
+      "confidence": 0.25,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Jacques de Villiers",
+      "current_title": "Unknown",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 20,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/jacquesdv96",
+          "status": "probable",
+          "source_url": "https://za.linkedin.com/in/jacquesdv96"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://za.linkedin.com/in/jacquesdv96",
+          "quote": "Jacques de Villiers LinkedIn profile URL",
+          "supports": "Search excerpt only; current Samancor Chrome employment unverified"
+        }
+      ],
+      "confidence": 0.25,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Thabi Kekana",
+      "current_title": "Unknown",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 20,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/thabi-kekana-6a16a52a8",
+          "status": "probable",
+          "source_url": "https://za.linkedin.com/in/thabi-kekana-6a16a52a8"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://za.linkedin.com/in/thabi-kekana-6a16a52a8",
+          "quote": "Thabi Kekana LinkedIn profile URL",
+          "supports": "Search excerpt only; current Samancor Chrome employment unverified"
+        }
+      ],
+      "confidence": 0.25,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "validation_rejections": [
+    {
+      "full_name": "Edwin Mahlase",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Wilma Naude",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Christo Swanepoel",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Jacques de Villiers",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Thabi Kekana",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 73,
+    "search_engine_warnings": 12,
+    "urls_crawled": 16,
+    "crawl_failures": 2,
+    "contact_signals": 20,
+    "official_urls_discovered": 8,
+    "crm_website": "http://www.samancorcr.com",
+    "official_website": "http://www.samancorcr.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 16,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 3,
+    "pdf_pages_extracted": 67,
+    "pdf_failures": 0,
+    "search_evidence_pages": 5,
+    "contact_evidence_pages": 2,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 5,
+    "unverified_candidates": 5,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 50,
+    "contactable_items": 7,
+    "contact_target_met": false,
+    "broad_discovery": true,
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

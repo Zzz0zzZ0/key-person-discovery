@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://www.minexgroup.eu",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.minexgroup.eu/sitemap.xml: HTTP Error 410: Gone"
+  }
+]

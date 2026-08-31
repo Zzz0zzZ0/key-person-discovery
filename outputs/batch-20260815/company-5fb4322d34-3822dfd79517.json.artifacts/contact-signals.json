@@ -1,0 +1,590 @@
+[
+  {
+    "channel": "email",
+    "value": "steel@mmc-steel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/news/"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898544",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898542",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "steel@mmc-steel.ru",
+    "status": "observed",
+    "source_url": "http://mmc-steel.ru",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898544",
+    "status": "valid_format",
+    "source_url": "http://mmc-steel.ru",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898542",
+    "status": "valid_format",
+    "source_url": "http://mmc-steel.ru",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "steel@mmc-steel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@tyumensteel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "postmaster@serovmet.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kln@mmc-steel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kharlamenko@mmc-steel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sale@mmc-steel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "a.belov@mmc-steel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "market@serovmet.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sekretar@oao-bru.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "permyakov@oao-bru.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "citcer@oao-bru.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "zonov@oao-bru.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "suhanov@oao-bru.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "vibornih@oao-bru.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "urazbahtina@oao-bru.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "snab1@mmc-steel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "snab4@mmc-steel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tokmakova_ui@tyumensteel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "yu.planina@serovmet.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kotov@tyumensteel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898544",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73452532888",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73438553529",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73438554009",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898542",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73438553427",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898012",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898543",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898024",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898023",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73438553500",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73438553241",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73438552003",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73438471555",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73438471850",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73438471575",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73438471750",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73438471645",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73438471617",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898026",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898550",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73452532859",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73438552280",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73438598550",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+73452532850",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "steel@mmc-steel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/news/?slug=est"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898544",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/?slug=est",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898542",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/?slug=est",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "steel@mmc-steel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/news/?slug=umk-stal"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898544",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/?slug=umk-stal",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898542",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/?slug=umk-stal",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "steel@mmc-steel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/news/?slug=nmz"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898544",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/?slug=nmz",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898542",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/?slug=nmz",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "steel@mmc-steel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/news/?tag=%D0%9C%D0%B5%D1%82%D0%B0%D0%BB-%D0%AD%D0%BA%D1%81%D0%BF%D0%BE"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898544",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/?tag=%D0%9C%D0%B5%D1%82%D0%B0%D0%BB-%D0%AD%D0%BA%D1%81%D0%BF%D0%BE",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898542",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/?tag=%D0%9C%D0%B5%D1%82%D0%B0%D0%BB-%D0%AD%D0%BA%D1%81%D0%BF%D0%BE",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "steel@mmc-steel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/news/?tag=%D0%A3%D0%9C%D0%9A-%D0%A1%D1%82%D0%B0%D0%BB%D1%8C"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898544",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/?tag=%D0%A3%D0%9C%D0%9A-%D0%A1%D1%82%D0%B0%D0%BB%D1%8C",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898542",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/?tag=%D0%A3%D0%9C%D0%9A-%D0%A1%D1%82%D0%B0%D0%BB%D1%8C",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "steel@mmc-steel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/news/?tag=%D0%AD%D0%A1%D0%A2"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898544",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/?tag=%D0%AD%D0%A1%D0%A2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898542",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/?tag=%D0%AD%D0%A1%D0%A2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "steel@mmc-steel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/news/?tag=%D0%9D%D0%9C%D0%97"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898544",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/?tag=%D0%9D%D0%9C%D0%97",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898542",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/?tag=%D0%9D%D0%9C%D0%97",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "steel@mmc-steel.ru",
+    "status": "observed",
+    "source_url": "https://mmc-steel.ru/news/?tag=2022"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898544",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/?tag=2022",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+73436898542",
+    "status": "valid_format",
+    "source_url": "https://mmc-steel.ru/news/?tag=2022",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/commitment/development_support/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/commitment/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/commitment/manufacturing/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/commitment/quality/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/commitment/support_care/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81366702243",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81525217571",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81729913601",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667716294",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/hayawakari/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/factory/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81729913601",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/factory/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81525217571",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/factory/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81366702243",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/factory/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81338610437",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/factory/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/factory/new_factory/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/message_philosophy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/about/history/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/news/detail/movie20260611/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/news/detail/news20260710/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/news/detail/news20260408/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+81667710605",
+    "status": "valid_format",
+    "source_url": "https://www.vinita.co.jp/news/detail/news20260730/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

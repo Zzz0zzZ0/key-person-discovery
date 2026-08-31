@@ -1,0 +1,82 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://refwin.com                                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://refwin.com                                                                                   | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.csrhub.com/CSR_and_sustainability_information/Posco-Future-M-Co-Ltd                      | ✓ | ⏱: 1.17s 
+[SCRAPE].. ◆ https://www.csrhub.com/CSR_and_sustainability_information/Posco-Future-M-Co-Ltd                      | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.csrhub.com/...n/Posco-Future-M-Co-Ltd  | Error: Blocked by anti-bot protection: HTTP 403 with near-empty response (39 bytes) 
+[COMPLETE] ● https://www.csrhub.com/CSR_and_sustainability_information/Posco-Future-M-Co-Ltd                      | ✗ | ⏱: 2.44s 
+[FETCH]... ↓ https://www.bloomberg.com/profile/company/003670:KS                                                  | ✓ | ⏱: 0.98s 
+[SCRAPE].. ◆ https://www.bloomberg.com/profile/company/003670:KS                                                  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.bloomberg.c...ofile/company/003670:KS  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.bloomberg.com/profile/company/003670:KS                                                  | ✗ | ⏱: 3.00s 
+[FETCH]... ↓ https://en.wikipedia.org/wiki/POSCO_Future_M                                                         | ✓ | ⏱: 1.57s 
+[SCRAPE].. ◆ https://en.wikipedia.org/wiki/POSCO_Future_M                                                         | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://en.wikipedia.org/wiki/POSCO_Future_M                                                         | ✓ | ⏱: 3.63s 
+[FETCH]... ↓ https://www.globaldata.com/company-profile/posco...l-co-ltd/premium-data/ict-spend-tech-priorities/  | ✓ | ⏱: 5.90s 
+[SCRAPE].. ◆ https://www.globaldata.com/company-profile/posco...l-co-ltd/premium-data/ict-spend-tech-priorities/  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.globaldata.com/company-profile/posco...l-co-ltd/premium-data/ict-spend-tech-priorities/  | ✓ | ⏱: 7.40s 
+[FETCH]... ↓ https://www.marketscreener.com/quote/stock/POSCO-FUTURE-M-CO-LTD-59126435/company/                   | ✓ | ⏱: 6.60s 
+[SCRAPE].. ◆ https://www.marketscreener.com/quote/stock/POSCO-FUTURE-M-CO-LTD-59126435/company/                   | ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.marketscreener.com/quote/stock/POSCO-FUTURE-M-CO-LTD-59126435/company/                   | ✓ | ⏱: 7.60s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.bloomberg.com/profile/company/003670:KS                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.bloomberg.com/profile/company/003670:KS                                                  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.csrhub.com/CSR_and_sustainability_information/Posco-Future-M-Co-Ltd                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.csrhub.com/CSR_and_sustainability_information/Posco-Future-M-Co-Ltd                      | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.refwin.com/about/link                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/about/link                                                                    | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/company/Country                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/company/Country                                                               | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/company/company?comptype=32                                                   | ✓ | ⏱: 1.13s 
+[SCRAPE].. ◆ https://www.refwin.com/company/company?comptype=32                                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.refwin.com/company/company?comptype=32                                                   | ✓ | ⏱: 1.17s 
+[FETCH]... ↓ https://www.refwin.com/company/company?comptype=31                                                   | ✓ | ⏱: 1.16s 
+[SCRAPE].. ◆ https://www.refwin.com/company/company?comptype=31                                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.refwin.com/company/company?comptype=31                                                   | ✓ | ⏱: 1.19s 
+[FETCH]... ↓ https://www.refwin.com/company/company?comptype=41                                                   | ✓ | ⏱: 0.80s 
+[SCRAPE].. ◆ https://www.refwin.com/company/company?comptype=41                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/company/company?comptype=41                                                   | ✓ | ⏱: 0.83s 
+[FETCH]... ↓ https://www.refwin.com/company/company?comptype=34                                                   | ✓ | ⏱: 1.21s 
+[SCRAPE].. ◆ https://www.refwin.com/company/company?comptype=34                                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.refwin.com/company/company?comptype=34                                                   | ✓ | ⏱: 1.24s 
+[FETCH]... ↓ https://www.refwin.com/company/company?country=Australia                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refwin.com/company/company?country=Australia                                             | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://www.refwin.com/company/company?country=Germany                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/company/company?country=Germany                                               | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/company/company?country=UK                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/company/company?country=UK                                                    | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/company/company?country=India                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/company/company?country=India                                                 | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/company/company?country=China                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/company/company?country=China                                                 | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/company/company?isShowCategory=true                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/company/company?isShowCategory=true                                           | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/e/company/company/20012.html                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/e/company/company/20012.html                                                  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/e/news/Analysis/20015.html                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/e/news/Analysis/20015.html                                                    | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/company/company?country=USA                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/company/company?country=USA                                                   | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/e/news/Conference/20005.html                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/e/news/Conference/20005.html                                                  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/e/news/Calendar/20009.html                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/e/news/Calendar/20009.html                                                    | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/e/news/Interview/20011.html                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/e/news/Interview/20011.html                                                   | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/e/news/Buy/20002.html                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/e/news/Buy/20002.html                                                         | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/e/news/Statistics/20010.html                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/e/news/Statistics/20010.html                                                  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/e/news/News/20007.html                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/e/news/News/20007.html                                                        | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/news/Dictionary                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/news/Dictionary                                                               | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/e/news/PriceSheet/20003.html                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/e/news/PriceSheet/20003.html                                                  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refwin.com/news/Emagazine                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refwin.com/news/Emagazine                                                                | ✓ | ⏱: 0.01s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/posco-future-m-co-ltd-former-posco-chemical-co-ltd-3cf1c36a77e7.json

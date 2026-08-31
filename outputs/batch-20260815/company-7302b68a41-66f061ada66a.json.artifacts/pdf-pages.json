@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.koyo-sha.co.jp/img/index/100th-anniversary.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.koyo-sha.co.jp/img/index/company-event.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.koyo-sha.co.jp/img/index/polimall.pdf",
+    "markdown": "[PDF page 1]\n2026年6月\nお得意様各位\n\n                                                                                株式会社光陽社\n                                                                                          営業部\n             『ポリマール  ツヤ出しクロス』  イエローハードタイプ\n\n                            パッケージ一時変更のご案内\n\n\n\n拝啓  貴社ますますご盛栄のこととお喜び申し上げます。平素は格別のお引き立てをいただき\n厚く御礼申し上げます。\nさて、このたび弊社で販売しております『ポリマール  ツヤ出しクロス』シリーズのイエローハードタ\nイプのパッケージにつきまして一時変更のご案内となります。これまでの袋印刷品のパッケージ\nに関しまして、昨今の中東情勢の影響を受けまして袋印刷品パッケージの入荷の目途が立たな\nい状況でございます。『イエロー』につきまして一時パッケージは変更となりますが、同シリーズ品\nの『ピンク』、『ブルー』につきましては現時点で変更はございません。\n何卒ご了承いただきますよう。ご理解の程よろしくお願い申し上げます。\n\n                                                                                             敬具\n\n以下、『ポリマール  ツヤ出しクロス  イエローハードタイプ』のパッケージ一時変更内容\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                  現行パッケージ                                                  変更パッケージ\n※上記の印刷紙を透明の袋に製品と共に包装したパッケージとなります。\n※JANコードは印刷紙の裏面に記載しております。（画像赤丸  JANコードの配置が変わります）\n※弊社ホームページWhat's newにもご案内文掲載しております。\n                                                                                             以上",
+    "error": "",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 1
+  }
+]

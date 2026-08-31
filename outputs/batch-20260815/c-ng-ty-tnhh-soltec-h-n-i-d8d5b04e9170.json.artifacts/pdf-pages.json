@@ -1,0 +1,10 @@
+[
+  {
+    "url": "http://soltec-hn.com/wp-content/uploads/2025/12/Soltec-Hanoi-Profile-2025_compressed_1.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  }
+]

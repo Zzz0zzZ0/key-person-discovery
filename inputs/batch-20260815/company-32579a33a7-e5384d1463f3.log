@@ -1,0 +1,26 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.00s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://xn--80apidcigiw6d.xn--p1ai/контакты/                                                         | ✓ | ⏱: 2.64s 
+[SCRAPE].. ◆ https://xn--80apidcigiw6d.xn--p1ai/контакты/                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://xn--80apidcigiw6d.xn--p1ai/контакты/                                                         | ✓ | ⏱: 3.76s 
+[FETCH]... ↓ https://xn--80apidcigiw6d.xn--p1ai                                                                   | ✓ | ⏱: 3.21s 
+[SCRAPE].. ◆ https://xn--80apidcigiw6d.xn--p1ai                                                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://xn--80apidcigiw6d.xn--p1ai                                                                   | ✓ | ⏱: 4.32s 
+[FETCH]... ↓ https://xn--80apidcigiw6d.xn--p1ai/художественное-литье-2/                                           | ✓ | ⏱: 3.42s 
+[SCRAPE].. ◆ https://xn--80apidcigiw6d.xn--p1ai/художественное-литье-2/                                           | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://xn--80apidcigiw6d.xn--p1ai/художественное-литье-2/                                           | ✓ | ⏱: 4.57s 
+[FETCH]... ↓ http://xn--80apidcigiw6d.xn--p1ai/                                                                   | ✓ | ⏱: 3.18s 
+[SCRAPE].. ◆ http://xn--80apidcigiw6d.xn--p1ai/                                                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● http://xn--80apidcigiw6d.xn--p1ai/                                                                   | ✓ | ⏱: 5.07s 
+[FETCH]... ↓ https://xn--80apidcigiw6d.xn--p1ai/литые-балясины/                                                   | ✓ | ⏱: 1.65s 
+[SCRAPE].. ◆ https://xn--80apidcigiw6d.xn--p1ai/литые-балясины/                                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://xn--80apidcigiw6d.xn--p1ai/литые-балясины/                                                   | ✓ | ⏱: 1.68s 
+[FETCH]... ↓ https://xn--80apidcigiw6d.xn--p1ai/558-2/художественное-литье-на-заказ/                              | ✓ | ⏱: 1.29s 
+[SCRAPE].. ◆ https://xn--80apidcigiw6d.xn--p1ai/558-2/художественное-литье-на-заказ/                              | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://xn--80apidcigiw6d.xn--p1ai/558-2/художественное-литье-на-заказ/                              | ✓ | ⏱: 1.32s 
+[FETCH]... ↓ https://xn--80apidcigiw6d.xn--p1ai/243-2/                                                            | ✓ | ⏱: 1.70s 
+[SCRAPE].. ◆ https://xn--80apidcigiw6d.xn--p1ai/243-2/                                                            | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://xn--80apidcigiw6d.xn--p1ai/243-2/                                                            | ✓ | ⏱: 1.73s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/company-32579a33a7-e5384d1463f3.json

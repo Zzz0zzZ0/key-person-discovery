@@ -1,0 +1,124 @@
+{
+  "company_name": "PROCAMET S.A.",
+  "candidates": [
+    {
+      "full_name": "Jorge Perez",
+      "current_title": "Jefe",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "info@procamet.com",
+          "status": "observed",
+          "source_url": "https://www.procamet.com/en/"
+        },
+        {
+          "value": "ventas@procamet.com",
+          "status": "observed",
+          "source_url": "https://www.procamet.com/en/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+541143435164",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.procamet.com/en/"
+        },
+        {
+          "value": "+542804662620",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://20976-ar.all.biz/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://20976-ar.all.biz/",
+          "quote": "Jefe JORGE PEREZ",
+          "supports": "Named as Jefe (Head) of PROCAMET S.A."
+        },
+        {
+          "source_url": "https://www.procamet.com/en/",
+          "quote": "info@procamet.com ventas@procamet.com",
+          "supports": "Company public email contacts at Avenida Belgrano 427, 4to piso, Of. 27, Buenos Aires"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    },
+    {
+      "full_name": "Manuel Gomez",
+      "current_title": "Operario",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 20,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/manuel-gomez-1ba74b353",
+          "status": "probable",
+          "source_url": "https://ar.linkedin.com/in/manuel-gomez-1ba74b353"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://ar.linkedin.com/in/manuel-gomez-1ba74b353",
+          "quote": "Operario en PROCAMET S.A. Experiencia: PROCAMET S.A. Ubicación: Buenos Aires",
+          "supports": "Listed as Operario (Operator/Factory Worker) at PROCAMET S.A."
+        }
+      ],
+      "confidence": 0.7,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 36,
+    "search_engine_warnings": 4,
+    "urls_crawled": 20,
+    "crawl_failures": 5,
+    "contact_signals": 34,
+    "official_urls_discovered": 5,
+    "crm_website": "https://www.procamet.com",
+    "official_website": "https://www.procamet.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 2,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

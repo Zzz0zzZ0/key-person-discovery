@@ -1,0 +1,27 @@
+[
+  {
+    "channel": "phone",
+    "value": "+82522311001",
+    "status": "valid_format",
+    "source_url": "https://hanjoolightmetal.com/board/eng/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+82522311001",
+    "status": "valid_format",
+    "source_url": "https://hanjoolightmetal.com/board/eng/bbs/board.php?bo_table=notice&wr_id=23",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+82522311001",
+    "status": "valid_format",
+    "source_url": "https://hanjoolightmetal.com/board/eng/bbs/content.php?co_id=company",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

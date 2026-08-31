@@ -1,0 +1,130 @@
+{
+  "company_name": "Schwarzhaupt GmbH & Co. KG",
+  "candidates": [
+    {
+      "full_name": "Philipp Hermann Brinker",
+      "current_title": "Geschäftsführender Gesellschafter / Executive Partner",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.schwarzhaupt.de/en/impressum.html",
+          "quote": "Geschäftsführender Gesellschafter: Philipp Hermann Brinker",
+          "supports": "Managing Partner / Executive Partner at Schwarzhaupt GmbH & Co. KG"
+        },
+        {
+          "source_url": "https://www.schwarzhaupt.de/en/ueber.html",
+          "quote": "Philipp Brinker  Executive Partner",
+          "supports": "Executive Partner listed on company About page with photo"
+        }
+      ],
+      "confidence": 0.92,
+      "review_required": true
+    },
+    {
+      "full_name": "Corinna Sibylle Schiemenz",
+      "current_title": "Geschäftsführende Gesellschafterin / Managing Partner",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.schwarzhaupt.de/en/impressum.html",
+          "quote": "Geschäftsführende Gesellschafterin: Corinna Sibylle Schiemenz",
+          "supports": "Managing Partner at Schwarzhaupt GmbH & Co. KG"
+        },
+        {
+          "source_url": "https://www.schwarzhaupt.de/en/ueber.html",
+          "quote": "Corinna Schiemenz  Managing Partner",
+          "supports": "Managing Partner listed on company About page with photo"
+        }
+      ],
+      "confidence": 0.92,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+49235190760",
+      "status": "valid_format",
+      "source_url": "http://www.schwarzhaupt.de/en/datenschutz.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "mail@daro.de",
+      "status": "observed",
+      "source_url": "https://www.schwarzhaupt.de/en/impressum.html",
+      "company_public": true,
+      "verification_status": "company_source"
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 45,
+    "search_engine_warnings": 8,
+    "urls_crawled": 12,
+    "crawl_failures": 1,
+    "contact_signals": 12,
+    "official_urls_discovered": 1,
+    "crm_website": "https://schwarzhaupt.de",
+    "official_website": "http://www.schwarzhaupt.de",
+    "website_recovered": true,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 4,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 2,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 4,
+    "contactable_items": 2,
+    "target_contact_methods": 4,
+    "contact_methods": 2,
+    "contact_target_met": false,
+    "broad_discovery": false,
+    "topeasy_import": {},
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

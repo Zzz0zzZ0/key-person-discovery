@@ -1,0 +1,17 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.dnb.com/business-directory/company-p...casting_ag.9f5110e2444f9a812a0c9229460c159a.html  | ✓ | ⏱: 5.15s 
+[SCRAPE].. ◆ https://www.dnb.com/business-directory/company-p...casting_ag.9f5110e2444f9a812a0c9229460c159a.html  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.dnb.com/business-directory/company-p...casting_ag.9f5110e2444f9a812a0c9229460c159a.html  | ✓ | ⏱: 5.18s 
+[FETCH]... ↓ https://www.altmann-casting.ch/impressum                                                             | ✓ | ⏱: 24.11s 
+[SCRAPE].. ◆ https://www.altmann-casting.ch/impressum                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.altmann-casting.ch/impressum                                                             | ✓ | ⏱: 24.92s 
+[FETCH]... ↓ https://www.altmann-casting.ch/kontakt                                                               | ✓ | ⏱: 24.10s 
+[SCRAPE].. ◆ https://www.altmann-casting.ch/kontakt                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.altmann-casting.ch/kontakt                                                               | ✓ | ⏱: 24.96s 
+[FETCH]... ↓ https://www.altmann-casting.ch                                                                       | ✓ | ⏱: 24.19s 
+[SCRAPE].. ◆ https://www.altmann-casting.ch                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.altmann-casting.ch                                                                       | ✓ | ⏱: 25.36s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260814/altmann-casting-ag-c6d67abe37c5.json

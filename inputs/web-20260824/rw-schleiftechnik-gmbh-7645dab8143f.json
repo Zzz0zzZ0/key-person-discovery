@@ -1,0 +1,37 @@
+{
+  "name": "RW Schleiftechnik GmbH",
+  "website": "https://rwschleiftechnik.de",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "7c0fb93f-19c9-4010-99a2-70099ee005f4",
+  "crm_linkedin_url": null,
+  "crm_country": null,
+  "crm_updated_at": "2026-08-19T07:08:39.89217+00:00",
+  "crm_contact_count": 0,
+  "crm_contacts": [],
+  "target_contact_count": 4,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-24T03:31:49.320292+00:00",
+  "source": "twenty_postgresql_read_only"
+}

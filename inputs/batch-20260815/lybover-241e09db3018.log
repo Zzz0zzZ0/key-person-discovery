@@ -1,0 +1,29 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://theorg.com/org/lybover/teams/finance-team                                                    | ✓ | ⏱: 1.99s 
+[SCRAPE].. ◆ https://theorg.com/org/lybover/teams/finance-team                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://theorg.com/org/lybover/teams/finance-team                                                    | ✓ | ⏱: 2.36s 
+[FETCH]... ↓ https://theorg.com/org/lybover                                                                       | ✓ | ⏱: 2.01s 
+[SCRAPE].. ◆ https://theorg.com/org/lybover                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://theorg.com/org/lybover                                                                       | ✓ | ⏱: 2.65s 
+[FETCH]... ↓ https://westeria.de/en/2023/westeria-lybover-partnership/                                            | ✓ | ⏱: 3.81s 
+[SCRAPE].. ◆ https://westeria.de/en/2023/westeria-lybover-partnership/                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://westeria.de/en/2023/westeria-lybover-partnership/                                            | ✓ | ⏱: 4.93s 
+[FETCH]... ↓ http://keller.be                                                                                     | ✓ | ⏱: 4.98s 
+[SCRAPE].. ◆ http://keller.be                                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://keller.be                                                                                     | ✓ | ⏱: 7.00s 
+[FETCH]... ↓ https://www.lybover.be/en/about-lybover/                                                             | ✓ | ⏱: 2.54s 
+[SCRAPE].. ◆ https://www.lybover.be/en/about-lybover/                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.lybover.be/en/about-lybover/                                                             | ✓ | ⏱: 4.15s 
+[FETCH]... ↓ https://www.lybover.be/en/careers/                                                                   | ✓ | ⏱: 1.38s 
+[SCRAPE].. ◆ https://www.lybover.be/en/careers/                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.lybover.be/en/careers/                                                                   | ✓ | ⏱: 1.40s 
+[FETCH]... ↓ https://www.lybover.be/en/jobs/sales-engineer-process-technology/                                    | ✓ | ⏱: 1.48s 
+[SCRAPE].. ◆ https://www.lybover.be/en/jobs/sales-engineer-process-technology/                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.lybover.be/en/jobs/sales-engineer-process-technology/                                    | ✓ | ⏱: 1.50s 
+[FETCH]... ↓ https://www.impress.be/nl/realisaties/industrie-logistiek/lybover                                    | ✓ | ⏱: 5.45s 
+[SCRAPE].. ◆ https://www.impress.be/nl/realisaties/industrie-logistiek/lybover                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.impress.be/nl/realisaties/industrie-logistiek/lybover                                    | ✓ | ⏱: 7.47s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/lybover-241e09db3018.json

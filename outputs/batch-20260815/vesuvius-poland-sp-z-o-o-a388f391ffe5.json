@@ -1,0 +1,559 @@
+{
+  "company_name": "Vesuvius Poland Sp. z o.o.",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info.france@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "glass.europe@vesuvius.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "foseco.brazil@vesuvius.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "glass.america@vesuvius.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "glass.asia@vesuvius.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info.germany@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "fe.centraleurope@vesuvius.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "nf.centraleurope@vesuvius.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "fosecoinfo@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info.china@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "glass.china@vesuvius.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info.czechrepublic@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sainfo@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "infosweden@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "fosecoitaly@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "customerservice@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "fosecoja@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "ukinfo@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "glass.japan@vesuvius.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "fosecomy@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "foseco.mexico@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "fosecoph@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "foseco.polska@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "foseco.portugal@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info.rus@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "foseco.korea@vesuvius.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "dacav@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "foseco.taiwan@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "fosecoth@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "foseco.turkiye@foseco.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "foseco.uae@vesuvius.com",
+      "status": "observed",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+33164735555",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+33327691019",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+551137199788",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+18437746026",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+551532448000",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+8651262748969",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+61242679000",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+492861830",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+97165262370",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+19057324441",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+8651262991128",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+8651262992763",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+8651262748927",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+27119039500",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+46532607730",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+33680037230",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+39029498191",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+912137668100",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+62214605555",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+441246571700",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+81358177065",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+60331760504",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+528183796513",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+61299145500",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48323303530",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+351229999530",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+34946202500",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+88687228108",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+88687228182",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+6622613164",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+902626771050",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+902626770999",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+380676310353",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+14408264548",
+      "status": "valid_format",
+      "source_url": "https://www.vesuvius.com/en/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 28,
+    "search_engine_warnings": 1,
+    "urls_crawled": 4,
+    "crawl_failures": 1,
+    "contact_signals": 65,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 1,
+    "pdf_documents_processed": 1,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 1,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 65,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

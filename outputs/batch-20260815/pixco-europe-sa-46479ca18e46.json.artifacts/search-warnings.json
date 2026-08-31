@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://www.pixcoeurope.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.pixcoeurope.com/sitemap.xml: syntax error: line 1, column 0"
+  }
+]

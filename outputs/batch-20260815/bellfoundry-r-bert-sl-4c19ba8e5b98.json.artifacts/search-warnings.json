@@ -1,0 +1,14 @@
+[
+  {
+    "query": "site:odlievaniezvonov.sk (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:odlievaniezvonov.sk (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "too many requests"
+  }
+]

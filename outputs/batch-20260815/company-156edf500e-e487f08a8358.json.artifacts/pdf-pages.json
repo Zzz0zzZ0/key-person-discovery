@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.vinita.co.jp/wp_vinita/wp-content/uploads/2025/12/care_01.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.vinita.co.jp/wp_vinita/wp-content/uploads/2025/11/TEMPERTRON-V.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.vinita.co.jp/wp_vinita/wp-content/uploads/2025/12/LIGNA2023_map.pdf",
+    "markdown": "[PDF page 1]\nLIGNA .23 ▪ 15                                                                                                –                                               19 May 2023                              YAMAMOTO VINITA\n                                                                                                                                                                                                       Hall 027, stand K52\nExhibition program\n\n       Tools and Machinery for Custom                                                                                       Eingang                                    Presse- Centrum\n       and Mass Production                                                                                                  Entrance                                   Press Center\n       (Halls        11–15,        27)                                                                                      Informations- Centrum                      Freigelände\n                                                                                                                            Information Center                         Op en- air site\n       Sur face Technology                                                                                                  Convention Center                          H’Up – Hybrid Event Hub\n       (Halls 16, 17)                                                                                                       Haus der Nationen\n                                                                                                                            House of Nations\n       Wood Based Panel Production\n       (Hall 26)\n\n       Sawmill Technolog y\n       (Hall 25)\n\n       Energy from Wood\n       (Halls                                                                                                             25, 26, Open-air site)\n\n       Machine Components and\n       Automation Technology\n       (Hall 16)\n\n       Machinery for Forestry,\n       Roundwood and Sawntimber Production\n       (Open-air        site,        P32–35)\n\nSpecials & Events\n▪ LIGNA.Campus (Hall 11)\n▪ LIGNA.FutureSquare (Hall 12)\n▪ LIGNA.Stage (Hall 12)\n▪ LIGNA.Recruiting (Hall 12)\n▪ Presentation of the German Association of Cabinet-Makers (Hall 12)\n▪ German Wood Construction Award (Hall 13)\n▪ International Associations (Hall 17)\n▪ Partner Presentations of the  Forestry Sector (Open-air site, pavilions)                                           11/2022 ▪ Modif ications reser ved ▪ 221115\n\n\n                                                                                                                                                                                                                                         ligna.de",
+    "error": "",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 1
+  }
+]

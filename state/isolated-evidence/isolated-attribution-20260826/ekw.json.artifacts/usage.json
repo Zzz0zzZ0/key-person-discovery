@@ -1,0 +1,19 @@
+{
+  "estimated_cost_usd": null,
+  "cost_status": null,
+  "cost_source": null,
+  "input_tokens": null,
+  "output_tokens": null,
+  "cache_read_tokens": null,
+  "cache_write_tokens": null,
+  "reasoning_tokens": null,
+  "total_tokens": null,
+  "api_calls": null,
+  "model": null,
+  "provider": null,
+  "session_id": null,
+  "completed": null,
+  "failed": true,
+  "service_tier": null,
+  "failure": "KeyboardInterrupt()"
+}

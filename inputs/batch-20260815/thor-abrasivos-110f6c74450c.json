@@ -1,0 +1,55 @@
+{
+  "name": "Thor Abrasivos",
+  "website": "https://www.thorabrasivos.com.br",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00dcf3ef-1322-447c-b520-3742b7612812",
+  "crm_linkedin_url": "https://www.linkedin.com/in/thor-abrasivos-511b84180/",
+  "crm_country": "巴西",
+  "crm_updated_at": "2026-07-28T09:21:45.864004+00:00",
+  "crm_contact_count": 2,
+  "crm_contacts": [
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+55 11 98438-1334",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "contato@thorabrasivos.com.br",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T03:40:13.655926+00:00",
+  "source": "twenty_postgresql_read_only"
+}

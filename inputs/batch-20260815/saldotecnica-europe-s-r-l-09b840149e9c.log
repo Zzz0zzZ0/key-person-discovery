@@ -1,0 +1,38 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://theorg.com/org/saldotecnica-europe-s-r-l                                                     | ✓ | ⏱: 2.24s 
+[SCRAPE].. ◆ https://theorg.com/org/saldotecnica-europe-s-r-l                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://theorg.com/org/saldotecnica-europe-s-r-l                                                     | ✓ | ⏱: 2.25s 
+[FETCH]... ↓ https://www.creditsafe.com/business-index/fr-lu/company/saldotecnica-europe-srl-it07996548           | ✓ | ⏱: 4.84s 
+[SCRAPE].. ◆ https://www.creditsafe.com/business-index/fr-lu/company/saldotecnica-europe-srl-it07996548           | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.creditsafe.com/business-index/fr-lu/company/saldotecnica-europe-srl-it07996548           | ✓ | ⏱: 5.50s 
+[FETCH]... ↓ https://www.creditsafe.com/business-index/en-gb/company/saldotecnica-europe-srl-it07996548           | ✓ | ⏱: 5.38s 
+[SCRAPE].. ◆ https://www.creditsafe.com/business-index/en-gb/company/saldotecnica-europe-srl-it07996548           | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.creditsafe.com/business-index/en-gb/company/saldotecnica-europe-srl-it07996548           | ✓ | ⏱: 6.53s 
+[FETCH]... ↓ http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/                                          | ✓ | ⏱: 4.54s 
+[SCRAPE].. ◆ http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/                                          | ✓ | ⏱: 6.55s 
+[FETCH]... ↓ https://www.saldotecnica.eu                                                                          | ✓ | ⏱: 3.42s 
+[SCRAPE].. ◆ https://www.saldotecnica.eu                                                                          | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.saldotecnica.eu                                                                          | ✓ | ⏱: 4.24s 
+[FETCH]... ↓ https://www.saldotecnica.eu/en                                                                       | ✓ | ⏱: 2.34s 
+[SCRAPE].. ◆ https://www.saldotecnica.eu/en                                                                       | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.saldotecnica.eu/en                                                                       | ✓ | ⏱: 2.38s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.saldotecnica.eu/wp-content/uploads/about1.jpg                                            | ✓ | ⏱: 1.62s 
+[SCRAPE].. ◆ https://www.saldotecnica.eu/wp-content/uploads/about1.jpg                                            | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.saldotecnic...tent/uploads/about1.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (462 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.saldotecnica.eu/wp-content/uploads/about1.jpg                                            | ✗ | ⏱: 1.66s 
+[FETCH]... ↓ https://www.saldotecnica.eu/wp-content/uploads/about2.jpg                                            | ✓ | ⏱: 1.79s 
+[SCRAPE].. ◆ https://www.saldotecnica.eu/wp-content/uploads/about2.jpg                                            | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.saldotecnic...tent/uploads/about2.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (462 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.saldotecnica.eu/wp-content/uploads/about2.jpg                                            | ✗ | ⏱: 1.83s 
+[FETCH]... ↓ https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/                                         | ✓ | ⏱: 4.99s 
+[SCRAPE].. ◆ https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/                                         | ✓ | ⏱: 5.01s 
+[FETCH]... ↓ https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/                                      | ✓ | ⏱: 4.97s 
+[SCRAPE].. ◆ https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/                                      | ✓ | ⏱: 5.02s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/saldotecnica-europe-s-r-l-09b840149e9c.json

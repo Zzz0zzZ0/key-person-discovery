@@ -1,0 +1,160 @@
+[
+  {
+    "channel": "email",
+    "value": "info@refko.de",
+    "status": "observed",
+    "source_url": "https://www.refko.de/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926232075",
+    "status": "valid_format",
+    "source_url": "https://www.refko.de/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "d.kern@stiftung-warentest.de",
+    "status": "observed",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/"
+  },
+  {
+    "channel": "email",
+    "value": "c.wagner@stiftung-warentest.de",
+    "status": "observed",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/"
+  },
+  {
+    "channel": "email",
+    "value": "l.halemeier@stiftung-warentest.de",
+    "status": "observed",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/"
+  },
+  {
+    "channel": "email",
+    "value": "f.ringwald@stiftung-warentest.de",
+    "status": "observed",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/"
+  },
+  {
+    "channel": "email",
+    "value": "barbara.bachert@t-online.de",
+    "status": "observed",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/"
+  },
+  {
+    "channel": "email",
+    "value": "pilz-verlagsvertretung@freenet.de",
+    "status": "observed",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/"
+  },
+  {
+    "channel": "email",
+    "value": "m_hennig@t-online.de",
+    "status": "observed",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/"
+  },
+  {
+    "channel": "email",
+    "value": "buero@beyerle-buch.bayern",
+    "status": "observed",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/"
+  },
+  {
+    "channel": "email",
+    "value": "berliner-verlagsvertretungen@t-online.de",
+    "status": "observed",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/"
+  },
+  {
+    "channel": "email",
+    "value": "info@verlagsvertretung-bredereck.de",
+    "status": "observed",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/"
+  },
+  {
+    "channel": "email",
+    "value": "mayer-heck@t-online.de",
+    "status": "observed",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/"
+  },
+  {
+    "channel": "email",
+    "value": "karin.pangl@mohrmorawa.at",
+    "status": "observed",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/"
+  },
+  {
+    "channel": "email",
+    "value": "nina.monschein@mohrmorawa.at",
+    "status": "observed",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/"
+  },
+  {
+    "channel": "email",
+    "value": "c.malten@ava.ch",
+    "status": "observed",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/"
+  },
+  {
+    "channel": "email",
+    "value": "bestellung@mohrmorawa.at",
+    "status": "observed",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/"
+  },
+  {
+    "channel": "email",
+    "value": "rights@stiftung-warentest.de",
+    "status": "observed",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/"
+  },
+  {
+    "channel": "phone",
+    "value": "+41798009683",
+    "status": "valid_format",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+41447624258",
+    "status": "valid_format",
+    "source_url": "https://www.test.de/unternehmen/vertrieb-5030556-0/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "email@stiftung-warentest.de",
+    "status": "observed",
+    "source_url": "https://www.test.de/impressum/"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/florian-laux-525693231",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/florian-laux-525693231"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/peter-weirich-a81855231",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/peter-weirich-a81855231"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/katharina-sarnow-978181252",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/katharina-sarnow-978181252"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/motasilva",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/motasilva"
+  }
+]

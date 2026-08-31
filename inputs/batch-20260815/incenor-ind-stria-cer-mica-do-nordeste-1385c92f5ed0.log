@@ -1,0 +1,233 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rocketreach.co/incenor-industria-ceramica-do-nordeste-email-format_b6add4e6c86f0beb          | ✓ | ⏱: 1.47s 
+[SCRAPE].. ◆ https://rocketreach.co/incenor-industria-ceramica-do-nordeste-email-format_b6add4e6c86f0beb          | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...format_b6add4e6c86f0beb  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/incenor-industria-ceramica-do-nordeste-email-format_b6add4e6c86f0beb          | ✗ | ⏱: 1.49s 
+[FETCH]... ↓ https://www.consultascnpj.com/incenor-industria-ceramica-do-nordeste-ltda/04496698000139             | ✓ | ⏱: 1.57s 
+[SCRAPE].. ◆ https://www.consultascnpj.com/incenor-industria-ceramica-do-nordeste-ltda/04496698000139             | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.consultascn...ste-ltda/04496698000139  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.consultascnpj.com/incenor-industria-ceramica-do-nordeste-ltda/04496698000139             | ✗ | ⏱: 2.54s 
+[FETCH]... ↓ https://www.dnb.com/business-directory/company-p...deste_ltda.e92b212aaeaab24be8095ef538b881fd.html  | ✓ | ⏱: 2.73s 
+[SCRAPE].. ◆ https://www.dnb.com/business-directory/company-p...deste_ltda.e92b212aaeaab24be8095ef538b881fd.html  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.dnb.com/business-directory/company-p...deste_ltda.e92b212aaeaab24be8095ef538b881fd.html  | ✓ | ⏱: 2.76s 
+[FETCH]... ↓ https://www.emis.com/php/company-profile/BR/Ince...ustria_Ceramica_do_Nordeste_Ltda_en_5674758.html  | ✓ | ⏱: 3.51s 
+[SCRAPE].. ◆ https://www.emis.com/php/company-profile/BR/Ince...ustria_Ceramica_do_Nordeste_Ltda_en_5674758.html  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.emis.com/php/company-profile/BR/Ince...ustria_Ceramica_do_Nordeste_Ltda_en_5674758.html  | ✓ | ⏱: 3.53s 
+[ANTIBOT]. ℹ https://incenor.com.br/...ento-ceramico-psi-66500  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: Download is starting
+Call log:
+  - navigating to "https://incenor.com.br/Produtos/download_pdf_produto_especifico/revestimento-ceramico-psi-66500", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://incenor.com.br/...ento-ceramico-psi-66500  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: Download is starting
+Call log:
+  - navigating to "https://incenor.com.br/Produtos/download_pdf_produto_especifico/revestimento-ceramico-psi-66500", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://www.incenor.com...to_especifico/ppi62110r  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.incenor.com.br/Produtos/download_pdf_produto_especifico/ppi62110r", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://www.incenor.com...to_especifico/ppi62110r  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.incenor.com.br/Produtos/download_pdf_produto_especifico/ppi62110r", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://www.incenor.com...o-retificado-psi-63080r  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.incenor.com.br/Produtos/download_pdf_produto_especifico/revestimento-ceramico-retificado-psi-63080r", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://www.incenor.com...o-retificado-psi-63080r  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.incenor.com.br/Produtos/download_pdf_produto_especifico/revestimento-ceramico-retificado-psi-63080r", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://www.incenor.com...to_especifico/psi-67080  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.incenor.com.br/Produtos/download_pdf_produto_especifico/psi-67080", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://www.incenor.com...to_especifico/psi-67080  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.incenor.com.br/Produtos/download_pdf_produto_especifico/psi-67080", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[FETCH]... ↓ https://www.incenor.com.br                                                                           | ✓ | ⏱: 8.65s 
+[SCRAPE].. ◆ https://www.incenor.com.br                                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.incenor.com.br                                                                           | ✓ | ⏱: 10.15s 
+[FETCH]... ↓ https://www.volza.com/company-profile/incenor-industria-ceramica-do-nordeste-ltda-7897963            | ✓ | ⏱: 1.45s 
+[SCRAPE].. ◆ https://www.volza.com/company-profile/incenor-industria-ceramica-do-nordeste-ltda-7897963            | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.volza.com/c...o-nordeste-ltda-7897963  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.volza.com/company-profile/incenor-industria-ceramica-do-nordeste-ltda-7897963            | ✗ | ⏱: 2.22s 
+[ANTIBOT]. ℹ https://www.incenor.com...uto_especifico/rvi57400  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.incenor.com.br/Produtos/download_pdf_produto_especifico/rvi57400", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://www.incenor.com...uto_especifico/rvi57400  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.incenor.com.br/Produtos/download_pdf_produto_especifico/rvi57400", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[FETCH]... ↓ https://www.marketinsidedata.com/en/company/ince...ustria-ceramica/ac21cb648f5e57233f7e23bf0023f620  | ✓ | ⏱: 6.04s 
+[SCRAPE].. ◆ https://www.marketinsidedata.com/en/company/ince...ustria-ceramica/ac21cb648f5e57233f7e23bf0023f620  | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.marketinsidedata.com/en/company/ince...ustria-ceramica/ac21cb648f5e57233f7e23bf0023f620  | ✓ | ⏱: 6.92s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.incenor.com.br/contato/duvidas_frequentes                                                | ✓ | ⏱: 44.36s 
+[SCRAPE].. ◆ https://www.incenor.com.br/contato/duvidas_frequentes                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.incenor.com.br/contato/duvidas_frequentes                                                | ✓ | ⏱: 44.39s 
+[ANTIBOT]. ℹ https://www.incenor.com...ontato/trabalhe_conosco  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://www.incenor.com.br/contato/trabalhe_conosco", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://www.incenor.com...ontato/trabalhe_conosco  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://www.incenor.com.br/contato/trabalhe_conosco", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://www.incenor.com.br/contato/fale_conosco    | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://www.incenor.com.br/contato/fale_conosco", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://www.incenor.com.br/contato/fale_conosco    | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://www.incenor.com.br/contato/fale_conosco", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://www.incenor.com.br/contato/localizacao     | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://www.incenor.com.br/contato/localizacao", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://www.incenor.com.br/contato/localizacao     | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://www.incenor.com.br/contato/localizacao", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/incenor-ind-stria-cer-mica-do-nordeste-1385c92f5ed0.json

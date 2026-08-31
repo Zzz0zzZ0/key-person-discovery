@@ -1,0 +1,564 @@
+{
+  "company_name": "Samancor Chrome Limited",
+  "candidates": [
+    {
+      "full_name": "Desmond McManus",
+      "current_title": "Chief Executive Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "Chief Executive Officer... Desmond holds a Bachelor in Engineering (Extractive Metallurgy), as well as an MBL (Masters in Business Leadership) Degree from UNISA... He has been in his current position since 1 July 2019.",
+          "supports": "CEO of Samancor Chrome; joined as Production Superintendent at Tubatse Ferrochrome in 2002, promoted to COO 2013, CEO 2019"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Wensheng Liu",
+      "current_title": "Chief Financial Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "Chief Financial Officer... Wensheng holds a Bachelor Degree in Economics, and has completed his MBA Degree... He has been in his current position since November 2024.",
+          "supports": "CFO of Samancor Chrome since November 2024; prior CFO at China Steel Overseas Resources Co. Ltd"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Steph van Sittert",
+      "current_title": "Chief Technology Officer",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 88,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "Chief Technology Officer... Steph holds a Bachelor in Engineering, as well as an MBL (Masters in Business Leadership) degree from UNISA... He has been in his current position since December 2021.",
+          "supports": "CTO of Samancor Chrome; joined as Head of Business Development and Technology in January 2014, promoted through COO Smelting to CTO 2021"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Sizwe Siyila",
+      "current_title": "COO: Smelting",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 92,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "COO: Smelting... Sizwe has vast experience in the chrome and manganese mining and smelting/processing... He has been in his current position since January 2022.",
+          "supports": "COO Smelting at Samancor Chrome; prior GM at Ferrometals and TC Smelter"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "George Kleynhans",
+      "current_title": "COO: Mining",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 92,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "COO: Mining... George has many years of hands-on experience in the mining industry... He has been in his current position since July 2022.",
+          "supports": "COO Mining at Samancor Chrome; prior VP at Sibanye Stillwater"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Hannes Prinsloo",
+      "current_title": "Head of SHEQ",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 75,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "Head of SHEQ... Hannes has earned his Bachelor of Engineering in Mining Degree... He has been in his current role since November 2023.",
+          "supports": "Head of SHEQ at Samancor Chrome; prior Head of Safety at Impala Platinum Ltd"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Jomo Kwadi",
+      "current_title": "Head of Corporate Affairs and Transformation",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 78,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "Head of Corporate Affairs and Transformation... Jomo holds degrees in Industrial Sociology and Criminology... He has been in his current position since June 2021.",
+          "supports": "Head of Corporate Affairs and Transformation at Samancor Chrome; prior HR Manager at Middelburg Ferrochrome"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Leandra van der Merwe",
+      "current_title": "Head of Human Capital and Development",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 75,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "Head of Human Capital and Development... Leandra holds an Honours Degree in Psychology (UJ)... She has been in her current position since January 2015.",
+          "supports": "Head of Human Capital and Development at Samancor Chrome; career progression from HR Superintendent at MFC 2003 to current role"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Victor Omoighe",
+      "current_title": "Group General Counsel and Company Secretary",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 82,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "Group General Counsel and Company Secretary... Victor is a multidisciplinary Commercial Legal Admitted Attorney... He has been in his current position since 2018.",
+          "supports": "Group General Counsel and Company Secretary at Samancor Chrome since 2018"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Sabelo Mkhwanazi",
+      "current_title": "General Manager: Dikwena Chrome",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "General Manager: Dikwena Chrome... Sabelo holds a Chemical Engineering degree... He has been in his current position since September 2023.",
+          "supports": "GM at Dikwena Chrome; prior Senior Manager CPA and Smelter at RBM (Rio Tinto)"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Bertus Brink",
+      "current_title": "General Manager: Eastern Chrome Mines",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "General Manager: Eastern Chrome Mines... Bertus has more than 26 years experience in the mining industry... He has been in his current position since July 2017.",
+          "supports": "GM at Eastern Chrome Mines; career spans Anglo American Corporation, Mine Manager at ECM Tweefontein since 2009"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Charles Sebata",
+      "current_title": "General Manager: Western Chrome Mines",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "General Manager: Western Chrome Mines... Charles holds a Bachelor of Technology Degree in Metallurgical Engineering... He has been in his current position since October 2024.",
+          "supports": "GM at Western Chrome Mines; prior Group Procurement Manager 2020, Mining Manager WCM August 2023"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Rembu Matodzi",
+      "current_title": "General Manager, Tubatse Alloy Smelter",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "General Manager, Tubatse Alloy Smelter... Rembu brings with him more than 20 years of experience in the ferrochrome industry... He has been in his current position since 1 May 2024.",
+          "supports": "GM at Tubatse Alloy Smelter since May 2024; prior GM at Gamsberg Mine at Vedanta Zinc International"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Sydney Nkosi",
+      "current_title": "General Manager: Ferrometals",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "General Manager: Ferrometals... Sydney holds a B. Eng Degree in Metallurgical and Material Science... He has been in his current position since January 2024.",
+          "supports": "GM at Ferrometals since January 2024; career at ARM Alloys and returned as GM"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Petrus Meyer",
+      "current_title": "General Manager: Tubatse Ferrochrome",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "General Manager: Tubatse Ferrochrome... Petrus completed his Mechanical Engineering studies... He has been in his current position since May 2020.",
+          "supports": "GM at Tubatse Ferrochrome since May 2020; joined Samancor Chrome in 2007 at MFC Low-Carbon plant"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Bennie du Plessis",
+      "current_title": "General Manager: Middelburg Ferrochrome",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "General Manager: Middelburg Ferrochrome... Bennie holds a Degree in Chemical Engineering... He has been in his current position since 1 January 2024.",
+          "supports": "GM at Middelburg Ferrochrome since January 2024; career progression at MFC since 2008"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Tumiso Thathane",
+      "current_title": "General Manager: TC Smelter",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/overview/leadership-team/",
+          "quote": "General Manager: TC Smelter... Tumiso has more than 13 years experience in the ferrochrome industry... He has been in his current position since November 2024.",
+          "supports": "GM at TC Smelter since November 2024; prior Works Manager Furnaces at Glencore Lion Smelter since 2022"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "sales@samancorcr.com",
+      "status": "observed",
+      "source_url": "https://samancorcr.com/contact/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "gpsda@samancorcr.com",
+      "status": "observed",
+      "source_url": "https://samancorcr.com/contact/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "webmaster@samancorcr.com",
+      "status": "observed",
+      "source_url": "https://samancorcr.com/contact/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "khuphuka@samancorcr.com",
+      "status": "observed",
+      "source_url": "https://samancorcr.com/contact/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+27112451000",
+      "status": "valid_format",
+      "source_url": "https://samancorcr.com/contact/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+27132307000",
+      "status": "valid_format",
+      "source_url": "https://samancorcr.com/corporate-headquarters/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "probable",
+      "company_public": true,
+      "verification_status": "company_source"
+    }
+  ],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Farhana Rahaman",
+      "current_title": "Unknown (Procurement Officer observed via search)",
+      "company_match": "uncertain",
+      "influence_type": "technical_influencer",
+      "influence_score": 45,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/farhana-rahaman-9b3b61a",
+          "status": "probable",
+          "source_url": "https://za.linkedin.com/in/farhana-rahaman-9b3b61a"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://za.linkedin.com/in/farhana-rahaman-9b3b61a",
+          "quote": "LinkedIn search result for Samancor Chrome procurement shows Farhana Rahaman profile",
+          "supports": "Profile appears in Samancor Chrome procurement LinkedIn search context; current employment at Samancor Chrome not directly verified on a Samancor-owned page"
+        }
+      ],
+      "confidence": 0.35,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ],
+      "discovery_tier": "unverified"
+    },
+    {
+      "full_name": "Bridget von Holdt",
+      "current_title": "Media/Communications (External Agency)",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 25,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "bridget.vonholdt@bcw-global.com",
+          "status": "observed",
+          "source_url": "https://samancorcr.com/statement-samancor-chrome-limited/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+27826100650",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://samancorcr.com/statement-samancor-chrome-limited/"
+        },
+        {
+          "value": "+27114808680",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://samancorcr.com/statement-samancor-chrome-limited/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://samancorcr.com/statement-samancor-chrome-limited/",
+          "quote": "Media inquiries: Bridget von Holdt, Bridget.vonholdt@bcw-global.com, +27 826100650, +27 11 4808680",
+          "supports": "Listed as media contact for Samancor Chrome press statement (Oct 2019); works at BCW Global, not directly a Samancor employee"
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ],
+      "discovery_tier": "unverified"
+    },
+    {
+      "full_name": "Aveer Chandraprakash",
+      "current_title": "",
+      "company_match": "uncertain",
+      "discovery_tier": "unverified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/aveer-chandraprakash-59600630",
+          "status": "probable",
+          "source_url": "https://za.linkedin.com/in/aveer-chandraprakash-59600630"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://za.linkedin.com/in/aveer-chandraprakash-59600630",
+          "quote": "Aveer Chandraprakash - Samancor Chrome | LinkedIn A highlight of Mbuyi’s career has been his secondments to Samancor Chrome Limited and AngloGold Ashanti Limited, both of which have requested his services on more than one occasion...",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.35,
+      "review_required": true,
+      "validation_reasons": [
+        "target-company association is visible but current employment is unverified",
+        "contact ownership is not verified"
+      ]
+    }
+  ],
+  "validation_rejections": [
+    {
+      "full_name": "Farhana Rahaman",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Bridget von Holdt",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 103,
+    "search_engine_warnings": 7,
+    "urls_crawled": 20,
+    "crawl_failures": 1,
+    "contact_signals": 11,
+    "official_urls_discovered": 8,
+    "crm_website": "http://www.samancorcr.com",
+    "official_website": "http://www.samancorcr.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 12,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 38,
+    "pdf_failures": 1,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 4,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 2,
+    "unverified_candidates": 3,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 50,
+    "contactable_items": 9,
+    "target_contact_methods": 50,
+    "contact_methods": 11,
+    "contact_target_met": false,
+    "broad_discovery": true,
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

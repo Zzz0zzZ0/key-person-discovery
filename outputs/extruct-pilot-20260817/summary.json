@@ -1,0 +1,120 @@
+{
+  "test_scope": {
+    "date": "2026-08-17",
+    "mode": "isolated_official_html_fetch",
+    "extruct_version": "0.18.0",
+    "syntaxes": [
+      "json-ld",
+      "microdata",
+      "opengraph"
+    ],
+    "anysearch_calls": 0,
+    "crm_writes": 0,
+    "sqlite_writes": 0,
+    "production_integration": false,
+    "project_dependency_changed": false
+  },
+  "sample": {
+    "successful_companies": 5,
+    "requested_pages": 14,
+    "http_200_pages": 13,
+    "http_404_pages": 1,
+    "pages_with_jsonld": 10,
+    "pages_with_microdata": 0,
+    "excluded_timeout_companies": [
+      "Ardakan Industrial Ceramics",
+      "Rubin Trading AD"
+    ]
+  },
+  "results": [
+    {
+      "company": "Sialon Ceramics",
+      "http_200_pages": 3,
+      "structured_types": [
+        "Organization",
+        "ContactPoint"
+      ],
+      "person_schema_count": 0,
+      "normalized_new_contact_signals": [
+        {
+          "channel": "phone",
+          "value": "+442076602162",
+          "binding": "company_public_unassigned",
+          "evidence": "Organization.contactPoint.telephone"
+        }
+      ],
+      "already_known_signals": [
+        "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+        "+18337091399",
+        "+4535158085",
+        "+46317540790"
+      ]
+    },
+    {
+      "company": "Heatmasters",
+      "http_200_pages": 3,
+      "structured_types": [
+        "Organization"
+      ],
+      "person_schema_count": 0,
+      "normalized_new_contact_signals": [],
+      "already_known_signals": [
+        "https://www.linkedin.com/company/heatmasters"
+      ],
+      "note": "The company LinkedIn URL was deterministically confirmed but was already present in the company input."
+    },
+    {
+      "company": "Acerias ProcoMetal S.A.S.",
+      "http_200_pages": 3,
+      "structured_types": [],
+      "person_schema_count": 0,
+      "normalized_new_contact_signals": []
+    },
+    {
+      "company": "Krueger Pottery Supply",
+      "http_200_pages": 2,
+      "http_404_pages": 1,
+      "structured_types": [
+        "Organization",
+        "WebSite",
+        "SearchAction"
+      ],
+      "person_schema_count": 0,
+      "normalized_new_contact_signals": [],
+      "note": "The old staff-page URL returned 404; Organization schema exposed only non-LinkedIn social accounts."
+    },
+    {
+      "company": "Batts Kilns & Furnaces Ltd",
+      "http_200_pages": 2,
+      "structured_types": [
+        "WebPage",
+        "WebSite",
+        "BreadcrumbList"
+      ],
+      "person_schema_count": 0,
+      "normalized_new_contact_signals": []
+    }
+  ],
+  "effect": {
+    "companies_with_any_new_public_contact": 1,
+    "new_public_contact_coverage": 0.2,
+    "new_person_candidates": 0,
+    "new_person_bound_contacts": 0,
+    "key_person_contact_coverage_gain": 0.0,
+    "unique_new_public_phones": 1,
+    "unique_new_emails": 0,
+    "unique_new_person_linkedin": 0
+  },
+  "decision": {
+    "production_apply_now": false,
+    "recommendation": "Use extruct only as a cheap deterministic official-page pre-parser for JSON-LD Organization and ContactPoint data. It does not solve employee discovery or current-employment binding in this sample.",
+    "binding_rule": "Organization or ContactPoint values must remain company-public and unassigned. Bind a channel to a person only when a Person node directly owns the field and separate current-employment evidence passes validation.",
+    "normalization_required": true,
+    "opengraph_contact_extraction": false
+  },
+  "raw_artifacts": [
+    "results.json",
+    "replacement-results.json",
+    "extra-results.json"
+  ]
+}

@@ -1,0 +1,59 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://heatmasters.net                                                                              | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://heatmasters.net                                                                              | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://heatmasters.net/news/heat-treatment-serv...-hardness-testing-at-an-oil-refinery-in-germany/  | ✓ | ⏱: 4.32s 
+[SCRAPE].. ◆ https://heatmasters.net/news/heat-treatment-serv...-hardness-testing-at-an-oil-refinery-in-germany/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://heatmasters.net/news/heat-treatment-serv...-hardness-testing-at-an-oil-refinery-in-germany/  | ✓ | ⏱: 6.35s 
+[FETCH]... ↓ https://heatmasters.net/news/commissioning-of-a-gas-fired-furnace-in-saudi-arabia/                   | ✓ | ⏱: 5.13s 
+[SCRAPE].. ◆ https://heatmasters.net/news/commissioning-of-a-gas-fired-furnace-in-saudi-arabia/                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://heatmasters.net/news/commissioning-of-a-gas-fired-furnace-in-saudi-arabia/                   | ✓ | ⏱: 7.15s 
+[FETCH]... ↓ https://heatmasters.net/news/electrical-heat-treatment-furnace-delivered-to-a-foundry-in-europe/     | ✓ | ⏱: 5.14s 
+[SCRAPE].. ◆ https://heatmasters.net/news/electrical-heat-treatment-furnace-delivered-to-a-foundry-in-europe/     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://heatmasters.net/news/electrical-heat-treatment-furnace-delivered-to-a-foundry-in-europe/     | ✓ | ⏱: 7.16s 
+[FETCH]... ↓ https://heatmasters.net/bez-kategorii/sign-up-for-our-newsletter/                                    | ✓ | ⏱: 5.15s 
+[SCRAPE].. ◆ https://heatmasters.net/bez-kategorii/sign-up-for-our-newsletter/                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://heatmasters.net/bez-kategorii/sign-up-for-our-newsletter/                                    | ✓ | ⏱: 7.18s 
+[FETCH]... ↓ https://heatmasters.net/news/heat-treatment-services-at-the-montes-del-plata-mill-in-uruguay/        | ✓ | ⏱: 3.84s 
+[SCRAPE].. ◆ https://heatmasters.net/news/heat-treatment-services-at-the-montes-del-plata-mill-in-uruguay/        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://heatmasters.net/news/heat-treatment-services-at-the-montes-del-plata-mill-in-uruguay/        | ✓ | ⏱: 5.85s 
+[FETCH]... ↓ https://heatmasters.net/news/heatmasters-strengt...ment-furnace-segment-by-acquiring-temptec-oy-ab/  | ✓ | ⏱: 3.90s 
+[SCRAPE].. ◆ https://heatmasters.net/news/heatmasters-strengt...ment-furnace-segment-by-acquiring-temptec-oy-ab/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://heatmasters.net/news/heatmasters-strengt...ment-furnace-segment-by-acquiring-temptec-oy-ab/  | ✓ | ⏱: 5.92s 
+[FETCH]... ↓ https://heatmasters.net/news/heatmasters-acquire...rvices-and-maintenance-business-of-sarlin-oy-ab/  | ✓ | ⏱: 3.91s 
+[SCRAPE].. ◆ https://heatmasters.net/news/heatmasters-acquire...rvices-and-maintenance-business-of-sarlin-oy-ab/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://heatmasters.net/news/heatmasters-acquire...rvices-and-maintenance-business-of-sarlin-oy-ab/  | ✓ | ⏱: 5.93s 
+[FETCH]... ↓ https://heatmasters.net/news/heat-treatment-work...lant-located-in-the-european-green-capital-2021/  | ✓ | ⏱: 4.47s 
+[SCRAPE].. ◆ https://heatmasters.net/news/heat-treatment-work...lant-located-in-the-european-green-capital-2021/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://heatmasters.net/news/heat-treatment-work...lant-located-in-the-european-green-capital-2021/  | ✓ | ⏱: 6.49s 
+[FETCH]... ↓ https://heatmasters.net/news/integration-of-mode...ol-system-to-an-existing-heat-treatment-furnace/  | ✓ | ⏱: 2.13s 
+[SCRAPE].. ◆ https://heatmasters.net/news/integration-of-mode...ol-system-to-an-existing-heat-treatment-furnace/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://heatmasters.net/news/integration-of-mode...ol-system-to-an-existing-heat-treatment-furnace/  | ✓ | ⏱: 2.15s 
+[FETCH]... ↓ https://heatmasters.net/news/on-site-heat-treatment-of-rotary-kiln-at-the-gorazdze-cement-plant/     | ✓ | ⏱: 2.34s 
+[SCRAPE].. ◆ https://heatmasters.net/news/on-site-heat-treatment-of-rotary-kiln-at-the-gorazdze-cement-plant/     | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://heatmasters.net/news/on-site-heat-treatment-of-rotary-kiln-at-the-gorazdze-cement-plant/     | ✓ | ⏱: 2.38s 
+[FETCH]... ↓ https://heatmasters.net/news/manufacturing-preheating-furnace/                                       | ✓ | ⏱: 2.82s 
+[SCRAPE].. ◆ https://heatmasters.net/news/manufacturing-preheating-furnace/                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://heatmasters.net/news/manufacturing-preheating-furnace/                                       | ✓ | ⏱: 2.84s 
+[FETCH]... ↓ https://heatmasters.net/pl/bez-kategorii/newsletter-pl/                                              | ✓ | ⏱: 2.55s 
+[SCRAPE].. ◆ https://heatmasters.net/pl/bez-kategorii/newsletter-pl/                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://heatmasters.net/pl/bez-kategorii/newsletter-pl/                                              | ✓ | ⏱: 2.56s 
+[INIT].... → Crawl4AI 0.9.2 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://heatmasters.net/contact-us/                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://heatmasters.net/contact-us/                                                                  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://heatmasters.net/uncategorized/newsletter/                                                    | ✓ | ⏱: 12.99s 
+[SCRAPE].. ◆ https://heatmasters.net/uncategorized/newsletter/                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://heatmasters.net/uncategorized/newsletter/                                                    | ✓ | ⏱: 13.01s 
+[FETCH]... ↓ https://heatmasters.net/about-us/                                                                    | ✓ | ⏱: 13.81s 
+[SCRAPE].. ◆ https://heatmasters.net/about-us/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://heatmasters.net/about-us/                                                                    | ✓ | ⏱: 13.83s 
+[FETCH]... ↓ https://heatmasters.net/quality-management-system/                                                   | ✓ | ⏱: 13.42s 
+[SCRAPE].. ◆ https://heatmasters.net/quality-management-system/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://heatmasters.net/quality-management-system/                                                   | ✓ | ⏱: 13.44s 
+[FETCH]... ↓ https://heatmasters.net/news/                                                                        | ✓ | ⏱: 13.43s 
+[SCRAPE].. ◆ https://heatmasters.net/news/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://heatmasters.net/news/                                                                        | ✓ | ⏱: 13.46s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260817/heatmasters-c329d6daf5bc.json

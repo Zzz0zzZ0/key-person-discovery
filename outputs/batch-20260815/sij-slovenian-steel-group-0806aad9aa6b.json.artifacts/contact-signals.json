@@ -1,0 +1,220 @@
+[
+  {
+    "channel": "email",
+    "value": "info@sij.si",
+    "status": "observed",
+    "source_url": "https://www.sij-americas.com/en/about",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "andrew.towey@sij.si",
+    "status": "observed",
+    "source_url": "https://www.sij-americas.com/en/contacts",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@sij.si",
+    "status": "observed",
+    "source_url": "https://www.sij-americas.com/en/contacts",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+17322031505",
+    "status": "valid_format",
+    "source_url": "https://www.sij-americas.com/en/contacts",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+38612429800",
+    "status": "valid_format",
+    "source_url": "https://www.sij-americas.com/en/contacts",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sara.wagner@sij.si",
+    "status": "observed",
+    "source_url": "https://www.ravnesystems.com/en/news/sij-group-received-the-te-award",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+38612429827",
+    "status": "valid_format",
+    "source_url": "https://www.ravnesystems.com/en/news/sij-group-received-the-te-award",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+38641313532",
+    "status": "valid_format",
+    "source_url": "https://www.ravnesystems.com/en/news/sij-group-received-the-te-award",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "andrew.towey@sij.si",
+    "status": "observed",
+    "source_url": "https://www.sij-americas.com/en/locations-contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@sij.si",
+    "status": "observed",
+    "source_url": "https://www.sij-americas.com/en/locations-contact",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+17322031505",
+    "status": "valid_format",
+    "source_url": "https://www.sij-americas.com/en/locations-contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+38612429800",
+    "status": "valid_format",
+    "source_url": "https://www.sij-americas.com/en/locations-contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tes@glas.agency",
+    "status": "observed",
+    "source_url": "https://www.sij-americas.com/en/news/invitation-to-vote-on-the-proposed-resolutions-of-the-sij9-noteholders",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tom.vanson@glas.agency",
+    "status": "observed",
+    "source_url": "https://www.sij-americas.com/en/news/invitation-to-vote-on-the-proposed-resolutions-of-the-sij9-noteholders",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "project-sava@jadek-pensa.si",
+    "status": "observed",
+    "source_url": "https://www.sij-americas.com/en/news/invitation-to-vote-on-the-proposed-resolutions-of-the-sij9-noteholders",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "igor.malevanov@sij.si",
+    "status": "observed",
+    "source_url": "https://www.sij-americas.com/en/news/invitation-to-vote-on-the-proposed-resolutions-of-the-sij9-noteholders",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sandi.svetek@sij.si",
+    "status": "observed",
+    "source_url": "https://www.sij-americas.com/en/news/invitation-to-vote-on-the-proposed-resolutions-of-the-sij9-noteholders",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "katja.krumpak@sij.si",
+    "status": "observed",
+    "source_url": "https://www.sij-americas.com/en/news/sij-acroni-restores-narrow-gauge-electric-locomotive-oe-vi",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+38612429859",
+    "status": "valid_format",
+    "source_url": "https://www.sij-americas.com/en/news/sij-acroni-restores-narrow-gauge-electric-locomotive-oe-vi",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+38641814041",
+    "status": "valid_format",
+    "source_url": "https://www.sij-americas.com/en/news/sij-acroni-restores-narrow-gauge-electric-locomotive-oe-vi",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@comtrade.com",
+    "status": "observed",
+    "source_url": "https://www.comtrade.com/news/strategic-partnership-with-slovenian-steel-group-is-attaining-great-results/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "andrew.towey@sij.si",
+    "status": "observed",
+    "source_url": "https://www.sij-americas.com/contacts",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+17322031505",
+    "status": "valid_format",
+    "source_url": "https://www.sij-americas.com/contacts",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@sij.si",
+    "status": "observed",
+    "source_url": "https://www.sij-americas.com/about",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "andrew.towey@sij.si",
+    "status": "observed",
+    "source_url": "https://www.sij-americas.com/locations-contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@sij.si",
+    "status": "observed",
+    "source_url": "https://www.sij-americas.com/locations-contact",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+17322031505",
+    "status": "valid_format",
+    "source_url": "https://www.sij-americas.com/locations-contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+38612429800",
+    "status": "valid_format",
+    "source_url": "https://www.sij-americas.com/locations-contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

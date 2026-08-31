@@ -1,0 +1,59 @@
+[
+  {
+    "channel": "email",
+    "value": "mail@adamas.ru",
+    "status": "observed",
+    "source_url": "https://krasnodar.ruspravochnik.com/company/adamas"
+  },
+  {
+    "channel": "email",
+    "value": "online@ruspravochnik.com",
+    "status": "observed",
+    "source_url": "https://krasnodar.ruspravochnik.com/company/adamas"
+  },
+  {
+    "channel": "email",
+    "value": "companycardsfeedback@rbc.ru",
+    "status": "observed",
+    "source_url": "https://companies.rbc.ru/id/1027804919097-ooo-adamas/"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/adamassas",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/adamassas"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/%D0%B0%D0%B4%D0%B0%D0%BC-%D0%BC%D1%83%D1%86%D0%B0%D0%B5%D0%B2-7547a8103",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/%D0%B0%D0%B4%D0%B0%D0%BC-%D0%BC%D1%83%D1%86%D0%B0%D0%B5%D0%B2-7547a8103"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/%D0%B2%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B4-%D0%B3%D0%B5%D1%80%D0%B0%D1%81%D0%B8%D0%BC%D0%BE%D0%B2-009ba478",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/%D0%B2%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B4-%D0%B3%D0%B5%D1%80%D0%B0%D1%81%D0%B8%D0%BC%D0%BE%D0%B2-009ba478"
+  },
+  {
+    "channel": "email",
+    "value": "office@adamas.ru",
+    "status": "probable",
+    "source_url": "https://adamas.ru/about/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "arenda@adamas.ru",
+    "status": "probable",
+    "source_url": "https://adamas.ru/about/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "job@adamas.ru",
+    "status": "probable",
+    "source_url": "https://adamas.ru/about/contacts/",
+    "company_public": true
+  }
+]

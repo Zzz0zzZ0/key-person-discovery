@@ -1,0 +1,107 @@
+{
+  "company_name": "Labocast",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+33153386466",
+      "status": "valid_format",
+      "source_url": "https://labocast.fr/informations/nos-contacts/bienvenue-chez-labocast/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "support@labocast3d.fr",
+      "status": "observed",
+      "source_url": "https://labocast.fr/informations/nos-contacts/support-labocast-3d/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "labocast3d@labocast3d.fr",
+      "status": "observed",
+      "source_url": "https://labocast.fr/informations/nos-contacts/support-labocast-3d/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@trioclear.fr",
+      "status": "observed",
+      "source_url": "https://labocast.fr/informations/nos-contacts/support-aligneurs-trioclear/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+33153381541",
+      "status": "valid_format",
+      "source_url": "https://labocast.fr/informations/nos-contacts/support-aligneurs-trioclear/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "whatsapp",
+      "value": "+254726800278",
+      "status": "verified",
+      "source_url": "https://labocast-kenya.com/education/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+254726800278",
+      "status": "valid_format",
+      "source_url": "https://labocast-kenya.com/education/",
+      "whatsapp_status": "verified",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "contact@labocast.fr",
+      "status": "probable",
+      "source_url": "https://labocast.fr/mentions-legales/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+33660813580",
+      "status": "valid_format",
+      "source_url": "https://labocast.fr/mentions-legales/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "probable",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "note": "Labocast (labocast.fr) is a French dental prosthetics laboratory (dental crowns, bridges, veneers, implants, removable prosthetics) — NOT a refractory, foundry, ceramics, abrasives, steel, or cement company. The website belongs to Modern Dental Group Europe. No named individuals, executives, procurement staff, or technical managers were found on any crawled page. The LinkedIn profiles in deterministic_contact_signals have no supporting source content confirming current employment at Labocast. No named person could be verified despite review_required=true and target_contact_count=4.",
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 35,
+    "search_engine_warnings": 0,
+    "urls_crawled": 30,
+    "crawl_failures": 15,
+    "contact_signals": 25,
+    "official_urls_discovered": 29,
+    "pdf_documents_discovered": 7,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 15,
+    "pdf_failures": 1,
+    "search_evidence_pages": 5,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 8,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

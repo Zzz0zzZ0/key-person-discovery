@@ -1,0 +1,31 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rocketreach.co/aw-schumacher-gmbh-email-format_b6b89007c8249572                              | ✓ | ⏱: 0.51s 
+[SCRAPE].. ◆ https://rocketreach.co/aw-schumacher-gmbh-email-format_b6b89007c8249572                              | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...format_b6b89007c8249572  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/aw-schumacher-gmbh-email-format_b6b89007c8249572                              | ✗ | ⏱: 1.23s 
+[FETCH]... ↓ https://www.aw-schumacher.de/en/imprint/                                                             | ✓ | ⏱: 5.79s 
+[SCRAPE].. ◆ https://www.aw-schumacher.de/en/imprint/                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.aw-schumacher.de/en/imprint/                                                             | ✓ | ⏱: 6.92s 
+[FETCH]... ↓ https://www.aw-schumacher.de/en/                                                                     | ✓ | ⏱: 6.19s 
+[SCRAPE].. ◆ https://www.aw-schumacher.de/en/                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.aw-schumacher.de/en/                                                                     | ✓ | ⏱: 7.96s 
+[FETCH]... ↓ https://www.aw-schumacher.de/en/about-us/                                                            | ✓ | ⏱: 5.98s 
+[SCRAPE].. ◆ https://www.aw-schumacher.de/en/about-us/                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.aw-schumacher.de/en/about-us/                                                            | ✓ | ⏱: 7.41s 
+[FETCH]... ↓ https://www.aw-schumacher.de                                                                         | ✓ | ⏱: 6.23s 
+[SCRAPE].. ◆ https://www.aw-schumacher.de                                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.aw-schumacher.de                                                                         | ✓ | ⏱: 8.22s 
+[FETCH]... ↓ https://www.aw-schumacher.de/profil/                                                                 | ✓ | ⏱: 1.62s 
+[SCRAPE].. ◆ https://www.aw-schumacher.de/profil/                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.aw-schumacher.de/profil/                                                                 | ✓ | ⏱: 1.64s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rocketreach.co/aw-schumacher-gmbh-email-format_b6b89007c8249572                              | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://rocketreach.co/aw-schumacher-gmbh-email-format_b6b89007c8249572                              | ✓ | ⏱: 0.00s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.aw-schumacher.de/en/contact/                                                             | ✓ | ⏱: 3.26s 
+[SCRAPE].. ◆ https://www.aw-schumacher.de/en/contact/                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.aw-schumacher.de/en/contact/                                                             | ✓ | ⏱: 3.28s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260824/a-w-schumacher-gmbh-9ec0f8c97103.json

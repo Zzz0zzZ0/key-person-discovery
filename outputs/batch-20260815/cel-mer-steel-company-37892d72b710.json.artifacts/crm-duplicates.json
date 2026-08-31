@@ -1,0 +1,60 @@
+[
+  {
+    "kind": "candidate",
+    "full_name": "Didem ÜNDÜL",
+    "matched_by": [
+      "email",
+      "name"
+    ]
+  },
+  {
+    "kind": "candidate",
+    "full_name": "Ahmet KORKMAZ",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "candidate",
+    "full_name": "Gamze TAŞ",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "candidate",
+    "full_name": "Ilenay ÇALIŞKAN",
+    "matched_by": [
+      "email",
+      "name"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  }
+]

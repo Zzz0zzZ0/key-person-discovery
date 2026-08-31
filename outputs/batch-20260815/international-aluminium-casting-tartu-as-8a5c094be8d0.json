@@ -1,0 +1,406 @@
+{
+  "company_name": "International Aluminium Casting Tartu AS",
+  "candidates": [
+    {
+      "full_name": "Dan Olov Nilsson",
+      "current_title": "Board Member",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+          "quote": "Main decider: Dan Olov Nilsson",
+          "supports": "Board member and main decision-maker at International Aluminium Casting Tartu AS"
+        },
+        {
+          "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+          "quote": "Role: Board member, Start: 05.11.2018",
+          "supports": "Representation rights - board member of the company"
+        },
+        {
+          "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+          "quote": "Main responsible spokesperson: Dan Olov Nilsson",
+          "supports": "Identified as main responsible spokesperson"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    },
+    {
+      "full_name": "Avo Nikitin",
+      "current_title": "Board Member",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+          "quote": "Role: Board member, Start: 13.02.2025",
+          "supports": "Representation rights - board member at International Aluminium Casting Tartu AS"
+        },
+        {
+          "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+          "quote": "Decision-makers' most influential business partners: Avo Nikitin",
+          "supports": "Listed as most influential business partner and key player at the company"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    },
+    {
+      "full_name": "Heiki Laantee",
+      "current_title": "Financial & Business Controller",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 75,
+      "linkedin": [
+        {
+          "value": "https://linkedin.com/in/heiki-laantee-5b869814",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/heiki-laantee-5b869814"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/heiki-laantee-5b869814",
+          "quote": "Financial & Business Controller - International Aluminium Casting Tartu AS (Current) Oct 2025 - Present",
+          "supports": "Current role as Financial & Business Controller - controls budget and purchasing decisions"
+        }
+      ],
+      "confidence": 0.8,
+      "review_required": true
+    },
+    {
+      "full_name": "Rauno Raja",
+      "current_title": "Plant Manager (former)",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 70,
+      "linkedin": [
+        {
+          "value": "https://linkedin.com/in/rauno-raja-9197191a0",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/rauno-raja-9197191a0"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/rauno-raja-9197191a0",
+          "quote": "Plant Manager at International Aluminium Casting Tartu AS - Jan 2021 - Jan 2024 (3 years)",
+          "supports": "Former Plant Manager with direct involvement in production operations and purchasing decisions for refractory/raw materials used in foundry casting"
+        },
+        {
+          "source_url": "https://linkedin.com/in/rauno-raja-9197191a0",
+          "quote": "Quality Manager - Seicom OÜ (Current) Jun 2024 - Present",
+          "supports": "No longer at IAC Tartu - left in Jan 2024, now at Seicom OÜ"
+        }
+      ],
+      "confidence": 0.45,
+      "review_required": true
+    },
+    {
+      "full_name": "Mart Kivistik",
+      "current_title": "Quality Technician",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 65,
+      "linkedin": [
+        {
+          "value": "https://linkedin.com/in/mart-kivistik-b08b54b2",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/mart-kivistik-b08b54b2"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/mart-kivistik-b08b54b2",
+          "quote": "Quality Technician - International Aluminium Casting Tartu AS (Current) Jan 2026 - Present",
+          "supports": "Current Quality Technician with involvement in IATF 16494 and ISO 90001 audits - specifies quality requirements for raw materials including refractories and foundry consumables"
+        }
+      ],
+      "confidence": 0.8,
+      "review_required": true
+    },
+    {
+      "full_name": "Siim Tsarjov",
+      "current_title": "CMM Programmer",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 50,
+      "linkedin": [
+        {
+          "value": "https://linkedin.com/in/siim-tsarjov-47567b199",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/siim-tsarjov-47567b199"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/siim-tsarjov-47567b199",
+          "quote": "Coordinate Measuring Machine Programmer - International Aluminium Casting Tartu AS (Current) Mar 2021 - Present",
+          "supports": "Current CMM programmer - technical role influencing quality specifications for castings"
+        }
+      ],
+      "confidence": 0.8,
+      "review_required": true
+    },
+    {
+      "full_name": "Anton Apalko",
+      "current_title": "HR",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 30,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+          "quote": "Anton Apalko - Role: HR",
+          "supports": "HR role listed under contact persons at International Aluminium Casting Tartu AS"
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true
+    },
+    {
+      "full_name": "Maia Toikka",
+      "current_title": "Economy",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 60,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+          "quote": "Maia Toikka - Role: Economy",
+          "supports": "Economy/finance role at the company - involved in purchasing approvals"
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true
+    },
+    {
+      "full_name": "Mart Napa",
+      "current_title": "Logistics",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 40,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+          "quote": "Mart Napa - Role: Logistics",
+          "supports": "Logistics role at International Aluminium Casting Tartu AS - involved in supply chain"
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true
+    },
+    {
+      "full_name": "Natalya Buloga",
+      "current_title": "Production Planning",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 45,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+          "quote": "Natalya Buloga - Role: Production planning",
+          "supports": "Production planning role - influences specifications and timing for raw material purchases"
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info@iac.ee",
+      "status": "observed",
+      "source_url": "https://ariregister.rik.ee/est/company/10803483/International-Aluminium-Casting-Tartu-AS",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "klienditugi@stat.ee",
+      "status": "observed",
+      "source_url": "https://ariregister.rik.ee/est/company/10803483/International-Aluminium-Casting-Tartu-AS",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@rik.ee",
+      "status": "observed",
+      "source_url": "https://ariregister.rik.ee/est/company/10803483/International-Aluminium-Casting-Tartu-AS",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+3727409940",
+      "status": "valid_format",
+      "source_url": "https://ariregister.rik.ee/est/company/10803483/International-Aluminium-Casting-Tartu-AS",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+3726803160",
+      "status": "valid_format",
+      "source_url": "https://ariregister.rik.ee/est/company/10803483/International-Aluminium-Casting-Tartu-AS",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "koda@koda.ee",
+      "status": "observed",
+      "source_url": "https://estonianexport.ee/directory/listing/international-aluminium-casting-tartu-as",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+3726040060",
+      "status": "valid_format",
+      "source_url": "https://estonianexport.ee/directory/listing/international-aluminium-casting-tartu-as",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@iac-ab.se",
+      "status": "observed",
+      "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@keskkonnaamet.ee",
+      "status": "observed",
+      "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@keskonnaamet.ee",
+      "status": "observed",
+      "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "henrik.link@njordlaw.ee",
+      "status": "observed",
+      "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "kool@tyriyg.tyri.ee",
+      "status": "observed",
+      "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+4616165100",
+      "status": "valid_format",
+      "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+3727409941",
+      "status": "valid_format",
+      "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+3726625999",
+      "status": "valid_format",
+      "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+37256480209",
+      "status": "valid_format",
+      "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+3725241105",
+      "status": "valid_format",
+      "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 36,
+    "search_engine_warnings": 1,
+    "urls_crawled": 9,
+    "crawl_failures": 2,
+    "contact_signals": 28,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 4,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 21,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

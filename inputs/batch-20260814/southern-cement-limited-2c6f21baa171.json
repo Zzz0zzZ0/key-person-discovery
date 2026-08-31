@@ -1,0 +1,35 @@
+{
+  "name": "Southern Cement Limited",
+  "website": "https://www.southerncement.co.uk",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "0007d710-7711-4f02-911f-8bc8f2bf2b23",
+  "crm_linkedin_url": "http://www.linkedin.com/company/southern-cement-limited",
+  "crm_country": "英国",
+  "crm_updated_at": "2026-07-28T10:08:50.261515+00:00",
+  "crm_contact_count": 3,
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-14T08:24:51.684051+00:00",
+  "source": "twenty_postgresql_read_only"
+}

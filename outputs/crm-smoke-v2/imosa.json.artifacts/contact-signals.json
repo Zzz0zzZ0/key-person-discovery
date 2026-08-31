@@ -1,0 +1,28 @@
+[
+  {
+    "channel": "email",
+    "value": "info.imosa@saint-gobain.com",
+    "status": "observed",
+    "source_url": "https://www.imosa.pt/en/contact-en/"
+  },
+  {
+    "channel": "email",
+    "value": "info.incusa@saint-gobain.com",
+    "status": "observed",
+    "source_url": "https://www.imosa.pt/en/contact-en/"
+  },
+  {
+    "channel": "phone",
+    "value": "+351244684999",
+    "status": "valid_format",
+    "source_url": "https://www.imosa.pt/en/contact-en/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+34913972193",
+    "status": "valid_format",
+    "source_url": "https://www.imosa.pt/en/contact-en/",
+    "whatsapp_status": "unknown"
+  }
+]

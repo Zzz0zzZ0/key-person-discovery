@@ -1,0 +1,51 @@
+[
+  {
+    "channel": "email",
+    "value": "internetsales@ablerefractory.com",
+    "status": "observed",
+    "source_url": "http://ablerefractory.com/able_supply_stocks_ceramic_fiber.htm",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "webmaster@ablerefractory.com",
+    "status": "observed",
+    "source_url": "http://ablerefractory.com/able_supply_stocks_ceramic_fiber.htm",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "webmaster@ablerefractory.com",
+    "status": "observed",
+    "source_url": "http://www.ablerefractory.com/refractoryproducts.htm",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "webmaster@ablerefractory.com",
+    "status": "observed",
+    "source_url": "https://www.ablerefractory.com/about_us.htm",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "internetsales@ablerefractory.com",
+    "status": "observed",
+    "source_url": "https://www.ablerefractory.com/email.html",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "dale@able-huber.com",
+    "status": "observed",
+    "source_url": "https://www.ablerefractory.com/email.html",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "webmaster@ablerefractory.com",
+    "status": "observed",
+    "source_url": "https://www.ablerefractory.com/email.html",
+    "company_public": true
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "company_name": "Harbor Castings Inc.",
+  "candidates": [],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "validation_rejections": [
+    {
+      "full_name": "Chuck Lane",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Tom Braum",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "run_summary": {
+    "queries": 6,
+    "search_results": 28,
+    "search_engine_warnings": 0,
+    "urls_crawled": 20,
+    "crawl_failures": 11,
+    "contact_signals": 0,
+    "official_urls_discovered": 4,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 2,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

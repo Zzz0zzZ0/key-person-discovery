@@ -1,0 +1,65 @@
+{
+  "name": "PROCAMET S.A.",
+  "website": "https://www.procamet.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "0189fda4-b240-4e48-b303-60c634b5e840",
+  "crm_linkedin_url": "http://www.linkedin.com/company/procamet-s-a",
+  "crm_country": "阿根廷",
+  "crm_updated_at": "2026-07-29T16:43:31.011174+00:00",
+  "crm_contact_count": 3,
+  "crm_contacts": [
+    {
+      "name": " Hernan Orlando",
+      "email": "hernan.orlando@hotmail.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/hernan-orlando-423bb546",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": null,
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": null,
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-17T02:42:51.949661+00:00",
+  "source": "twenty_postgresql_read_only"
+}

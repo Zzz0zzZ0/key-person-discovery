@@ -1,0 +1,45 @@
+{
+  "company_name": "Steelcast.ru",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+74956758914",
+      "status": "valid_format",
+      "source_url": "http://steelcast.ru/steel_for_atomic_reactors",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 28,
+    "search_engine_warnings": 1,
+    "urls_crawled": 10,
+    "crawl_failures": 0,
+    "contact_signals": 36,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 3,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 3,
+    "pdf_pages_extracted": 63,
+    "pdf_failures": 2,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 33,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 1,
+    "contactable_items": 1,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

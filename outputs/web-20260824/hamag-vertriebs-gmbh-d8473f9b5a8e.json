@@ -1,0 +1,103 @@
+{
+  "company_name": "HAMAG Vertriebs GmbH",
+  "candidates": [
+    {
+      "full_name": "Bodo von Kannen",
+      "current_title": "Managing Director / Geschäftsführer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "hamag@hamag.de",
+          "status": "observed",
+          "source_url": "https://www.hamag.de/en/imprint/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+4921022044998",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.hamag.de/en/imprint/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.hamag.de/en/imprint/",
+          "quote": "Represented by: Bodo von Kannen",
+          "supports": "Managing Director of HAMAG Vertriebs-GmbH"
+        },
+        {
+          "source_url": "https://www.hamag.de/en/contact/",
+          "quote": "Managing Director: Bodo von Kannen",
+          "supports": "Managing Director confirmed on contact page"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+498921541600",
+      "status": "valid_format",
+      "source_url": "https://www.hamag.de/en/privacy-policy/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 45,
+    "search_engine_warnings": 8,
+    "urls_crawled": 19,
+    "crawl_failures": 3,
+    "contact_signals": 6,
+    "official_urls_discovered": 8,
+    "crm_website": "https://hamag.de",
+    "official_website": "https://www.hamag.de",
+    "website_recovered": true,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 2,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 2,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 2,
+    "target_contact_methods": 4,
+    "contact_methods": 3,
+    "contact_target_met": false,
+    "broad_discovery": false,
+    "topeasy_import": {},
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

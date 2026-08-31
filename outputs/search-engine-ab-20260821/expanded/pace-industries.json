@@ -1,0 +1,211 @@
+{
+  "company_name": "Pace Industries",
+  "candidates": [
+    {
+      "full_name": "Doug Albert",
+      "current_title": "Chief Executive Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://paceind.com/about/executive-team-bios/",
+          "quote": "Doug Albert joined Pace Industries as Chief Executive Officer in April 2023.",
+          "supports": "CEO of Pace Industries with full operational and commercial responsibility"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+18883432278",
+      "status": "valid_format",
+      "source_url": "https://paceind.com/contact/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "John Conquest",
+      "current_title": "Operations Manager",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 20,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/john-conquest-84ba2713",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/john-conquest-84ba2713"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/john-conquest-84ba2713",
+          "quote": "LinkedIn profile listed as deterministic contact signal for Pace Industries",
+          "supports": "Person associated with Pace Industries via search signal; role and employer not verified on supplied page"
+        }
+      ],
+      "confidence": 0.15,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ],
+      "discovery_tier": "probable_current"
+    },
+    {
+      "full_name": "Tammy Johnson Onsum",
+      "current_title": "Purchasing Manager",
+      "company_match": "uncertain",
+      "discovery_tier": "unverified",
+      "influence_type": "decision_maker",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/tammy-johnson-onsum-7a057b4b",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/tammy-johnson-onsum-7a057b4b"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/tammy-johnson-onsum-7a057b4b",
+          "quote": "Tammy Johnson-Onsum - Pace Industries, LLC Purchasing Manager at Pace Industries, LLC · Experience: Pace Industries, LLC · Location: Maple Lake · 10 connections on LinkedIn.",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.35,
+      "review_required": true,
+      "validation_reasons": [
+        "target-company association is visible but current employment is unverified",
+        "contact ownership is not verified"
+      ]
+    },
+    {
+      "full_name": "Donna Zeiter",
+      "current_title": "",
+      "company_match": "uncertain",
+      "discovery_tier": "unverified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/donna-zeiter-37a3184",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/donna-zeiter-37a3184"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/donna-zeiter-37a3184",
+          "quote": "Donna Zeiter - Pace Industries, LLC | LinkedIn Chief Human Resources Officer, leveraging over two decades of experience in human capital… · Experience: Pace Industries, LLC · Education: Central Michigan University · Location: Detroit ...",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.35,
+      "review_required": true,
+      "validation_reasons": [
+        "target-company association is visible but current employment is unverified",
+        "contact ownership is not verified"
+      ]
+    },
+    {
+      "full_name": "Christopher Baumann",
+      "current_title": "",
+      "company_match": "uncertain",
+      "discovery_tier": "unverified",
+      "influence_type": "decision_maker",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/christopherbaumann",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/christopherbaumann"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/christopherbaumann",
+          "quote": "Christopher Baumann - Sr. Director of Sales - Pace Industries, LLC Chris Baumann began his professional career in manufacturing after graduating from… · Experience: Pace Industries, LLC · Education: University of Wisconsin-Stout · Location: United States ...",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.35,
+      "review_required": true,
+      "validation_reasons": [
+        "target-company association is visible but current employment is unverified",
+        "contact ownership is not verified"
+      ]
+    }
+  ],
+  "validation_rejections": [
+    {
+      "full_name": "John Conquest",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 76,
+    "search_engine_warnings": 17,
+    "urls_crawled": 20,
+    "crawl_failures": 0,
+    "contact_signals": 4,
+    "official_urls_discovered": 15,
+    "crm_website": "https://paceind.com",
+    "official_website": "https://paceind.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 8,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 5,
+    "pdf_failures": 1,
+    "search_evidence_pages": 2,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 1,
+    "unverified_candidates": 4,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 50,
+    "contactable_items": 5,
+    "contact_target_met": false,
+    "broad_discovery": true,
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

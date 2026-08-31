@@ -1,0 +1,64 @@
+[
+  {
+    "channel": "phone",
+    "value": "+13304997178",
+    "status": "valid_format",
+    "source_url": "https://www.harborinvestmentcastings.com",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+13304992018",
+    "status": "valid_format",
+    "source_url": "https://www.harborinvestmentcastings.com",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+13304997178",
+    "status": "valid_format",
+    "source_url": "https://www.harborinvestmentcastings.com/about/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+13304992018",
+    "status": "valid_format",
+    "source_url": "https://www.harborinvestmentcastings.com/about/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+13304997178",
+    "status": "valid_format",
+    "source_url": "https://www.harborinvestmentcastings.com/contact/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+13304992018",
+    "status": "valid_format",
+    "source_url": "https://www.harborinvestmentcastings.com/contact/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+13304997178",
+    "status": "valid_format",
+    "source_url": "https://www.harborinvestmentcastings.com/about/terms-conditions/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+13304992018",
+    "status": "valid_format",
+    "source_url": "https://www.harborinvestmentcastings.com/about/terms-conditions/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/chuck-lane-63b320277/",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/chuck-lane-63b320277/"
+  }
+]

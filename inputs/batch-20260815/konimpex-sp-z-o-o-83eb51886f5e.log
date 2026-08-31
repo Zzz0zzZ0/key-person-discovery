@@ -1,0 +1,54 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://konimpex.pl/job-offers                                                                       | ✓ | ⏱: 7.48s 
+[SCRAPE].. ◆ https://konimpex.pl/job-offers                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://konimpex.pl/job-offers                                                                       | ✓ | ⏱: 8.58s 
+[FETCH]... ↓ https://konimpex.pl/contact                                                                          | ✓ | ⏱: 7.57s 
+[SCRAPE].. ◆ https://konimpex.pl/contact                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://konimpex.pl/contact                                                                          | ✓ | ⏱: 8.59s 
+[FETCH]... ↓ https://konimpex.pl/en                                                                               | ✓ | ⏱: 7.68s 
+[SCRAPE].. ◆ https://konimpex.pl/en                                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://konimpex.pl/en                                                                               | ✓ | ⏱: 8.61s 
+[FETCH]... ↓ https://konimpex.pl                                                                                  | ✓ | ⏱: 7.90s 
+[SCRAPE].. ◆ https://konimpex.pl                                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://konimpex.pl                                                                                  | ✓ | ⏱: 8.93s 
+[FETCH]... ↓ https://konimpex.pl/klauzula-rodo-en                                                                 | ✓ | ⏱: 1.86s 
+[SCRAPE].. ◆ https://konimpex.pl/klauzula-rodo-en                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://konimpex.pl/klauzula-rodo-en                                                                 | ✓ | ⏱: 1.88s 
+[FETCH]... ↓ https://konimpex.pl/social-responsibility-politics                                                   | ✓ | ⏱: 1.48s 
+[SCRAPE].. ◆ https://konimpex.pl/social-responsibility-politics                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://konimpex.pl/social-responsibility-politics                                                   | ✓ | ⏱: 1.49s 
+[FETCH]... ↓ https://www.northdata.com/Konimpex sp· z o·o·, Konin/KRS0000043189                                   | ✓ | ⏱: 2.21s 
+[SCRAPE].. ◆ https://www.northdata.com/Konimpex sp· z o·o·, Konin/KRS0000043189                                   | ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.northdata.com/Konimpex sp· z o·o·, Konin/KRS0000043189                                   | ✓ | ⏱: 2.28s 
+[FETCH]... ↓ https://www.krs-online.com.pl/firma/1439986-koni...sp-z-o-o-pph-zaklad-obrotu-surowcami-chemicznymi  | ✓ | ⏱: 2.54s 
+[SCRAPE].. ◆ https://www.krs-online.com.pl/firma/1439986-koni...sp-z-o-o-pph-zaklad-obrotu-surowcami-chemicznymi  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.krs-online.com.pl/firma/1439986-koni...sp-z-o-o-pph-zaklad-obrotu-surowcami-chemicznymi  | ✓ | ⏱: 4.56s 
+[FETCH]... ↓ https://www.emis.com/php/company-profile/PL/Konimpex_Sp_z_oo_en_2007340.html                         | ✓ | ⏱: 5.67s 
+[SCRAPE].. ◆ https://www.emis.com/php/company-profile/PL/Konimpex_Sp_z_oo_en_2007340.html                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.emis.com/php/company-profile/PL/Konimpex_Sp_z_oo_en_2007340.html                         | ✓ | ⏱: 7.10s 
+[FETCH]... ↓ https://www.emis.com/php/company-profile/PL/Konimpex_Sp_z_oo_pl_2007340.html                         | ✓ | ⏱: 5.48s 
+[SCRAPE].. ◆ https://www.emis.com/php/company-profile/PL/Konimpex_Sp_z_oo_pl_2007340.html                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.emis.com/php/company-profile/PL/Konimpex_Sp_z_oo_pl_2007340.html                         | ✓ | ⏱: 6.81s 
+[FETCH]... ↓ https://www.societe.com/societe/konimpex-sp-z-o-o-751809898.html                                     | ✓ | ⏱: 4.12s 
+[SCRAPE].. ◆ https://www.societe.com/societe/konimpex-sp-z-o-o-751809898.html                                     | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.societe.com/societe/konimpex-sp-z-o-o-751809898.html                                     | ✓ | ⏱: 5.38s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://konimpex.pl/news/konimpex-receives-the-ecopatron-of-art-2025-title                           | ✓ | ⏱: 7.49s 
+[SCRAPE].. ◆ https://konimpex.pl/news/konimpex-receives-the-ecopatron-of-art-2025-title                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://konimpex.pl/news/konimpex-receives-the-ecopatron-of-art-2025-title                           | ✓ | ⏱: 7.51s 
+[FETCH]... ↓ https://konimpex.pl/news/konimpex-at-industry-events-q2-2026-recap                                   | ✓ | ⏱: 7.50s 
+[SCRAPE].. ◆ https://konimpex.pl/news/konimpex-at-industry-events-q2-2026-recap                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://konimpex.pl/news/konimpex-at-industry-events-q2-2026-recap                                   | ✓ | ⏱: 7.52s 
+[FETCH]... ↓ https://konimpex.pl/about                                                                            | ✓ | ⏱: 7.90s 
+[SCRAPE].. ◆ https://konimpex.pl/about                                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://konimpex.pl/about                                                                            | ✓ | ⏱: 7.91s 
+[FETCH]... ↓ https://konimpex.pl/news                                                                             | ✓ | ⏱: 7.52s 
+[SCRAPE].. ◆ https://konimpex.pl/news                                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://konimpex.pl/news                                                                             | ✓ | ⏱: 7.55s 
+[FETCH]... ↓ https://konimpex.pl/news/midsummer-concert-music-that-brings-people-together                         | ✓ | ⏱: 3.38s 
+[SCRAPE].. ◆ https://konimpex.pl/news/midsummer-concert-music-that-brings-people-together                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://konimpex.pl/news/midsummer-concert-music-that-brings-people-together                         | ✓ | ⏱: 3.40s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/konimpex-sp-z-o-o-83eb51886f5e.json

@@ -1,0 +1,120 @@
+{
+  "company_name": "CÔNG TY TNHH SOLTEC HÀ NỘI",
+  "candidates": [
+    {
+      "full_name": "Vu The Manh",
+      "current_title": "Representative",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "manhvt@soltec-hn.com",
+          "status": "observed",
+          "source_url": "https://soltec-hn.com/en/contact/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+842263582699",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://soltec-hn.com/en/contact/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://soltec-hn.com/en/contact/",
+          "quote": "Representative: Vu The Manh | Hotline: (+84)-22-6358-2699 | Email: manhvt@soltec-hn.com",
+          "supports": "Legal representative of Soltec Hanoi Co., Ltd."
+        },
+        {
+          "source_url": "https://soltec-hn.com/en/introduce",
+          "quote": "Representative: VU THE MANH | Hotline: (+84)-22-6358-2699 | Email: manhvt@soltec-hn.com",
+          "supports": "Confirmed as company representative on official introduce page"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Hai NL",
+      "current_title": "Unknown",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 50,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "hainl@soltec-hn.com",
+          "status": "observed",
+          "source_url": "https://soltec-hn.com/en/contact/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+84362258323",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://soltec-hn.com/en/contact/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://soltec-hn.com/en/contact/",
+          "quote": "Hotline: (+84) 362 258 323 | Email: hainl@soltec-hn.com",
+          "supports": "Listed as company contact on contact page alongside general contact information"
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "contact@dauthau.net",
+      "status": "observed",
+      "source_url": "https://dauthau.net/vi/dn/CONG-TY-TNHH-MEITOKU-ENGINEERING-VIET-NAM/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "hotro@topcv.vn",
+      "status": "observed",
+      "source_url": "https://www.topcv.vn/cong-ty/cong-ty-tnhh-soltec-ha-noi/234391.html",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 35,
+    "search_engine_warnings": 0,
+    "urls_crawled": 11,
+    "crawl_failures": 0,
+    "contact_signals": 26,
+    "official_urls_discovered": 2,
+    "pdf_documents_discovered": 1,
+    "pdf_documents_processed": 1,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 1,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 4,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

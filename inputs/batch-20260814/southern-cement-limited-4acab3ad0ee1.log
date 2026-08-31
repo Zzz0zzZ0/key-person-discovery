@@ -1,0 +1,48 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.accio.com/business/southern-cement-limited                                               | ✓ | ⏱: 3.41s 
+[SCRAPE].. ◆ https://www.accio.com/business/southern-cement-limited                                               | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.accio.com/business/southern-cement-limited                                               | ✓ | ⏱: 4.06s 
+[FETCH]... ↓ https://www.bloomberg.com/profile/company/1964846Z:LN                                                | ✓ | ⏱: 2.44s 
+[SCRAPE].. ◆ https://www.bloomberg.com/profile/company/1964846Z:LN                                                | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.bloomberg.c...ile/company/1964846Z:LN  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.bloomberg.com/profile/company/1964846Z:LN                                                | ✗ | ⏱: 4.45s 
+[FETCH]... ↓ https://www.southerncement.co.uk/customer-support/                                                   | ✓ | ⏱: 6.46s 
+[SCRAPE].. ◆ https://www.southerncement.co.uk/customer-support/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.southerncement.co.uk/customer-support/                                                   | ✓ | ⏱: 8.41s 
+[FETCH]... ↓ https://www.southerncement.co.uk/customer-support/phil-matthews/                                     | ✓ | ⏱: 6.03s 
+[SCRAPE].. ◆ https://www.southerncement.co.uk/customer-support/phil-matthews/                                     | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.southerncement.co.uk/customer-support/phil-matthews/                                     | ✓ | ⏱: 8.04s 
+[FETCH]... ↓ https://www.southerncement.co.uk                                                                     | ✓ | ⏱: 9.82s 
+[SCRAPE].. ◆ https://www.southerncement.co.uk                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.southerncement.co.uk                                                                     | ✓ | ⏱: 11.83s 
+[FETCH]... ↓ https://www.southerncement.co.uk/our-locations/ipswich/                                              | ✓ | ⏱: 1.73s 
+[SCRAPE].. ◆ https://www.southerncement.co.uk/our-locations/ipswich/                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.southerncement.co.uk/our-locations/ipswich/                                              | ✓ | ⏱: 1.74s 
+[FETCH]... ↓ https://www.southerncement.co.uk/our-locations/shoreham/                                             | ✓ | ⏱: 1.78s 
+[SCRAPE].. ◆ https://www.southerncement.co.uk/our-locations/shoreham/                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.southerncement.co.uk/our-locations/shoreham/                                             | ✓ | ⏱: 1.79s 
+[FETCH]... ↓ https://www.southerncement.co.uk/home/our-products-docks/                                            | ✓ | ⏱: 2.10s 
+[SCRAPE].. ◆ https://www.southerncement.co.uk/home/our-products-docks/                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.southerncement.co.uk/home/our-products-docks/                                            | ✓ | ⏱: 2.11s 
+[FETCH]... ↓ https://www.southerncement.co.uk/sitemap/                                                            | ✓ | ⏱: 1.94s 
+[SCRAPE].. ◆ https://www.southerncement.co.uk/sitemap/                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.southerncement.co.uk/sitemap/                                                            | ✓ | ⏱: 1.96s 
+[FETCH]... ↓ https://www.datanyze.com/companies/southern-cement/135118895                                         | ✓ | ⏱: 24.38s 
+[SCRAPE].. ◆ https://www.datanyze.com/companies/southern-cement/135118895                                         | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.datanyze.co...uthern-cement/135118895  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.datanyze.com/companies/southern-cement/135118895                                         | ✗ | ⏱: 25.54s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.southerncement.co.uk/wp-content/uploads/About-Us-Image2-300x187.jpg                      | ✓ | ⏱: 7.22s 
+[SCRAPE].. ◆ https://www.southerncement.co.uk/wp-content/uploads/About-Us-Image2-300x187.jpg                      | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.southerncem...t-Us-Image2-300x187.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (501 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.southerncement.co.uk/wp-content/uploads/About-Us-Image2-300x187.jpg                      | ✗ | ⏱: 7.23s 
+[FETCH]... ↓ https://www.southerncement.co.uk/our-company/                                                        | ✓ | ⏱: 13.24s 
+[SCRAPE].. ◆ https://www.southerncement.co.uk/our-company/                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.southerncement.co.uk/our-company/                                                        | ✓ | ⏱: 13.26s 
+[FETCH]... ↓ https://www.southerncement.co.uk/contact-us/                                                         | ✓ | ⏱: 18.43s 
+[SCRAPE].. ◆ https://www.southerncement.co.uk/contact-us/                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.southerncement.co.uk/contact-us/                                                         | ✓ | ⏱: 18.45s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260814/southern-cement-limited-4acab3ad0ee1.json

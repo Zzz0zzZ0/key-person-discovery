@@ -1,0 +1,438 @@
+[
+  {
+    "channel": "email",
+    "value": "industrias@wald.com.mx",
+    "status": "observed",
+    "source_url": "https://wald.com.mx/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+522717147581",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+522717122997",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+522717134904",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "industrias@wald.com.mx",
+    "status": "observed",
+    "source_url": "https://wald.com.mx/about/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+522717147581",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/about/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+522717122997",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/about/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+522717134904",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/about/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "industrias@wald.com.mx",
+    "status": "observed",
+    "source_url": "https://wald.com.mx/bomba-caja-bipartida-series-3092/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+522717147581",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/bomba-caja-bipartida-series-3092/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+522717122997",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/bomba-caja-bipartida-series-3092/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+522717134904",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/bomba-caja-bipartida-series-3092/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "industrias@wald.com.mx",
+    "status": "observed",
+    "source_url": "https://wald.com.mx",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+522717147581",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+522717122997",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+522717134904",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "industrias@wald.com.mx",
+    "status": "observed",
+    "source_url": "https://wald.com.mx/en/contact-us/"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717147581",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717122997",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717134904",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "industrias@wald.com.mx",
+    "status": "observed",
+    "source_url": "https://wald.com.mx/en/lobe-gear-pump-series-duro/"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717147581",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en/lobe-gear-pump-series-duro/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717122997",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en/lobe-gear-pump-series-duro/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717134904",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en/lobe-gear-pump-series-duro/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "industrias@wald.com.mx",
+    "status": "observed",
+    "source_url": "https://wald.com.mx/en/liquid-ring-vacuum-pump-series-wcl/"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717147581",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en/liquid-ring-vacuum-pump-series-wcl/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717122997",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en/liquid-ring-vacuum-pump-series-wcl/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717134904",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en/liquid-ring-vacuum-pump-series-wcl/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "industrias@wald.com.mx",
+    "status": "observed",
+    "source_url": "https://wald.com.mx/en"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717147581",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717122997",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717134904",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "industrias@wald.com.mx",
+    "status": "observed",
+    "source_url": "https://wald.com.mx/explosionproof/"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717147581",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/explosionproof/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717122997",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/explosionproof/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717134904",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/explosionproof/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "industrias@wald.com.mx",
+    "status": "observed",
+    "source_url": "https://wald.com.mx/en/maintenance-2/"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717147581",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en/maintenance-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717122997",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en/maintenance-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717134904",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en/maintenance-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "industrias@wald.com.mx",
+    "status": "observed",
+    "source_url": "https://wald.com.mx/en/manuals-2/"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717147581",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en/manuals-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717122997",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en/manuals-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717134904",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/en/manuals-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "industrias@wald.com.mx",
+    "status": "observed",
+    "source_url": "https://wald.com.mx/motores/"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717147581",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/motores/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717122997",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/motores/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717134904",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/motores/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "industrias@wald.com.mx",
+    "status": "observed",
+    "source_url": "https://wald.com.mx/productos/"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717147581",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/productos/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717122997",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/productos/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717134904",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/productos/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "industrias@wald.com.mx",
+    "status": "observed",
+    "source_url": "https://wald.com.mx/manuals/SERIES%203092%20WALD.pdf"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717147581",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/manuals/SERIES%203092%20WALD.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717122997",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/manuals/SERIES%203092%20WALD.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+522717134904",
+    "status": "valid_format",
+    "source_url": "https://wald.com.mx/manuals/SERIES%203092%20WALD.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

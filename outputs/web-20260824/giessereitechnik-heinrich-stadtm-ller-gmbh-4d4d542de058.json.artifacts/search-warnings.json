@@ -1,0 +1,44 @@
+[
+  {
+    "query": "https://ceramcore-stadtmueller.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://ceramcore-stadtmueller.com/wp-sitemap.xml: HTTP Error 404: Not Found"
+  },
+  {
+    "query": "\"Gießereitechnik Heinrich Stadtmüller GmbH\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "unexpected crash"
+  },
+  {
+    "query": "site:ceramcore-stadtmueller.com (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:ceramcore-stadtmueller.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Gießereitechnik Heinrich Stadtmüller GmbH\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "unexpected crash"
+  },
+  {
+    "query": "site:ceramcore-stadtmueller.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "unexpected crash"
+  },
+  {
+    "query": "site:ceramcore-stadtmueller.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  }
+]

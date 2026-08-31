@@ -1,0 +1,55 @@
+{
+  "name": "Foshan Nanhai Superband Mould Co., Ltd.",
+  "website": "https://kr.made-in-china.com/co_superband188/product_Alsi12fe-Automotive-Casting-Parts-High-Pressure-Die-Casting-Parts-in-China_rreehiisg.html",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "0024f446-4916-433b-ad45-1a32b158daac",
+  "crm_linkedin_url": "http://www.linkedin.com/company/foshan-nanhai-superband-mould-co-ltd",
+  "crm_country": "中国 / 摩洛哥 / 泰国",
+  "crm_updated_at": "2026-07-29T05:05:59.248864+00:00",
+  "crm_contact_count": 2,
+  "crm_contacts": [
+    {
+      "name": " Sydney Tang",
+      "email": "tangxilian@superband.com.cn",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/sydney-tang-13bb7589",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Cherry Zhong",
+      "email": "zhongqiuling@superband.com.cn",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/alloy-wheel-mold-solution-provider",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T02:16:59.602303+00:00",
+  "source": "twenty_postgresql_read_only"
+}

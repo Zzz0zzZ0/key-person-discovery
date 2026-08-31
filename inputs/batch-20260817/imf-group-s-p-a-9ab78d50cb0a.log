@@ -1,0 +1,29 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://efinder.uk/companies/1885547/imf-group-ltd/                                                  | ✓ | ⏱: 3.23s 
+[SCRAPE].. ◆ https://efinder.uk/companies/1885547/imf-group-ltd/                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://efinder.uk/companies/1885547/imf-group-ltd/                                                  | ✓ | ⏱: 4.18s 
+[FETCH]... ↓ https://www.imf-i.com/legal-notice/                                                                  | ✓ | ⏱: 2.77s 
+[SCRAPE].. ◆ https://www.imf-i.com/legal-notice/                                                                  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.imf-i.com/legal-notice/                                                                  | ✓ | ⏱: 4.79s 
+[FETCH]... ↓ https://www.imf-i.com/privacy-policy/                                                                | ✓ | ⏱: 0.71s 
+[SCRAPE].. ◆ https://www.imf-i.com/privacy-policy/                                                                | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.imf-i.com/privacy-policy/                                                                | ✓ | ⏱: 1.46s 
+[FETCH]... ↓ https://www.imf-i.com                                                                                | ✓ | ⏱: 7.07s 
+[SCRAPE].. ◆ https://www.imf-i.com                                                                                | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.imf-i.com                                                                                | ✓ | ⏱: 9.11s 
+[FETCH]... ↓ https://www.imf-i.com/fr/                                                                            | ✓ | ⏱: 6.87s 
+[SCRAPE].. ◆ https://www.imf-i.com/fr/                                                                            | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.imf-i.com/fr/                                                                            | ✓ | ⏱: 8.91s 
+[INIT].... → Crawl4AI 0.9.2 
+[DEBUG]... ⋯ Body visibility info: False 
+[DEBUG]... ⋯ Body visibility info: False 
+[FETCH]... ↓ https://www.imf-i.com/wp-content/themes/IMF-International/assets/images/contact-message.svg          | ✓ | ⏱: 31.06s 
+[SCRAPE].. ◆ https://www.imf-i.com/wp-content/themes/IMF-International/assets/images/contact-message.svg          | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.imf-i.com/wp-content/themes/IMF-International/assets/images/contact-message.svg          | ✓ | ⏱: 31.07s 
+[FETCH]... ↓ https://www.imf-i.com/wp-content/themes/IMF-International/assets/images/contact-map.svg              | ✓ | ⏱: 31.48s 
+[SCRAPE].. ◆ https://www.imf-i.com/wp-content/themes/IMF-International/assets/images/contact-map.svg              | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.imf-i.com/wp-content/themes/IMF-International/assets/images/contact-map.svg              | ✓ | ⏱: 31.49s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260817/imf-group-s-p-a-9ab78d50cb0a.json

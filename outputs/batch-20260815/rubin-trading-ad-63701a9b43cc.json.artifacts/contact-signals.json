@@ -1,0 +1,1432 @@
+[
+  {
+    "channel": "email",
+    "value": "a.atanasova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/about-rubin/"
+  },
+  {
+    "channel": "email",
+    "value": "s.goranova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/about-rubin/"
+  },
+  {
+    "channel": "email",
+    "value": "l.tsekova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/about-rubin/"
+  },
+  {
+    "channel": "email",
+    "value": "m.krachunova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/about-rubin/"
+  },
+  {
+    "channel": "email",
+    "value": "e.gigova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/about-rubin/"
+  },
+  {
+    "channel": "email",
+    "value": "mailtoe.gigova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/about-rubin/"
+  },
+  {
+    "channel": "email",
+    "value": "a.vasileva@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/about-rubin/"
+  },
+  {
+    "channel": "email",
+    "value": "m.urkova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/about-rubin/"
+  },
+  {
+    "channel": "email",
+    "value": "mihael.dimitrov@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/about-rubin/"
+  },
+  {
+    "channel": "email",
+    "value": "sales@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/about-rubin/"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540741",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/about-rubin/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359887074656",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/about-rubin/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540690",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/about-rubin/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540686",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/about-rubin/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540730",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/about-rubin/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540794",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/about-rubin/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308166",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/about-rubin/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308169",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/about-rubin/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359878743903",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/about-rubin/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308162",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/about-rubin/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "a.vasileva@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/"
+  },
+  {
+    "channel": "email",
+    "value": "p.baykov@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/"
+  },
+  {
+    "channel": "email",
+    "value": "l.tsekova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/"
+  },
+  {
+    "channel": "email",
+    "value": "e.gigova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/"
+  },
+  {
+    "channel": "email",
+    "value": "m.urkova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/"
+  },
+  {
+    "channel": "email",
+    "value": "a.atanasova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/"
+  },
+  {
+    "channel": "email",
+    "value": "c.custura@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/"
+  },
+  {
+    "channel": "email",
+    "value": "mihael.dimitrov@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/"
+  },
+  {
+    "channel": "email",
+    "value": "s.goranova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/"
+  },
+  {
+    "channel": "email",
+    "value": "m.krachunova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/"
+  },
+  {
+    "channel": "email",
+    "value": "i.ilieva@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/"
+  },
+  {
+    "channel": "email",
+    "value": "a.tonchev@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/"
+  },
+  {
+    "channel": "email",
+    "value": "mailtoe.gigova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/"
+  },
+  {
+    "channel": "email",
+    "value": "sales@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540730",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359876700336",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540690",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540686",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540741",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879013746",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540794",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359887074656",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359878746932",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359889470511",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308166",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308169",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359878743903",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308162",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/antoaneta-vasileva/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "p.baykov@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu"
+  },
+  {
+    "channel": "email",
+    "value": "l.tsekova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu"
+  },
+  {
+    "channel": "email",
+    "value": "e.gigova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu"
+  },
+  {
+    "channel": "email",
+    "value": "m.urkova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu"
+  },
+  {
+    "channel": "email",
+    "value": "a.atanasova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu"
+  },
+  {
+    "channel": "email",
+    "value": "c.custura@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu"
+  },
+  {
+    "channel": "email",
+    "value": "a.vasileva@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu"
+  },
+  {
+    "channel": "email",
+    "value": "mihael.dimitrov@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu"
+  },
+  {
+    "channel": "email",
+    "value": "s.goranova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu"
+  },
+  {
+    "channel": "email",
+    "value": "m.krachunova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu"
+  },
+  {
+    "channel": "email",
+    "value": "i.ilieva@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu"
+  },
+  {
+    "channel": "email",
+    "value": "a.tonchev@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu"
+  },
+  {
+    "channel": "email",
+    "value": "mailtoe.gigova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu"
+  },
+  {
+    "channel": "email",
+    "value": "sales@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu"
+  },
+  {
+    "channel": "phone",
+    "value": "+359876700336",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540690",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540686",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540741",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879013746",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540730",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540794",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359887074656",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359878746932",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359889470511",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308166",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308169",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359878743903",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308162",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "sales@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/contact-us/"
+  },
+  {
+    "channel": "email",
+    "value": "a.atanasova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/contact-us/"
+  },
+  {
+    "channel": "email",
+    "value": "s.goranova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/contact-us/"
+  },
+  {
+    "channel": "email",
+    "value": "l.tsekova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/contact-us/"
+  },
+  {
+    "channel": "email",
+    "value": "m.krachunova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/contact-us/"
+  },
+  {
+    "channel": "email",
+    "value": "e.gigova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/contact-us/"
+  },
+  {
+    "channel": "email",
+    "value": "mailtoe.gigova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/contact-us/"
+  },
+  {
+    "channel": "email",
+    "value": "a.vasileva@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/contact-us/"
+  },
+  {
+    "channel": "email",
+    "value": "m.urkova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/contact-us/"
+  },
+  {
+    "channel": "email",
+    "value": "mihael.dimitrov@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/contact-us/"
+  },
+  {
+    "channel": "email",
+    "value": "p.baykov@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/contact-us/"
+  },
+  {
+    "channel": "email",
+    "value": "c.custura@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/contact-us/"
+  },
+  {
+    "channel": "email",
+    "value": "i.ilieva@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/contact-us/"
+  },
+  {
+    "channel": "email",
+    "value": "a.tonchev@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/contact-us/"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308166",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308169",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540741",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359887074656",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540690",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540686",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540730",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540794",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359876700336",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879013746",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359878746932",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359889470511",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359878743903",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308162",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "sales@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/news/"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308166",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308169",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359878743903",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308162",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "l.tsekova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/"
+  },
+  {
+    "channel": "email",
+    "value": "p.baykov@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/"
+  },
+  {
+    "channel": "email",
+    "value": "e.gigova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/"
+  },
+  {
+    "channel": "email",
+    "value": "m.urkova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/"
+  },
+  {
+    "channel": "email",
+    "value": "a.atanasova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/"
+  },
+  {
+    "channel": "email",
+    "value": "c.custura@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/"
+  },
+  {
+    "channel": "email",
+    "value": "a.vasileva@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/"
+  },
+  {
+    "channel": "email",
+    "value": "mihael.dimitrov@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/"
+  },
+  {
+    "channel": "email",
+    "value": "s.goranova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/"
+  },
+  {
+    "channel": "email",
+    "value": "m.krachunova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/"
+  },
+  {
+    "channel": "email",
+    "value": "i.ilieva@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/"
+  },
+  {
+    "channel": "email",
+    "value": "a.tonchev@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/"
+  },
+  {
+    "channel": "email",
+    "value": "mailtoe.gigova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/"
+  },
+  {
+    "channel": "email",
+    "value": "sales@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540690",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359876700336",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540686",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540741",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879013746",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540730",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540794",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359887074656",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359878746932",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359889470511",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308166",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308169",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359878743903",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308162",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/lyudmila-tsekova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "s.goranova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/simona-goranova/"
+  },
+  {
+    "channel": "email",
+    "value": "p.baykov@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/simona-goranova/"
+  },
+  {
+    "channel": "email",
+    "value": "l.tsekova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/simona-goranova/"
+  },
+  {
+    "channel": "email",
+    "value": "e.gigova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/simona-goranova/"
+  },
+  {
+    "channel": "email",
+    "value": "m.urkova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/simona-goranova/"
+  },
+  {
+    "channel": "email",
+    "value": "a.atanasova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/simona-goranova/"
+  },
+  {
+    "channel": "email",
+    "value": "c.custura@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/simona-goranova/"
+  },
+  {
+    "channel": "email",
+    "value": "a.vasileva@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/simona-goranova/"
+  },
+  {
+    "channel": "email",
+    "value": "mihael.dimitrov@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/simona-goranova/"
+  },
+  {
+    "channel": "email",
+    "value": "m.krachunova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/simona-goranova/"
+  },
+  {
+    "channel": "email",
+    "value": "i.ilieva@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/simona-goranova/"
+  },
+  {
+    "channel": "email",
+    "value": "a.tonchev@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/simona-goranova/"
+  },
+  {
+    "channel": "email",
+    "value": "mailtoe.gigova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/simona-goranova/"
+  },
+  {
+    "channel": "email",
+    "value": "sales@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/simona-goranova/"
+  },
+  {
+    "channel": "phone",
+    "value": "+359887074656",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/simona-goranova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359876700336",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/simona-goranova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540690",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/simona-goranova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540686",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/simona-goranova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540741",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/simona-goranova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879013746",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/simona-goranova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540730",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/simona-goranova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540794",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/simona-goranova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359878746932",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/simona-goranova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359889470511",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/simona-goranova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308166",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/simona-goranova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308169",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/simona-goranova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359878743903",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/simona-goranova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308162",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/simona-goranova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "mihael.dimitrov@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/"
+  },
+  {
+    "channel": "email",
+    "value": "p.baykov@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/"
+  },
+  {
+    "channel": "email",
+    "value": "l.tsekova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/"
+  },
+  {
+    "channel": "email",
+    "value": "e.gigova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/"
+  },
+  {
+    "channel": "email",
+    "value": "m.urkova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/"
+  },
+  {
+    "channel": "email",
+    "value": "a.atanasova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/"
+  },
+  {
+    "channel": "email",
+    "value": "c.custura@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/"
+  },
+  {
+    "channel": "email",
+    "value": "a.vasileva@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/"
+  },
+  {
+    "channel": "email",
+    "value": "s.goranova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/"
+  },
+  {
+    "channel": "email",
+    "value": "m.krachunova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/"
+  },
+  {
+    "channel": "email",
+    "value": "i.ilieva@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/"
+  },
+  {
+    "channel": "email",
+    "value": "a.tonchev@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/"
+  },
+  {
+    "channel": "email",
+    "value": "mailtoe.gigova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/"
+  },
+  {
+    "channel": "email",
+    "value": "sales@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540794",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359876700336",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540690",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540686",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540741",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879013746",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540730",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359887074656",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359878746932",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359889470511",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308166",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308169",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359878743903",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308162",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/mihael-dimitrov/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "sales@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/terms-and-condition"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308166",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/terms-and-condition",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308169",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/terms-and-condition",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359878743903",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/terms-and-condition",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308162",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/terms-and-condition",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "sales@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/category/news/"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308166",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/category/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308169",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/category/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359878743903",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/category/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308162",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/category/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

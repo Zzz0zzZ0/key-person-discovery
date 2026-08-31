@@ -1,0 +1,131 @@
+[
+  {
+    "channel": "email",
+    "value": "flast@cobrelascruces.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jdoe@cobrelascruces.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "first@cobrelascruces.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "john@cobrelascruces.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "first.last@cobrelascruces.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "john.doe@cobrelascruces.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "first.middle@cobrelascruces.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "john.michael@cobrelascruces.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "first@cobrelascruces.comfirst.last",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "support@leadiq.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@leadiq.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@fqml.com",
+    "status": "observed",
+    "source_url": "https://www.first-quantum.com/operations/cobre-las-cruces/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "james.devas@fqml.com",
+    "status": "observed",
+    "source_url": "https://www.first-quantum.com/operations/cobre-las-cruces/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+442072916630",
+    "status": "valid_format",
+    "source_url": "https://www.first-quantum.com/operations/cobre-las-cruces/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@fqml.com",
+    "status": "observed",
+    "source_url": "https://www.first-quantum.com/news/first-quantum-minerals-announces-sale-of-cobre-las-cruces/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "james.devas@fqml.com",
+    "status": "observed",
+    "source_url": "https://www.first-quantum.com/news/first-quantum-minerals-announces-sale-of-cobre-las-cruces/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+442072916630",
+    "status": "valid_format",
+    "source_url": "https://www.first-quantum.com/news/first-quantum-minerals-announces-sale-of-cobre-las-cruces/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/javier-ca%C3%B1al-gamboa-7bb64844/",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/javier-ca%C3%B1al-gamboa-7bb64844/"
+  }
+]

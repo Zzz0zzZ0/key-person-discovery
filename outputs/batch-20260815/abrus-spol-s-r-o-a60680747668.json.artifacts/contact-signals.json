@@ -1,0 +1,160 @@
+[
+  {
+    "channel": "email",
+    "value": "brusne-flexo-kotouce@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "rezne-flexo-kotouce@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "lamelove-kotouce@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "brusne-lamelove-kotouce@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "brousici-teliska-se-stopkou@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kotouce-s-keramickym-pojivem@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kotouce-s-bakelitovym-pojivem@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "brousici-obtahovaci-kameny@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "diamantove-a-cbn-kotouce@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "vulkafibry@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "brusne-listy@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "brusne-houby@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "nekonecne-pasy@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "podlozne-talire@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technicke-frezy@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "listy-a-role-z-netkane-textilie@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "rychloupinaci-disky@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "brousici-a-lestici-pasty@2x.jpg",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "abrus@abrus-brusivo.cz",
+    "status": "observed",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420775572232",
+    "status": "valid_format",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420516462000",
+    "status": "valid_format",
+    "source_url": "http://www.abrus-brusivo.cz",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "abrus@abrus-brusivo.cz",
+    "status": "observed",
+    "source_url": "https://www.finmag.cz/obchodni-rejstrik/ares/27744302-abrus-spol-s-r-o",
+    "company_public": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "kind": "candidate",
+    "full_name": "Phummarin Sosrisakorn",
+    "matched_by": [
+      "name"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  }
+]

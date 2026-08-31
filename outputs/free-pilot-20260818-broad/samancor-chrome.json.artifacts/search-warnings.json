@@ -1,0 +1,74 @@
+[
+  {
+    "query": "\"Samancor Chrome Limited\" official website",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: unexpected crash"
+  },
+  {
+    "query": "\"Samancor Chrome Limited\" official website",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Samancor Chrome Limited\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "\"Samancor Chrome Limited\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: unexpected crash"
+  },
+  {
+    "query": "\"Samancor Chrome Limited\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:linkedin.com/in \"Samancor Chrome Limited\"",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: unexpected crash"
+  },
+  {
+    "query": "\"Samancor Chrome Limited\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:samancorcr.com (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:samancorcr.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: unexpected crash"
+  },
+  {
+    "query": "\"Samancor Chrome Limited\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: unexpected crash"
+  },
+  {
+    "query": "site:samancorcr.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: unexpected crash"
+  },
+  {
+    "query": "site:samancorcr.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "too many requests"
+  }
+]

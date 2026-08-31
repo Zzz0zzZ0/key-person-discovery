@@ -1,0 +1,8 @@
+[
+  {
+    "query": "http://steelcast.ru",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://steelcast.ru/sitemap.80122.xml.gz: not well-formed (invalid token): line 1, column 0"
+  }
+]

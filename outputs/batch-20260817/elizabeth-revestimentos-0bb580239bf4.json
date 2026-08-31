@@ -1,0 +1,127 @@
+{
+  "company_name": "Elizabeth Revestimentos",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "whatsapp",
+      "value": "+554834477777",
+      "status": "verified",
+      "source_url": "https://elizabethrevestimentos.com.br/compliance/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+554834477777",
+      "status": "valid_format",
+      "source_url": "https://elizabethrevestimentos.com.br/compliance/",
+      "whatsapp_status": "verified",
+      "company_public": true
+    },
+    {
+      "channel": "whatsapp",
+      "value": "+558330152700",
+      "status": "verified",
+      "source_url": "https://elizabethrevestimentos.com.br/en/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+558330152700",
+      "status": "valid_format",
+      "source_url": "https://elizabethrevestimentos.com.br/en/",
+      "whatsapp_status": "verified",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Vitor Hugo Azevedo",
+      "current_title": "Unknown",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/vitor-hugo-azevedo-b429864a",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/vitor-hugo-azevedo-b429864a"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/vitor-hugo-azevedo-b429864a",
+          "quote": "LinkedIn profile signal extracted from elizabethrevestimentos.com.br deterministic contact signals",
+          "supports": "LinkedIn URL associated with Elizabeth Revestimentos contact infrastructure"
+        }
+      ],
+      "confidence": 0.1,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "validation_rejections": [
+    {
+      "full_name": "Vitor Hugo Azevedo",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 7,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 35,
+    "search_engine_warnings": 1,
+    "urls_crawled": 18,
+    "crawl_failures": 4,
+    "contact_signals": 26,
+    "official_urls_discovered": 1,
+    "crm_website": "https://elizabethrevestimentos.com.br",
+    "official_website": "https://elizabethrevestimentos.com.br",
+    "website_recovered": false,
+    "pdf_documents_discovered": 6,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 3,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 1,
+    "unverified_candidates": 1,
+    "crm_contact_count": 174,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 1,
+    "contactable_items": 2,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

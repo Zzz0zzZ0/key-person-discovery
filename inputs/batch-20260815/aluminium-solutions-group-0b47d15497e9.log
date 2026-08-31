@@ -1,0 +1,102 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://alusolutionsgroup.com/en/cookie-policy-eu/                                                   | ✓ | ⏱: 3.14s 
+[SCRAPE].. ◆ https://alusolutionsgroup.com/en/cookie-policy-eu/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://alusolutionsgroup.com/en/cookie-policy-eu/                                                   | ✓ | ⏱: 4.88s 
+[FETCH]... ↓ https://alusolutionsgroup.com/en/coming-soon-2/                                                      | ✓ | ⏱: 3.16s 
+[SCRAPE].. ◆ https://alusolutionsgroup.com/en/coming-soon-2/                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://alusolutionsgroup.com/en/coming-soon-2/                                                      | ✓ | ⏱: 4.89s 
+[FETCH]... ↓ https://alusolutionsgroup.com/accueil/contact/                                                       | ✓ | ⏱: 3.28s 
+[SCRAPE].. ◆ https://alusolutionsgroup.com/accueil/contact/                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://alusolutionsgroup.com/accueil/contact/                                                       | ✓ | ⏱: 4.91s 
+[FETCH]... ↓ https://alusolutionsgroup.com                                                                        | ✓ | ⏱: 3.60s 
+[SCRAPE].. ◆ https://alusolutionsgroup.com                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://alusolutionsgroup.com                                                                        | ✓ | ⏱: 5.50s 
+[FETCH]... ↓ https://alusolutionsgroup.com/en/home/                                                               | ✓ | ⏱: 1.33s 
+[SCRAPE].. ◆ https://alusolutionsgroup.com/en/home/                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://alusolutionsgroup.com/en/home/                                                               | ✓ | ⏱: 1.35s 
+[FETCH]... ↓ https://alusolutionsgroup.com/en/home/contact/                                                       | ✓ | ⏱: 1.25s 
+[SCRAPE].. ◆ https://alusolutionsgroup.com/en/home/contact/                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://alusolutionsgroup.com/en/home/contact/                                                       | ✓ | ⏱: 1.27s 
+[FETCH]... ↓ https://alusolutionsgroup.com/en/home/group/                                                         | ✓ | ⏱: 1.39s 
+[SCRAPE].. ◆ https://alusolutionsgroup.com/en/home/group/                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://alusolutionsgroup.com/en/home/group/                                                         | ✓ | ⏱: 1.41s 
+[FETCH]... ↓ https://alusolutionsgroup.com/en/legal-notice/                                                       | ✓ | ⏱: 1.17s 
+[SCRAPE].. ◆ https://alusolutionsgroup.com/en/legal-notice/                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://alusolutionsgroup.com/en/legal-notice/                                                       | ✓ | ⏱: 1.19s 
+[FETCH]... ↓ https://alusolutionsgroup.com/es/informacion-juridica/                                               | ✓ | ⏱: 1.19s 
+[SCRAPE].. ◆ https://alusolutionsgroup.com/es/informacion-juridica/                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://alusolutionsgroup.com/es/informacion-juridica/                                               | ✓ | ⏱: 1.21s 
+[FETCH]... ↓ https://alusolutionsgroup.com/es/inicio/contacto/                                                    | ✓ | ⏱: 1.25s 
+[SCRAPE].. ◆ https://alusolutionsgroup.com/es/inicio/contacto/                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://alusolutionsgroup.com/es/inicio/contacto/                                                    | ✓ | ⏱: 1.27s 
+[FETCH]... ↓ https://alusolutionsgroup.com/mentions-legales/                                                      | ✓ | ⏱: 1.15s 
+[SCRAPE].. ◆ https://alusolutionsgroup.com/mentions-legales/                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://alusolutionsgroup.com/mentions-legales/                                                      | ✓ | ⏱: 1.17s 
+[FETCH]... ↓ https://alusolutionsgroup.com/index.php/accueil-test/aluminium-solutions-group-test/                 | ✓ | ⏱: 2.35s 
+[SCRAPE].. ◆ https://alusolutionsgroup.com/index.php/accueil-test/aluminium-solutions-group-test/                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://alusolutionsgroup.com/index.php/accueil-test/aluminium-solutions-group-test/                 | ✓ | ⏱: 2.37s 
+[FETCH]... ↓ https://www.bloomberg.com/profile/company/2216849D:FP                                                | ✓ | ⏱: 1.00s 
+[SCRAPE].. ◆ https://www.bloomberg.com/profile/company/2216849D:FP                                                | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.bloomberg.c...ile/company/2216849D:FP  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.bloomberg.com/profile/company/2216849D:FP                                                | ✗ | ⏱: 3.01s 
+[FETCH]... ↓ https://opengatecapital.com/news/aluminium-solut...uinotte-as-president-and-chief-executive-officer  | ✓ | ⏱: 3.59s 
+[SCRAPE].. ◆ https://opengatecapital.com/news/aluminium-solut...uinotte-as-president-and-chief-executive-officer  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://opengatecapital.com/news/aluminium-solut...uinotte-as-president-and-chief-executive-officer  | ✓ | ⏱: 4.72s 
+[FETCH]... ↓ https://rubypayeur.com/societe/aluminium-solutions-group-sas-917413056                               | ✓ | ⏱: 3.54s 
+[SCRAPE].. ◆ https://rubypayeur.com/societe/aluminium-solutions-group-sas-917413056                               | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://rubypayeur.com/societe/aluminium-solutions-group-sas-917413056                               | ✓ | ⏱: 4.86s 
+[FETCH]... ↓ https://www.aluminium.fr/en/gouvernance                                                              | ✓ | ⏱: 5.61s 
+[SCRAPE].. ◆ https://www.aluminium.fr/en/gouvernance                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.aluminium.fr/en/gouvernance                                                              | ✓ | ⏱: 6.92s 
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Superfluous whitespace found in object header b'1' b'0'
+Superfluous whitespace found in object header b'2' b'0'
+Superfluous whitespace found in object header b'3' b'0'
+Superfluous whitespace found in object header b'61' b'0'
+Superfluous whitespace found in object header b'11' b'0'
+Superfluous whitespace found in object header b'10' b'0'
+Superfluous whitespace found in object header b'9' b'0'
+Superfluous whitespace found in object header b'6' b'0'
+Superfluous whitespace found in object header b'8' b'0'
+Superfluous whitespace found in object header b'19' b'0'
+Superfluous whitespace found in object header b'18' b'0'
+Superfluous whitespace found in object header b'17' b'0'
+Superfluous whitespace found in object header b'14' b'0'
+Superfluous whitespace found in object header b'16' b'0'
+Superfluous whitespace found in object header b'27' b'0'
+Superfluous whitespace found in object header b'26' b'0'
+Superfluous whitespace found in object header b'25' b'0'
+Superfluous whitespace found in object header b'22' b'0'
+Superfluous whitespace found in object header b'24' b'0'
+Superfluous whitespace found in object header b'35' b'0'
+Superfluous whitespace found in object header b'34' b'0'
+Superfluous whitespace found in object header b'33' b'0'
+Superfluous whitespace found in object header b'30' b'0'
+Superfluous whitespace found in object header b'32' b'0'
+Superfluous whitespace found in object header b'43' b'0'
+Superfluous whitespace found in object header b'42' b'0'
+Superfluous whitespace found in object header b'41' b'0'
+Superfluous whitespace found in object header b'38' b'0'
+Superfluous whitespace found in object header b'40' b'0'
+Superfluous whitespace found in object header b'51' b'0'
+Superfluous whitespace found in object header b'50' b'0'
+Superfluous whitespace found in object header b'49' b'0'
+Superfluous whitespace found in object header b'46' b'0'
+Superfluous whitespace found in object header b'48' b'0'
+Superfluous whitespace found in object header b'59' b'0'
+Superfluous whitespace found in object header b'58' b'0'
+Superfluous whitespace found in object header b'57' b'0'
+Superfluous whitespace found in object header b'54' b'0'
+Superfluous whitespace found in object header b'56' b'0'
+Superfluous whitespace found in object header b'60' b'0'
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/aluminium-solutions-group-0b47d15497e9.json

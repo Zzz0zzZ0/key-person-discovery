@@ -1,0 +1,36 @@
+{
+  "name": "Cordial Resources Enterprise",
+  "website": "https://www.cordialcastings.com.my",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "001ef265-562a-4b3f-a7e6-6a9b7046a032",
+  "crm_linkedin_url": null,
+  "crm_country": "Malaysia",
+  "crm_updated_at": "2026-07-29T05:05:59.248864+00:00",
+  "crm_contact_count": 0,
+  "crm_contacts": [],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T02:12:20.522826+00:00",
+  "source": "twenty_postgresql_read_only"
+}

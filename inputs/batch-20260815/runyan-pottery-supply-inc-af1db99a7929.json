@@ -1,0 +1,55 @@
+{
+  "name": "Runyan Pottery Supply, INC.",
+  "website": "https://www.runyanpotterysupply.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00c5907f-3f6f-456d-8ce5-51ce02767873",
+  "crm_linkedin_url": "http://www.linkedin.com/company/runyan-pottery-supply-inc",
+  "crm_country": "美国",
+  "crm_updated_at": "2026-07-29T05:05:59.832236+00:00",
+  "crm_contact_count": 2,
+  "crm_contacts": [
+    {
+      "name": " Official Email",
+      "email": "sales@runyanpotterysupply.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Julia Bidelman",
+      "email": "julia.bidelman@runyanpotterysupply.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/julia-bidelman-7885ab22b/",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T03:29:27.109137+00:00",
+  "source": "twenty_postgresql_read_only"
+}

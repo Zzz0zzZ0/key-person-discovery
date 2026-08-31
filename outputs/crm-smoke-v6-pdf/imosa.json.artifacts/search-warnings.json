@@ -1,0 +1,62 @@
+[
+  {
+    "query": "https://www.imosa.pt",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.imosa.pt/sitemap_index.xml: <urlopen error _ssl.c:999: The handshake operation timed out>"
+  },
+  {
+    "query": "https://www.imosa.pt",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.imosa.pt/sitemap.xml: <urlopen error _ssl.c:999: The handshake operation timed out>"
+  },
+  {
+    "query": "\"Industrias Mineiras do Mondego S.A. (IMOSA®)\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for '\"Industrias Mineiras do Mondego S.A. (IMOSA®)\" (procurement OR purchasing OR sourcing OR buyer)': <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "\"Industrias Mineiras do Mondego S.A. (IMOSA®)\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "\"Industrias Mineiras do Mondego S.A. (IMOSA®)\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "too many requests"
+  },
+  {
+    "query": "\"Industrias Mineiras do Mondego S.A. (IMOSA®)\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Industrias Mineiras do Mondego S.A. (IMOSA®)\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for '\"Industrias Mineiras do Mondego S.A. (IMOSA®)\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")': <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "\"Industrias Mineiras do Mondego S.A. (IMOSA®)\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "bing",
+    "reason": "HTTP connection error"
+  },
+  {
+    "query": "\"Industrias Mineiras do Mondego S.A. (IMOSA®)\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Industrias Mineiras do Mondego S.A. (IMOSA®)\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  }
+]

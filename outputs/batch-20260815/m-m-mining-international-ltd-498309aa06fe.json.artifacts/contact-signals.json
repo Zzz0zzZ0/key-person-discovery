@@ -1,0 +1,186 @@
+[
+  {
+    "channel": "email",
+    "value": "info@mmm-int.co.uk",
+    "status": "observed",
+    "source_url": "https://mmm-int.co.uk/company/"
+  },
+  {
+    "channel": "phone",
+    "value": "+443301335515",
+    "status": "valid_format",
+    "source_url": "https://mmm-int.co.uk/company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@mmm-int.co.uk",
+    "status": "observed",
+    "source_url": "https://mmm-int.co.uk/about-us/"
+  },
+  {
+    "channel": "phone",
+    "value": "+443301335515",
+    "status": "valid_format",
+    "source_url": "https://mmm-int.co.uk/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@mmm-int.co.uk",
+    "status": "observed",
+    "source_url": "https://mmm-int.co.uk",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+443301335515",
+    "status": "valid_format",
+    "source_url": "https://mmm-int.co.uk",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@mmm-int.co.uk",
+    "status": "observed",
+    "source_url": "https://mmm-int.co.uk/contact-us/"
+  },
+  {
+    "channel": "phone",
+    "value": "+443301335515",
+    "status": "valid_format",
+    "source_url": "https://mmm-int.co.uk/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@mmm-int.co.uk",
+    "status": "observed",
+    "source_url": "https://mmm-int.co.uk/gold-ore/"
+  },
+  {
+    "channel": "phone",
+    "value": "+443301335515",
+    "status": "valid_format",
+    "source_url": "https://mmm-int.co.uk/gold-ore/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@mmm-int.co.uk",
+    "status": "observed",
+    "source_url": "https://mmm-int.co.uk/cookie-policy"
+  },
+  {
+    "channel": "phone",
+    "value": "+443301335515",
+    "status": "valid_format",
+    "source_url": "https://mmm-int.co.uk/cookie-policy",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@mmm-int.co.uk",
+    "status": "observed",
+    "source_url": "https://mmm-int.co.uk/marble/"
+  },
+  {
+    "channel": "phone",
+    "value": "+443301335515",
+    "status": "valid_format",
+    "source_url": "https://mmm-int.co.uk/marble/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@mmm-int.co.uk",
+    "status": "observed",
+    "source_url": "https://mmm-int.co.uk/important-legal-notice"
+  },
+  {
+    "channel": "phone",
+    "value": "+443301335515",
+    "status": "valid_format",
+    "source_url": "https://mmm-int.co.uk/important-legal-notice",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@mmm-int.co.uk",
+    "status": "observed",
+    "source_url": "https://mmm-int.co.uk/nickel-ore/"
+  },
+  {
+    "channel": "phone",
+    "value": "+443301335515",
+    "status": "valid_format",
+    "source_url": "https://mmm-int.co.uk/nickel-ore/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@mmm-int.co.uk",
+    "status": "observed",
+    "source_url": "https://mmm-int.co.uk/our-team/"
+  },
+  {
+    "channel": "phone",
+    "value": "+443301335515",
+    "status": "valid_format",
+    "source_url": "https://mmm-int.co.uk/our-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@mmm-int.co.uk",
+    "status": "observed",
+    "source_url": "https://mmm-int.co.uk/privacy-policy"
+  },
+  {
+    "channel": "phone",
+    "value": "+443301335515",
+    "status": "valid_format",
+    "source_url": "https://mmm-int.co.uk/privacy-policy",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@mmm-int.co.uk",
+    "status": "observed",
+    "source_url": "https://mmm-int.co.uk/refunds-returns-or-shipping-policy"
+  },
+  {
+    "channel": "phone",
+    "value": "+443301335515",
+    "status": "valid_format",
+    "source_url": "https://mmm-int.co.uk/refunds-returns-or-shipping-policy",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@mmm-int.co.uk",
+    "status": "observed",
+    "source_url": "https://mmm-int.co.uk/terms-conditions"
+  },
+  {
+    "channel": "phone",
+    "value": "+443301335515",
+    "status": "valid_format",
+    "source_url": "https://mmm-int.co.uk/terms-conditions",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

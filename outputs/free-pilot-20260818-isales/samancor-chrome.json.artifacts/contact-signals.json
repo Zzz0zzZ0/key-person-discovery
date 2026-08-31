@@ -1,0 +1,101 @@
+[
+  {
+    "channel": "email",
+    "value": "sales@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "gpsda@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "webmaster@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "khuphuka@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451000",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/corporate-governance/sales-information",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kyle.forsyth@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "sorrel.bolam-geel@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "paia@sahrc.org.za",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf"
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451130",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451058",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "edwinmahlase@yahoo.com",
+    "status": "observed",
+    "source_url": "https://linkedin.com/in/edwin-mahlase-01686555"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/edwin-mahlase-01686555",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/edwin-mahlase-01686555"
+  },
+  {
+    "channel": "phone",
+    "value": "+27132307000",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/corporate-headquarters/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

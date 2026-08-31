@@ -1,0 +1,50 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://iaa.co.id/direksi-pt-indonesia-aluminium-alloy-melakukan-audiensi-ke-bupati-batu-bara/       | ✓ | ⏱: 4.10s 
+[SCRAPE].. ◆ https://iaa.co.id/direksi-pt-indonesia-aluminium-alloy-melakukan-audiensi-ke-bupati-batu-bara/       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://iaa.co.id/direksi-pt-indonesia-aluminium-alloy-melakukan-audiensi-ke-bupati-batu-bara/       | ✓ | ⏱: 4.76s 
+[FETCH]... ↓ https://iaa.co.id                                                                                    | ✓ | ⏱: 4.33s 
+[SCRAPE].. ◆ https://iaa.co.id                                                                                    | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://iaa.co.id                                                                                    | ✓ | ⏱: 5.06s 
+[FETCH]... ↓ https://iaa.co.id/en                                                                                 | ✓ | ⏱: 4.22s 
+[SCRAPE].. ◆ https://iaa.co.id/en                                                                                 | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://iaa.co.id/en                                                                                 | ✓ | ⏱: 4.86s 
+[FETCH]... ↓ https://iaa.co.id/en/all-time-high-achievement-p...uksi-dan-penjualan-pt-indonesia-aluminium-alloy/  | ✓ | ⏱: 4.24s 
+[SCRAPE].. ◆ https://iaa.co.id/en/all-time-high-achievement-p...uksi-dan-penjualan-pt-indonesia-aluminium-alloy/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://iaa.co.id/en/all-time-high-achievement-p...uksi-dan-penjualan-pt-indonesia-aluminium-alloy/  | ✓ | ⏱: 4.88s 
+[FETCH]... ↓ https://iaa.co.id/en/pimpinan-perusahaan/                                                            | ✓ | ⏱: 1.79s 
+[SCRAPE].. ◆ https://iaa.co.id/en/pimpinan-perusahaan/                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://iaa.co.id/en/pimpinan-perusahaan/                                                            | ✓ | ⏱: 1.81s 
+[FETCH]... ↓ https://iaa.co.id/pt-iaa-terima-kunjungan-sharing-session-pt-alindo-perkasa-sukses/                  | ✓ | ⏱: 1.81s 
+[SCRAPE].. ◆ https://iaa.co.id/pt-iaa-terima-kunjungan-sharing-session-pt-alindo-perkasa-sukses/                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://iaa.co.id/pt-iaa-terima-kunjungan-sharing-session-pt-alindo-perkasa-sukses/                  | ✓ | ⏱: 1.84s 
+[FETCH]... ↓ https://iaa.co.id/en/terus-membina-hubungan-baik...inium-alloy-bersilaturahmi-ke-kodim-0208-asahan/  | ✓ | ⏱: 2.03s 
+[SCRAPE].. ◆ https://iaa.co.id/en/terus-membina-hubungan-baik...inium-alloy-bersilaturahmi-ke-kodim-0208-asahan/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://iaa.co.id/en/terus-membina-hubungan-baik...inium-alloy-bersilaturahmi-ke-kodim-0208-asahan/  | ✓ | ⏱: 2.06s 
+[FETCH]... ↓ https://rocketreach.co/pt-indonesia-aluminium-alloy-profile_b706764bc51d13d6                         | ✓ | ⏱: 1.45s 
+[SCRAPE].. ◆ https://rocketreach.co/pt-indonesia-aluminium-alloy-profile_b706764bc51d13d6                         | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...rofile_b706764bc51d13d6  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/pt-indonesia-aluminium-alloy-profile_b706764bc51d13d6                         | ✗ | ⏱: 1.45s 
+[FETCH]... ↓ https://rocketreach.co/pt-indonesia-aluminium-alloy-management_b706764bc51d13d6                      | ✓ | ⏱: 1.86s 
+[SCRAPE].. ◆ https://rocketreach.co/pt-indonesia-aluminium-alloy-management_b706764bc51d13d6                      | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...gement_b706764bc51d13d6  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/pt-indonesia-aluminium-alloy-management_b706764bc51d13d6                      | ✗ | ⏱: 1.86s 
+[FETCH]... ↓ https://iaa.co.id/en/kontak-kami/                                                                    | ✓ | ⏱: 4.51s 
+[SCRAPE].. ◆ https://iaa.co.id/en/kontak-kami/                                                                    | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://iaa.co.id/en/kontak-kami/                                                                    | ✓ | ⏱: 4.54s 
+[FETCH]... ↓ https://www.emis.com/php/company-profile/ID/Pt_Indonesia_Aluminium_Alloy_en_22158956.html            | ✓ | ⏱: 4.34s 
+[SCRAPE].. ◆ https://www.emis.com/php/company-profile/ID/Pt_Indonesia_Aluminium_Alloy_en_22158956.html            | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.emis.com/php/company-profile/ID/Pt_Indonesia_Aluminium_Alloy_en_22158956.html            | ✓ | ⏱: 4.38s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://iaa.co.id/hangat-dalam-kesederhanaan-pt-iaa-laksanakan-kegiatan-kongkow-ramadan/             | ✓ | ⏱: 3.22s 
+[SCRAPE].. ◆ https://iaa.co.id/hangat-dalam-kesederhanaan-pt-iaa-laksanakan-kegiatan-kongkow-ramadan/             | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://iaa.co.id/hangat-dalam-kesederhanaan-pt-iaa-laksanakan-kegiatan-kongkow-ramadan/             | ✓ | ⏱: 3.26s 
+[FETCH]... ↓ https://iaa.co.id/en/pt-indonesia-aluminium-allo...eration-maintenance-pot-rekonstruksi-inalum-iaa/  | ✓ | ⏱: 3.66s 
+[SCRAPE].. ◆ https://iaa.co.id/en/pt-indonesia-aluminium-allo...eration-maintenance-pot-rekonstruksi-inalum-iaa/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://iaa.co.id/en/pt-indonesia-aluminium-allo...eration-maintenance-pot-rekonstruksi-inalum-iaa/  | ✓ | ⏱: 3.68s 
+[FETCH]... ↓ https://iaa.co.id/en/site-visit-mitsui-co-ltd-ke-pt-indonesia-aluminium-alloy/                       | ✓ | ⏱: 3.27s 
+[SCRAPE].. ◆ https://iaa.co.id/en/site-visit-mitsui-co-ltd-ke-pt-indonesia-aluminium-alloy/                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://iaa.co.id/en/site-visit-mitsui-co-ltd-ke-pt-indonesia-aluminium-alloy/                       | ✓ | ⏱: 3.30s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/pt-indonesia-aluminium-alloy-2f5196a9d44f.json

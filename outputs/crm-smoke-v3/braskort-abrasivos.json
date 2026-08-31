@@ -1,0 +1,46 @@
+{
+  "company_name": "Braskort Abrasivos",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "value": "+551938781426",
+      "status": "valid_format",
+      "whatsapp_status": "unknown",
+      "source_url": "https://www.braskort.com.br/contato",
+      "type": "phone",
+      "label": "Landline (19) 3878-1426"
+    },
+    {
+      "value": "+551939485330",
+      "status": "valid_format",
+      "whatsapp_status": "unknown",
+      "source_url": "https://www.braskort.com.br/sobre",
+      "type": "phone",
+      "label": "Landline (19) 3948-5330"
+    },
+    {
+      "value": "+5519998641869",
+      "status": "valid_format",
+      "whatsapp_status": "verified",
+      "source_url": "https://www.braskort.com.br/contato",
+      "type": "whatsapp",
+      "label": "WhatsApp (19) 9 9864-1869 — explicit wa.me and api.whatsapp.com links on all pages"
+    }
+  ],
+  "review_required": true,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 21,
+    "search_engine_warnings": 0,
+    "urls_crawled": 16,
+    "crawl_failures": 4,
+    "contact_signals": 0,
+    "official_urls_discovered": 2,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

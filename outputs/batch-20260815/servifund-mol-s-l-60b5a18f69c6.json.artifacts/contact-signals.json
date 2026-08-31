@@ -1,0 +1,18 @@
+[
+  {
+    "channel": "email",
+    "value": "administracion@servifundmol.com",
+    "status": "observed",
+    "source_url": "https://servifundmol.com/en/company-foundry-aluminum-barcelona/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34937598606",
+    "status": "valid_format",
+    "source_url": "https://servifundmol.com/en/company-foundry-aluminum-barcelona/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

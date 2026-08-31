@@ -1,0 +1,148 @@
+{
+  "company_name": "Cerablast GmbH & Co.KG",
+  "candidates": [
+    {
+      "full_name": "Tobias Gast",
+      "current_title": "Managing Director (Geschäftsführer)",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+497143889220",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://cerablast.com/en/contact-details/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://cerablast.com/en/data-privacy-statement/",
+          "quote": "Responsible data collector... is Cerablast GmbH & Co.KG, Managing Director: Tobias Gast",
+          "supports": "Managing Director role at Cerablast GmbH & Co.KG"
+        },
+        {
+          "source_url": "https://cerablast.com/impressum/",
+          "quote": "Verantwortlich für den Inhalt: Tobias Gast",
+          "supports": "Content responsibility and leadership role"
+        },
+        {
+          "source_url": "https://cerablast.com/en/contact-details/",
+          "quote": "Contact: Tobias Gast. Tel.: +49 (0)7143 88 9 22-0",
+          "supports": "Named contact person with direct phone"
+        },
+        {
+          "source_url": "https://cerablast.com/es/datos-de-contacto/",
+          "quote": "Persona de contacto: Ing. Dipl. Econ. Tobias Gast",
+          "supports": "Verified as contact person with title across multiple language pages"
+        },
+        {
+          "source_url": "https://cerablast.com/ro/date-de-contact/",
+          "quote": "Persoana de contact: Dipl.-Wirtsch.-Ing. Tobias Gast",
+          "supports": "Verified across Romanian page variant"
+        },
+        {
+          "source_url": "https://cerablast.com/pt/dados-de-contacto/",
+          "quote": "Pessoa de contacto: Mestre em Engenharia Empresarial (Dipl.-Wirtsch.-Ing.) Tobias Gast",
+          "supports": "Verified across Portuguese page variant"
+        },
+        {
+          "source_url": "https://cerablast.com/nl/contactgegevens/",
+          "quote": "Contactpersoon: Dipl.-Wirtsch.-Ing. Tobias Gast",
+          "supports": "Verified across Dutch page variant"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info@cerablast.com",
+      "status": "observed",
+      "source_url": "https://cerablast.com",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "whatsapp",
+      "value": "+491726659576",
+      "status": "verified",
+      "source_url": "https://cerablast.com/en/order/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+4971438892240",
+      "status": "valid_format",
+      "source_url": "https://cerablast.com/en/order/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+491726659576",
+      "status": "valid_format",
+      "source_url": "https://cerablast.com/en/order/",
+      "whatsapp_status": "verified",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 45,
+    "search_engine_warnings": 6,
+    "urls_crawled": 17,
+    "crawl_failures": 2,
+    "contact_signals": 36,
+    "official_urls_discovered": 6,
+    "crm_website": "https://cerablast.com",
+    "official_website": "https://cerablast.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 4,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 4,
+    "target_contact_methods": 4,
+    "contact_methods": 5,
+    "contact_target_met": true,
+    "broad_discovery": false,
+    "topeasy_import": {},
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

@@ -1,0 +1,12 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://porcelain.work                                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://porcelain.work                                                                               | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://porcelain.work/contact/                                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://porcelain.work/contact/                                                                      | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://porcelain.work/com_gaiyo                                                                     | ✓ | ⏱: 3.61s 
+[SCRAPE].. ◆ https://porcelain.work/com_gaiyo                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://porcelain.work/com_gaiyo                                                                     | ✓ | ⏱: 3.63s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/fuchino-porcelain-raw-material-ltd-f2e58a5092e2.json

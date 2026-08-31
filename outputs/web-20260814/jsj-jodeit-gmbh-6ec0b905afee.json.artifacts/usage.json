@@ -1,0 +1,18 @@
+{
+  "estimated_cost_usd": 0.0,
+  "cost_status": "unknown",
+  "cost_source": "official_docs_snapshot",
+  "input_tokens": 0,
+  "output_tokens": 610,
+  "cache_read_tokens": 3380,
+  "cache_write_tokens": 5029,
+  "reasoning_tokens": 0,
+  "total_tokens": 9019,
+  "api_calls": 2,
+  "model": "MiniMax-M2.7",
+  "provider": "minimax-cn",
+  "session_id": "20260814_170138_feb3f2",
+  "completed": true,
+  "failed": false,
+  "service_tier": null
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://www.hidroveda.ind.br",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.hidroveda.ind.br/sitemap.xml: HTTP Error 403: Forbidden"
+  }
+]

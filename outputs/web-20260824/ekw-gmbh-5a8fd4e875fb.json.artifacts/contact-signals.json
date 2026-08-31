@@ -1,0 +1,724 @@
+[
+  {
+    "channel": "email",
+    "value": "info@ekw-refractories.com",
+    "status": "observed",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/brochures/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4963514090",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/brochures/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@ekw-refractories.com",
+    "status": "observed",
+    "source_url": "https://www.ekw-refractories.com",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4963514090",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@ekw-refractories.com",
+    "status": "observed",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/awards/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4963514090",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/awards/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@ekw-refractories.com",
+    "status": "observed",
+    "source_url": "https://www.ekw-refractories.com/en/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4963514090",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@ekw-refractories.com",
+    "status": "observed",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/company/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4963514090",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@ekw-refractories.com",
+    "status": "observed",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/research-development/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4963514090",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/research-development/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@ekw-refractories.com",
+    "status": "observed",
+    "source_url": "https://www.ekw-refractories.com/en/career/job-advertisement/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4963514090",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/career/job-advertisement/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@ekw-refractories.com",
+    "status": "observed",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+496351409150",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4963514091391",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4963514091920",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+496351409123",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+496351409293",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+496351409125",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+496351409144",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+496351409276",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+496351409242",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+496351409138",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4915234682954",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4915117145302",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+491752148811",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+491714378620",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+491714257471",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+491735217057",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4915117146993",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4915167519470",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+491714257581",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+491714257465",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4916094106139",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4915117145310",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4915117147000",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+491736385460",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420725109844",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4963514090",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-persons/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "v.demonte@kimia3.com.ar",
+    "status": "observed",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ekwspain@ekw-refractories.com",
+    "status": "observed",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@ekw-refractories.com",
+    "status": "observed",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4963514090",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+496351409111",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+554733878585",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+554733878586",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4540568024",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4564891323",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33148248200",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33148009176",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+39039628031",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390396280322",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+60364114268",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+60364114267",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+528117747132",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+38673933200",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+38673933222",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+902128094021",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+908502200451",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+905326521117",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+971525145451",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+971526331875",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5491144205428",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+8613512533012",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+8613815869823",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358401397312",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31318519171",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31318521581",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34674814245",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+88673648658",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+88673648656",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/about-us/locations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@ekw-refractories.com",
+    "status": "observed",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4963514090",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@ekw-refractories.com",
+    "status": "observed",
+    "source_url": "https://www.ekw-refractories.com/en/news/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4963514090",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@ekw-refractories.com",
+    "status": "observed",
+    "source_url": "https://www.ekw-refractories.com/en/contact/ekw-refractories/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4963514090",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/en/contact/ekw-refractories/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@kiwa.de",
+    "status": "observed",
+    "source_url": "https://www.ekw-refractories.com/fileadmin/user_upload/pdf/zertifikate/EKW_Cert_EM_2025_E_.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+494030394960",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/fileadmin/user_upload/pdf/zertifikate/EKW_Cert_EM_2025_E_.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@kiwa.de",
+    "status": "observed",
+    "source_url": "https://www.ekw-refractories.com/fileadmin/user_upload/pdf/zertifikate/EKW_Cert_QM_englisch.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+494030394960",
+    "status": "valid_format",
+    "source_url": "https://www.ekw-refractories.com/fileadmin/user_upload/pdf/zertifikate/EKW_Cert_QM_englisch.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "compliance@ekw-refractories.com",
+    "status": "observed",
+    "source_url": "https://www.ekw-refractories.com/fileadmin/user_upload/pdf/code-of-conduct_ekw-refractories_english.pdf",
+    "company_public": true
+  }
+]

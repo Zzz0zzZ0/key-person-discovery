@@ -1,0 +1,61 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://panjiva.com/Refko-Feuerfest-GmbH/86629180                                                    | ✓ | ⏱: 2.45s 
+[SCRAPE].. ◆ https://panjiva.com/Refko-Feuerfest-GmbH/86629180                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://panjiva.com/Refko-Feuerfest-GmbH/86629180                                                    | ✓ | ⏱: 3.64s 
+[FETCH]... ↓ https://www.refko.de/                                                                                | ✓ | ⏱: 4.65s 
+[SCRAPE].. ◆ https://www.refko.de/                                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refko.de/                                                                                | ✓ | ⏱: 5.81s 
+[FETCH]... ↓ https://www.azdeutschland.com/firma/refko_feuerfest_gmbh_ransbach-baumbach_rp_concordia_5b           | ✓ | ⏱: 4.37s 
+[SCRAPE].. ◆ https://www.azdeutschland.com/firma/refko_feuerfest_gmbh_ransbach-baumbach_rp_concordia_5b           | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.azdeutschland.com/firma/refko_feuerfest_gmbh_ransbach-baumbach_rp_concordia_5b           | ✓ | ⏱: 6.03s 
+[FETCH]... ↓ https://www.test.de/FISS-Management-AG-Finanzaufsicht-stoppt-Privatdarlehen-1726835-0/               | ✓ | ⏱: 0.74s 
+[SCRAPE].. ◆ https://www.test.de/FISS-Management-AG-Finanzaufsicht-stoppt-Privatdarlehen-1726835-0/               | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.test.de/FISS-Management-AG-Finanzaufsicht-stoppt-Privatdarlehen-1726835-0/               | ✓ | ⏱: 0.78s 
+[FETCH]... ↓ https://www.test.de/Euro-Asset-Management-Unerlaubte-Geschaefte-1073973-0/                           | ✓ | ⏱: 2.09s 
+[SCRAPE].. ◆ https://www.test.de/Euro-Asset-Management-Unerlaubte-Geschaefte-1073973-0/                           | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.test.de/Euro-Asset-Management-Unerlaubte-Geschaefte-1073973-0/                           | ✓ | ⏱: 3.00s 
+[FETCH]... ↓ http://test.de                                                                                       | ✓ | ⏱: 4.64s 
+[SCRAPE].. ◆ http://test.de                                                                                       | ✓ | ⏱: 0.06s 
+[COMPLETE] ● http://test.de                                                                                       | ✓ | ⏱: 6.72s 
+[FETCH]... ↓ https://www.test.de/Im-Visier-Future-Team-GmbH-21521-0/                                              | ✓ | ⏱: 0.73s 
+[SCRAPE].. ◆ https://www.test.de/Im-Visier-Future-Team-GmbH-21521-0/                                              | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.test.de/Im-Visier-Future-Team-GmbH-21521-0/                                              | ✓ | ⏱: 0.76s 
+[FETCH]... ↓ https://www.test.de/sitemap/news                                                                     | ✓ | ⏱: 0.53s 
+[SCRAPE].. ◆ https://www.test.de/sitemap/news                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.test.de/sitemap/news                                                                     | ✓ | ⏱: 0.55s 
+[FETCH]... ↓ https://www.test.de/ebook-reader-im-test-4806170-5406802/                                            | ✓ | ⏱: 0.91s 
+[SCRAPE].. ◆ https://www.test.de/ebook-reader-im-test-4806170-5406802/                                            | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.test.de/ebook-reader-im-test-4806170-5406802/                                            | ✓ | ⏱: 0.95s 
+[FETCH]... ↓ https://www.test.de/news/Bluetooth-Lautsprecher-...iede-bei-Akkulaufzeit-und-Regenschutz-6330095-0/  | ✓ | ⏱: 1.22s 
+[SCRAPE].. ◆ https://www.test.de/news/Bluetooth-Lautsprecher-...iede-bei-Akkulaufzeit-und-Regenschutz-6330095-0/  | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.test.de/news/Bluetooth-Lautsprecher-...iede-bei-Akkulaufzeit-und-Regenschutz-6330095-0/  | ✓ | ⏱: 1.28s 
+[FETCH]... ↓ https://www.test.de/unternehmen/vertrieb-5030556-0/                                                  | ✓ | ⏱: 0.78s 
+[SCRAPE].. ◆ https://www.test.de/unternehmen/vertrieb-5030556-0/                                                  | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.test.de/unternehmen/vertrieb-5030556-0/                                                  | ✓ | ⏱: 0.82s 
+[FETCH]... ↓ https://www.test.de/impressum/                                                                       | ✓ | ⏱: 2.19s 
+[SCRAPE].. ◆ https://www.test.de/impressum/                                                                       | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.test.de/impressum/                                                                       | ✓ | ⏱: 2.23s 
+[FETCH]... ↓ https://www.volza.com/company-profile/uab-elfant...uania-by-order-of-refko-feuerfest-gmbh-55284997/  | ✓ | ⏱: 1.06s 
+[SCRAPE].. ◆ https://www.volza.com/company-profile/uab-elfant...uania-by-order-of-refko-feuerfest-gmbh-55284997/  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.volza.com/c...euerfest-gmbh-55284997/  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.volza.com/company-profile/uab-elfant...uania-by-order-of-refko-feuerfest-gmbh-55284997/  | ✗ | ⏱: 2.58s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.test.de/news/Stiftung-Warentest-test...alten-UV-Schutz-Versprechen-nicht-ein-6319893-0/  | ✓ | ⏱: 1.87s 
+[SCRAPE].. ◆ https://www.test.de/news/Stiftung-Warentest-test...alten-UV-Schutz-Versprechen-nicht-ein-6319893-0/  | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.test.de/news/Stiftung-Warentest-test...alten-UV-Schutz-Versprechen-nicht-ein-6319893-0/  | ✓ | ⏱: 1.92s 
+[FETCH]... ↓ https://www.test.de/news/Bankschliessfach-Vergle...de-bei-Kosten-und-Versicherungsschutz-6329625-0/  | ✓ | ⏱: 1.93s 
+[SCRAPE].. ◆ https://www.test.de/news/Bankschliessfach-Vergle...de-bei-Kosten-und-Versicherungsschutz-6329625-0/  | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.test.de/news/Bankschliessfach-Vergle...de-bei-Kosten-und-Versicherungsschutz-6329625-0/  | ✓ | ⏱: 1.99s 
+[FETCH]... ↓ https://www.test.de/news/Wassersparende-Duschkoe...ea-Modell-schlaegt-130-Euro-Duschkopf-6329495-0/  | ✓ | ⏱: 1.98s 
+[SCRAPE].. ◆ https://www.test.de/news/Wassersparende-Duschkoe...ea-Modell-schlaegt-130-Euro-Duschkopf-6329495-0/  | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.test.de/news/Wassersparende-Duschkoe...ea-Modell-schlaegt-130-Euro-Duschkopf-6329495-0/  | ✓ | ⏱: 2.03s 
+[FETCH]... ↓ https://www.test.de/aboutus/                                                                         | ✓ | ⏱: 2.54s 
+[SCRAPE].. ◆ https://www.test.de/aboutus/                                                                         | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.test.de/aboutus/                                                                         | ✓ | ⏱: 2.58s 
+[FETCH]... ↓ https://www.test.de/newsletter/                                                                      | ✓ | ⏱: 0.62s 
+[SCRAPE].. ◆ https://www.test.de/newsletter/                                                                      | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.test.de/newsletter/                                                                      | ✓ | ⏱: 0.66s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/refko-feuerfest-gmbh-41fc8ef6bc90.json

@@ -1,0 +1,171 @@
+[
+  {
+    "channel": "email",
+    "value": "tday@southerncement.co.uk",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/customer-support/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "rgreally@premiercement.co.uk",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/customer-support/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "pmatthews@premiercement.co.uk",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/customer-support/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@southerncement.co.uk",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/customer-support/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "payablesscl@isac.crh.com",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/customer-support/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+441473284320",
+    "status": "valid_format",
+    "source_url": "https://www.southerncement.co.uk/customer-support/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@southerncement.co.uk",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/customer-support/phil-matthews/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@southerncement.co.uk",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tday@southerncement.co.uk",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/our-locations/ipswich/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "payablesscl@isac.crh.com",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/our-locations/ipswich/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@southerncement.co.uk",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/our-locations/ipswich/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35314682590",
+    "status": "valid_format",
+    "source_url": "https://www.southerncement.co.uk/our-locations/ipswich/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tday@southerncement.co.uk",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/our-locations/shoreham/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "payablesscl@isac.crh.com",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/our-locations/shoreham/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@southerncement.co.uk",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/our-locations/shoreham/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35314682590",
+    "status": "valid_format",
+    "source_url": "https://www.southerncement.co.uk/our-locations/shoreham/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@southerncement.co.uk",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/home/our-products-docks/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@southerncement.co.uk",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/sitemap/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "payablesscl@isac.crh.com",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/sitemap/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+441473284320",
+    "status": "valid_format",
+    "source_url": "https://www.southerncement.co.uk/sitemap/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@southerncement.co.uk",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/our-company/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@southerncement.co.uk",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "payablesscl@isac.crh.com",
+    "status": "observed",
+    "source_url": "https://www.southerncement.co.uk/contact-us/",
+    "company_public": true
+  }
+]

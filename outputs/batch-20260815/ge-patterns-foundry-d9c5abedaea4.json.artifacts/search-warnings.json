@@ -1,0 +1,14 @@
+[
+  {
+    "query": "site:gepatterns.co.za (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for 'site:gepatterns.co.za (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")': <urlopen error [Errno 61] Connection refused>"
+  },
+  {
+    "query": "site:gepatterns.co.za (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "searxng",
+    "reason": "All active SearXNG engines failed for 'site:gepatterns.co.za (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")': bing: HTTP connection error, duckduckgo: HTTP connection error, google cse: HTTP connection error, qwant: HTTP connection error"
+  }
+]

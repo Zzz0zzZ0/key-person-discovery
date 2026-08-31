@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://elizabethrevestimentos.com.br/wp-content/uploads/2024/07/politica-de-compliance-mohawk-brasil.pdf",
+    "markdown": "",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)>",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://elizabethrevestimentos.com.br/wp-content/uploads/2024/06/Elizabeth-Catalogo-Geral-2025.pdf",
+    "markdown": "",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)>",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://elizabethrevestimentos.com.br/wp-content/uploads/2024/06/Manual-Uso_Elizabeth-1.pdf",
+    "markdown": "",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)>",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  }
+]

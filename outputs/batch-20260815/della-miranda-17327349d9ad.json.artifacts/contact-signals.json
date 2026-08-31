@@ -1,0 +1,232 @@
+[
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/nosotros/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/nosotros/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/2019/06/11/gracias-revista-weekend/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/2019/06/11/gracias-revista-weekend/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/contacto/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/noticias/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/noticias/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/novedades/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/novedades/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/productos/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/productos/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/productos/linea-construccion/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/productos/linea-construccion/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/recetas/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/recetas/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/productos/linea-gastronomica/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/productos/linea-gastronomica/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/productos/linea-hogar/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/productos/linea-hogar/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/noticias/page/10/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/noticias/page/10/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/noticias/page/3/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/noticias/page/3/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/noticias/page/2/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/noticias/page/2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://www.dellamiranda.com.ar/wp-content/uploads/2020/08/Della-Miranda-Quienes-Somos.pdf"
+  }
+]

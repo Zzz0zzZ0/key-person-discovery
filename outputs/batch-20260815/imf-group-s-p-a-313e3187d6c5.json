@@ -1,0 +1,44 @@
+{
+  "company_name": "IMF Group S.p.A.",
+  "candidates": [],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 8,
+    "anysearch_queries": 2,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 40,
+    "search_engine_warnings": 8,
+    "urls_crawled": 1,
+    "crawl_failures": 1,
+    "contact_signals": 0,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

@@ -1,0 +1,54 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://tecnicerceramica.com.br/contato/                                                             | ✓ | ⏱: 4.09s 
+[SCRAPE].. ◆ https://tecnicerceramica.com.br/contato/                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://tecnicerceramica.com.br/contato/                                                             | ✓ | ⏱: 5.51s 
+[FETCH]... ↓ https://tecnicerceramica.com.br                                                                      | ✓ | ⏱: 4.13s 
+[SCRAPE].. ◆ https://tecnicerceramica.com.br                                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://tecnicerceramica.com.br                                                                      | ✓ | ⏱: 5.81s 
+[FETCH]... ↓ https://tecnicerceramica.com.br/conheca-a-tecnicer/                                                  | ✓ | ⏱: 4.06s 
+[SCRAPE].. ◆ https://tecnicerceramica.com.br/conheca-a-tecnicer/                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://tecnicerceramica.com.br/conheca-a-tecnicer/                                                  | ✓ | ⏱: 5.70s 
+[FETCH]... ↓ https://tecnicerceramica.com.br/category/ceramica                                                    | ✓ | ⏱: 4.47s 
+[SCRAPE].. ◆ https://tecnicerceramica.com.br/category/ceramica                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://tecnicerceramica.com.br/category/ceramica                                                    | ✓ | ⏱: 6.09s 
+[FETCH]... ↓ https://tecnicerceramica.com.br/ive-is-leading-apples-design-team/                                   | ✓ | ⏱: 0.74s 
+[SCRAPE].. ◆ https://tecnicerceramica.com.br/ive-is-leading-apples-design-team/                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://tecnicerceramica.com.br/ive-is-leading-apples-design-team/                                   | ✓ | ⏱: 1.80s 
+[FETCH]... ↓ https://tecnicerceramica.com.br/services/alta-alumina/                                               | ✓ | ⏱: 0.73s 
+[SCRAPE].. ◆ https://tecnicerceramica.com.br/services/alta-alumina/                                               | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://tecnicerceramica.com.br/services/alta-alumina/                                               | ✓ | ⏱: 1.78s 
+[FETCH]... ↓ https://tecnicerceramica.com.br/room-tells-you-when-its-time-to-get-off                              | ✓ | ⏱: 1.29s 
+[SCRAPE].. ◆ https://tecnicerceramica.com.br/room-tells-you-when-its-time-to-get-off                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://tecnicerceramica.com.br/room-tells-you-when-its-time-to-get-off                              | ✓ | ⏱: 2.58s 
+[FETCH]... ↓ https://tecnicerceramica.com.br/services/materiais/                                                  | ✓ | ⏱: 0.72s 
+[SCRAPE].. ◆ https://tecnicerceramica.com.br/services/materiais/                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://tecnicerceramica.com.br/services/materiais/                                                  | ✓ | ⏱: 2.41s 
+[FETCH]... ↓ https://tecnicerceramica.com.br/services/produtos/                                                   | ✓ | ⏱: 2.89s 
+[SCRAPE].. ◆ https://tecnicerceramica.com.br/services/produtos/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://tecnicerceramica.com.br/services/produtos/                                                   | ✓ | ⏱: 4.26s 
+[FETCH]... ↓ https://tecnicerceramica.com.br/services/socagem-com-ligacao-quimica/                                | ✓ | ⏱: 2.38s 
+[SCRAPE].. ◆ https://tecnicerceramica.com.br/services/socagem-com-ligacao-quimica/                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://tecnicerceramica.com.br/services/socagem-com-ligacao-quimica/                                | ✓ | ⏱: 3.90s 
+[FETCH]... ↓ https://tecnicerceramica.com.br/services_group/mulita/                                               | ✓ | ⏱: 3.33s 
+[SCRAPE].. ◆ https://tecnicerceramica.com.br/services_group/mulita/                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://tecnicerceramica.com.br/services_group/mulita/                                               | ✓ | ⏱: 4.46s 
+[FETCH]... ↓ https://tecnicerceramica.com.br/services_group/produtos/                                             | ✓ | ⏱: 3.07s 
+[SCRAPE].. ◆ https://tecnicerceramica.com.br/services_group/produtos/                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://tecnicerceramica.com.br/services_group/produtos/                                             | ✓ | ⏱: 4.36s 
+[FETCH]... ↓ https://tecnicerceramica.com.br/wp-content/uploads/2020/07/sobre-pecas-2.jpg                         | ✓ | ⏱: 0.17s 
+[SCRAPE].. ◆ https://tecnicerceramica.com.br/wp-content/uploads/2020/07/sobre-pecas-2.jpg                         | ✓ | ⏱: 0.00s 
+[ERROR]... × https://tecnicerceramic...20/07/sobre-pecas-2.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (488 bytes, 0 chars visible) 
+[COMPLETE] ● https://tecnicerceramica.com.br/wp-content/uploads/2020/07/sobre-pecas-2.jpg                         | ✗ | ⏱: 1.43s 
+[FETCH]... ↓ https://tecnicerceramica.com.br/services_group/vibracao-baixo-cimento/                               | ✓ | ⏱: 2.20s 
+[SCRAPE].. ◆ https://tecnicerceramica.com.br/services_group/vibracao-baixo-cimento/                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://tecnicerceramica.com.br/services_group/vibracao-baixo-cimento/                               | ✓ | ⏱: 3.31s 
+[FETCH]... ↓ https://tecnicerceramica.com.br/they-claim-it-is-your-work-time-killer                               | ✓ | ⏱: 1.01s 
+[SCRAPE].. ◆ https://tecnicerceramica.com.br/they-claim-it-is-your-work-time-killer                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://tecnicerceramica.com.br/they-claim-it-is-your-work-time-killer                               | ✓ | ⏱: 3.02s 
+[FETCH]... ↓ https://www.instagram.com/tecnicerceramica                                                           | ✓ | ⏱: 1.63s 
+[SCRAPE].. ◆ https://www.instagram.com/tecnicerceramica                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.instagram.com/tecnicerceramica                                                           | ✓ | ⏱: 3.66s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/tecnicer-cer-mica-47c0dbfedd9d.json

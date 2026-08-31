@@ -1,0 +1,39 @@
+[
+  {
+    "channel": "email",
+    "value": "john@pixcoeurope.com",
+    "status": "observed",
+    "source_url": "https://prospeo.io/c/pixco-europe-revenue",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@pixcoglobal.com",
+    "status": "observed",
+    "source_url": "https://pixcoeurope.com/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@pixcoglobal.com",
+    "status": "observed",
+    "source_url": "https://www.pixcoeurope.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "idandrea@gruppomulti.ch",
+    "status": "observed",
+    "source_url": "https://www.local.ch/en/d/lugano/6900/business-consultancy/pixco-europe-sa-e1jGULcY81JX8af4dlP-HQ",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+41919233265",
+    "status": "valid_format",
+    "source_url": "https://www.local.ch/en/d/lugano/6900/business-consultancy/pixco-europe-sa-e1jGULcY81JX8af4dlP-HQ",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

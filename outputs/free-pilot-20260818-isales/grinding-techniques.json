@@ -1,0 +1,187 @@
+{
+  "company_name": "Grinding Techniques (Pty) Ltd",
+  "candidates": [
+    {
+      "full_name": "Stefan Meyer",
+      "current_title": "Managing Director",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/stefan-meyer-1957b822b",
+          "status": "probable",
+          "source_url": "https://za.linkedin.com/in/stefan-meyer-1957b822b"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://za.linkedin.com/in/stefan-meyer-1957b822b",
+          "quote": "Stefan Meyer - Managing Director at Grinding Techniques, a Company of the TYROLIT Group",
+          "supports": "Current Managing Director title at Grinding Techniques"
+        }
+      ],
+      "confidence": 0.9,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "hr@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+27112716400",
+      "status": "valid_format",
+      "source_url": "https://www.grindtech.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+27123330977",
+      "status": "valid_format",
+      "source_url": "https://www.grindtech.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+27317012882",
+      "status": "valid_format",
+      "source_url": "https://www.grindtech.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+27414845128",
+      "status": "valid_format",
+      "source_url": "https://www.grindtech.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+27215526840",
+      "status": "valid_format",
+      "source_url": "https://www.grindtech.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "pta@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com/contact-us/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "dbn@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com/contact-us/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "pe@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com/contact-us/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "ct@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com/contact-us/",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "validation_rejections": [
+    {
+      "full_name": "Mark Francisco",
+      "reasons": [
+        "evidence URL was not fetched",
+        "linkedin source URL was not fetched"
+      ]
+    },
+    {
+      "full_name": "Thembinkosi Mabena",
+      "reasons": [
+        "current employment at the target company is not verified",
+        "evidence URL was not fetched"
+      ]
+    },
+    {
+      "full_name": "Nicolene Breitenbach",
+      "reasons": [
+        "current employment at the target company is not verified",
+        "evidence URL was not fetched"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 44,
+    "search_engine_warnings": 3,
+    "urls_crawled": 6,
+    "crawl_failures": 0,
+    "contact_signals": 34,
+    "official_urls_discovered": 20,
+    "crm_website": "https://www.grindtech.com",
+    "official_website": "https://www.grindtech.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 1,
+    "pdf_documents_processed": 1,
+    "pdf_documents_extracted": 1,
+    "pdf_pages_extracted": 12,
+    "pdf_failures": 0,
+    "search_evidence_pages": 2,
+    "contact_evidence_pages": 5,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 3,
+    "unverified_candidates": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 50,
+    "contactable_items": 12,
+    "contact_target_met": false,
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

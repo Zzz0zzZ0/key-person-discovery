@@ -1,0 +1,24 @@
+[
+  {
+    "channel": "phone",
+    "value": "+82522311001",
+    "status": "valid_format",
+    "source_url": "https://hanjoolightmetal.com/board/eng",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "help@saramin.co.kr",
+    "status": "observed",
+    "source_url": "https://www.saramin.co.kr/zf_user/company-info/view/csn/ZDlWSEhNMDBWTVhLMWpOclJmZFVZdz09/company_nm/%ED%95%9C%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A9%94%ED%83%88(%EC%A3%BC)"
+  },
+  {
+    "channel": "phone",
+    "value": "+82522311001",
+    "status": "valid_format",
+    "source_url": "https://hanjoolightmetal.com/eng/about/workplace.htm",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

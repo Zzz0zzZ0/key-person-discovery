@@ -1,0 +1,56 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://catmetal.com/                                                                                | ✓ | ⏱: 7.25s 
+[SCRAPE].. ◆ https://catmetal.com/                                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://catmetal.com/                                                                                | ✓ | ⏱: 9.15s 
+[FETCH]... ↓ https://catmetal.com/about/                                                                          | ✓ | ⏱: 7.61s 
+[SCRAPE].. ◆ https://catmetal.com/about/                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://catmetal.com/about/                                                                          | ✓ | ⏱: 9.63s 
+[FETCH]... ↓ http://catmetal.com                                                                                  | ✓ | ⏱: 7.97s 
+[SCRAPE].. ◆ http://catmetal.com                                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://catmetal.com                                                                                  | ✓ | ⏱: 10.00s 
+[FETCH]... ↓ https://catmetal.com/contacto/                                                                       | ✓ | ⏱: 8.83s 
+[SCRAPE].. ◆ https://catmetal.com/contacto/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://catmetal.com/contacto/                                                                       | ✓ | ⏱: 10.37s 
+[FETCH]... ↓ https://catmetal.com/mecanizado/                                                                     | ✓ | ⏱: 2.03s 
+[SCRAPE].. ◆ https://catmetal.com/mecanizado/                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://catmetal.com/mecanizado/                                                                     | ✓ | ⏱: 2.05s 
+[FETCH]... ↓ https://www.trademo.com/colombia/manufacturers/hscode/870880/9                                       | ✓ | ⏱: 1.36s 
+[SCRAPE].. ◆ https://www.trademo.com/colombia/manufacturers/hscode/870880/9                                       | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.trademo.com...cturers/hscode/870880/9  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (10355 bytes) 
+[COMPLETE] ● https://www.trademo.com/colombia/manufacturers/hscode/870880/9                                       | ✗ | ⏱: 1.37s 
+[FETCH]... ↓ https://www.trademo.com/colombia/buyers/hscode/845710/5                                              | ✓ | ⏱: 1.95s 
+[SCRAPE].. ◆ https://www.trademo.com/colombia/buyers/hscode/845710/5                                              | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.trademo.com.../buyers/hscode/845710/5  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (10377 bytes) 
+[COMPLETE] ● https://www.trademo.com/colombia/buyers/hscode/845710/5                                              | ✗ | ⏱: 1.96s 
+[FETCH]... ↓ https://www.importgenius.com/suppliers/catmetal-sas                                                  | ✓ | ⏱: 2.67s 
+[SCRAPE].. ◆ https://www.importgenius.com/suppliers/catmetal-sas                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.importgenius.com/suppliers/catmetal-sas                                                  | ✓ | ⏱: 2.69s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://catmetal.com/wp-content/uploads/2018/12/team2-free-img.png                                   | ✓ | ⏱: 0.53s 
+[SCRAPE].. ◆ https://catmetal.com/wp-content/uploads/2018/12/team2-free-img.png                                   | ✓ | ⏱: 0.00s 
+[ERROR]... × https://catmetal.com/wp...8/12/team2-free-img.png  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (479 bytes, 0 chars visible) 
+[COMPLETE] ● https://catmetal.com/wp-content/uploads/2018/12/team2-free-img.png                                   | ✗ | ⏱: 0.54s 
+[FETCH]... ↓ https://catmetal.com/wp-content/uploads/2018/12/team1-free-img.png                                   | ✓ | ⏱: 0.85s 
+[SCRAPE].. ◆ https://catmetal.com/wp-content/uploads/2018/12/team1-free-img.png                                   | ✓ | ⏱: 0.00s 
+[ERROR]... × https://catmetal.com/wp...8/12/team1-free-img.png  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (479 bytes, 0 chars visible) 
+[COMPLETE] ● https://catmetal.com/wp-content/uploads/2018/12/team1-free-img.png                                   | ✗ | ⏱: 0.86s 
+[FETCH]... ↓ https://catmetal.com/wp-content/uploads/2018/12/team4free-img.png                                    | ✓ | ⏱: 0.63s 
+[SCRAPE].. ◆ https://catmetal.com/wp-content/uploads/2018/12/team4free-img.png                                    | ✓ | ⏱: 0.00s 
+[ERROR]... × https://catmetal.com/wp...18/12/team4free-img.png  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (477 bytes, 0 chars visible) 
+[COMPLETE] ● https://catmetal.com/wp-content/uploads/2018/12/team4free-img.png                                    | ✗ | ⏱: 0.64s 
+[FETCH]... ↓ https://catmetal.com/wp-content/uploads/2018/12/team3-free-img.png                                   | ✓ | ⏱: 0.63s 
+[SCRAPE].. ◆ https://catmetal.com/wp-content/uploads/2018/12/team3-free-img.png                                   | ✓ | ⏱: 0.00s 
+[ERROR]... × https://catmetal.com/wp...8/12/team3-free-img.png  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (479 bytes, 0 chars visible) 
+[COMPLETE] ● https://catmetal.com/wp-content/uploads/2018/12/team3-free-img.png                                   | ✗ | ⏱: 0.64s 
+[FETCH]... ↓ https://catmetal.com/wp-content/uploads/2018/12/team5-free-img.png                                   | ✓ | ⏱: 0.44s 
+[SCRAPE].. ◆ https://catmetal.com/wp-content/uploads/2018/12/team5-free-img.png                                   | ✓ | ⏱: 0.00s 
+[ERROR]... × https://catmetal.com/wp...8/12/team5-free-img.png  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (479 bytes, 0 chars visible) 
+[COMPLETE] ● https://catmetal.com/wp-content/uploads/2018/12/team5-free-img.png                                   | ✗ | ⏱: 0.44s 
+[FETCH]... ↓ https://catmetal.com/wp-content/uploads/2018/12/team6-free-img.png                                   | ✓ | ⏱: 0.47s 
+[SCRAPE].. ◆ https://catmetal.com/wp-content/uploads/2018/12/team6-free-img.png                                   | ✓ | ⏱: 0.00s 
+[ERROR]... × https://catmetal.com/wp...8/12/team6-free-img.png  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (479 bytes, 0 chars visible) 
+[COMPLETE] ● https://catmetal.com/wp-content/uploads/2018/12/team6-free-img.png                                   | ✗ | ⏱: 0.47s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/catmetal-sas-1d5202c2fc36.json

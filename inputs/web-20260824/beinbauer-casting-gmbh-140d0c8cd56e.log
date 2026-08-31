@@ -1,0 +1,50 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.dnb.com/business-directory/company-p...sting_gmbh.a72afd94ce967d9139cbd588a01489da.html  | ✓ | ⏱: 0.47s 
+[SCRAPE].. ◆ https://www.dnb.com/business-directory/company-p...sting_gmbh.a72afd94ce967d9139cbd588a01489da.html  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.dnb.com/bus...9139cbd588a01489da.html  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.dnb.com/business-directory/company-p...sting_gmbh.a72afd94ce967d9139cbd588a01489da.html  | ✗ | ⏱: 2.47s 
+[FETCH]... ↓ https://beinbauer-group.de                                                                           | ✓ | ⏱: 5.56s 
+[SCRAPE].. ◆ https://beinbauer-group.de                                                                           | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://beinbauer-group.de                                                                           | ✓ | ⏱: 6.32s 
+[FETCH]... ↓ https://www.beinbauer-group.de/kontakt/                                                              | ✓ | ⏱: 5.82s 
+[SCRAPE].. ◆ https://www.beinbauer-group.de/kontakt/                                                              | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.beinbauer-group.de/kontakt/                                                              | ✓ | ⏱: 7.44s 
+[FETCH]... ↓ https://www.beinbauer-group.de/en/contact/                                                           | ✓ | ⏱: 5.85s 
+[SCRAPE].. ◆ https://www.beinbauer-group.de/en/contact/                                                           | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.beinbauer-group.de/en/contact/                                                           | ✓ | ⏱: 7.72s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.dnb.com/business-directory/company-p...sting_gmbh.a72afd94ce967d9139cbd588a01489da.html  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.dnb.com/business-directory/company-p...sting_gmbh.a72afd94ce967d9139cbd588a01489da.html  | ✓ | ⏱: 0.00s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.beinbauer-group.de/en/services/supply-chain-management/                                  | ✓ | ⏱: 5.44s 
+[SCRAPE].. ◆ https://www.beinbauer-group.de/en/services/supply-chain-management/                                  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.beinbauer-group.de/en/services/supply-chain-management/                                  | ✓ | ⏱: 5.47s 
+[FETCH]... ↓ https://www.beinbauer-group.de/en/group/management/                                                  | ✓ | ⏱: 5.46s 
+[SCRAPE].. ◆ https://www.beinbauer-group.de/en/group/management/                                                  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.beinbauer-group.de/en/group/management/                                                  | ✓ | ⏱: 5.49s 
+[FETCH]... ↓ https://www.beinbauer-group.de/leistungen/supply-chain-management/                                   | ✓ | ⏱: 5.88s 
+[SCRAPE].. ◆ https://www.beinbauer-group.de/leistungen/supply-chain-management/                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.beinbauer-group.de/leistungen/supply-chain-management/                                   | ✓ | ⏱: 5.91s 
+[FETCH]... ↓ https://www.beinbauer-group.de/wp-content/uploads/2026/04/Standardbild_Management_800x506px.jpg      | ✓ | ⏱: 0.18s 
+[SCRAPE].. ◆ https://www.beinbauer-group.de/wp-content/uploads/2026/04/Standardbild_Management_800x506px.jpg      | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.beinbauer-g...anagement_800x506px.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (527 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.beinbauer-group.de/wp-content/uploads/2026/04/Standardbild_Management_800x506px.jpg      | ✗ | ⏱: 0.19s 
+[FETCH]... ↓ https://www.beinbauer-group.de/wp-content/upload...ly_Chain_Management_Standardbild_800x506px-1.jpg  | ✓ | ⏱: 0.16s 
+[SCRAPE].. ◆ https://www.beinbauer-group.de/wp-content/upload...ly_Chain_Management_Standardbild_800x506px-1.jpg  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.beinbauer-g...ardbild_800x506px-1.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (557 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.beinbauer-group.de/wp-content/upload...ly_Chain_Management_Standardbild_800x506px-1.jpg  | ✗ | ⏱: 0.17s 
+[FETCH]... ↓ https://www.beinbauer-group.de/en/group/about-us/                                                    | ✓ | ⏱: 7.06s 
+[SCRAPE].. ◆ https://www.beinbauer-group.de/en/group/about-us/                                                    | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.beinbauer-group.de/en/group/about-us/                                                    | ✓ | ⏱: 7.10s 
+[FETCH]... ↓ https://www.beinbauer-group.de/unternehmen/management/                                               | ✓ | ⏱: 2.78s 
+[SCRAPE].. ◆ https://www.beinbauer-group.de/unternehmen/management/                                               | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.beinbauer-group.de/unternehmen/management/                                               | ✓ | ⏱: 2.81s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.beinbauer-group.de/wp-content/uploads/2026/04/Standardbild_Management_800x506px.jpg      | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.beinbauer-group.de/wp-content/uploads/2026/04/Standardbild_Management_800x506px.jpg      | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://www.beinbauer-group.de/wp-content/upload...ly_Chain_Management_Standardbild_800x506px-1.jpg  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.beinbauer-group.de/wp-content/upload...ly_Chain_Management_Standardbild_800x506px-1.jpg  | ✓ | ⏱: 0.01s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260824/beinbauer-casting-gmbh-140d0c8cd56e.json

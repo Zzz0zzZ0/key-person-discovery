@@ -1,0 +1,51 @@
+{
+  "version": "0.2.1",
+  "crm_mode": "read_only",
+  "companies": [
+    {
+      "name": "Braskort Abrasivos",
+      "pdf_documents_discovered": 0,
+      "pdf_documents_extracted": 0,
+      "candidates": [],
+      "unassigned_contacts": 4,
+      "notes": "No PDF was returned in this search snapshot; official WhatsApp and phones were retained."
+    },
+    {
+      "name": "Harbor Castings Inc.",
+      "pdf_documents_discovered_in_final_snapshot": 0,
+      "pdf_targeted_validation": {
+        "url": "https://www.harborinvestmentcastings.com/wp-content/uploads/sites/38/2025/04/ITAR-Registration-Letter.pdf",
+        "pages_extracted": 2,
+        "characters_extracted": 5866,
+        "contains_charles_lane_ii": true
+      },
+      "candidates": [
+        {
+          "full_name": "Chuck Lane",
+          "current_title": "President",
+          "linkedin_status": "probable",
+          "person_email": null,
+          "person_phone": null
+        }
+      ],
+      "unassigned_contacts": 2,
+      "notes": "Search results varied across reruns. A prior full run extracted three official PDFs and tied Charles Lane II to the President role; the final snapshot retained Chuck Lane through current LinkedIn search evidence. PDF-only government phones were excluded."
+    },
+    {
+      "name": "Industrias Mineiras do Mondego S.A. (IMOSA)",
+      "pdf_documents_discovered": 1,
+      "pdf_documents_extracted": 1,
+      "pdf_pages_extracted": 1,
+      "candidates": [],
+      "unassigned_contacts": 5,
+      "notes": "The extracted PDF was a privacy-rights form and did not contain a qualified key person."
+    }
+  ],
+  "validation": {
+    "unit_tests": 27,
+    "compileall": "passed",
+    "pip_check": "passed",
+    "crm_writeback": false,
+    "hermes_profile_override": "temporary minimax-cn override used for this test only"
+  }
+}

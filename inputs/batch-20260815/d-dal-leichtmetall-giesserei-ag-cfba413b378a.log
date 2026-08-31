@@ -1,0 +1,56 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rocketreach.co/dudal-leichtmetall-giesserei-ag-profile_b6d355cec73b9f2e                      | ✓ | ⏱: 0.44s 
+[SCRAPE].. ◆ https://rocketreach.co/dudal-leichtmetall-giesserei-ag-profile_b6d355cec73b9f2e                      | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...rofile_b6d355cec73b9f2e  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/dudal-leichtmetall-giesserei-ag-profile_b6d355cec73b9f2e                      | ✗ | ⏱: 0.44s 
+[FETCH]... ↓ https://rocketreach.co/dudal-leichtmetall-giesserei-ag-email-format_b6d355cec73b9f2e                 | ✓ | ⏱: 1.31s 
+[SCRAPE].. ◆ https://rocketreach.co/dudal-leichtmetall-giesserei-ag-email-format_b6d355cec73b9f2e                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...format_b6d355cec73b9f2e  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/dudal-leichtmetall-giesserei-ag-email-format_b6d355cec73b9f2e                 | ✗ | ⏱: 1.31s 
+[FETCH]... ↓ https://www.duedal.ch/über-uns                                                                       | ✓ | ⏱: 3.10s 
+[SCRAPE].. ◆ https://www.duedal.ch/über-uns                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.duedal.ch/über-uns                                                                       | ✓ | ⏱: 5.12s 
+[FETCH]... ↓ https://www.duedal.ch/                                                                               | ✓ | ⏱: 3.34s 
+[SCRAPE].. ◆ https://www.duedal.ch/                                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.duedal.ch/                                                                               | ✓ | ⏱: 5.35s 
+[FETCH]... ↓ https://www.duedal.ch/über-uns/team/                                                                 | ✓ | ⏱: 3.03s 
+[SCRAPE].. ◆ https://www.duedal.ch/über-uns/team/                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.duedal.ch/über-uns/team/                                                                 | ✓ | ⏱: 4.94s 
+[FETCH]... ↓ https://www.duedal.ch/anhänge/bureau-veritas/                                                        | ✓ | ⏱: 0.85s 
+[SCRAPE].. ◆ https://www.duedal.ch/anhänge/bureau-veritas/                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.duedal.ch/anhänge/bureau-veritas/                                                        | ✓ | ⏱: 0.87s 
+[FETCH]... ↓ https://www.duedal.ch/karriere/logistiker/                                                           | ✓ | ⏱: 0.82s 
+[SCRAPE].. ◆ https://www.duedal.ch/karriere/logistiker/                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.duedal.ch/karriere/logistiker/                                                           | ✓ | ⏱: 0.84s 
+[FETCH]... ↓ https://www.duedal.ch/karriere/schmelzer/                                                            | ✓ | ⏱: 1.19s 
+[SCRAPE].. ◆ https://www.duedal.ch/karriere/schmelzer/                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.duedal.ch/karriere/schmelzer/                                                            | ✓ | ⏱: 1.21s 
+[ANTIBOT]. ℹ https://duedal.ch                                  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_TIMED_OUT at https://duedal.ch/
+Call log:
+  - navigating to "https://duedal.ch/", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://duedal.ch                                  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_TIMED_OUT at https://duedal.ch/
+Call log:
+  - navigating to "https://duedal.ch/", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/d-dal-leichtmetall-giesserei-ag-cfba413b378a.json

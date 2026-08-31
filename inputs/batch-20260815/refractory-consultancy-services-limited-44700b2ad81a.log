@@ -1,0 +1,25 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://aeroleads.com/c/refractory-consultancy-services-limited                                      | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://aeroleads.com/c/refractory-consultancy-services-limited                                      | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://refcsl.co.uk                                                                                 | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://refcsl.co.uk                                                                                 | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://britishlei.co.uk/detailed-information/5242464/refractory-consultancy-services-limited/       | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://britishlei.co.uk/detailed-information/5242464/refractory-consultancy-services-limited/       | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://www.companiesintheuk.co.uk/ltd/refractory-consultancy-services                               | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.companiesintheuk.co.uk/ltd/refractory-consultancy-services                               | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://www.refcsl.co.uk/                                                                            | ✓ | ⏱: 2.00s 
+[SCRAPE].. ◆ https://www.refcsl.co.uk/                                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refcsl.co.uk/                                                                            | ✓ | ⏱: 2.03s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://refcsl.co.uk/assets/team-hi-vis-workers.jpg                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://refcsl.co.uk/assets/team-hi-vis-workers.jpg                                                  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refcsl.co.uk/assets/team-hi-vis-workers.jpg                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refcsl.co.uk/assets/team-hi-vis-workers.jpg                                              | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://refcsl.co.uk/assets/team-rhi-magnesita.jpg                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://refcsl.co.uk/assets/team-rhi-magnesita.jpg                                                   | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refcsl.co.uk/assets/team-rhi-magnesita.jpg                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refcsl.co.uk/assets/team-rhi-magnesita.jpg                                               | ✓ | ⏱: 0.01s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/refractory-consultancy-services-limited-44700b2ad81a.json

@@ -1,0 +1,96 @@
+{
+  "company_name": "Foshan Nanhai Superband Mould Co., Ltd.",
+  "candidates": [
+    {
+      "full_name": "Lanny Wu",
+      "current_title": "Sales Representative",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 5,
+      "linkedin": [
+        {
+          "value": "https://linkedin.com/in/wheel-mold-supplier",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/wheel-mold-supplier"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/wheel-mold-supplier",
+          "quote": "Sales Representative - Foshan Nanhai Superband Mould Co.,ltd (Current) Mar 2017 - Present",
+          "supports": "Current employment verified via LinkedIn profile explicitly listing the target company and tenure since 2017"
+        },
+        {
+          "source_url": "https://linkedin.com/in/wheel-mold-supplier",
+          "quote": "wuxiaolan@superband.com.cn",
+          "supports": "Company email address provided as contact point on the LinkedIn profile"
+        },
+        {
+          "source_url": "https://subcontracteu.com/en/companies/foshan-nanhai-superband-mould-co-ltd/2322",
+          "quote": "Contact person: Sydney Tang, Phone 008613923173177",
+          "supports": "SubcontractEU listing shows company phone and contact person at the target company"
+        }
+      ],
+      "confidence": 0.65,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+4991186068987",
+      "status": "valid_format",
+      "source_url": "https://www.euroguss.de/en/exhibitors/foshan-nanhai-superband-mould-co-ltd-2533219",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "linkedin",
+      "value": "https://www.linkedin.com/in/polina-milcheva-b2786a149/",
+      "status": "observed",
+      "source_url": "https://subcontracteu.com/en/companies/foshan-nanhai-superband-mould-co-ltd/2322",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Sydney Tang",
+      "matched_by": [
+        "name"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 36,
+    "search_engine_warnings": 1,
+    "urls_crawled": 26,
+    "crawl_failures": 4,
+    "contact_signals": 8,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 2,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 2,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 4,
+    "contactable_items": 3,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

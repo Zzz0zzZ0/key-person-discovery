@@ -1,0 +1,27 @@
+[
+  {
+    "channel": "email",
+    "value": "administracion@servifundmol.com",
+    "status": "observed",
+    "source_url": "https://empresite.eleconomista.es/SERVIFUND-MOL.html",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "administracion@servifundmol.com",
+    "status": "observed",
+    "source_url": "https://servifundmol.com/de/kontakt/"
+  },
+  {
+    "channel": "email",
+    "value": "administracion@servifundmol.com",
+    "status": "observed",
+    "source_url": "https://servifundmol.com/en/company-foundry-aluminum-barcelona/"
+  },
+  {
+    "channel": "email",
+    "value": "administracion@servifundmol.com",
+    "status": "observed",
+    "source_url": "https://servifundmol.com/fr/entreprise-fonderie-aluminium-barcelone/"
+  }
+]

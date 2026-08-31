@@ -1,0 +1,28 @@
+[
+  {
+    "channel": "email",
+    "value": "goto@sodick.co.jp",
+    "status": "observed",
+    "source_url": "https://jp.linkedin.com/in/%E5%8F%B2%E6%98%8E-%E9%98%BF%E9%83%A8-ab4b25257"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/%E5%8F%B2%E6%98%8E-%E9%98%BF%E9%83%A8-ab4b25257",
+    "status": "probable",
+    "source_url": "https://jp.linkedin.com/in/%E5%8F%B2%E6%98%8E-%E9%98%BF%E9%83%A8-ab4b25257"
+  },
+  {
+    "channel": "phone",
+    "value": "+81892302223",
+    "status": "valid_format",
+    "source_url": "https://jp.linkedin.com/in/%E5%8F%B2%E6%98%8E-%E9%98%BF%E9%83%A8-ab4b25257",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nh%E1%BA%ADt-nguy%E1%BB%85n-01a72b281",
+    "status": "probable",
+    "source_url": "https://vn.linkedin.com/in/nh%E1%BA%ADt-nguy%E1%BB%85n-01a72b281"
+  }
+]

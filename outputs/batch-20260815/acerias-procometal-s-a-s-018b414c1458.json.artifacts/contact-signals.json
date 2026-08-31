@@ -1,0 +1,100 @@
+[
+  {
+    "channel": "email",
+    "value": "comercial@aceriasprocometal.com",
+    "status": "observed",
+    "source_url": "http://aceriasprocometal.com/trayectoria.html",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "aceriasprocometal@outlook.com",
+    "status": "observed",
+    "source_url": "http://aceriasprocometal.com/trayectoria.html",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@aceriasprocometal.com",
+    "status": "observed",
+    "source_url": "http://aceriasprocometal.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "aceriasprocometal@outlook.com",
+    "status": "observed",
+    "source_url": "http://aceriasprocometal.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@aceriasprocometal.com",
+    "status": "observed",
+    "source_url": "https://aceriasprocometal.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "aceriasprocometal@outlook.com",
+    "status": "observed",
+    "source_url": "https://aceriasprocometal.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@aceriasprocometal.com",
+    "status": "observed",
+    "source_url": "http://www.aceriasprocometal.com/cotizacion.php",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "aceriasprocometal@outlook.com",
+    "status": "observed",
+    "source_url": "http://www.aceriasprocometal.com/cotizacion.php",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@aceriasprocometal.com",
+    "status": "observed",
+    "source_url": "http://www.aceriasprocometal.com/contactenos.php",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "aceriasprocometal@outlook.com",
+    "status": "observed",
+    "source_url": "http://www.aceriasprocometal.com/contactenos.php",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@aceriasprocometal.com",
+    "status": "observed",
+    "source_url": "http://aceriasprocometal.com/contactenos.php",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "aceriasprocometal@outlook.com",
+    "status": "observed",
+    "source_url": "http://aceriasprocometal.com/contactenos.php",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@aceriasprocometal.com",
+    "status": "probable",
+    "source_url": "https://aceriasprocometal.com/contactenos.php",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "aceriasprocometal@outlook.com",
+    "status": "probable",
+    "source_url": "https://aceriasprocometal.com/contactenos.php",
+    "company_public": true
+  }
+]

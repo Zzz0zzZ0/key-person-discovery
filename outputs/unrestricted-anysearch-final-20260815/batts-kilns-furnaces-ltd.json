@@ -1,0 +1,107 @@
+{
+  "company_name": "Batts Kilns & Furnaces Ltd",
+  "candidates": [
+    {
+      "full_name": "Jeremy Cross",
+      "current_title": "Operations Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.kilns.co.uk/kilns-furnaces-updates/meet-our-new-operations-manager-jeremy",
+          "quote": "Kilns & Furnaces are excited to welcome our new Operations Manager Jeremy Cross. With over 35 years of industry experience, he has great ambitions for growing the brand internationally.",
+          "supports": "Verified Operations Manager at Kilns & Furnaces Ltd with full authority over business operations and international growth strategy."
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Dave Cotton",
+      "current_title": "Drawing Office Manager",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 75,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.kilns.co.uk/news",
+          "quote": "Meet Our Drawing Office Manager | Dave Cotton. At Kilns & Furnaces, our success is built on quality and expertise, and few exemplify this better than Dave Cotton, our longest-serving Drawing Office Manager with over 50 years of dedicated service.",
+          "supports": "Verified Drawing Office Manager at Kilns & Furnaces Ltd, responsible for technical design and specification of kilns and furnaces."
+        }
+      ],
+      "confidence": 0.82,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "sales@kilns.co.uk",
+      "status": "observed",
+      "source_url": "https://www.kilns.co.uk",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+441782344270",
+      "status": "valid_format",
+      "source_url": "https://www.kilns.co.uk",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 9,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 45,
+    "search_engine_warnings": 0,
+    "urls_crawled": 26,
+    "crawl_failures": 0,
+    "contact_signals": 52,
+    "official_urls_discovered": 12,
+    "crm_website": "https://battskilns.co.uk",
+    "official_website": "https://www.kilns.co.uk",
+    "website_recovered": true,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 2,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  },
+  "reprocessed_from": "batts-kilns-furnaces-ltd-v2.json",
+  "reprocessed_at": "2026-08-15T09:20:58.455177+00:00",
+  "reprocess_reason": "recalculate public company contacts after verified-domain recovery"
+}

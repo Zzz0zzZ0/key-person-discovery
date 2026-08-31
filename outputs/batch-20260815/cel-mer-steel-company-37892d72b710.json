@@ -1,0 +1,223 @@
+{
+  "company_name": "CEL-MER STEEL COMPANY",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+902626581434",
+      "status": "valid_format",
+      "source_url": "https://celmercelik.com/en/contact-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+61737166900",
+      "status": "valid_format",
+      "source_url": "https://celmercelik.com/en/contact-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+13468478287",
+      "status": "valid_format",
+      "source_url": "https://celmercelik.com/en/contact-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+49711187780",
+      "status": "valid_format",
+      "source_url": "https://celmercelik.com/en/contact-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+34943261040",
+      "status": "valid_format",
+      "source_url": "https://celmercelik.com/en/contact-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+491724207673",
+      "status": "valid_format",
+      "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@gmail.com",
+      "status": "observed",
+      "source_url": "https://celmercelik.com/teams/nick-halen/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "eg.sample@xyz.com",
+      "status": "observed",
+      "source_url": "https://www.tradekey.com/company/CEL-MER-STEEL-COMPANY-1845982.html",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "contactus@tradekey.com",
+      "status": "observed",
+      "source_url": "https://www.tradekey.com/company/CEL-MER-STEEL-COMPANY-1845982.html",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+12092272270",
+      "status": "valid_format",
+      "source_url": "https://www.tradekey.com/company/CEL-MER-STEEL-COMPANY-1845982.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+18886529307",
+      "status": "valid_format",
+      "source_url": "https://www.tradekey.com/company/CEL-MER-STEEL-COMPANY-1845982.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@castleinternational.com.au",
+      "status": "probable",
+      "source_url": "https://celmercelik.com/en/contact-us/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "jstaack@staackllc.com",
+      "status": "probable",
+      "source_url": "https://celmercelik.com/en/contact-us/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@baeurle.de",
+      "status": "probable",
+      "source_url": "https://celmercelik.com/en/contact-us/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "marrieta@euskosteel.com",
+      "status": "probable",
+      "source_url": "https://celmercelik.com/en/contact-us/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "h.yilmaz@sonne-stahl.de",
+      "status": "probable",
+      "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Didem ÜNDÜL",
+      "matched_by": [
+        "email",
+        "name"
+      ]
+    },
+    {
+      "kind": "candidate",
+      "full_name": "Ahmet KORKMAZ",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "candidate",
+      "full_name": "Gamze TAŞ",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "candidate",
+      "full_name": "Ilenay ÇALIŞKAN",
+      "matched_by": [
+        "email",
+        "name"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 8,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 27,
+    "search_engine_warnings": 0,
+    "urls_crawled": 20,
+    "crawl_failures": 2,
+    "contact_signals": 82,
+    "official_urls_discovered": 6,
+    "pdf_documents_discovered": 6,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 10,
+    "pdf_failures": 1,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 6,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 13,
+    "crm_duplicates_removed": 8,
+    "target_contactable_items": 1,
+    "contactable_items": 16,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

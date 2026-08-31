@@ -1,0 +1,74 @@
+{
+  "name": "Able Supply Company",
+  "website": "http://www.ablerefractory.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "011b7ee0-12df-4c7d-9217-c857680ae6ce",
+  "crm_linkedin_url": null,
+  "crm_country": "美国",
+  "crm_updated_at": "2026-07-29T05:05:59.832236+00:00",
+  "crm_contact_count": 4,
+  "crm_contacts": [
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+1 713-926-9623",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "internetsales@ablerefractory.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "dale@able-huber.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "webmaster@ablerefractory.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-17T02:30:32.393349+00:00",
+  "source": "twenty_postgresql_read_only"
+}

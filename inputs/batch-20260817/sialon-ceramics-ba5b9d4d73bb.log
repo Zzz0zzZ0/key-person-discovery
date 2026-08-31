@@ -1,0 +1,364 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://sialon.com/contact/                                                                          | ✓ | ⏱: 2.20s 
+[SCRAPE].. ◆ https://sialon.com/contact/                                                                          | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://sialon.com/contact/                                                                          | ✓ | ⏱: 3.51s 
+[FETCH]... ↓ https://sialon.com                                                                                   | ✓ | ⏱: 2.74s 
+[SCRAPE].. ◆ https://sialon.com                                                                                   | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://sialon.com                                                                                   | ✓ | ⏱: 3.80s 
+[FETCH]... ↓ https://sialon.com/about-us/                                                                         | ✓ | ⏱: 3.84s 
+[SCRAPE].. ◆ https://sialon.com/about-us/                                                                         | ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://sialon.com/about-us/                                                                         | ✓ | ⏱: 4.77s 
+[FETCH]... ↓ https://sialon.com/pl/contact/                                                                       | ✓ | ⏱: 1.21s 
+[SCRAPE].. ◆ https://sialon.com/pl/contact/                                                                       | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://sialon.com/pl/contact/                                                                       | ✓ | ⏱: 1.94s 
+[FETCH]... ↓ https://en.syna.se/companypublic/5593796419/sialon-ceramics-sweden-ab                                | ✓ | ⏱: 6.61s 
+[SCRAPE].. ◆ https://en.syna.se/companypublic/5593796419/sialon-ceramics-sweden-ab                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://en.syna.se/companypublic/5593796419/sialon-ceramics-sweden-ab                                | ✓ | ⏱: 8.51s 
+[FETCH]... ↓ https://sialon.com/privacy/                                                                          | ✓ | ⏱: 1.10s 
+[SCRAPE].. ◆ https://sialon.com/privacy/                                                                          | ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://sialon.com/privacy/                                                                          | ✓ | ⏱: 2.85s 
+[FETCH]... ↓ https://sialon.com/sialon-ceramics-general-terms-and-conditions-of-sale/                             | ✓ | ⏱: 0.85s 
+[SCRAPE].. ◆ https://sialon.com/sialon-ceramics-general-terms-and-conditions-of-sale/                             | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://sialon.com/sialon-ceramics-general-terms-and-conditions-of-sale/                             | ✓ | ⏱: 1.91s 
+[FETCH]... ↓ https://sialon.com/sialon-ceramics/                                                                  | ✓ | ⏱: 0.80s 
+[SCRAPE].. ◆ https://sialon.com/sialon-ceramics/                                                                  | ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://sialon.com/sialon-ceramics/                                                                  | ✓ | ⏱: 2.28s 
+[FETCH]... ↓ https://sialon.com/tw/contact/                                                                       | ✓ | ⏱: 0.80s 
+[SCRAPE].. ◆ https://sialon.com/tw/contact/                                                                       | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://sialon.com/tw/contact/                                                                       | ✓ | ⏱: 2.09s 
+[FETCH]... ↓ https://upplysningar.syna.se/foretag/5593796419/sialon-ceramics-sweden-ab                            | ✓ | ⏱: 3.33s 
+[SCRAPE].. ◆ https://upplysningar.syna.se/foretag/5593796419/sialon-ceramics-sweden-ab                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://upplysningar.syna.se/foretag/5593796419/sialon-ceramics-sweden-ab                            | ✓ | ⏱: 4.71s 
+[FETCH]... ↓ https://sialon.com/de/contact/                                                                       | ✓ | ⏱: 12.09s 
+[SCRAPE].. ◆ https://sialon.com/de/contact/                                                                       | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://sialon.com/de/contact/                                                                       | ✓ | ⏱: 14.24s 
+[FETCH]... ↓ https://sialon.com/it/contact/                                                                       | ✓ | ⏱: 12.04s 
+[SCRAPE].. ◆ https://sialon.com/it/contact/                                                                       | ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://sialon.com/it/contact/                                                                       | ✓ | ⏱: 14.21s 
+[FETCH]... ↓ https://www.dnb.com/business-directory/company-p...ramics_ltd.6a0404f80c918a1e63dabacaeb3766c6.html  | ✓ | ⏱: 2.17s 
+[SCRAPE].. ◆ https://www.dnb.com/business-directory/company-p...ramics_ltd.6a0404f80c918a1e63dabacaeb3766c6.html  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.dnb.com/business-directory/company-p...ramics_ltd.6a0404f80c918a1e63dabacaeb3766c6.html  | ✓ | ⏱: 2.18s 
+[FETCH]... ↓ https://www.allabolag.se/rapporter/sialon-ceramics-sweden-ab/göteborg/producenter/2KIEGXVI63IK3      | ✓ | ⏱: 5.71s 
+[SCRAPE].. ◆ https://www.allabolag.se/rapporter/sialon-ceramics-sweden-ab/göteborg/producenter/2KIEGXVI63IK3      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.allabolag.se/rapporter/sialon-ceramics-sweden-ab/göteborg/producenter/2KIEGXVI63IK3      | ✓ | ⏱: 6.58s 
+[FETCH]... ↓ https://www.info-clipper.com/en/company/denmark/sialon-ceramics-ltd.dkd52b1y8.html                   | ✓ | ⏱: 8.37s 
+[SCRAPE].. ◆ https://www.info-clipper.com/en/company/denmark/sialon-ceramics-ltd.dkd52b1y8.html                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.info-clipper.com/en/company/denmark/sialon-ceramics-ltd.dkd52b1y8.html                   | ✓ | ⏱: 9.23s 
+[FETCH]... ↓ https://www.paqle.dk/p/sialon-ceramics-ltd/2403556                                                   | ✓ | ⏱: 11.48s 
+[SCRAPE].. ◆ https://www.paqle.dk/p/sialon-ceramics-ltd/2403556                                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.paqle.dk/p/sialon-ceramics-ltd/2403556                                                   | ✓ | ⏱: 12.64s 
+[FETCH]... ↓ https://www.syalons.com/resources/articles-and-guides/sialons/                                       | ✓ | ⏱: 15.47s 
+[SCRAPE].. ◆ https://www.syalons.com/resources/articles-and-guides/sialons/                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.syalons.com/resources/articles-and-guides/sialons/                                       | ✓ | ⏱: 17.50s 
+[INIT].... → Crawl4AI 0.9.2 
+[INIT].... → Crawl4AI 0.9.2 
+[ANTIBOT]. ℹ https://sialon.com/cs/c...g-choose-original=false  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/cs/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/cs/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://sialon.com/cs/c...g-choose-original=false  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/cs/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/cs/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://sialon.com/da/c...g-choose-original=false  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/da/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/da/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://sialon.com/da/c...g-choose-original=false  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/da/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/da/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://sialon.com/el/c...g-choose-original=false  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/el/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/el/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://sialon.com/el/c...g-choose-original=false  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/el/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/el/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://sialon.com/de/c...g-choose-original=false  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/de/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/de/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://sialon.com/de/c...g-choose-original=false  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/de/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/de/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://sialon.com/es/c...g-choose-original=false  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/es/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/es/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://sialon.com/es/c...g-choose-original=false  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/es/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/es/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://sialon.com/id/c...g-choose-original=false  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/id/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/id/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://sialon.com/id/c...g-choose-original=false  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/id/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/id/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://sialon.com/fr/c...g-choose-original=false  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/fr/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/fr/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://sialon.com/fr/c...g-choose-original=false  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/fr/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/fr/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://sialon.com/it/c...g-choose-original=false  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/it/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/it/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://sialon.com/it/c...g-choose-original=false  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/it/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/it/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://sialon.com/sv/c...g-choose-original=false  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/sv/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/sv/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://sialon.com/sv/c...g-choose-original=false  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/sv/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/sv/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[FETCH]... ↓ https://sialon.com/zh/contact/?wg-choose-original=false                                              | ✓ | ⏱: 4.57s 
+[SCRAPE].. ◆ https://sialon.com/zh/contact/?wg-choose-original=false                                              | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://sialon.com/zh/contact/?wg-choose-original=false                                              | ✓ | ⏱: 5.25s 
+[FETCH]... ↓ https://sialon.com/pt/contact/?wg-choose-original=false                                              | ✓ | ⏱: 14.21s 
+[SCRAPE].. ◆ https://sialon.com/pt/contact/?wg-choose-original=false                                              | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://sialon.com/pt/contact/?wg-choose-original=false                                              | ✓ | ⏱: 15.43s 
+[FETCH]... ↓ https://sialon.com/tr/contact/?wg-choose-original=false                                              | ✓ | ⏱: 13.77s 
+[SCRAPE].. ◆ https://sialon.com/tr/contact/?wg-choose-original=false                                              | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://sialon.com/tr/contact/?wg-choose-original=false                                              | ✓ | ⏱: 15.35s 
+[INIT].... → Crawl4AI 0.9.2 
+[ANTIBOT]. ℹ https://sialon.com/cs/c...g-choose-original=false  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/cs/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/cs/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://sialon.com/cs/c...g-choose-original=false  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/cs/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/cs/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://sialon.com/da/c...g-choose-original=false  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/da/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/da/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://sialon.com/da/c...g-choose-original=false  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://sialon.com/da/contact/?wg-choose-original=false
+Call log:
+  - navigating to "https://sialon.com/da/contact/?wg-choose-original=false", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[FETCH]... ↓ https://sialon.com/de/contact/?wg-choose-original=false                                              | ✓ | ⏱: 4.41s 
+[SCRAPE].. ◆ https://sialon.com/de/contact/?wg-choose-original=false                                              | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://sialon.com/de/contact/?wg-choose-original=false                                              | ✓ | ⏱: 5.25s 
+[FETCH]... ↓ https://sialon.com/es/contact/?wg-choose-original=false                                              | ✓ | ⏱: 2.94s 
+[SCRAPE].. ◆ https://sialon.com/es/contact/?wg-choose-original=false                                              | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://sialon.com/es/contact/?wg-choose-original=false                                              | ✓ | ⏱: 4.69s 
+[FETCH]... ↓ https://sialon.com/fr/contact/?wg-choose-original=false                                              | ✓ | ⏱: 3.79s 
+[SCRAPE].. ◆ https://sialon.com/fr/contact/?wg-choose-original=false                                              | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://sialon.com/fr/contact/?wg-choose-original=false                                              | ✓ | ⏱: 4.43s 
+[FETCH]... ↓ https://sialon.com/el/contact/?wg-choose-original=false                                              | ✓ | ⏱: 4.97s 
+[SCRAPE].. ◆ https://sialon.com/el/contact/?wg-choose-original=false                                              | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://sialon.com/el/contact/?wg-choose-original=false                                              | ✓ | ⏱: 5.66s 
+[FETCH]... ↓ https://sialon.com/it/contact/?wg-choose-original=false                                              | ✓ | ⏱: 1.63s 
+[SCRAPE].. ◆ https://sialon.com/it/contact/?wg-choose-original=false                                              | ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://sialon.com/it/contact/?wg-choose-original=false                                              | ✓ | ⏱: 2.31s 
+[FETCH]... ↓ https://sialon.com/id/contact/?wg-choose-original=false                                              | ✓ | ⏱: 12.54s 
+[SCRAPE].. ◆ https://sialon.com/id/contact/?wg-choose-original=false                                              | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://sialon.com/id/contact/?wg-choose-original=false                                              | ✓ | ⏱: 13.34s 
+[FETCH]... ↓ https://sialon.com/sv/contact/?wg-choose-original=false                                              | ✓ | ⏱: 12.61s 
+[SCRAPE].. ◆ https://sialon.com/sv/contact/?wg-choose-original=false                                              | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://sialon.com/sv/contact/?wg-choose-original=false                                              | ✓ | ⏱: 13.26s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260817/sialon-ceramics-ba5b9d4d73bb.json

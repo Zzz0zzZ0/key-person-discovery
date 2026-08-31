@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://malleable.co.za/wp-content/uploads/2025/02/ISOCERTIFICATE.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  }
+]

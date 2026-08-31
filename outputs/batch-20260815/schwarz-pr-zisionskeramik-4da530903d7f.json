@@ -1,0 +1,284 @@
+{
+  "company_name": "SCHWARZ Präzisionskeramik",
+  "candidates": [
+    {
+      "full_name": "Udo Schwarz",
+      "current_title": "Inhaber / Geschäftsführer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "info@keramischekerne.de",
+          "status": "observed",
+          "source_url": "https://www.keramischekerne.de/impressum/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+4975862479720",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.keramischekerne.de/impressum/"
+        },
+        {
+          "value": "+4975862479719",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.keramischekerne.de/impressum/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.keramischekerne.de/impressum/",
+          "quote": "SCHWARZ Präzisionskeramik Udo Schwarz Zollernstraße 11 88518 Herbertingen",
+          "supports": "Named as company owner on legal notice page, establishing him as the decision-maker and inhaltlich verantwortlich (content-responsible party)"
+        },
+        {
+          "source_url": "https://www.keramischekerne.de/datenschutz/",
+          "quote": "SCHWARZ Präzisionskeramik Udo Schwarz Zollernstraße 11 88518 Herbertingen Telefon: +49 (0)7586 2479720 E-Mail: info@keramischekerne.de",
+          "supports": "Listed as data controller in privacy policy, confirming current ownership and operational control"
+        },
+        {
+          "source_url": "https://www.keramischekerne.de/barrierefreiheitserklaerung/",
+          "quote": "SCHWARZ Präzisionskeramik Udo Schwarz Zollernstraße 11 88518 Herbertingen",
+          "supports": "Named in accessibility statement as company representative, confirming ongoing role"
+        },
+        {
+          "source_url": "https://www.keramischekerne.de/unternehmen/",
+          "quote": "SCHWARZ Präzisionskeramik ist 2003 aus der ehemaligen Abteilung 'keramische Kerne', der Firma Feinguss Blank GmbH als eigenständiges Unternehmen hervorgegangen.",
+          "supports": "Company history page corroborates the entity and Udo Schwarz as founding owner-operator"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "poststelle@bfbmb.bwl.de",
+      "status": "observed",
+      "source_url": "https://www.keramischekerne.de/barrierefreiheitserklaerung/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+497112793360",
+      "status": "valid_format",
+      "source_url": "https://www.keramischekerne.de/barrierefreiheitserklaerung/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "julieboyce@eicf.org",
+      "status": "observed",
+      "source_url": "https://eicf.org/schwarz-przisionskeramik-becomes-eicf-new-member/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+441564743077",
+      "status": "valid_format",
+      "source_url": "https://eicf.org/schwarz-przisionskeramik-becomes-eicf-new-member/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+49758692020",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+497586920222",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+4975865880",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+49758658860",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+4975861303",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+4975861304",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+497586331",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+497586332",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+497586918555",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+497586918562",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+4975869590",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+497586959575",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+4973715156",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+49737144177",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+497371936430",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+4973719364329",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+497371129596",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+4973711296096",
+      "status": "valid_format",
+      "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 32,
+    "search_engine_warnings": 0,
+    "urls_crawled": 13,
+    "crawl_failures": 2,
+    "contact_signals": 50,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 2,
+    "pdf_documents_processed": 2,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 2,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 5,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 23,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

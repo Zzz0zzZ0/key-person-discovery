@@ -1,0 +1,79 @@
+{
+  "company_name": "Zalco Aluminium Company",
+  "candidates": [],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 4,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 7,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 35,
+    "search_engine_warnings": 1,
+    "urls_crawled": 15,
+    "crawl_failures": 0,
+    "contact_signals": 42,
+    "official_urls_discovered": 1,
+    "crm_website": "https://zalco.nl",
+    "official_website": "https://zalco.nl",
+    "website_recovered": false,
+    "pdf_documents_discovered": 6,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 3,
+    "pdf_pages_extracted": 3,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 4,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 10,
+    "crm_duplicates_removed": 4,
+    "target_contactable_items": 1,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

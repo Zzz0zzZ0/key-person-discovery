@@ -1,0 +1,197 @@
+{
+  "company_name": "Malleable Castings",
+  "candidates": [
+    {
+      "full_name": "Ben Dyson",
+      "current_title": "Managing Director",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://castingssa.com/malleable-castings-boosts-foundry-efficiencies-with-new-automation-and-additional-equipment/",
+          "quote": "Divisional Managing Director Ben Dyson",
+          "supports": "Managing Director at Malleable Castings, explicitly quoted regarding company operations and investments"
+        },
+        {
+          "source_url": "https://malleable.co.za/about-us/",
+          "quote": "grandson, also christened Ben, has been with the company as Managing Director since 2011",
+          "supports": "Family succession history confirming Ben Dyson as current Managing Director since 2011"
+        },
+        {
+          "source_url": "https://metalworkingnews.info/50th-anniversary-highlights-malleable-castings-progress-achievements/",
+          "quote": "MD Ben Dyson",
+          "supports": "MD Ben Dyson identified alongside CEO Joe Fletcher in 50th anniversary coverage"
+        }
+      ],
+      "confidence": 0.9,
+      "review_required": true
+    },
+    {
+      "full_name": "Joe Fletcher",
+      "current_title": "CEO",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://malleable.co.za/about-us/",
+          "quote": "Prevailing CEO and a shareholder Joe Fletcher joined the company in 1989 as General Manager and he was subsequently promoted to the position of MD/CEO",
+          "supports": "Joe Fletcher is CEO and shareholder, joined 1989, promoted to MD/CEO under current owners"
+        },
+        {
+          "source_url": "https://metalworkingnews.info/50th-anniversary-highlights-malleable-castings-progress-achievements/",
+          "quote": "MD Ben Dyson, CEO Joe Fletcher and Foundry Manager Pradeep Singh",
+          "supports": "CEO Joe Fletcher listed alongside MD and Foundry Manager in operational context"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Pradeep Singh",
+      "current_title": "Foundry Manager",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 75,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://metalworkingnews.info/50th-anniversary-highlights-malleable-castings-progress-achievements/",
+          "quote": "MD Ben Dyson, CEO Joe Fletcher and Foundry Manager Pradeep Singh",
+          "supports": "Pradeep Singh identified as Foundry Manager, third senior figure in company hierarchy"
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true
+    },
+    {
+      "full_name": "Donovan van Niekerk",
+      "current_title": "General Foundry Foreman",
+      "company_match": "probable",
+      "influence_type": "technical_influencer",
+      "influence_score": 50,
+      "linkedin": [
+        {
+          "value": "https://linkedin.com/in/donovan-van-niekerk-870a911a2",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/donovan-van-niekerk-870a911a2"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/donovan-van-niekerk-870a911a2",
+          "quote": "General Foundry Foreman at Malleable Castings a division of West Rand Engineering (Pty) Ltd. Dec 2023 - Present (2 years and 8 months)",
+          "supports": "Current position as General Foundry Foreman at Malleable Castings from LinkedIn profile; source is search_excerpt so company_match is probable"
+        }
+      ],
+      "confidence": 0.5,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+27114630489",
+      "status": "valid_format",
+      "source_url": "https://castingssa.com/malleable-castings-boosts-foundry-efficiencies-with-new-automation-and-additional-equipment/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+27118221503",
+      "status": "valid_format",
+      "source_url": "https://malleable.co.za",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+27118222501",
+      "status": "valid_format",
+      "source_url": "https://malleable.co.za",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "bmcpltd@gmail.com",
+      "status": "observed",
+      "source_url": "https://mycorporateinfo.com/business/bangalore-malleable-castings-private-limited",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "ownleasing@gmail.com",
+      "status": "observed",
+      "source_url": "https://www.tofler.in/shah-malleable-castings-limited/company/U74999MH1963PLC012663",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "support@tofler.in",
+      "status": "observed",
+      "source_url": "https://www.tofler.in/shah-malleable-castings-limited/company/U74999MH1963PLC012663",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 2,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 40,
+    "search_engine_warnings": 1,
+    "urls_crawled": 13,
+    "crawl_failures": 1,
+    "contact_signals": 37,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 1,
+    "pdf_documents_processed": 1,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 1,
+    "search_evidence_pages": 3,
+    "contact_evidence_pages": 2,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 2,
+    "target_contactable_items": 4,
+    "contactable_items": 7,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

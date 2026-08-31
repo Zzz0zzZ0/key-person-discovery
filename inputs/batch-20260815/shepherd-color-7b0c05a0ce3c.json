@@ -1,0 +1,91 @@
+{
+  "name": "Shepherd Color",
+  "website": "https://shepherdcolor.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00293418-7ab1-4d57-9b2d-1a3b6bb4bb4c",
+  "crm_linkedin_url": "https://www.linkedin.com/company/shepherdcolor/",
+  "crm_country": null,
+  "crm_updated_at": "2026-07-29T05:05:59.248864+00:00",
+  "crm_contact_count": 6,
+  "crm_contacts": [
+    {
+      "name": "Official",
+      "email": null,
+      "additional_emails": null,
+      "phone": "56 89 25 11",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Official",
+      "email": "shenzhen@shepherdcolorchina.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Official",
+      "email": "europe@shepherdcolor.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Official",
+      "email": null,
+      "additional_emails": null,
+      "phone": "513-874-0714",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Official",
+      "email": "melbourne@shepherdcolor.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Official",
+      "email": "salesusa@shepherdcolor.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-15T02:24:01.133887+00:00",
+  "source": "twenty_postgresql_read_only"
+}

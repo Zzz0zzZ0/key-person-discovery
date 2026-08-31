@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://www.nzf.com.ua",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.nzf.com.ua/sitemap.xml: unclosed token: line 246, column 18"
+  }
+]

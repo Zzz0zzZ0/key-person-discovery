@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://samancorcr.com/contact/",
+    "markdown": "Contact Us - Samancor Chrome\nContact Information Corporate Office Tel: +27 11 245-1000 Fax: +27 11 245-1200 Physical Address:",
+    "error": "",
+    "provider": "searxng",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  },
+  {
+    "url": "https://samancorcr.com/corporate-governance/sales-information/",
+    "markdown": "Sales Information - Samancor Chrome\nPlease note, no orders or information requests will be processed telephonically. Please make your enquiry by email to the marketing department. Address your email to Marketing, email: Sales@SamancorCr.com.",
+    "error": "",
+    "provider": "searxng",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  }
+]

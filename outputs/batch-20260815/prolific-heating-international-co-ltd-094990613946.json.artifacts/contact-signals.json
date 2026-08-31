@@ -1,0 +1,381 @@
+[
+  {
+    "channel": "email",
+    "value": "prolific@phiheating.com",
+    "status": "observed",
+    "source_url": "https://phiheating.com/contact/"
+  },
+  {
+    "channel": "phone",
+    "value": "+66819148971",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+66618862879",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "prolific@phiheating.com",
+    "status": "observed",
+    "source_url": "https://phiheating.com/ja/csr-team/"
+  },
+  {
+    "channel": "phone",
+    "value": "+6621708171",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/ja/csr-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+66819148971",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/ja/csr-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+66877056200",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/ja/csr-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "prolific@phiheating.com",
+    "status": "observed",
+    "source_url": "https://phiheating.com/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+66819148971",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+66618862879",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "prolific@phiheating.com",
+    "status": "observed",
+    "source_url": "http://www.phiheating.com",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+66819148971",
+    "status": "valid_format",
+    "source_url": "http://www.phiheating.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+66618862879",
+    "status": "valid_format",
+    "source_url": "http://www.phiheating.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "prolific@phiheating.com",
+    "status": "observed",
+    "source_url": "https://phiheating.com/ja/prolific-groups-leadership-training-2019/"
+  },
+  {
+    "channel": "phone",
+    "value": "+6621708171",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/ja/prolific-groups-leadership-training-2019/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+66819148971",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/ja/prolific-groups-leadership-training-2019/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+66877056200",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/ja/prolific-groups-leadership-training-2019/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "prolific@phiheating.com",
+    "status": "observed",
+    "source_url": "https://phiheating.com/laboratory/contact/"
+  },
+  {
+    "channel": "phone",
+    "value": "+6621708171",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/laboratory/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+66819148971",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/laboratory/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+66877056200",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/laboratory/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+66618862879",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/laboratory/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "prolific@phiheating.com",
+    "status": "observed",
+    "source_url": "https://phiheating.com/news-activities/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+66819148971",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/news-activities/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+66618862879",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/news-activities/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "prolific@phiheating.com",
+    "status": "observed",
+    "source_url": "https://phiheating.com/prolific-group-company-outing-2023/"
+  },
+  {
+    "channel": "phone",
+    "value": "+66819148971",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/prolific-group-company-outing-2023/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+66618862879",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/prolific-group-company-outing-2023/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "prolific@phiheating.com",
+    "status": "observed",
+    "source_url": "https://phiheating.com/prolific-group-old/"
+  },
+  {
+    "channel": "phone",
+    "value": "+66819148971",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/prolific-group-old/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+66618862879",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/prolific-group-old/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@signalhire.com",
+    "status": "observed",
+    "source_url": "https://www.signalhire.com/companies/prolific-heating-international-co-ltd",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6621708171",
+    "status": "valid_format",
+    "source_url": "https://www.signalhire.com/companies/prolific-heating-international-co-ltd",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "prolific@phiheating.com",
+    "status": "observed",
+    "source_url": "https://phiheating.com/quality-person-of-the-year-award-2024/"
+  },
+  {
+    "channel": "phone",
+    "value": "+66819148971",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/quality-person-of-the-year-award-2024/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+66618862879",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/quality-person-of-the-year-award-2024/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "prolific@phiheating.com",
+    "status": "observed",
+    "source_url": "https://phiheating.com/pes-services/after-service/"
+  },
+  {
+    "channel": "phone",
+    "value": "+66819148971",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/pes-services/after-service/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+66618862879",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/pes-services/after-service/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "prolific@phiheating.com",
+    "status": "observed",
+    "source_url": "https://phiheating.com/safety-commitment/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+66819148971",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/safety-commitment/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+66618862879",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/safety-commitment/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "prolific@phiheating.com",
+    "status": "observed",
+    "source_url": "https://phiheating.com/th/career/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+66819148971",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/th/career/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+66618862879",
+    "status": "valid_format",
+    "source_url": "https://phiheating.com/th/career/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/takahiro-yoshioka-ab318366",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/takahiro-yoshioka-ab318366"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/%E0%B8%8A%E0%B8%A5%E0%B8%98%E0%B8%8A%E0%B8%B2-%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%88-00a274268",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/%E0%B8%8A%E0%B8%A5%E0%B8%98%E0%B8%8A%E0%B8%B2-%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%88-00a274268"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/juthatip-onwan-919440296",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/juthatip-onwan-919440296"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A2%E0%B8%A8-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%9F%E0%B9%89%E0%B8%B2-52082526b",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A2%E0%B8%A8-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%9F%E0%B9%89%E0%B8%B2-52082526b"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/panuwat-chuaybamrung-93b9a728a",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/panuwat-chuaybamrung-93b9a728a"
+  }
+]

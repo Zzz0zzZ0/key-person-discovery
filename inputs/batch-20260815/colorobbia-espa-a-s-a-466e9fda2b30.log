@@ -1,0 +1,37 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.colorobbia.com/affiliate/colorobbia-espana/                                              | ✓ | ⏱: 7.07s 
+[SCRAPE].. ◆ https://www.colorobbia.com/affiliate/colorobbia-espana/                                              | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.colorobbia.com/affiliate/colorobbia-espana/                                              | ✓ | ⏱: 8.82s 
+[FETCH]... ↓ https://www.colorobbia.com/en/affiliates                                                             | ✓ | ⏱: 8.46s 
+[SCRAPE].. ◆ https://www.colorobbia.com/en/affiliates                                                             | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.colorobbia.com/en/affiliates                                                             | ✓ | ⏱: 9.44s 
+[FETCH]... ↓ http://www.colorobbia.es/productos/fritas?lang=en                                                    | ✓ | ⏱: 9.06s 
+[SCRAPE].. ◆ http://www.colorobbia.es/productos/fritas?lang=en                                                    | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://www.colorobbia.es/productos/fritas?lang=en                                                    | ✓ | ⏱: 11.08s 
+[FETCH]... ↓ http://colorobbia.es                                                                                 | ✓ | ⏱: 10.04s 
+[SCRAPE].. ◆ http://colorobbia.es                                                                                 | ✓ | ⏱: 0.02s 
+[COMPLETE] ● http://colorobbia.es                                                                                 | ✓ | ⏱: 12.08s 
+[FETCH]... ↓ https://www.crunchbase.com/organization/colorobbia-españa                                            | ✓ | ⏱: 1.29s 
+[SCRAPE].. ◆ https://www.crunchbase.com/organization/colorobbia-españa                                            | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.crunchbase....ation/colorobbia-españa  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.crunchbase.com/organization/colorobbia-españa                                            | ✗ | ⏱: 1.29s 
+[FETCH]... ↓ https://www.colorobbia.com/en/affiliates/colorobbia-espana/                                          | ✓ | ⏱: 4.27s 
+[SCRAPE].. ◆ https://www.colorobbia.com/en/affiliates/colorobbia-espana/                                          | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.colorobbia.com/en/affiliates/colorobbia-espana/                                          | ✓ | ⏱: 4.30s 
+[FETCH]... ↓ https://www.volza.com/company-profile/colorobbia-espana-sa-spain-66483461/                           | ✓ | ⏱: 1.92s 
+[SCRAPE].. ◆ https://www.volza.com/company-profile/colorobbia-espana-sa-spain-66483461/                           | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.volza.com/c...pana-sa-spain-66483461/  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (9337 bytes) 
+[COMPLETE] ● https://www.volza.com/company-profile/colorobbia-espana-sa-spain-66483461/                           | ✗ | ⏱: 2.57s 
+[FETCH]... ↓ https://www.colorobbia.com/en/profile                                                                | ✓ | ⏱: 6.25s 
+[SCRAPE].. ◆ https://www.colorobbia.com/en/profile                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.colorobbia.com/en/profile                                                                | ✓ | ⏱: 6.28s 
+[FETCH]... ↓ https://www.facebook.com/pages/Colorobbia-España/936711906448592                                     | ✓ | ⏱: 2.35s 
+[SCRAPE].. ◆ https://www.facebook.com/pages/Colorobbia-España/936711906448592                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.facebook.com/pages/Colorobbia-España/936711906448592                                     | ✓ | ⏱: 4.38s 
+[FETCH]... ↓ https://www.eximpedia.app/companies/colorobbia-espana-s-a/86268253                                   | ✓ | ⏱: 4.31s 
+[SCRAPE].. ◆ https://www.eximpedia.app/companies/colorobbia-espana-s-a/86268253                                   | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.eximpedia.app/companies/colorobbia-espana-s-a/86268253                                   | ✓ | ⏱: 5.63s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/colorobbia-espa-a-s-a-466e9fda2b30.json

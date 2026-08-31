@@ -1,0 +1,53 @@
+[
+  {
+    "kind": "candidate",
+    "full_name": "Niklas Anttila",
+    "matched_by": [
+      "email",
+      "linkedin",
+      "name"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "phone",
+    "matched_by": [
+      "phone"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  }
+]

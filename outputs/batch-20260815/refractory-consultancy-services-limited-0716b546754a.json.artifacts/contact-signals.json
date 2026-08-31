@@ -1,0 +1,80 @@
+[
+  {
+    "channel": "email",
+    "value": "andrew.ramsell@refcsl.co.uk",
+    "status": "observed",
+    "source_url": "https://refcsl.co.uk",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ron.ramsell@refcsl.co.uk",
+    "status": "observed",
+    "source_url": "https://refcsl.co.uk",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+447944288639",
+    "status": "valid_format",
+    "source_url": "https://refcsl.co.uk",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+447581456802",
+    "status": "valid_format",
+    "source_url": "https://refcsl.co.uk",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "andrew.ramsell@refcsl.co.uk",
+    "status": "observed",
+    "source_url": "https://www.refcsl.co.uk"
+  },
+  {
+    "channel": "email",
+    "value": "ron.ramsell@refcsl.co.uk",
+    "status": "observed",
+    "source_url": "https://www.refcsl.co.uk"
+  },
+  {
+    "channel": "phone",
+    "value": "+447944288639",
+    "status": "valid_format",
+    "source_url": "https://www.refcsl.co.uk",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+447581456802",
+    "status": "valid_format",
+    "source_url": "https://www.refcsl.co.uk",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/ron-ramsell-2838b7101",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/ron-ramsell-2838b7101"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/andrew-ramsell-263b26161",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/andrew-ramsell-263b26161"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/tiffany-terry-5503001b2",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/tiffany-terry-5503001b2"
+  }
+]

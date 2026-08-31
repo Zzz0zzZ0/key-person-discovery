@@ -1,0 +1,20 @@
+[
+  {
+    "channel": "phone",
+    "value": "+4996369204861",
+    "status": "valid_format",
+    "source_url": "https://www.hornglass.com/jsjspecialityglass",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4996369204871",
+    "status": "valid_format",
+    "source_url": "https://www.hornglass.com/jsjspecialityglass",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

@@ -1,0 +1,170 @@
+{
+  "company_name": "Invicta",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "sales@invictawatch.com",
+      "status": "observed",
+      "source_url": "https://staging2.invictawatch.com/contact",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "jobs@invictawatch.com",
+      "status": "observed",
+      "source_url": "https://staging2.invictawatch.com/contact",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "invicta@iwscwatchrepair.com",
+      "status": "observed",
+      "source_url": "https://staging2.invictawatch.com/contact",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "help@invictastores.com",
+      "status": "observed",
+      "source_url": "https://invictastores.com/pages/contact",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@invictawatch.com",
+      "status": "observed",
+      "source_url": "https://invicta.pissedconsumer.com/customer-service.html",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+19549214222",
+      "status": "valid_format",
+      "source_url": "https://invicta.pissedconsumer.com/customer-service.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+19549212508",
+      "status": "valid_format",
+      "source_url": "https://invicta.pissedconsumer.com/customer-service.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sales@invicta-attachments.co.uk",
+      "status": "observed",
+      "source_url": "https://invicta-attachments.co.uk/a-day-in-the-life-of-our-technical-manager/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+33620423860",
+      "status": "valid_format",
+      "source_url": "https://www.invicta.fr/en/press-lounge",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "rgpd@invictagroup.zendesk.com",
+      "status": "observed",
+      "source_url": "https://www.invicta.fr/en/privacy-policy",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@invictacap.com",
+      "status": "observed",
+      "source_url": "https://www.invictacap.com/sourcing-support.html",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+902122444826",
+      "status": "valid_format",
+      "source_url": "https://www.invictacap.com/sourcing-support.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "support@leadiq.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/invicta-solutions-group/5e8a197b03157faf17013442/employee-directory",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sales@leadiq.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/invicta-solutions-group/5e8a197b03157faf17013442/employee-directory",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "s2h50200@gmail.com",
+      "status": "probable",
+      "source_url": "https://www.invicta.fr/fr/store/installateur/s2h/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "contact@evrardetfils.com",
+      "status": "probable",
+      "source_url": "https://www.invicta.fr/fr/store/installateur/evrard-et-fils/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "contact@invictashop-pontivy.frwebsite",
+      "status": "probable",
+      "source_url": "https://www.invicta.fr/fr/store/invicta-shop/invicta-shop-56-pontivy-flamme-du-golfe/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sav.invicta.rhone@gmail.com",
+      "status": "probable",
+      "source_url": "https://www.invicta.fr/fr/store/station-technique/iso-chauff-confort-certiflam-2/",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 40,
+    "search_engine_warnings": 1,
+    "urls_crawled": 30,
+    "crawl_failures": 4,
+    "contact_signals": 39,
+    "official_urls_discovered": 12,
+    "pdf_documents_discovered": 27,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 3,
+    "pdf_pages_extracted": 3,
+    "pdf_failures": 0,
+    "search_evidence_pages": 6,
+    "contact_evidence_pages": 7,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 1,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 18,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

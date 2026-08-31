@@ -1,0 +1,126 @@
+[
+  {
+    "channel": "whatsapp",
+    "value": "+27716961177",
+    "status": "verified",
+    "source_url": "https://gepatterns.co.za/Pages/Contact-Us.asp",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27716961177",
+    "status": "valid_format",
+    "source_url": "https://gepatterns.co.za/Pages/Contact-Us.asp",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+27716961177",
+    "status": "verified",
+    "source_url": "https://gepatterns.co.za",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27716961177",
+    "status": "valid_format",
+    "source_url": "https://gepatterns.co.za",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@gepatterns.co.za",
+    "status": "observed",
+    "source_url": "https://gepatterns.co.za/Pages/About-Us.asp",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+27716961177",
+    "status": "verified",
+    "source_url": "https://gepatterns.co.za/Pages/About-Us.asp",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27716961177",
+    "status": "valid_format",
+    "source_url": "https://gepatterns.co.za/Pages/About-Us.asp",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@gepatterns.co.za",
+    "status": "observed",
+    "source_url": "https://www.facebook.com/gefoundry/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+27716961177",
+    "status": "verified",
+    "source_url": "https://gepatterns.co.za/Pages/Leading-Manufacturing-Steel-Company.asp",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27716961177",
+    "status": "valid_format",
+    "source_url": "https://gepatterns.co.za/Pages/Leading-Manufacturing-Steel-Company.asp",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27716961177",
+    "status": "valid_format",
+    "source_url": "https://www.yellowpages.net.za/phone-27-716961177-foundry-Brakpan-ZA423566.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+27716961177",
+    "status": "verified",
+    "source_url": "https://gepatterns.co.za/Pages/Manganese.asp",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27716961177",
+    "status": "valid_format",
+    "source_url": "https://gepatterns.co.za/Pages/Manganese.asp",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27123949500",
+    "status": "valid_format",
+    "source_url": "https://gepatterns.co.za/_webmoduledata/Documents/BEE%202024%202025%20Cert.pdf?t=1741600761153",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "jkershaw@f-w-f.co.uk",
+    "status": "observed",
+    "source_url": "https://linkedin.com/in/christopher-lee-robins-854a799a"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/christopher-lee-robins-854a799a",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/christopher-lee-robins-854a799a"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/christopher-robins-6468a5b9",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/christopher-robins-6468a5b9"
+  }
+]

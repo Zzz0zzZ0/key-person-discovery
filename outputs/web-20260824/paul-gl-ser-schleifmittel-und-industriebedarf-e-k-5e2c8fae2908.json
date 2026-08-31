@@ -1,0 +1,92 @@
+{
+  "company_name": "Paul Gläser Schleifmittel und Industriebedarf e.K.",
+  "candidates": [
+    {
+      "full_name": "Johannes G. Berger",
+      "current_title": "Inhaber / Owner",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "hh@glaeser-schleiftechnik.de",
+          "status": "observed",
+          "source_url": "https://glaeser-schleiftechnik.de/de/impressum.html"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+49212207056",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://glaeser-schleiftechnik.de/de/impressum.html"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://glaeser-schleiftechnik.de/de/impressum.html",
+          "quote": "Inhaber: Johannes G. Berger",
+          "supports": "Owner of Paul Gläser Schleifmittel und Industriebedarf e.K."
+        },
+        {
+          "source_url": "https://glaeser-schleiftechnik.de/de/datenschutzerklaerung.html",
+          "quote": "Verantwortlicher im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist: Johannes G. Berger",
+          "supports": "Owner and data protection responsible party"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 31,
+    "search_engine_warnings": 5,
+    "urls_crawled": 5,
+    "crawl_failures": 0,
+    "contact_signals": 11,
+    "official_urls_discovered": 1,
+    "crm_website": "https://glaeser-schleiftechnik.de",
+    "official_website": "https://glaeser-schleiftechnik.de",
+    "website_recovered": false,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 3,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 1,
+    "target_contact_methods": 4,
+    "contact_methods": 2,
+    "contact_target_met": false,
+    "broad_discovery": false,
+    "topeasy_import": {},
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

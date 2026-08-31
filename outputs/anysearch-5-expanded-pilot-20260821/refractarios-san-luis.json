@@ -1,0 +1,100 @@
+{
+  "company_name": "Refractarios y Aislamientos de San Luis, S.A. DE C.V.",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+524441293684",
+      "status": "valid_format",
+      "source_url": "https://refractariosyaislamientos.com.mx/dykem-marcadores/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+524441293686",
+      "status": "valid_format",
+      "source_url": "https://refractariosyaislamientos.com.mx/dykem-marcadores/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+524441293687",
+      "status": "valid_format",
+      "source_url": "https://refractariosyaislamientos.com.mx/wp-content/uploads/2017/10/Folleto-Refractarios.pdf",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    }
+  ],
+  "review_required": true,
+  "unverified_candidates": [],
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 2,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 105,
+    "search_engine_warnings": 23,
+    "urls_crawled": 13,
+    "crawl_failures": 3,
+    "contact_signals": 22,
+    "official_urls_discovered": 2,
+    "crm_website": "https://refractariosyaislamientos.com.mx",
+    "official_website": "https://refractariosyaislamientos.com.mx",
+    "website_recovered": false,
+    "pdf_documents_discovered": 2,
+    "pdf_documents_processed": 2,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 4,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 2,
+    "target_contactable_items": 4,
+    "contactable_items": 3,
+    "target_contact_methods": 4,
+    "contact_methods": 3,
+    "contact_target_met": false,
+    "broad_discovery": true,
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

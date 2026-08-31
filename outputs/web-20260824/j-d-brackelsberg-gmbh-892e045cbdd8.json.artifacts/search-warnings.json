@@ -1,0 +1,80 @@
+[
+  {
+    "query": "\"J.D. Brackelsberg GmbH\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "unexpected crash"
+  },
+  {
+    "query": "\"J.D. Brackelsberg GmbH\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "\"J.D. Brackelsberg GmbH\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:brackelsberg.com (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:brackelsberg.com (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:brackelsberg.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:brackelsberg.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"J.D. Brackelsberg GmbH\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "unexpected crash"
+  },
+  {
+    "query": "\"J.D. Brackelsberg GmbH\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "\"J.D. Brackelsberg GmbH\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:brackelsberg.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "unexpected crash"
+  },
+  {
+    "query": "site:brackelsberg.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:brackelsberg.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  }
+]

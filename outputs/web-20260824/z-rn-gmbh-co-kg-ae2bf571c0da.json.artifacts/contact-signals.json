@@ -1,0 +1,130 @@
+[
+  {
+    "channel": "email",
+    "value": "info@zuern.com",
+    "status": "observed",
+    "source_url": "https://www.zuern.com/en/business-units/sustainability/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49892123960",
+    "status": "valid_format",
+    "source_url": "https://www.zuern.com/en/business-units/sustainability/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@zuern.com",
+    "status": "observed",
+    "source_url": "https://www.zuern.com/en/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49892123960",
+    "status": "valid_format",
+    "source_url": "https://www.zuern.com/en/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@zuern.com",
+    "status": "observed",
+    "source_url": "https://www.zuern.com/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49892123960",
+    "status": "valid_format",
+    "source_url": "https://www.zuern.com/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@zuern.com",
+    "status": "observed",
+    "source_url": "https://www.zuern.com/kontakt/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49892123960",
+    "status": "valid_format",
+    "source_url": "https://www.zuern.com/kontakt/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@zuern.com",
+    "status": "observed",
+    "source_url": "https://zuern.com",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49892123960",
+    "status": "valid_format",
+    "source_url": "https://zuern.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@zuern.com",
+    "status": "observed",
+    "source_url": "https://www.zuern.com/en/business-units/recentness/news-08/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49892123960",
+    "status": "valid_format",
+    "source_url": "https://www.zuern.com/en/business-units/recentness/news-08/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@zuern.com",
+    "status": "observed",
+    "source_url": "https://www.zuern.com/en/contact/request/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49892123960",
+    "status": "valid_format",
+    "source_url": "https://www.zuern.com/en/contact/request/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@zuern.com",
+    "status": "observed",
+    "source_url": "https://www.zuern.com/wp-content/uploads/2025/05/Zuern-Flyer-Stainless-Steel-and-Steel-Components.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49892123960",
+    "status": "valid_format",
+    "source_url": "https://www.zuern.com/wp-content/uploads/2025/05/Zuern-Flyer-Stainless-Steel-and-Steel-Components.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://carborundum.technology/",
+    "markdown": "CARBORUNDUM Schleifmittelwerk GmbH\nCARBORUNDUM ist seit über 100 Jahren in der Produktion von Schleifmitteln tätig. Kontakt info@carborundum.technology +49 202 373 28 – 400 +49 202 373 28 – 444 ...",
+    "error": "",
+    "provider": "anysearch",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  },
+  {
+    "url": "https://carborundum.technology/impressum/?lang=en",
+    "markdown": "Site Notice – Dorfner Schleifmittelwerk GmbH\nEmail. Site Notice. Carborundum Schleifmittelwerk GmbH. Industriestr. 39 42327 ... Contact. Phone: 0202 37328-400. Telefax: 0202 37328-444. E-mail: info ...",
+    "error": "",
+    "provider": "anysearch",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  },
+  {
+    "url": "https://carborundum.technology/kontakt/?lang=en",
+    "markdown": "Contact - Dorfner Schleifmittelwerk GmbH\nContact Carborundum Schleifmittelwerk GmbH Industriestr. 39 D-42327 Wuppertal Tel.: +49 202 373 28 - 400 Fax: +49 202 373 28 - 444 Email: info@carborundum.technology Web: www.carborundum.technology Site Notice",
+    "error": "",
+    "provider": "searxng",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  }
+]

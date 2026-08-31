@@ -1,0 +1,238 @@
+[
+  {
+    "channel": "phone",
+    "value": "+74956758914",
+    "status": "valid_format",
+    "source_url": "http://steelcast.ru/steel_for_atomic_reactors",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@woodhead-publishing.com",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/d/80122/d/fundamentals_of_metallurgy.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "macfarl@aol.com",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/d/80122/d/fundamentals_of_metallurgy.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "aune@mse.kth.se",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/d/80122/d/fundamentals_of_metallurgy.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "raman@kth.se",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/d/80122/d/fundamentals_of_metallurgy.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hysohn@mines.utah.edu",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/d/80122/d/fundamentals_of_metallurgy.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sano@re.nsc.co.jp",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/d/80122/d/fundamentals_of_metallurgy.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sridhars@andrew.cmu.edu",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/d/80122/d/fundamentals_of_metallurgy.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kenmills@tesco.net",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/d/80122/d/fundamentals_of_metallurgy.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "cramb@andrew.cmu.edu",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/d/80122/d/fundamentals_of_metallurgy.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "metakl@metalrg.iisc.ernet.in",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/d/80122/d/fundamentals_of_metallurgy.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "goran.engberg@mikrab.se",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/d/80122/d/fundamentals_of_metallurgy.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hiro_mukai@nifty.com",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/d/80122/d/fundamentals_of_metallurgy.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "onmohanty@lot.tatasteel.com",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/d/80122/d/fundamentals_of_metallurgy.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "onm@metal.iitkgp.ernet.in",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/d/80122/d/fundamentals_of_metallurgy.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ludo.froyen@mtm.kuleuven.ac.be",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/d/80122/d/fundamentals_of_metallurgy.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "du@mse.kth.se",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/d/80122/d/fundamentals_of_metallurgy.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "t-emi@yb3.so-net.ne.jp",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/d/80122/d/fundamentals_of_metallurgy.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@woodhead-publishing.com",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/fundamentals_of_metallurgy.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "macfarl@aol.com",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/fundamentals_of_metallurgy.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "aune@mse.kth.se",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/fundamentals_of_metallurgy.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "raman@kth.se",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/fundamentals_of_metallurgy.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "hysohn@mines.utah.edu",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/fundamentals_of_metallurgy.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "sano@re.nsc.co.jp",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/fundamentals_of_metallurgy.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "sridhars@andrew.cmu.edu",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/fundamentals_of_metallurgy.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "kenmills@tesco.net",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/fundamentals_of_metallurgy.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "cramb@andrew.cmu.edu",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/fundamentals_of_metallurgy.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "metakl@metalrg.iisc.ernet.in",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/fundamentals_of_metallurgy.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "goran.engberg@mikrab.se",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/fundamentals_of_metallurgy.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "hiro_mukai@nifty.com",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/fundamentals_of_metallurgy.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "onmohanty@lot.tatasteel.com",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/fundamentals_of_metallurgy.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "onm@metal.iitkgp.ernet.in",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/fundamentals_of_metallurgy.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "ludo.froyen@mtm.kuleuven.ac.be",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/fundamentals_of_metallurgy.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "du@mse.kth.se",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/fundamentals_of_metallurgy.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "t-emi@yb3.so-net.ne.jp",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/fundamentals_of_metallurgy.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "du@metallurgi.kth.se",
+    "status": "observed",
+    "source_url": "https://steelcast.ru/f/ni_en01.pdf"
+  }
+]

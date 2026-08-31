@@ -1,0 +1,36 @@
+{
+  "name": "Düdal Leichtmetall-Giesserei AG",
+  "website": "https://duedal.ch",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00a75948-40b5-4d06-b3be-8e1c91ef2d83",
+  "crm_linkedin_url": null,
+  "crm_country": "瑞士",
+  "crm_updated_at": "2026-07-29T05:05:59.248864+00:00",
+  "crm_contact_count": 0,
+  "crm_contacts": [],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T03:09:54.516161+00:00",
+  "source": "twenty_postgresql_read_only"
+}

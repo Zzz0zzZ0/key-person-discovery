@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://www.astramining.eu/see-mine.php?lang=EN&id_mina=35",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.astramining.eu/sitemap.xml: syntax error: line 1, column 0"
+  }
+]

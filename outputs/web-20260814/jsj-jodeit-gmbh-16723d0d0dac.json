@@ -1,0 +1,59 @@
+{
+  "company_name": "JSJ Jodeit GmbH",
+  "candidates": [
+    {
+      "full_name": "Steffen Schulze",
+      "current_title": "Contact person",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+4996369204861",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.hornglass.com/jsjspecialityglass"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.hornglass.com/jsjspecialityglass",
+          "quote": "Contact person: Steffen Schulze Phone: +49 9636 92 04 861",
+          "supports": "Steffen Schulze is listed as contact person for JSJ Speciality Glass on the company website"
+        }
+      ],
+      "confidence": 0.15,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 20,
+    "search_engine_warnings": 14,
+    "urls_crawled": 3,
+    "crawl_failures": 2,
+    "contact_signals": 2,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 8,
+    "target_contactable_items": 1,
+    "contactable_items": 1,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

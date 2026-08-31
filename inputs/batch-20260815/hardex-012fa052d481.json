@@ -1,0 +1,46 @@
+{
+  "name": "HARDEX",
+  "website": "https://www.hardex.fr",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00b0c456-8d7a-4f38-a141-235cefbf3ddd",
+  "crm_linkedin_url": null,
+  "crm_country": "法国",
+  "crm_updated_at": "2026-07-28T10:07:49.514109+00:00",
+  "crm_contact_count": 1,
+  "crm_contacts": [
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+33 3 81 40 56 00",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T03:15:39.865338+00:00",
+  "source": "twenty_postgresql_read_only"
+}

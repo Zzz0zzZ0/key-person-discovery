@@ -1,0 +1,75 @@
+{
+  "company_name": "PiXco Europe SA",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "john@pixcoeurope.com",
+      "status": "observed",
+      "source_url": "https://prospeo.io/c/pixco-europe-revenue",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "idandrea@gruppomulti.ch",
+      "status": "observed",
+      "source_url": "https://www.local.ch/en/d/lugano/6900/business-consultancy/pixco-europe-sa-e1jGULcY81JX8af4dlP-HQ",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+41919233265",
+      "status": "valid_format",
+      "source_url": "https://www.local.ch/en/d/lugano/6900/business-consultancy/pixco-europe-sa-e1jGULcY81JX8af4dlP-HQ",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Pilar Urrestarazu",
+      "matched_by": [
+        "email",
+        "name"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 2,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 28,
+    "search_engine_warnings": 1,
+    "urls_crawled": 10,
+    "crawl_failures": 6,
+    "contact_signals": 5,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 2,
+    "crm_duplicates_removed": 2,
+    "target_contactable_items": 4,
+    "contactable_items": 3,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

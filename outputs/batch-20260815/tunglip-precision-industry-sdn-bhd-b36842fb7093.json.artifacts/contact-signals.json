@@ -1,0 +1,703 @@
+[
+  {
+    "channel": "email",
+    "value": "sales@ctos.com.my",
+    "status": "observed",
+    "source_url": "https://businessreport.ctoscredit.com.my/oneoffreport_api/single-report/malaysia-company/0362697P/TUNGLIP-PRECISION-INDUSTRY-SDN-BHD-",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/capabilities/additive-manufacturing/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/capabilities/additive-manufacturing/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+60167021228",
+    "status": "verified",
+    "source_url": "https://tunglip.com.my/capabilities/additive-manufacturing/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+60167021228",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/capabilities/additive-manufacturing/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288441",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/capabilities/additive-manufacturing/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288442",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/capabilities/additive-manufacturing/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288443",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/capabilities/additive-manufacturing/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/author/admin/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/author/admin/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+60167021228",
+    "status": "verified",
+    "source_url": "https://tunglip.com.my/author/admin/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+60167021228",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/author/admin/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288441",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/author/admin/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288442",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/author/admin/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288443",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/author/admin/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+60167021228",
+    "status": "verified",
+    "source_url": "https://tunglip.com.my",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+60167021228",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288441",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288442",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288443",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+60167021228",
+    "status": "verified",
+    "source_url": "https://tunglip.com.my/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+60167021228",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288441",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288442",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288443",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/iatf-precision-part/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/iatf-precision-part/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+60167021228",
+    "status": "verified",
+    "source_url": "https://tunglip.com.my/iatf-precision-part/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+60167021228",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/iatf-precision-part/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288441",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/iatf-precision-part/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288442",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/iatf-precision-part/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288443",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/iatf-precision-part/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/portfolios/products/sum-steel-2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/portfolios/products/sum-steel-2/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+60167021228",
+    "status": "verified",
+    "source_url": "https://tunglip.com.my/portfolios/products/sum-steel-2/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+60167021228",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/portfolios/products/sum-steel-2/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288441",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/portfolios/products/sum-steel-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288442",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/portfolios/products/sum-steel-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288443",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/portfolios/products/sum-steel-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/precision-metal-turned-parts-manufacturer/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/precision-metal-turned-parts-manufacturer/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+60167021228",
+    "status": "verified",
+    "source_url": "https://tunglip.com.my/precision-metal-turned-parts-manufacturer/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+60167021228",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/precision-metal-turned-parts-manufacturer/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288441",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/precision-metal-turned-parts-manufacturer/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288442",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/precision-metal-turned-parts-manufacturer/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288443",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/precision-metal-turned-parts-manufacturer/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@eximpedia.app",
+    "status": "observed",
+    "source_url": "https://www.eximpedia.app/companies/tunglip-precision-industry-sdn-bhd/25962315",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6597252405",
+    "status": "valid_format",
+    "source_url": "https://www.eximpedia.app/companies/tunglip-precision-industry-sdn-bhd/25962315",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/contact-us/employment/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/contact-us/employment/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+60167021228",
+    "status": "verified",
+    "source_url": "https://tunglip.com.my/contact-us/employment/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+60167021228",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/employment/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288441",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/employment/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288442",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/employment/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288443",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/employment/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/contact-us/request-for-quote/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/contact-us/request-for-quote/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+60167021228",
+    "status": "verified",
+    "source_url": "https://tunglip.com.my/contact-us/request-for-quote/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+60167021228",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/request-for-quote/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288441",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/request-for-quote/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288442",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/request-for-quote/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288443",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/request-for-quote/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/contact-us/students-graduates/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/contact-us/students-graduates/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+60167021228",
+    "status": "verified",
+    "source_url": "https://tunglip.com.my/contact-us/students-graduates/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+60167021228",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/students-graduates/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288441",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/students-graduates/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288442",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/students-graduates/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288443",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/students-graduates/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/contact-us/partnerships/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/contact-us/partnerships/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+60167021228",
+    "status": "verified",
+    "source_url": "https://tunglip.com.my/contact-us/partnerships/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+60167021228",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/partnerships/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288441",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/partnerships/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288442",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/partnerships/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288443",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/contact-us/partnerships/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/news/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@tunglip.com.my",
+    "status": "observed",
+    "source_url": "https://tunglip.com.my/news/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+60167021228",
+    "status": "verified",
+    "source_url": "https://tunglip.com.my/news/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+60167021228",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/news/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288441",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288442",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6074288443",
+    "status": "valid_format",
+    "source_url": "https://tunglip.com.my/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/allan-ng-530256175",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/allan-ng-530256175"
+  }
+]

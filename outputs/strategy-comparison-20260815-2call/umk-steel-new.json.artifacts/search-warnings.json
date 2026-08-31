@@ -1,0 +1,104 @@
+[
+  {
+    "query": "http://mmc-steel.ru",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "http://steel.ugmk.com/sitemap.xml: HTTP Error 404: Not Found"
+  },
+  {
+    "query": "site:linkedin.com/in \"Управляющая Металлургическая Компания «УМК-Сталь»\"",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:linkedin.com/in \"Управляющая Металлургическая Компания «УМК-Сталь»\"",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "\"Управляющая Металлургическая Компания «УМК-Сталь»\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Управляющая Металлургическая Компания «УМК-Сталь»\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "\"Управляющая Металлургическая Компания «УМК-Сталь»\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:mmc-steel.ru (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:mmc-steel.ru (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:mmc-steel.ru filetype:pdf",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:mmc-steel.ru filetype:pdf",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:mmc-steel.ru filetype:pdf",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Управляющая Металлургическая Компания «УМК-Сталь»\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Управляющая Металлургическая Компания «УМК-Сталь»\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "\"Управляющая Металлургическая Компания «УМК-Сталь»\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:mmc-steel.ru (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:mmc-steel.ru (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:mmc-steel.ru (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  }
+]

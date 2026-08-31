@@ -1,0 +1,58 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.soezgroup.ru                                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.soezgroup.ru                                                                             | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.soezgroup.ru/company/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.soezgroup.ru/company/                                                                    | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.soezgroup.ru/oplata/                                                                     | ✓ | ⏱: 3.14s 
+[SCRAPE].. ◆ https://www.soezgroup.ru/oplata/                                                                     | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.soezgroup.ru/oplata/                                                                     | ✓ | ⏱: 3.94s 
+[FETCH]... ↓ https://www.soezgroup.ru/contacts/                                                                   | ✓ | ⏱: 3.62s 
+[SCRAPE].. ◆ https://www.soezgroup.ru/contacts/                                                                   | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.soezgroup.ru/contacts/                                                                   | ✓ | ⏱: 4.38s 
+[FETCH]... ↓ https://www.soezgroup.ru/company/staff/tatyana-pleshakova/                                           | ✓ | ⏱: 3.83s 
+[SCRAPE].. ◆ https://www.soezgroup.ru/company/staff/tatyana-pleshakova/                                           | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.soezgroup.ru/company/staff/tatyana-pleshakova/                                           | ✓ | ⏱: 4.66s 
+[FETCH]... ↓ https://www.soezgroup.ru/gallery/proizvedennaya-produktsiya/                                         | ✓ | ⏱: 4.12s 
+[SCRAPE].. ◆ https://www.soezgroup.ru/gallery/proizvedennaya-produktsiya/                                         | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.soezgroup.ru/gallery/proizvedennaya-produktsiya/                                         | ✓ | ⏱: 4.97s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.soezgroup.ru/company/index.php                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.soezgroup.ru/company/index.php                                                           | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.soezgroup.ru/company/partners/                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.soezgroup.ru/company/partners/                                                           | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.soezgroup.ru/company/staff/                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.soezgroup.ru/company/staff/                                                              | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.soezgroup.ru/company/licenses/                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.soezgroup.ru/company/licenses/                                                           | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.soezgroup.ru/images/contacts/slider-img-2-resize.jpg                                     | ✓ | ⏱: 1.01s 
+[SCRAPE].. ◆ https://www.soezgroup.ru/images/contacts/slider-img-2-resize.jpg                                     | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.soezgroup.r...slider-img-2-resize.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (500 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.soezgroup.ru/images/contacts/slider-img-2-resize.jpg                                     | ✗ | ⏱: 1.82s 
+[FETCH]... ↓ https://www.soezgroup.ru/images/contacts/slider-img-3-resize.jpg                                     | ✓ | ⏱: 1.18s 
+[SCRAPE].. ◆ https://www.soezgroup.ru/images/contacts/slider-img-3-resize.jpg                                     | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.soezgroup.r...slider-img-3-resize.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (500 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.soezgroup.ru/images/contacts/slider-img-3-resize.jpg                                     | ✗ | ⏱: 1.98s 
+[FETCH]... ↓ https://www.soezgroup.ru/images/contacts/slider-img-1-resize.jpg                                     | ✓ | ⏱: 1.33s 
+[SCRAPE].. ◆ https://www.soezgroup.ru/images/contacts/slider-img-1-resize.jpg                                     | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.soezgroup.r...slider-img-1-resize.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (500 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.soezgroup.ru/images/contacts/slider-img-1-resize.jpg                                     | ✗ | ⏱: 2.13s 
+[FETCH]... ↓ https://www.soezgroup.ru/company/requisites/                                                         | ✓ | ⏱: 3.21s 
+[SCRAPE].. ◆ https://www.soezgroup.ru/company/requisites/                                                         | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.soezgroup.ru/company/requisites/                                                         | ✓ | ⏱: 3.94s 
+[FETCH]... ↓ https://www.soezgroup.ru/images/contacts/slider-img-4-resize.jpg                                     | ✓ | ⏱: 1.15s 
+[SCRAPE].. ◆ https://www.soezgroup.ru/images/contacts/slider-img-4-resize.jpg                                     | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.soezgroup.r...slider-img-4-resize.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (500 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.soezgroup.ru/images/contacts/slider-img-4-resize.jpg                                     | ✗ | ⏱: 2.04s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.soezgroup.ru/images/contacts/slider-img-1-resize.jpg                                     | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.soezgroup.ru/images/contacts/slider-img-1-resize.jpg                                     | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://www.soezgroup.ru/images/contacts/slider-img-3-resize.jpg                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.soezgroup.ru/images/contacts/slider-img-3-resize.jpg                                     | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.soezgroup.ru/images/contacts/slider-img-4-resize.jpg                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.soezgroup.ru/images/contacts/slider-img-4-resize.jpg                                     | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.soezgroup.ru/images/contacts/slider-img-2-resize.jpg                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.soezgroup.ru/images/contacts/slider-img-2-resize.jpg                                     | ✓ | ⏱: 0.01s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/state/isolated-evidence/region-routing-20260828/regional/soez.json

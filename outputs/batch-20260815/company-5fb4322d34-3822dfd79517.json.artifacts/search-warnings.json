@@ -1,0 +1,8 @@
+[
+  {
+    "query": "http://mmc-steel.ru",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "http://steel.ugmk.com/sitemap.xml: HTTP Error 404: Not Found"
+  }
+]

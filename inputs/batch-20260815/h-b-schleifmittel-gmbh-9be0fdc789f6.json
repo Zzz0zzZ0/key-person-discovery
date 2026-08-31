@@ -1,0 +1,36 @@
+{
+  "name": "H.B. Schleifmittel GmbH",
+  "website": "https://hb-schleifmittel.de",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00b6d21f-7a3c-428a-afae-d394b14e6057",
+  "crm_linkedin_url": null,
+  "crm_country": "德国",
+  "crm_updated_at": "2026-08-12T01:58:03.30209+00:00",
+  "crm_contact_count": 0,
+  "crm_contacts": [],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T03:20:14.897211+00:00",
+  "source": "twenty_postgresql_read_only"
+}

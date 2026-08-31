@@ -1,0 +1,233 @@
+{
+  "company_name": "Промышленная группа «СОЭЗ»",
+  "candidates": [
+    {
+      "full_name": "Tatyana Pleshakova",
+      "current_title": "Unknown (employee profile on soezgroup.ru)",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 2,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.soezgroup.ru/company/staff/tatyana-pleshakova/",
+          "quote": "URL path /company/staff/tatyana-pleshakova/ identifies a staff profile page on the company website",
+          "supports": "Verified employee of Промышленная группа СОЭЗ; ok@soezgroup.ru appears only on this personal staff page, not on general contact pages"
+        },
+        {
+          "source_url": "https://www.soezgroup.ru/oplata/",
+          "quote": "+7 (927) 741-99-40 Главный инженер",
+          "supports": "Главный инженер (Chief Engineer) is listed as a named role with direct phone at the company"
+        },
+        {
+          "source_url": "https://www.soezgroup.ru/oplata/",
+          "quote": "+7 927 745-30-61 Отдел снабжения",
+          "supports": "Отдел снабжения (Supply/Procurement Department) is the primary purchasing function"
+        }
+      ],
+      "confidence": 0.5,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Главный инженер",
+      "current_title": "Главный инженер (Chief Engineer)",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 8,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+79277419940",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.soezgroup.ru/oplata/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.soezgroup.ru/oplata/",
+          "quote": "+7 (927) 741-99-40 Главный инженер",
+          "supports": "Главный инженер is explicitly named as the Chief Engineer with a direct phone line; this role is the primary technical decision-maker for refractory and casting process decisions"
+        },
+        {
+          "source_url": "https://www.soezgroup.ru/contacts/",
+          "quote": "+7 (927) 741-99-40 Главный инженер",
+          "supports": "Same Chief Engineer phone confirmed on /contacts/ page"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Отдел снабжения",
+      "current_title": "Отдел снабжения (Supply / Procurement Department)",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 9,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+79277453061",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.soezgroup.ru/oplata/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.soezgroup.ru/oplata/",
+          "quote": "+7 927 745-30-61 Отдел снабжения",
+          "supports": "Отдел снабжения is explicitly labeled as the procurement function with a dedicated direct phone line; this department would handle all raw material purchasing including SiC, magnesite, alumina, and other refractory inputs"
+        },
+        {
+          "source_url": "https://www.soezgroup.ru/contacts/",
+          "quote": "+7 927 745-30-61 Отдел снабжения",
+          "supports": "Same Supply Department phone confirmed on /contacts/ page"
+        }
+      ],
+      "confidence": 0.9,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Отдел по работе с клиентами",
+      "current_title": "Отдел по работе с клиентами (Customer Relations Department)",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 4,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+79270010168",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.soezgroup.ru/oplata/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.soezgroup.ru/oplata/",
+          "quote": "+7 927 001-01-68 Отдел по работе с клиентами",
+          "supports": "Customer Relations Department listed with a direct phone; this department manages incoming inquiries and likely routes commercial/purchase decisions"
+        },
+        {
+          "source_url": "https://www.soezgroup.ru/contacts/",
+          "quote": "+7 927 001-01-68 Отдел по работе с клиентами",
+          "supports": "Same Customer Relations Department phone confirmed on /contacts/ page"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+78469230346",
+      "status": "valid_format",
+      "source_url": "https://www.soezgroup.ru/oplata/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+78469230453",
+      "status": "valid_format",
+      "source_url": "https://www.soezgroup.ru/oplata/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "ok@soezgroup.ru",
+      "status": "observed",
+      "source_url": "https://www.soezgroup.ru/company/staff/tatyana-pleshakova/",
+      "company_public": true,
+      "verification_status": "company_source"
+    }
+  ],
+  "review_required": true,
+  "unverified_candidates": [],
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 3,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 0,
+    "anysearch_query_limit": 0,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 90,
+    "search_engine_warnings": 23,
+    "urls_crawled": 15,
+    "crawl_failures": 0,
+    "contact_signals": 41,
+    "official_urls_discovered": 15,
+    "crm_website": "https://www.soezgroup.ru",
+    "official_website": "https://www.soezgroup.ru",
+    "website_recovered": false,
+    "pdf_documents_discovered": 1,
+    "pdf_documents_processed": 1,
+    "pdf_documents_extracted": 1,
+    "pdf_pages_extracted": 1,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 3,
+    "target_contactable_items": 4,
+    "contactable_items": 6,
+    "target_contact_methods": 4,
+    "contact_methods": 6,
+    "contact_target_met": true,
+    "broad_discovery": true,
+    "topeasy_import": {},
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

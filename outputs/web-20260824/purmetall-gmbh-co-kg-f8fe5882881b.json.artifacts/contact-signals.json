@@ -1,0 +1,148 @@
+[
+  {
+    "channel": "email",
+    "value": "purmetall@purmetall.de",
+    "status": "observed",
+    "source_url": "https://www.purmetall.de/contact.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49208850020",
+    "status": "valid_format",
+    "source_url": "https://www.purmetall.de/contact.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "purmetall@purmetall.de",
+    "status": "observed",
+    "source_url": "https://www.purmetall.de/contactES.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49208850020",
+    "status": "valid_format",
+    "source_url": "https://www.purmetall.de/contactES.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "purmetall@purmetall.de",
+    "status": "observed",
+    "source_url": "https://www.purmetall.de/contactFR.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49208850020",
+    "status": "valid_format",
+    "source_url": "https://www.purmetall.de/contactFR.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "purmetall@purmetall.de",
+    "status": "observed",
+    "source_url": "https://www.purmetall.de/contactEN.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49208850020",
+    "status": "valid_format",
+    "source_url": "https://www.purmetall.de/contactEN.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "purmetall@purmetall.de",
+    "status": "observed",
+    "source_url": "https://www.purmetall.de/contactIT.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49208850020",
+    "status": "valid_format",
+    "source_url": "https://www.purmetall.de/contactIT.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "purmetall@purmetall.de",
+    "status": "observed",
+    "source_url": "https://www.purmetall.de/contactPT.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49208850020",
+    "status": "valid_format",
+    "source_url": "https://www.purmetall.de/contactPT.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "purmetall@purmetall.de",
+    "status": "observed",
+    "source_url": "https://www.purmetall.de/contactTR.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49208850020",
+    "status": "valid_format",
+    "source_url": "https://www.purmetall.de/contactTR.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+492088500236",
+    "status": "valid_format",
+    "source_url": "https://www.purmetall.de/contactTR.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "purmetall@purmetall.de",
+    "status": "observed",
+    "source_url": "https://www.purmetall.de/impressum.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49208850020",
+    "status": "valid_format",
+    "source_url": "https://www.purmetall.de/impressum.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49208850020",
+    "status": "valid_format",
+    "source_url": "https://www.purmetall.de/fr/Kontakt/Datenschutz",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

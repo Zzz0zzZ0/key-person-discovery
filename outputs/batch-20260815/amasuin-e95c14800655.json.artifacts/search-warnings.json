@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://amasuin.es",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://amasuin.es/sitemap.xml: not well-formed (invalid token): line 12, column 27"
+  }
+]

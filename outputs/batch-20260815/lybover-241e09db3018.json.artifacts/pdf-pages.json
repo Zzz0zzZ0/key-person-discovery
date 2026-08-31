@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://keller.be/public/uploads/brochures/f5480882a534922.79930919_Kantoorgebouw%20installeert%20RWA-systeem.pdf",
+    "markdown": "",
+    "error": "response is not a PDF",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://keller.be/public/uploads/files/Brand-_en_rookbeveiliging_in_shoppingcentrum_K-Kortrijk.pdf",
+    "markdown": "",
+    "error": "response is not a PDF",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://keller.be/public/uploads/files/Keller_voorziet_brandpreventie_in_ondergrondse_parking_AZ_Groeninge.pdf",
+    "markdown": "",
+    "error": "response is not a PDF",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  }
+]

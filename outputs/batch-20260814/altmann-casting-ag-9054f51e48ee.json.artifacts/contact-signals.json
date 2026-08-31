@@ -1,0 +1,164 @@
+[
+  {
+    "channel": "email",
+    "value": "info@altmann-casting.ch",
+    "status": "observed",
+    "source_url": "https://www.altmann-casting.ch",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+41323313355",
+    "status": "valid_format",
+    "source_url": "https://www.altmann-casting.ch",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@altmann-casting.ch",
+    "status": "observed",
+    "source_url": "https://www.altmann-casting.ch/kontakt?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+41323313355",
+    "status": "valid_format",
+    "source_url": "https://www.altmann-casting.ch/kontakt?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@altmann-casting.ch",
+    "status": "observed",
+    "source_url": "https://www.altmann-casting.ch/portrait",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+41323313355",
+    "status": "valid_format",
+    "source_url": "https://www.altmann-casting.ch/portrait",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@altmann-casting.ch",
+    "status": "observed",
+    "source_url": "https://www.altmann-casting.ch/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+41323313355",
+    "status": "valid_format",
+    "source_url": "https://www.altmann-casting.ch/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@altmann-casting.ch",
+    "status": "observed",
+    "source_url": "https://www.altmann-casting.ch?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+41323313355",
+    "status": "valid_format",
+    "source_url": "https://www.altmann-casting.ch?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+41323313355",
+    "status": "valid_format",
+    "source_url": "https://watch-web.ch/fournisseur-horloger/altmann-casting-ag",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18553741199",
+    "status": "valid_format",
+    "source_url": "https://www.importgenius.com/suppliers/altmann-casting-ag",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@altmann-casting.ch",
+    "status": "observed",
+    "source_url": "https://www.altmann-casting.ch/ansprechpersonen",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+41323313355",
+    "status": "valid_format",
+    "source_url": "https://www.altmann-casting.ch/ansprechpersonen",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@altmann-casting.ch",
+    "status": "observed",
+    "source_url": "https://www.altmann-casting.ch/portrait?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+41323313355",
+    "status": "valid_format",
+    "source_url": "https://www.altmann-casting.ch/portrait?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@altmann-casting.ch",
+    "status": "observed",
+    "source_url": "https://www.altmann-casting.ch/zusammenarbeit",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+41323313355",
+    "status": "valid_format",
+    "source_url": "https://www.altmann-casting.ch/zusammenarbeit",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@altmann-casting.ch",
+    "status": "observed",
+    "source_url": "https://www.altmann-casting.ch/prazisionsguss?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+41323313355",
+    "status": "valid_format",
+    "source_url": "https://www.altmann-casting.ch/prazisionsguss?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

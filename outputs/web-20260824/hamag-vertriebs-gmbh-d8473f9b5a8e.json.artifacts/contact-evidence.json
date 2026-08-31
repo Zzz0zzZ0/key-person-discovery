@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.hamag.de/en/imprint/",
+    "markdown": "Imprint - HAMAG\nInformation according to § 5 TMG: HAMAG Vertriebs-GmbH. Allscheidt 19 40883 Ratingen Represented by: Bodo von Kannen. Contact: Phone: +49 2102 204499-8",
+    "error": "",
+    "provider": "anysearch",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.hamag.de/en/contact/",
+    "markdown": "Contact - HAMAG\nHAMAG Vertriebs-GmbH Allscheidt 19 40883 Ratingen GERMANY hamag@hamag.de Managing Director: Bodo von Kannen Trade Register: HRB 59968 Düsseldorf Tax Code: 147/5838/0377 VAT Number: DE 225021345",
+    "error": "",
+    "provider": "searxng",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  }
+]

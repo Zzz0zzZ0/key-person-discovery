@@ -1,0 +1,83 @@
+{
+  "company_name": "Batts Kilns & Furnaces Ltd",
+  "candidates": [
+    {
+      "full_name": "Dave Cotton",
+      "current_title": "Drawing Office Manager",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 7,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "sales@kilns.co.uk",
+          "status": "guessed",
+          "source_url": "https://www.kilns.co.uk/news/meet-our-drawing-office-manager"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+441782344270",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.kilns.co.uk/news/meet-our-drawing-office-manager"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.kilns.co.uk/news/meet-our-drawing-office-manager",
+          "quote": "Dave Cotton, our longest-serving Drawing Office Manager with over 50 years of dedicated service",
+          "supports": "current role at Kilns & Furnaces as Drawing Office Manager; involved in kiln design and bespoke solutions; joins mid-1970s"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 45,
+    "search_engine_warnings": 8,
+    "urls_crawled": 15,
+    "crawl_failures": 0,
+    "contact_signals": 19,
+    "official_urls_discovered": 12,
+    "crm_website": "https://battskilns.co.uk",
+    "official_website": "https://kilns.co.uk",
+    "website_recovered": true,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 1,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

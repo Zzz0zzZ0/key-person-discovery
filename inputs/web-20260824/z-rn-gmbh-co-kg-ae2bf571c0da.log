@@ -1,0 +1,41 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rocketreach.co/zurn-gmbh-co-kg-management_b7c4e089c18d7c46                                   | ✓ | ⏱: 0.62s 
+[SCRAPE].. ◆ https://rocketreach.co/zurn-gmbh-co-kg-management_b7c4e089c18d7c46                                   | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...gement_b7c4e089c18d7c46  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/zurn-gmbh-co-kg-management_b7c4e089c18d7c46                                   | ✗ | ⏱: 1.29s 
+[FETCH]... ↓ https://www.zoominfo.com/c/zürn-gmbh--co-kg/355787845                                               | ✓ | ⏱: 1.10s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/zürn-gmbh--co-kg/355787845                                               | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...n-gmbh--co-kg/355787845  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.zoominfo.com/c/zürn-gmbh--co-kg/355787845                                               | ✗ | ⏱: 1.76s 
+[FETCH]... ↓ https://www.zuern.com/en/business-units/sustainability/                                              | ✓ | ⏱: 2.32s 
+[SCRAPE].. ◆ https://www.zuern.com/en/business-units/sustainability/                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.zuern.com/en/business-units/sustainability/                                              | ✓ | ⏱: 4.34s 
+[FETCH]... ↓ https://www.zuern.com/en/                                                                            | ✓ | ⏱: 2.51s 
+[SCRAPE].. ◆ https://www.zuern.com/en/                                                                            | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.zuern.com/en/                                                                            | ✓ | ⏱: 4.54s 
+[FETCH]... ↓ https://www.zuern.com/en/contact/                                                                    | ✓ | ⏱: 2.34s 
+[SCRAPE].. ◆ https://www.zuern.com/en/contact/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.zuern.com/en/contact/                                                                    | ✓ | ⏱: 4.29s 
+[FETCH]... ↓ https://www.zuern.com/kontakt/                                                                       | ✓ | ⏱: 1.61s 
+[SCRAPE].. ◆ https://www.zuern.com/kontakt/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.zuern.com/kontakt/                                                                       | ✓ | ⏱: 3.26s 
+[FETCH]... ↓ https://zuern.com                                                                                    | ✓ | ⏱: 3.15s 
+[SCRAPE].. ◆ https://zuern.com                                                                                    | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://zuern.com                                                                                    | ✓ | ⏱: 5.18s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rocketreach.co/zurn-gmbh-co-kg-management_b7c4e089c18d7c46                                   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://rocketreach.co/zurn-gmbh-co-kg-management_b7c4e089c18d7c46                                   | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.zoominfo.com/c/zürn-gmbh--co-kg/355787845                                               | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.zoominfo.com/c/zürn-gmbh--co-kg/355787845                                               | ✓ | ⏱: 0.00s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.zuern.com/en/business-units/recentness/news-08/                                          | ✓ | ⏱: 2.82s 
+[SCRAPE].. ◆ https://www.zuern.com/en/business-units/recentness/news-08/                                          | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.zuern.com/en/business-units/recentness/news-08/                                          | ✓ | ⏱: 2.85s 
+[FETCH]... ↓ https://www.zuern.com/en/contact/request/                                                            | ✓ | ⏱: 2.83s 
+[SCRAPE].. ◆ https://www.zuern.com/en/contact/request/                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.zuern.com/en/contact/request/                                                            | ✓ | ⏱: 2.86s 
+Rotated text discovered. Output will be incomplete.
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260824/z-rn-gmbh-co-kg-ae2bf571c0da.json

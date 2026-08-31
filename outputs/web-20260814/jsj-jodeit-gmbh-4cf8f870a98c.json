@@ -1,0 +1,54 @@
+{
+  "company_name": "JSJ Jodeit GmbH",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+492112807330",
+      "status": "valid_format",
+      "source_url": "https://www.glassglobal.com/glasstec/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+4921128073322",
+      "status": "valid_format",
+      "source_url": "https://www.glassglobal.com/glasstec/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 25,
+    "search_engine_warnings": 17,
+    "urls_crawled": 2,
+    "crawl_failures": 1,
+    "contact_signals": 2,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 8,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 1,
+    "contactable_items": 2,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "company_name": "Acerias ProcoMetal S.A.S.",
+  "candidates": [],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Ingeniero Metalúrgico (perfil técnico)",
+      "current_title": "Ingeniero Metalúrgico",
+      "company_match": "probable",
+      "influence_type": "technical_influencer",
+      "influence_score": 3,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "http://aceriasprocometal.com/trayectoria.html",
+          "quote": "grupo de asesores conformado por ingenieros metalúrgicos, con alta experiencia operativa y calificada en el sector industrial",
+          "supports": "Technical metallurgical engineers are part of the company's advisory team, directly involved in foundry operations and quality control for steel casting production"
+        }
+      ],
+      "confidence": 0.35,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Representante Legal",
+      "current_title": "Representante Legal",
+      "company_match": "uncertain",
+      "influence_type": "decision_maker",
+      "influence_score": 3,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.emis.com/php/company-profile/CO/Acerias_Procometal_SAS_en_1180345.html",
+          "quote": "Key Executives / Legal Representative / Purchase this report to view the information",
+          "supports": "EMIS profile confirms a Legal Representative exists for the company, a corporate officer with signing authority"
+        }
+      ],
+      "confidence": 0.25,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "validation_rejections": [
+    {
+      "full_name": "Ingeniero Metalúrgico (perfil técnico)",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Representante Legal",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 2,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 42,
+    "search_engine_warnings": 6,
+    "urls_crawled": 11,
+    "crawl_failures": 2,
+    "contact_signals": 16,
+    "official_urls_discovered": 1,
+    "crm_website": "http://aceriasprocometal.com",
+    "official_website": "http://aceriasprocometal.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 2,
+    "unverified_candidates": 2,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 2,
+    "target_contactable_items": 4,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

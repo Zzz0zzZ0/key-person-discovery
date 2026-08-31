@@ -1,0 +1,51 @@
+{
+  "company_name": "Fundición de Hierro Las Palmas Ltda.",
+  "candidates": [],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "validation_rejections": [
+    {
+      "full_name": "Sr. Américo Méndez",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 32,
+    "search_engine_warnings": 0,
+    "urls_crawled": 2,
+    "crawl_failures": 0,
+    "contact_signals": 1,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 1,
+    "crm_contact_count": 1,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 4,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

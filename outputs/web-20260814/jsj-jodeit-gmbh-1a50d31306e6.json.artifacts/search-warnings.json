@@ -1,0 +1,74 @@
+[
+  {
+    "query": "https://apps.glassglobal.com/profile/documents3274.html",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://apps.glassglobal.com/sitemap.xml: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "\"JSJ Jodeit GmbH\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"JSJ Jodeit GmbH\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "timeout"
+  },
+  {
+    "query": "\"JSJ Jodeit GmbH\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "bing",
+    "reason": "HTTP connection error"
+  },
+  {
+    "query": "\"JSJ Jodeit GmbH\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"JSJ Jodeit GmbH\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:linkedin.com/in \"JSJ Jodeit GmbH\"",
+    "provider": "searxng",
+    "engine": "searxng",
+    "reason": "All active SearXNG engines failed for 'site:linkedin.com/in \"JSJ Jodeit GmbH\"': bing: timeout, duckduckgo: timeout, google cse: Suspended: timeout, qwant: CAPTCHA"
+  },
+  {
+    "query": "\"JSJ Jodeit GmbH\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "searxng",
+    "reason": "All active SearXNG engines failed for '\"JSJ Jodeit GmbH\" (email OR phone OR WhatsApp OR \"wa.me\")': bing: Suspended: timeout, duckduckgo: Suspended: timeout, google cse: too many requests, qwant: CAPTCHA"
+  },
+  {
+    "query": "site:apps.glassglobal.com (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:apps.glassglobal.com (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:apps.glassglobal.com (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:apps.glassglobal.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "searxng",
+    "reason": "All active SearXNG engines failed for 'site:apps.glassglobal.com filetype:pdf': bing: HTTP connection error, duckduckgo: HTTP connection error, google cse: Suspended: too many requests, qwant: CAPTCHA"
+  }
+]

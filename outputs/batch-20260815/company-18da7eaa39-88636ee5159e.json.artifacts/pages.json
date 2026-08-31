@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.baiten.cn/so/s/pa:(%ED%95%9C%EA%B5%AD%EC%93%B0%EB%A6%AC%EC%97%A0%20%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC)",
+    "markdown": "  * 快捷统计\n  * 检索历史\n\n\n登录后查看 \n![](https://www.baiten.cn/images/favicon.png) 佰腾网 ×\n您有一笔待支付订单 等待付款 \n\n商品信息：\n\n\n总价：\n    ￥     需付款 _￥_\n支付宝扫码支付\n微信扫码支付\n[了解更多优惠~](https://work.weixin.qq.com/kfid/kfc9ccf0062fca9780d)\n",
+    "error": "",
+    "provider": "crawl4ai",
+    "source_type": "crawl",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.3mabrasive.co.kr",
+    "markdown": "",
+    "error": "Unexpected error in _crawl_web at line 778 in _crawl_web (.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.3mabrasive.co.kr/\nCall log:\n  - navigating to \"https://www.3mabrasive.co.kr/\", waiting until \"domcontentloaded\"\n\n\nCode context:\n 773                                   tag=\"GOTO\",\n 774                                   params={\"url\": url},\n 775                               )\n 776                               response = None\n 777                           else:\n 778 →                             raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 779   \n 780                       # ──────────────────────────────────────────────────────────────\n 781                       # Walk the redirect chain.  Playwright returns only the last\n 782                       # hop, so we trace the `request.redirected_from` links until the\n 783                       # first response that differs from the final one and surface its",
+    "provider": "crawl4ai",
+    "source_type": "crawl",
+    "page_count": 0
+  }
+]

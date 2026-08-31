@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "candidate",
+    "full_name": "Knut Mørk",
+    "matched_by": [
+      "email",
+      "name"
+    ]
+  },
+  {
+    "kind": "candidate",
+    "full_name": "Thore J. Sørensen",
+    "matched_by": [
+      "email",
+      "linkedin"
+    ]
+  }
+]

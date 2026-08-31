@@ -1,0 +1,26 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.odlievaniezvonov.sk/contact/                                                             | ✓ | ⏱: 3.25s 
+[SCRAPE].. ◆ https://www.odlievaniezvonov.sk/contact/                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.odlievaniezvonov.sk/contact/                                                             | ✓ | ⏱: 4.10s 
+[FETCH]... ↓ https://www.odlievaniezvonov.sk                                                                      | ✓ | ⏱: 3.47s 
+[SCRAPE].. ◆ https://www.odlievaniezvonov.sk                                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.odlievaniezvonov.sk                                                                      | ✓ | ⏱: 4.27s 
+[FETCH]... ↓ https://www.odlievaniezvonov.sk/en                                                                   | ✓ | ⏱: 3.26s 
+[SCRAPE].. ◆ https://www.odlievaniezvonov.sk/en                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.odlievaniezvonov.sk/en                                                                   | ✓ | ⏱: 4.14s 
+[FETCH]... ↓ https://www.odlievaniezvonov.sk/en/aboutus/                                                          | ✓ | ⏱: 3.51s 
+[SCRAPE].. ◆ https://www.odlievaniezvonov.sk/en/aboutus/                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.odlievaniezvonov.sk/en/aboutus/                                                          | ✓ | ⏱: 4.15s 
+[FETCH]... ↓ https://www.odlievaniezvonov.sk/en/newbells/                                                         | ✓ | ⏱: 0.89s 
+[SCRAPE].. ◆ https://www.odlievaniezvonov.sk/en/newbells/                                                         | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.odlievaniezvonov.sk/en/newbells/                                                         | ✓ | ⏱: 0.92s 
+[FETCH]... ↓ https://www.odlievaniezvonov.sk/en/renovationandservice/                                             | ✓ | ⏱: 0.68s 
+[SCRAPE].. ◆ https://www.odlievaniezvonov.sk/en/renovationandservice/                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.odlievaniezvonov.sk/en/renovationandservice/                                             | ✓ | ⏱: 0.70s 
+[FETCH]... ↓ https://www.odlievaniezvonov.sk/ro/kontakt/                                                          | ✓ | ⏱: 1.38s 
+[SCRAPE].. ◆ https://www.odlievaniezvonov.sk/ro/kontakt/                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.odlievaniezvonov.sk/ro/kontakt/                                                          | ✓ | ⏱: 1.40s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/bellfoundry-r-bert-sl-4c19ba8e5b98.json

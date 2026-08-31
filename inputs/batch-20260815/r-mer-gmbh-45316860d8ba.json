@@ -1,0 +1,64 @@
+{
+  "name": "Römer GmbH",
+  "website": "http://giessereibedarf-roemer.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "001fc175-884e-4d1c-9c03-601ce9cb3f97",
+  "crm_linkedin_url": null,
+  "crm_country": "德国",
+  "crm_updated_at": "2026-07-29T05:05:59.248864+00:00",
+  "crm_contact_count": 3,
+  "crm_contacts": [
+    {
+      "name": " Official Email",
+      "email": "info@giessereibedarf-roemer.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+49 6174 24404",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Wiesław Smarzyński",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/wiesław-smarzyński-61a77773",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T02:14:04.920376+00:00",
+  "source": "twenty_postgresql_read_only"
+}

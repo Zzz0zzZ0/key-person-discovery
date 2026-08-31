@@ -1,0 +1,38 @@
+[
+  {
+    "query": "\"Cerablast GmbH & Co.KG\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "unexpected crash"
+  },
+  {
+    "query": "site:cerablast.com (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:cerablast.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "unexpected crash"
+  },
+  {
+    "query": "\"Cerablast GmbH & Co.KG\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "unexpected crash"
+  },
+  {
+    "query": "site:cerablast.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "unexpected crash"
+  },
+  {
+    "query": "site:cerablast.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  }
+]

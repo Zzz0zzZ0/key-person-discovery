@@ -1,0 +1,162 @@
+[
+  {
+    "channel": "email",
+    "value": "carbonblack@konimpex.com.pl",
+    "status": "observed",
+    "source_url": "https://konimpex.pl/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "rubber@konimpex.com.pl",
+    "status": "observed",
+    "source_url": "https://konimpex.pl/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "alternative@konimpex.com.pl",
+    "status": "observed",
+    "source_url": "https://konimpex.pl/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "bio-oil@konimpex.com.pl",
+    "status": "observed",
+    "source_url": "https://konimpex.pl/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "logistics@konimpex.com.pl",
+    "status": "observed",
+    "source_url": "https://konimpex.pl/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jaroslaw.wyrwa@konimpex.com.pl",
+    "status": "observed",
+    "source_url": "https://konimpex.pl/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "marketing@konimpex.com.pl",
+    "status": "observed",
+    "source_url": "https://konimpex.pl/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "karolina.szczotkiewicz@konimpex.com.pl",
+    "status": "observed",
+    "source_url": "https://konimpex.pl/contact",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48694450462",
+    "status": "valid_format",
+    "source_url": "https://konimpex.pl/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48694450373",
+    "status": "valid_format",
+    "source_url": "https://konimpex.pl/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48502104171",
+    "status": "valid_format",
+    "source_url": "https://konimpex.pl/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48513828832",
+    "status": "valid_format",
+    "source_url": "https://konimpex.pl/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48694450354",
+    "status": "valid_format",
+    "source_url": "https://konimpex.pl/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48694450397",
+    "status": "valid_format",
+    "source_url": "https://konimpex.pl/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48513828633",
+    "status": "valid_format",
+    "source_url": "https://konimpex.pl/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48694450609",
+    "status": "valid_format",
+    "source_url": "https://konimpex.pl/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48694450693",
+    "status": "valid_format",
+    "source_url": "https://konimpex.pl/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48513828775",
+    "status": "valid_format",
+    "source_url": "https://konimpex.pl/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "iod@konimpex.com.pl",
+    "status": "observed",
+    "source_url": "https://konimpex.pl/klauzula-rodo-en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "konimpex@konimpex.com.pl",
+    "status": "observed",
+    "source_url": "https://www.krs-online.com.pl/firma/1439986-konimpex-sp-z-o-o-pph-zaklad-obrotu-surowcami-chemicznymi",
+    "company_public": true
+  }
+]

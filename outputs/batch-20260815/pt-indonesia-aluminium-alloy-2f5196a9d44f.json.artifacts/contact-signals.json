@@ -1,0 +1,181 @@
+[
+  {
+    "channel": "email",
+    "value": "marketing@iaa.co.id",
+    "status": "observed",
+    "source_url": "https://iaa.co.id/direksi-pt-indonesia-aluminium-alloy-melakukan-audiensi-ke-bupati-batu-bara/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6281330117373",
+    "status": "valid_format",
+    "source_url": "https://iaa.co.id/direksi-pt-indonesia-aluminium-alloy-melakukan-audiensi-ke-bupati-batu-bara/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "marketing@iaa.co.id",
+    "status": "observed",
+    "source_url": "https://iaa.co.id",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6281330117373",
+    "status": "valid_format",
+    "source_url": "https://iaa.co.id",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "marketing@iaa.co.id",
+    "status": "observed",
+    "source_url": "https://iaa.co.id/en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6281330117373",
+    "status": "valid_format",
+    "source_url": "https://iaa.co.id/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "marketing@iaa.co.id",
+    "status": "observed",
+    "source_url": "https://iaa.co.id/en/all-time-high-achievement-pencapaian-tertinggi-produksi-dan-penjualan-pt-indonesia-aluminium-alloy/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6281330117373",
+    "status": "valid_format",
+    "source_url": "https://iaa.co.id/en/all-time-high-achievement-pencapaian-tertinggi-produksi-dan-penjualan-pt-indonesia-aluminium-alloy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "marketing@iaa.co.id",
+    "status": "observed",
+    "source_url": "https://iaa.co.id/en/pimpinan-perusahaan/"
+  },
+  {
+    "channel": "phone",
+    "value": "+6281330117373",
+    "status": "valid_format",
+    "source_url": "https://iaa.co.id/en/pimpinan-perusahaan/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "marketing@iaa.co.id",
+    "status": "observed",
+    "source_url": "https://iaa.co.id/pt-iaa-terima-kunjungan-sharing-session-pt-alindo-perkasa-sukses/"
+  },
+  {
+    "channel": "phone",
+    "value": "+6281330117373",
+    "status": "valid_format",
+    "source_url": "https://iaa.co.id/pt-iaa-terima-kunjungan-sharing-session-pt-alindo-perkasa-sukses/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "marketing@iaa.co.id",
+    "status": "observed",
+    "source_url": "https://iaa.co.id/en/terus-membina-hubungan-baik-dengan-stakeholder-pt-indonesia-aluminium-alloy-bersilaturahmi-ke-kodim-0208-asahan/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6281330117373",
+    "status": "valid_format",
+    "source_url": "https://iaa.co.id/en/terus-membina-hubungan-baik-dengan-stakeholder-pt-indonesia-aluminium-alloy-bersilaturahmi-ke-kodim-0208-asahan/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "marketing@iaa.co.id",
+    "status": "observed",
+    "source_url": "https://iaa.co.id/en/kontak-kami/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6282179176822",
+    "status": "valid_format",
+    "source_url": "https://iaa.co.id/en/kontak-kami/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6281330117373",
+    "status": "valid_format",
+    "source_url": "https://iaa.co.id/en/kontak-kami/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "marketing@iaa.co.id",
+    "status": "observed",
+    "source_url": "https://iaa.co.id/hangat-dalam-kesederhanaan-pt-iaa-laksanakan-kegiatan-kongkow-ramadan/"
+  },
+  {
+    "channel": "phone",
+    "value": "+6281330117373",
+    "status": "valid_format",
+    "source_url": "https://iaa.co.id/hangat-dalam-kesederhanaan-pt-iaa-laksanakan-kegiatan-kongkow-ramadan/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "marketing@iaa.co.id",
+    "status": "observed",
+    "source_url": "https://iaa.co.id/en/pt-indonesia-aluminium-alloy-ikuti-pelatihan-operation-maintenance-pot-rekonstruksi-inalum-iaa/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6281330117373",
+    "status": "valid_format",
+    "source_url": "https://iaa.co.id/en/pt-indonesia-aluminium-alloy-ikuti-pelatihan-operation-maintenance-pot-rekonstruksi-inalum-iaa/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "marketing@iaa.co.id",
+    "status": "observed",
+    "source_url": "https://iaa.co.id/en/site-visit-mitsui-co-ltd-ke-pt-indonesia-aluminium-alloy/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6281330117373",
+    "status": "valid_format",
+    "source_url": "https://iaa.co.id/en/site-visit-mitsui-co-ltd-ke-pt-indonesia-aluminium-alloy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

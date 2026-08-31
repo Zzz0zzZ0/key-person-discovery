@@ -1,0 +1,182 @@
+[
+  {
+    "channel": "email",
+    "value": "first.last@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "john.doe@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "flast@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jdoe@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "firstlast@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "johndoe@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "last.first@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "doe.john@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "flast@coviacorp.comfirstlast",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "support@leadiq.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@leadiq.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "customer.service@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://www.coviacorp.com/careers/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "customer.service@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://www.coviacorp.com/about-us/leadership",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "customer.service@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://www.coviacorp.com/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "customer.service@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://www.coviacorp.com/about-us/board-of-managers",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://www.coviacorp.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "recruiting@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://www.coviacorp.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "mediarelations@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://www.coviacorp.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "customer.service@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://www.coviacorp.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "customer.service@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://www.coviacorp.com/corporate-responsibility/documents/supplier-code-of-conduct/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "mediarelations@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://www.coviacorp.com/news-releases/covia-names-bruno-biasiotta-as-president-and-chief-executive-officer",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "goldengate@fgsglobal.com",
+    "status": "observed",
+    "source_url": "https://www.coviacorp.com/news-releases/covia-names-bruno-biasiotta-as-president-and-chief-executive-officer",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "customer.service@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://www.coviacorp.com/news-releases/covia-names-bruno-biasiotta-as-president-and-chief-executive-officer",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "customer.service@coviacorp.com",
+    "status": "observed",
+    "source_url": "https://www.coviacorp.com/insights/people",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/daniele-nazario-65382570/",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/daniele-nazario-65382570/"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/john-quinn-9b818426/",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/john-quinn-9b818426/"
+  }
+]

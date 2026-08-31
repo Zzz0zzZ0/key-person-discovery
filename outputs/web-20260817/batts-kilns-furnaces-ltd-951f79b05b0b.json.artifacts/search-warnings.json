@@ -1,0 +1,50 @@
+[
+  {
+    "query": "https://kilns.co.uk",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://kilns.co.uk/sitemap.xml: HTTP Error 404: Not Found"
+  },
+  {
+    "query": "site:kilns.co.uk (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:kilns.co.uk (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:kilns.co.uk filetype:pdf",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: unexpected crash"
+  },
+  {
+    "query": "\"Batts Kilns & Furnaces Ltd\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: unexpected crash"
+  },
+  {
+    "query": "\"Batts Kilns & Furnaces Ltd\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:kilns.co.uk (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: unexpected crash"
+  },
+  {
+    "query": "site:kilns.co.uk (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  }
+]

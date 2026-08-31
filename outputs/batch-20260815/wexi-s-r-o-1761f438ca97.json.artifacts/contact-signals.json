@@ -1,0 +1,139 @@
+[
+  {
+    "channel": "email",
+    "value": "wexi@wexi.sk",
+    "status": "observed",
+    "source_url": "https://www.wexi.sk/English-version/About-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+421905563634",
+    "status": "valid_format",
+    "source_url": "https://www.wexi.sk/English-version/About-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "wexi@wexi.sk",
+    "status": "observed",
+    "source_url": "https://www.wexi.sk/English-version/Assortment/Mixed-Alumina/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+421905563634",
+    "status": "valid_format",
+    "source_url": "https://www.wexi.sk/English-version/Assortment/Mixed-Alumina/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "wexi@wexi.sk",
+    "status": "observed",
+    "source_url": "https://www.wexi.sk/English-version/Assortment/Silicon-carbide/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+421905563634",
+    "status": "valid_format",
+    "source_url": "https://www.wexi.sk/English-version/Assortment/Silicon-carbide/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "wexi@wexi.sk",
+    "status": "observed",
+    "source_url": "https://wexi.sk",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+421905563634",
+    "status": "valid_format",
+    "source_url": "https://wexi.sk",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "wexi@wexi.sk",
+    "status": "observed",
+    "source_url": "https://www.wexi.sk/English-version/Home/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+421905563634",
+    "status": "valid_format",
+    "source_url": "https://www.wexi.sk/English-version/Home/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "wexi@wexi.sk",
+    "status": "observed",
+    "source_url": "https://www.wexi.sk/English-version/About-us/Personal-data-processing/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+421905563634",
+    "status": "valid_format",
+    "source_url": "https://www.wexi.sk/English-version/About-us/Personal-data-processing/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "wexi@wexi.sk",
+    "status": "observed",
+    "source_url": "https://www.wexi.sk/English-version/About-us/Cookies/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+421905563634",
+    "status": "valid_format",
+    "source_url": "https://www.wexi.sk/English-version/About-us/Cookies/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "wexi@wexi.sk",
+    "status": "observed",
+    "source_url": "https://www.wexi.sk/English-version/About-us/Privacy-policy/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+421905563634",
+    "status": "valid_format",
+    "source_url": "https://www.wexi.sk/English-version/About-us/Privacy-policy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+421905563634",
+    "status": "valid_format",
+    "source_url": "https://www.wexi.sk/English-version/Assortment/Cast-stainless-steel-angular-Cr-grit/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

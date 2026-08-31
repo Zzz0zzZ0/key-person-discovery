@@ -1,0 +1,67 @@
+{
+  "name": "Công ty TNHH Một Thành Viên Thép Miền Nam - VNSTEEL",
+  "website": "https://www.thepmiennam.com.vn",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00cdf771-2f53-4dd1-ad0a-dbd6e5008f0b",
+  "crm_linkedin_url": "http://www.linkedin.com/company/thepmiennam",
+  "crm_country": "越南",
+  "crm_updated_at": "2026-07-28T10:08:26.448362+00:00",
+  "crm_contact_count": 3,
+  "crm_contacts": [
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "(0254) 3922 091",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Si Than",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/si-than-650b6014b",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Đông Văn",
+      "email": "dvan@thepmiennam.com.vn",
+      "additional_emails": [
+        "van@thepmiennam.com.vn"
+      ],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/đông-phạm-văn-2037a9337",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-15T08:52:38.534528+00:00",
+  "source": "twenty_postgresql_read_only"
+}

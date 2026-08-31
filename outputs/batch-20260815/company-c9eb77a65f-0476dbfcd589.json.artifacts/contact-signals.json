@@ -1,0 +1,24 @@
+[
+  {
+    "channel": "phone",
+    "value": "+82522311001",
+    "status": "valid_format",
+    "source_url": "https://hanjoolightmetal.com/board/eng/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "tbkim@hanjoolightmetal.com",
+    "status": "observed",
+    "source_url": "https://hanjoolightmetal.com/policy/privacy.htm"
+  },
+  {
+    "channel": "phone",
+    "value": "+82522311001",
+    "status": "valid_format",
+    "source_url": "https://hanjoolightmetal.com/eng/about/workplace.htm",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

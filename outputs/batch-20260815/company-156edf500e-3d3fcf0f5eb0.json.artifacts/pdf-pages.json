@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.vinita.co.jp/wp_vinita/wp-content/uploads/2025/11/TEMPERTRON-V.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.vinita.co.jp/wp_vinita/wp-content/uploads/2025/12/care_01.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.vinita.co.jp/wp_vinita/wp-content/uploads/2025/12/news20230118.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  }
+]

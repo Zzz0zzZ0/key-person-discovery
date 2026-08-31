@@ -1,0 +1,30 @@
+[
+  {
+    "kind": "candidate",
+    "full_name": "Phil Limbach",
+    "matched_by": [
+      "linkedin"
+    ]
+  },
+  {
+    "kind": "candidate",
+    "full_name": "Johannes Kuron",
+    "matched_by": [
+      "linkedin"
+    ]
+  },
+  {
+    "kind": "candidate",
+    "full_name": "Peter Holtmann",
+    "matched_by": [
+      "linkedin"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  }
+]

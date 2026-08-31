@@ -1,0 +1,64 @@
+{
+  "name": "Element Six Ltd.",
+  "website": "https://e6.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00c3233c-7d63-4253-a9bb-861b899a8865",
+  "crm_linkedin_url": "https://www.linkedin.com/company/element-six/",
+  "crm_country": "德国",
+  "crm_updated_at": "2026-07-29T05:05:59.832236+00:00",
+  "crm_contact_count": 3,
+  "crm_contacts": [
+    {
+      "name": "Official",
+      "email": "salesorders@e6.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Official",
+      "email": "e6marketing@e6.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Element Six Ltd.",
+      "email": "support@e6.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T03:26:00.328795+00:00",
+  "source": "twenty_postgresql_read_only"
+}

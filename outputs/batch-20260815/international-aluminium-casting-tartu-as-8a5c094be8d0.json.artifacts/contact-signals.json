@@ -1,0 +1,216 @@
+[
+  {
+    "channel": "email",
+    "value": "info@iac.ee",
+    "status": "observed",
+    "source_url": "https://ariregister.rik.ee/est/company/10803483/International-Aluminium-Casting-Tartu-AS",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "klienditugi@stat.ee",
+    "status": "observed",
+    "source_url": "https://ariregister.rik.ee/est/company/10803483/International-Aluminium-Casting-Tartu-AS",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@rik.ee",
+    "status": "observed",
+    "source_url": "https://ariregister.rik.ee/est/company/10803483/International-Aluminium-Casting-Tartu-AS",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+3727409940",
+    "status": "valid_format",
+    "source_url": "https://ariregister.rik.ee/est/company/10803483/International-Aluminium-Casting-Tartu-AS",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+3726803160",
+    "status": "valid_format",
+    "source_url": "https://ariregister.rik.ee/est/company/10803483/International-Aluminium-Casting-Tartu-AS",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@iac.ee",
+    "status": "observed",
+    "source_url": "https://ariregister.rik.ee/eng/company/10803483/International-Aluminium-Casting-Tartu-AS",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "klienditugi@stat.ee",
+    "status": "observed",
+    "source_url": "https://ariregister.rik.ee/eng/company/10803483/International-Aluminium-Casting-Tartu-AS",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@rik.ee",
+    "status": "observed",
+    "source_url": "https://ariregister.rik.ee/eng/company/10803483/International-Aluminium-Casting-Tartu-AS",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+3727409940",
+    "status": "valid_format",
+    "source_url": "https://ariregister.rik.ee/eng/company/10803483/International-Aluminium-Casting-Tartu-AS",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+3726803160",
+    "status": "valid_format",
+    "source_url": "https://ariregister.rik.ee/eng/company/10803483/International-Aluminium-Casting-Tartu-AS",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "koda@koda.ee",
+    "status": "observed",
+    "source_url": "https://estonianexport.ee/directory/listing/international-aluminium-casting-tartu-as",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+3726040060",
+    "status": "valid_format",
+    "source_url": "https://estonianexport.ee/directory/listing/international-aluminium-casting-tartu-as",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@iac.ee",
+    "status": "observed",
+    "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@iac-ab.se",
+    "status": "observed",
+    "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@keskkonnaamet.ee",
+    "status": "observed",
+    "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@keskonnaamet.ee",
+    "status": "observed",
+    "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "henrik.link@njordlaw.ee",
+    "status": "observed",
+    "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kool@tyriyg.tyri.ee",
+    "status": "observed",
+    "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+3727409940",
+    "status": "valid_format",
+    "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4616165100",
+    "status": "valid_format",
+    "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+3727409941",
+    "status": "valid_format",
+    "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+3726625999",
+    "status": "valid_format",
+    "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+37256480209",
+    "status": "valid_format",
+    "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+3725241105",
+    "status": "valid_format",
+    "source_url": "https://www.inforegister.ee/en/10803483-INTERNATIONAL-ALUMINIUM-CASTING-TARTU-AS/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/rauno-raja-9197191a0",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/rauno-raja-9197191a0"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/heiki-laantee-5b869814",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/heiki-laantee-5b869814"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/mart-kivistik-b08b54b2",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/mart-kivistik-b08b54b2"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/siim-tsarjov-47567b199",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/siim-tsarjov-47567b199"
+  }
+]

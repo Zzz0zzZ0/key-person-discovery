@@ -1,0 +1,16 @@
+[
+  {
+    "kind": "candidate",
+    "full_name": "C. Arul Kumar",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  }
+]

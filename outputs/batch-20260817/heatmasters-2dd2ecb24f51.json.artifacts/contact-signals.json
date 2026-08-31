@@ -1,0 +1,185 @@
+[
+  {
+    "channel": "email",
+    "value": "info@hm-mech.com",
+    "status": "observed",
+    "source_url": "https://www.heatmastersmechanical.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hm-mech.com",
+    "status": "observed",
+    "source_url": "https://www.heatmastersmechanical.com/about-us",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hm-mech.com",
+    "status": "observed",
+    "source_url": "https://www.heatmastersmechanical.com/blog/566-w-van-buren",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hm-mech.com",
+    "status": "observed",
+    "source_url": "https://www.heatmastersmechanical.com/construction",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hm-mech.com",
+    "status": "observed",
+    "source_url": "https://www.heatmastersmechanical.com/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "varkaus@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "turku@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "poland@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ants@heatmasters.ee",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358400956879",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207571343",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48515555010",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+37256245607",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hm-mech.com",
+    "status": "observed",
+    "source_url": "https://www.heatmastersmechanical.com/plan-spec",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hm-mech.com",
+    "status": "observed",
+    "source_url": "https://www.heatmastersmechanical.com/blog/1740-w-division",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hm-mech.com",
+    "status": "observed",
+    "source_url": "https://www.heatmastersmechanical.com/blog/65-e-wacker",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hm-mech.com",
+    "status": "observed",
+    "source_url": "https://www.heatmastersmechanical.com/blog/1221-grundy",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/heat-masters-7b3187133",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/heat-masters-7b3187133"
+  },
+  {
+    "channel": "email",
+    "value": "niklas.anttila@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://linkedin.com/in/niklasant"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/niklasant",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/niklasant"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/richard-bosch-80904b169",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/richard-bosch-80904b169"
+  }
+]

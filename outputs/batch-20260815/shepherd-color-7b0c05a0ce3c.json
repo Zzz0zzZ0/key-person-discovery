@@ -1,0 +1,108 @@
+{
+  "company_name": "Shepherd Color",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "mryan@shepherdcolor.com",
+      "status": "observed",
+      "source_url": "https://www.shepherdcolor.com/the-shepherd-color-company-announces-their-newest-addition-to-the-ntp-yellow-product-portfolio/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+15138740714",
+      "status": "valid_format",
+      "source_url": "https://www.shepherdcolor.com/contact-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+61395322632",
+      "status": "valid_format",
+      "source_url": "https://www.shepherdcolor.com/contact-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+3256892511",
+      "status": "valid_format",
+      "source_url": "https://www.shepherdcolor.com/contact-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+8675582124112",
+      "status": "valid_format",
+      "source_url": "https://www.shepherdcolor.com/contact-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 4,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 30,
+    "search_engine_warnings": 0,
+    "urls_crawled": 20,
+    "crawl_failures": 4,
+    "contact_signals": 16,
+    "official_urls_discovered": 20,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 5,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 6,
+    "crm_duplicates_removed": 4,
+    "target_contactable_items": 1,
+    "contactable_items": 5,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

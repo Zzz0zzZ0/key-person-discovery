@@ -1,0 +1,119 @@
+{
+  "company_name": "Aluminium Solutions Group",
+  "candidates": [
+    {
+      "full_name": "Edouard Guinotte",
+      "current_title": "President and Chief Executive Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://opengatecapital.com/news/aluminium-solutions-group-sas-appoints-edouard-guinotte-as-president-and-chief-executive-officer",
+          "quote": "Mr. Edouard Guinotte has been appointed to Aluminium Solutions Group, 'ASG' as President and Chief Executive Officer.",
+          "supports": "Current President and CEO of Aluminium Solutions Group, appointed January 2023"
+        },
+        {
+          "source_url": "https://rubypayeur.com/societe/aluminium-solutions-group-sas-917413056",
+          "quote": "EDOUARD GUINOTTE, Président de sas, Occupe ce poste depuis le 10/02/2023",
+          "supports": "Verified as current legal representative (Président) of ASG via French business registry"
+        }
+      ],
+      "confidence": 0.9,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "webadmin@alusolutionsgroup.com",
+      "status": "observed",
+      "source_url": "https://alusolutionsgroup.com/en/cookie-policy-eu/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "contact@ovh.com",
+      "status": "observed",
+      "source_url": "https://alusolutionsgroup.com/en/legal-notice/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "pro-opengate@prosek.com",
+      "status": "observed",
+      "source_url": "https://opengatecapital.com/news/aluminium-solutions-group-sas-appoints-edouard-guinotte-as-president-and-chief-executive-officer",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "achaffin@opengatecapital.com",
+      "status": "observed",
+      "source_url": "https://opengatecapital.com/news/aluminium-solutions-group-sas-appoints-edouard-guinotte-as-president-and-chief-executive-officer",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "jadams@opengatecapital.com",
+      "status": "observed",
+      "source_url": "https://opengatecapital.com/news/aluminium-solutions-group-sas-appoints-edouard-guinotte-as-president-and-chief-executive-officer",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+13104327000",
+      "status": "valid_format",
+      "source_url": "https://opengatecapital.com/news/aluminium-solutions-group-sas-appoints-edouard-guinotte-as-president-and-chief-executive-officer",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "contact@aluminium.fr",
+      "status": "observed",
+      "source_url": "https://www.aluminium.fr/en/gouvernance",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "contactcontact@ovh.comtel",
+      "status": "probable",
+      "source_url": "https://alusolutionsgroup.com/en/legal-notice/",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 39,
+    "search_engine_warnings": 0,
+    "urls_crawled": 16,
+    "crawl_failures": 1,
+    "contact_signals": 13,
+    "official_urls_discovered": 4,
+    "pdf_documents_discovered": 2,
+    "pdf_documents_processed": 2,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 15,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 3,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 8,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

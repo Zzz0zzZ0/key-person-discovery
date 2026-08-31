@@ -1,0 +1,36 @@
+{
+  "name": "Amasuin",
+  "website": "https://amasuin.es",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00c930d1-5ecb-49e3-b0f0-d20c94599d65",
+  "crm_linkedin_url": null,
+  "crm_country": "西班牙",
+  "crm_updated_at": "2026-07-29T05:05:59.832236+00:00",
+  "crm_contact_count": 0,
+  "crm_contacts": [],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T03:30:31.336010+00:00",
+  "source": "twenty_postgresql_read_only"
+}

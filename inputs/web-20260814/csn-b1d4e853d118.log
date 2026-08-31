@@ -1,0 +1,89 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://esg.csn.com.br/en/social/                                                                    | ✓ | ⏱: 27.01s 
+[SCRAPE].. ◆ https://esg.csn.com.br/en/social/                                                                    | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://esg.csn.com.br/en/social/                                                                    | ✓ | ⏱: 29.05s 
+[FETCH]... ↓ https://ri.csn.com.br/en/sustainability/people/                                                      | ✓ | ⏱: 44.40s 
+[SCRAPE].. ◆ https://ri.csn.com.br/en/sustainability/people/                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ri.csn.com.br/en/sustainability/people/                                                      | ✓ | ⏱: 46.42s 
+[FETCH]... ↓ https://ri.csn.com.br/en/                                                                            | ✓ | ⏱: 44.77s 
+[SCRAPE].. ◆ https://ri.csn.com.br/en/                                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ri.csn.com.br/en/                                                                            | ✓ | ⏱: 46.80s 
+[FETCH]... ↓ https://www.csn.com.br/en/customers/                                                                 | ✓ | ⏱: 8.11s 
+[SCRAPE].. ◆ https://www.csn.com.br/en/customers/                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.csn.com.br/en/customers/                                                                 | ✓ | ⏱: 8.13s 
+[FETCH]... ↓ https://www.csn.com.br/en/our-people/work-with-us/                                                   | ✓ | ⏱: 8.00s 
+[SCRAPE].. ◆ https://www.csn.com.br/en/our-people/work-with-us/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.csn.com.br/en/our-people/work-with-us/                                                   | ✓ | ⏱: 8.01s 
+[FETCH]... ↓ https://www.csn.com.br                                                                               | ✓ | ⏱: 24.12s 
+[SCRAPE].. ◆ https://www.csn.com.br                                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.csn.com.br                                                                               | ✓ | ⏱: 25.89s 
+[DEBUG]... ⋯ Body visibility info: True 
+[FETCH]... ↓ http://go.csn.edu/                                                                                   | ✓ | ⏱: 66.69s 
+[SCRAPE].. ◆ http://go.csn.edu/                                                                                   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://go.csn.edu/                                                                                   | ✓ | ⏱: 68.59s 
+[FETCH]... ↓ https://www.reddit.com/r/CSN_Coyotes/comments/1rzj3li/need_help_with_csn_email_login_on_microsoft/   | ✓ | ⏱: 17.65s 
+[SCRAPE].. ◆ https://www.reddit.com/r/CSN_Coyotes/comments/1rzj3li/need_help_with_csn_email_login_on_microsoft/   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.reddit.com/r/CSN_Coyotes/comments/1rzj3li/need_help_with_csn_email_login_on_microsoft/   | ✓ | ⏱: 19.69s 
+[FETCH]... ↓ https://www.csn.edu/gocsn                                                                            | ✓ | ⏱: 40.33s 
+[SCRAPE].. ◆ https://www.csn.edu/gocsn                                                                            | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.csn.edu/gocsn                                                                            | ✓ | ⏱: 41.83s 
+[ANTIBOT]. ℹ https://www.csn.edu/                               | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://www.csn.edu/", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://www.csn.edu/                               | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://www.csn.edu/", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.csn.com.br/en/about-us/csn-group/csn-mining/                                             | ✓ | ⏱: 31.98s 
+[SCRAPE].. ◆ https://www.csn.com.br/en/about-us/csn-group/csn-mining/                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.csn.com.br/en/about-us/csn-group/csn-mining/                                             | ✓ | ⏱: 32.00s 
+[FETCH]... ↓ https://www.csn.com.br/en/about-us/csn-group/ftl/                                                    | ✓ | ⏱: 32.00s 
+[SCRAPE].. ◆ https://www.csn.com.br/en/about-us/csn-group/ftl/                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.csn.com.br/en/about-us/csn-group/ftl/                                                    | ✓ | ⏱: 32.02s 
+[FETCH]... ↓ https://www.csn.com.br/en/about-us/csn-group/ersa/                                                   | ✓ | ⏱: 32.02s 
+[SCRAPE].. ◆ https://www.csn.com.br/en/about-us/csn-group/ersa/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.csn.com.br/en/about-us/csn-group/ersa/                                                   | ✓ | ⏱: 32.03s 
+[FETCH]... ↓ https://www.csn.com.br/en/about-us/csn-group/csn-energia/                                            | ✓ | ⏱: 32.14s 
+[SCRAPE].. ◆ https://www.csn.com.br/en/about-us/csn-group/csn-energia/                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.csn.com.br/en/about-us/csn-group/csn-energia/                                            | ✓ | ⏱: 32.16s 
+[FETCH]... ↓ https://www.csn.com.br/en/about-us/csn-group/sepetiba-tecon/                                         | ✓ | ⏱: 0.64s 
+[SCRAPE].. ◆ https://www.csn.com.br/en/about-us/csn-group/sepetiba-tecon/                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.csn.com.br/en/about-us/csn-group/sepetiba-tecon/                                         | ✓ | ⏱: 0.66s 
+[FETCH]... ↓ https://www.csn.com.br/en/about-us/csn-group/mrs/                                                    | ✓ | ⏱: 1.69s 
+[SCRAPE].. ◆ https://www.csn.com.br/en/about-us/csn-group/mrs/                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.csn.com.br/en/about-us/csn-group/mrs/                                                    | ✓ | ⏱: 1.71s 
+[FETCH]... ↓ https://www.csn.com.br/en/about-us/csn-group/prada-embalagens/                                       | ✓ | ⏱: 2.14s 
+[SCRAPE].. ◆ https://www.csn.com.br/en/about-us/csn-group/prada-embalagens/                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.csn.com.br/en/about-us/csn-group/prada-embalagens/                                       | ✓ | ⏱: 2.17s 
+[FETCH]... ↓ https://www.csn.com.br/en/about-us/csn-group/prada-distribuicao/                                     | ✓ | ⏱: 2.18s 
+[SCRAPE].. ◆ https://www.csn.com.br/en/about-us/csn-group/prada-distribuicao/                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.csn.com.br/en/about-us/csn-group/prada-distribuicao/                                     | ✓ | ⏱: 2.20s 
+[FETCH]... ↓ https://www.csn.com.br/en/about-us/csn-group/the-group/                                              | ✓ | ⏱: 1.99s 
+[SCRAPE].. ◆ https://www.csn.com.br/en/about-us/csn-group/the-group/                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.csn.com.br/en/about-us/csn-group/the-group/                                              | ✓ | ⏱: 2.01s 
+[FETCH]... ↓ https://www.csn.com.br/en/about-us/csn-group/tlsa/                                                   | ✓ | ⏱: 2.42s 
+[SCRAPE].. ◆ https://www.csn.com.br/en/about-us/csn-group/tlsa/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.csn.com.br/en/about-us/csn-group/tlsa/                                                   | ✓ | ⏱: 2.44s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260814/csn-b1d4e853d118.json

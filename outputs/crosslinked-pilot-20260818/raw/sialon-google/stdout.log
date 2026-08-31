@@ -1,0 +1,13 @@
+
+     _____                    _             _            _ 
+    /  __ \                  | |   ([01;30mx[0m)     | |          | |
+    | /  \/_ __ ___  ___ ___ | |    _ _ __ | | _____  __| |
+    | |   | '__/ _ \/ __/ __|| |   | | '_ \| |/ / _ \/ _` |
+    | \__/\ | | (_) \__ \__ \| |___| | | | |   <  __/ (_| | [01;30m@m8sec[0m
+     \____/_|  \___/|___/___/\_____/_|_| |_|_|\_\___|\__,_| [01;34mv0.3.0[0m
+
+    
+[01;34m[*][0m Searching google for valid employee names at "Sialon Ceramics"
+[01;34m[*][0m 0   https://www.google.com/search?q=site:linkedin.com/in+"Sialon Ceramics"&num=100&start=0 (0)
+[01;33m[!][0m None 200 response, exiting search (0)
+[01;33m[!][0m No results found

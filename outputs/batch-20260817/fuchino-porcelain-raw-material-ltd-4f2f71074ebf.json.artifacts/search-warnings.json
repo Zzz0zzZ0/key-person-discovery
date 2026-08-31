@@ -1,0 +1,20 @@
+[
+  {
+    "query": "\"Fuchino Porcelain Raw Material LTD.\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:porcelain.work (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:porcelain.work (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  }
+]

@@ -1,0 +1,57 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://haynesintl.com/en/acerinox-group                                                             | ✓ | ⏱: 3.96s 
+[SCRAPE].. ◆ https://haynesintl.com/en/acerinox-group                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://haynesintl.com/en/acerinox-group                                                             | ✓ | ⏱: 4.75s 
+[FETCH]... ↓ https://www.acerinox.com/en/accionistas-e-invers...t-del-inversor/atencion-al-accionista/index.html  | ✓ | ⏱: 3.46s 
+[SCRAPE].. ◆ https://www.acerinox.com/en/accionistas-e-invers...t-del-inversor/atencion-al-accionista/index.html  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.acerinox.com/en/accionistas-e-invers...t-del-inversor/atencion-al-accionista/index.html  | ✓ | ⏱: 4.46s 
+[FETCH]... ↓ https://www.acerinox.com/en/accionistas-e-invers...el-inversor/Acerinox-Results-Second-Quarter-2025  | ✓ | ⏱: 3.87s 
+[SCRAPE].. ◆ https://www.acerinox.com/en/accionistas-e-invers...el-inversor/Acerinox-Results-Second-Quarter-2025  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.acerinox.com/en/accionistas-e-invers...el-inversor/Acerinox-Results-Second-Quarter-2025  | ✓ | ⏱: 4.86s 
+[FETCH]... ↓ http://www.acerinox.com                                                                              | ✓ | ⏱: 3.66s 
+[SCRAPE].. ◆ http://www.acerinox.com                                                                              | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://www.acerinox.com                                                                              | ✓ | ⏱: 5.26s 
+[FETCH]... ↓ https://www.acerinox.com/en/acerinox/fabricas/acerinox-sa                                            | ✓ | ⏱: 1.19s 
+[SCRAPE].. ◆ https://www.acerinox.com/en/acerinox/fabricas/acerinox-sa                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.acerinox.com/en/acerinox/fabricas/acerinox-sa                                            | ✓ | ⏱: 1.20s 
+[FETCH]... ↓ https://www.acerinox.com/en/acerinox/fabricas/columbus-stainless/                                    | ✓ | ⏱: 2.03s 
+[SCRAPE].. ◆ https://www.acerinox.com/en/acerinox/fabricas/columbus-stainless/                                    | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.acerinox.com/en/acerinox/fabricas/columbus-stainless/                                    | ✓ | ⏱: 2.04s 
+[FETCH]... ↓ https://www.acerinox.com/en/acerinox/quienes-somos/comite-de-direccion                               | ✓ | ⏱: 1.98s 
+[SCRAPE].. ◆ https://www.acerinox.com/en/acerinox/quienes-somos/comite-de-direccion                               | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.acerinox.com/en/acerinox/quienes-somos/comite-de-direccion                               | ✓ | ⏱: 1.99s 
+[FETCH]... ↓ https://www.acerinox.com/en/acerinox/red-comercial/National-Sales-and-Export-Department              | ✓ | ⏱: 2.28s 
+[SCRAPE].. ◆ https://www.acerinox.com/en/acerinox/red-comercial/National-Sales-and-Export-Department              | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.acerinox.com/en/acerinox/red-comercial/National-Sales-and-Export-Department              | ✓ | ⏱: 2.29s 
+[FETCH]... ↓ https://www.acerinox.com/en/comunicacion/noticia...20400-certification-for-Sustainable-Procurement/  | ✓ | ⏱: 2.07s 
+[SCRAPE].. ◆ https://www.acerinox.com/en/comunicacion/noticia...20400-certification-for-Sustainable-Procurement/  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.acerinox.com/en/comunicacion/noticia...20400-certification-for-Sustainable-Procurement/  | ✓ | ⏱: 2.08s 
+[FETCH]... ↓ https://www.acerinox.com/en/comunicacion/noticias/Acerinox-to-Acquire-Haynes-International/          | ✓ | ⏱: 1.13s 
+[SCRAPE].. ◆ https://www.acerinox.com/en/comunicacion/noticias/Acerinox-to-Acquire-Haynes-International/          | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.acerinox.com/en/comunicacion/noticias/Acerinox-to-Acquire-Haynes-International/          | ✓ | ⏱: 1.14s 
+[FETCH]... ↓ https://www.acerinox.com/en/comunicacion/noticia...nox-with-the-companys-results-at-all-time-highs/  | ✓ | ⏱: 1.11s 
+[SCRAPE].. ◆ https://www.acerinox.com/en/comunicacion/noticia...nox-with-the-companys-results-at-all-time-highs/  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.acerinox.com/en/comunicacion/noticia...nox-with-the-companys-results-at-all-time-highs/  | ✓ | ⏱: 1.11s 
+[FETCH]... ↓ https://www.acerinox.com/en/contacto                                                                 | ✓ | ⏱: 1.13s 
+[SCRAPE].. ◆ https://www.acerinox.com/en/contacto                                                                 | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.acerinox.com/en/contacto                                                                 | ✓ | ⏱: 1.13s 
+[FETCH]... ↓ https://www.acerinox.com/en/portal-de-proveedores                                                    | ✓ | ⏱: 1.08s 
+[SCRAPE].. ◆ https://www.acerinox.com/en/portal-de-proveedores                                                    | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.acerinox.com/en/portal-de-proveedores                                                    | ✓ | ⏱: 1.09s 
+[FETCH]... ↓ https://www.acerinox.com/en/talento/                                                                 | ✓ | ⏱: 1.19s 
+[SCRAPE].. ◆ https://www.acerinox.com/en/talento/                                                                 | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.acerinox.com/en/talento/                                                                 | ✓ | ⏱: 1.20s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.acerinox.com/en/accionistas-e-invers...os-de-gobierno-corporativo/Ana-Maria-Garcia-Fau/  | ✓ | ⏱: 3.74s 
+[SCRAPE].. ◆ https://www.acerinox.com/en/accionistas-e-invers...os-de-gobierno-corporativo/Ana-Maria-Garcia-Fau/  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.acerinox.com/en/accionistas-e-invers...os-de-gobierno-corporativo/Ana-Maria-Garcia-Fau/  | ✓ | ⏱: 3.75s 
+[FETCH]... ↓ https://www.acerinox.com/en/index.html                                                               | ✓ | ⏱: 3.41s 
+[SCRAPE].. ◆ https://www.acerinox.com/en/index.html                                                               | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.acerinox.com/en/index.html                                                               | ✓ | ⏱: 3.43s 
+[FETCH]... ↓ https://acerinox.com/en/accionistas-e-inversores...os-de-gobierno-corporativo/Tomas-Hevia-Armengol/  | ✓ | ⏱: 2.34s 
+[SCRAPE].. ◆ https://acerinox.com/en/accionistas-e-inversores...os-de-gobierno-corporativo/Tomas-Hevia-Armengol/  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://acerinox.com/en/accionistas-e-inversores...os-de-gobierno-corporativo/Tomas-Hevia-Armengol/  | ✓ | ⏱: 4.19s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/acerinox-f06e06684aca.json

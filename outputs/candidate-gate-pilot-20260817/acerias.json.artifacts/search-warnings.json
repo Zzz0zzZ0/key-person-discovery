@@ -1,0 +1,98 @@
+[
+  {
+    "query": "\"Acerias ProcoMetal S.A.S.\" official website",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "\"Acerias ProcoMetal S.A.S.\" official website",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "\"Acerias ProcoMetal S.A.S.\" official website",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "http://aceriasprocometal.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "http://aceriasprocometal.com/sitemap.xml: HTTP Error 404: Not Found"
+  },
+  {
+    "query": "site:linkedin.com/in \"Acerias ProcoMetal S.A.S.\"",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: unexpected crash"
+  },
+  {
+    "query": "site:linkedin.com/in \"Acerias ProcoMetal S.A.S.\"",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "\"Acerias ProcoMetal S.A.S.\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "\"Acerias ProcoMetal S.A.S.\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "too many requests"
+  },
+  {
+    "query": "site:aceriasprocometal.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:aceriasprocometal.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:aceriasprocometal.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Acerias ProcoMetal S.A.S.\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: unexpected crash"
+  },
+  {
+    "query": "\"Acerias ProcoMetal S.A.S.\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "\"Acerias ProcoMetal S.A.S.\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:aceriasprocometal.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: unexpected crash"
+  },
+  {
+    "query": "site:aceriasprocometal.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  }
+]

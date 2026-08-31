@@ -1,0 +1,45 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://empresite.eleconomista.es/SERVIFUND-MOL.html                                                 | ✓ | ⏱: 4.04s 
+[SCRAPE].. ◆ https://empresite.eleconomista.es/SERVIFUND-MOL.html                                                 | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://empresite.eleconomista.es/SERVIFUND-MOL.html                                                 | ✓ | ⏱: 5.09s 
+[FETCH]... ↓ https://servifundmol.com/de/firma-servifundmol/                                                      | ✓ | ⏱: 5.79s 
+[SCRAPE].. ◆ https://servifundmol.com/de/firma-servifundmol/                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://servifundmol.com/de/firma-servifundmol/                                                      | ✓ | ⏱: 6.84s 
+[FETCH]... ↓ https://servifundmol.com                                                                             | ✓ | ⏱: 5.83s 
+[SCRAPE].. ◆ https://servifundmol.com                                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://servifundmol.com                                                                             | ✓ | ⏱: 6.97s 
+[FETCH]... ↓ https://servifundmol.com/de/kontakt/                                                                 | ✓ | ⏱: 5.84s 
+[SCRAPE].. ◆ https://servifundmol.com/de/kontakt/                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://servifundmol.com/de/kontakt/                                                                 | ✓ | ⏱: 6.86s 
+[FETCH]... ↓ https://servifundmol.com/en/casting-melted-metal-barcelona                                           | ✓ | ⏱: 3.08s 
+[SCRAPE].. ◆ https://servifundmol.com/en/casting-melted-metal-barcelona                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://servifundmol.com/en/casting-melted-metal-barcelona                                           | ✓ | ⏱: 3.67s 
+[FETCH]... ↓ https://servifundmol.com/en/company-foundry-aluminum-barcelona/                                      | ✓ | ⏱: 1.77s 
+[SCRAPE].. ◆ https://servifundmol.com/en/company-foundry-aluminum-barcelona/                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://servifundmol.com/en/company-foundry-aluminum-barcelona/                                      | ✓ | ⏱: 2.39s 
+[FETCH]... ↓ https://servifundmol.com/en/environment/                                                             | ✓ | ⏱: 1.67s 
+[SCRAPE].. ◆ https://servifundmol.com/en/environment/                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://servifundmol.com/en/environment/                                                             | ✓ | ⏱: 2.45s 
+[FETCH]... ↓ https://servifundmol.com/en/company-servifundmol/                                                    | ✓ | ⏱: 1.71s 
+[SCRAPE].. ◆ https://servifundmol.com/en/company-servifundmol/                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://servifundmol.com/en/company-servifundmol/                                                    | ✓ | ⏱: 2.46s 
+[FETCH]... ↓ https://servifundmol.com/en/foundry-aluminum-barcelona/                                              | ✓ | ⏱: 1.72s 
+[SCRAPE].. ◆ https://servifundmol.com/en/foundry-aluminum-barcelona/                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://servifundmol.com/en/foundry-aluminum-barcelona/                                              | ✓ | ⏱: 2.37s 
+[FETCH]... ↓ https://servifundmol.com/en/sectors/                                                                 | ✓ | ⏱: 2.18s 
+[SCRAPE].. ◆ https://servifundmol.com/en/sectors/                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://servifundmol.com/en/sectors/                                                                 | ✓ | ⏱: 2.88s 
+[FETCH]... ↓ https://servifundmol.com/wp-content/uploads/2026/07/CONTACTO.jpg                                     | ✓ | ⏱: 0.82s 
+[SCRAPE].. ◆ https://servifundmol.com/wp-content/uploads/2026/07/CONTACTO.jpg                                     | ✓ | ⏱: 0.00s 
+[ERROR]... × https://servifundmol.co...ds/2026/07/CONTACTO.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (491 bytes, 0 chars visible) 
+[COMPLETE] ● https://servifundmol.com/wp-content/uploads/2026/07/CONTACTO.jpg                                     | ✗ | ⏱: 1.48s 
+[FETCH]... ↓ https://servifundmol.com/en/manufacturing-molds-aluminum-barcelona/                                  | ✓ | ⏱: 2.39s 
+[SCRAPE].. ◆ https://servifundmol.com/en/manufacturing-molds-aluminum-barcelona/                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://servifundmol.com/en/manufacturing-molds-aluminum-barcelona/                                  | ✓ | ⏱: 3.26s 
+[FETCH]... ↓ https://servifundmol.com/fr/entreprise-fonderie-aluminium-barcelone/                                 | ✓ | ⏱: 2.02s 
+[SCRAPE].. ◆ https://servifundmol.com/fr/entreprise-fonderie-aluminium-barcelone/                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://servifundmol.com/fr/entreprise-fonderie-aluminium-barcelone/                                 | ✓ | ⏱: 2.75s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/servifund-mol-s-l-dcc39ba280b8.json

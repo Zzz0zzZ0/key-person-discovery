@@ -1,0 +1,68 @@
+[
+  {
+    "query": "https://zuern.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://zuern.com/sitemap.xml: HTTP Error 404: Not Found"
+  },
+  {
+    "query": "site:zuern.com (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:zuern.com (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:zuern.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:zuern.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"ZÜRN GmbH & Co. KG\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "unexpected crash"
+  },
+  {
+    "query": "\"ZÜRN GmbH & Co. KG\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "\"ZÜRN GmbH & Co. KG\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:zuern.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "unexpected crash"
+  },
+  {
+    "query": "site:zuern.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:zuern.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  }
+]

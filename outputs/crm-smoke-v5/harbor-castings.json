@@ -1,0 +1,88 @@
+{
+  "company_name": "Harbor Castings Inc.",
+  "candidates": [
+    {
+      "full_name": "Todd Smith",
+      "current_title": "General Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/toddsmith2629",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/toddsmith2629"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/toddsmith2629",
+          "quote": "General Manager - HARBOR CASTINGS INC. (Current) May 2023 - Present (3 years and 3 months)",
+          "supports": "Current General Manager at Harbor Castings Inc."
+        }
+      ],
+      "confidence": 0.82,
+      "review_required": true
+    },
+    {
+      "full_name": "Tristan Palmer",
+      "current_title": "Plant Manager",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 72,
+      "linkedin": [
+        {
+          "value": "https://linkedin.com/in/tristan-palmer-760517144",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/tristan-palmer-760517144"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/tristan-palmer-760517144",
+          "quote": "Plant Manager at Harbor Castings Inc. (Current) Jul 2025 - Present; Manufacturing Engineer and Foundry Supervisor (Current) Dec 2019 - Present",
+          "supports": "Current Plant Manager and former Manufacturing Engineer/Foundry Supervisor at Harbor Castings Inc. with 6+ years foundry technical experience"
+        }
+      ],
+      "confidence": 0.78,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+13304997178",
+      "status": "valid_format",
+      "source_url": "https://www.harborinvestmentcastings.com",
+      "whatsapp_status": "unknown"
+    },
+    {
+      "channel": "phone",
+      "value": "+13304992018",
+      "status": "valid_format",
+      "source_url": "https://www.harborinvestmentcastings.com",
+      "whatsapp_status": "unknown"
+    }
+  ],
+  "review_required": true,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 27,
+    "search_engine_warnings": 0,
+    "urls_crawled": 14,
+    "crawl_failures": 1,
+    "contact_signals": 21,
+    "official_urls_discovered": 4,
+    "search_evidence_pages": 4,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

@@ -1,0 +1,279 @@
+[
+  {
+    "channel": "email",
+    "value": "info@thermoheat.nl",
+    "status": "observed",
+    "source_url": "https://www.thermoheat.nl",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497055",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497065",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@thermoheat.nl",
+    "status": "observed",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/general-manager-location-office-portugal/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hr@thermoheat.nl",
+    "status": "observed",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/general-manager-location-office-portugal/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497055",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/general-manager-location-office-portugal/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497065",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/general-manager-location-office-portugal/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@thermoheat.nl",
+    "status": "observed",
+    "source_url": "https://www.thermoheat.nl/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@thermoheat.pt",
+    "status": "observed",
+    "source_url": "https://www.thermoheat.nl/contact",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497055",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497065",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@thermoheat.nl",
+    "status": "observed",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/project-assistent-project-assistant/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hr@thermoheat.nl",
+    "status": "observed",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/project-assistent-project-assistant/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497055",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/project-assistent-project-assistant/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497065",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/project-assistent-project-assistant/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@thermoheat.nl",
+    "status": "observed",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/refractory-engineer-location-office-portugal/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hr@thermoheat.nl",
+    "status": "observed",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/refractory-engineer-location-office-portugal/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497055",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/refractory-engineer-location-office-portugal/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497065",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/refractory-engineer-location-office-portugal/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@thermoheat.nl",
+    "status": "observed",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/projectleider-projectleader/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497055",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/projectleider-projectleader/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497065",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/projectleider-projectleader/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@thermoheat.nl",
+    "status": "observed",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/teamleader-location-portugal-the-netherlands/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hr@thermoheat.nl",
+    "status": "observed",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/teamleader-location-portugal-the-netherlands/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497055",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/teamleader-location-portugal-the-netherlands/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497065",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/teamleader-location-portugal-the-netherlands/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@thermoheat.nl",
+    "status": "observed",
+    "source_url": "https://www.thermoheat.nl/news/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497055",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497065",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@thermoheat.nl",
+    "status": "observed",
+    "source_url": "https://www.thermoheat.nl/media/1113/thermoheat-bv-refractor-september-2016.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "sales@thermoheat.nl",
+    "status": "observed",
+    "source_url": "https://www.thermoheat.nl/media/1113/thermoheat-bv-refractor-september-2016.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "a.vangelder@thermoheat.nl",
+    "status": "observed",
+    "source_url": "https://www.thermoheat.nl/media/1113/thermoheat-bv-refractor-september-2016.pdf"
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497055",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl/media/1113/thermoheat-bv-refractor-september-2016.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "hr@thermoheat.nl",
+    "status": "probable",
+    "source_url": "https://www.thermoheat.nl/working-at-thermoheat/projectleider-projectleader/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31187497055",
+    "status": "valid_format",
+    "source_url": "https://www.thermoheat.nl/media/1136/refractor-october-2020.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

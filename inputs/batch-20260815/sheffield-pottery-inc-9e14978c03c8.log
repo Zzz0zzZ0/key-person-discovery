@@ -1,0 +1,72 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://leadiq.com/c/sheffield-pottery/5a1dac372300005c00a16890/email-format                         | ✓ | ⏱: 1.58s 
+[SCRAPE].. ◆ https://leadiq.com/c/sheffield-pottery/5a1dac372300005c00a16890/email-format                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://leadiq.com/c/sheffield-pottery/5a1dac372300005c00a16890/email-format                         | ✓ | ⏱: 1.60s 
+[FETCH]... ↓ https://leadiq.com/c/sheffield-pottery/5a1dac372300005c00a16890                                      | ✓ | ⏱: 1.81s 
+[SCRAPE].. ◆ https://leadiq.com/c/sheffield-pottery/5a1dac372300005c00a16890                                      | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://leadiq.com/c/sheffield-pottery/5a1dac372300005c00a16890                                      | ✓ | ⏱: 1.84s 
+[FETCH]... ↓ https://www.bloomberg.com/profile/company/0045981D:US                                                | ✓ | ⏱: 0.93s 
+[SCRAPE].. ◆ https://www.bloomberg.com/profile/company/0045981D:US                                                | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.bloomberg.c...ile/company/0045981D:US  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.bloomberg.com/profile/company/0045981D:US                                                | ✗ | ⏱: 2.94s 
+[FETCH]... ↓ https://governmentbidders.com/government-bidders/contractor-5398282-SHEFFIELD-POTTERY-IN.htm         | ✓ | ⏱: 2.16s 
+[SCRAPE].. ◆ https://governmentbidders.com/government-bidders/contractor-5398282-SHEFFIELD-POTTERY-IN.htm         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://governmentbidders.com/government-bidders/contractor-5398282-SHEFFIELD-POTTERY-IN.htm         | ✓ | ⏱: 3.41s 
+[FETCH]... ↓ https://www.importgenius.com/peru/suppliers/sheffield-pottery-inc                                    | ✓ | ⏱: 2.38s 
+[SCRAPE].. ◆ https://www.importgenius.com/peru/suppliers/sheffield-pottery-inc                                    | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.importgenius.com/peru/suppliers/sheffield-pottery-inc                                    | ✓ | ⏱: 2.41s 
+[FETCH]... ↓ https://www.maycocolors.com/distributors/sheffield-pottery-inc/                                      | ✓ | ⏱: 4.89s 
+[SCRAPE].. ◆ https://www.maycocolors.com/distributors/sheffield-pottery-inc/                                      | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.maycocolors.com/distributors/sheffield-pottery-inc/                                      | ✓ | ⏱: 4.92s 
+[FETCH]... ↓ https://www.privco.com/company/sheffield-pottery                                                     | ✓ | ⏱: 3.07s 
+[SCRAPE].. ◆ https://www.privco.com/company/sheffield-pottery                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.privco.com/company/sheffield-pottery                                                     | ✓ | ⏱: 3.86s 
+[FETCH]... ↓ https://www.sheffield-pottery.com/pages/about-us                                                     | ✓ | ⏱: 4.29s 
+[SCRAPE].. ◆ https://www.sheffield-pottery.com/pages/about-us                                                     | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.sheffield-pottery.com/pages/about-us                                                     | ✓ | ⏱: 4.35s 
+[FETCH]... ↓ https://www.sheffield-pottery.com/pages/ceramics-supplies-for-school-bids-and-contract-pricing       | ✓ | ⏱: 1.84s 
+[SCRAPE].. ◆ https://www.sheffield-pottery.com/pages/ceramics-supplies-for-school-bids-and-contract-pricing       | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.sheffield-pottery.com/pages/ceramics-supplies-for-school-bids-and-contract-pricing       | ✓ | ⏱: 1.90s 
+[FETCH]... ↓ https://www.sheffield-pottery.com/pages/contact                                                      | ✓ | ⏱: 1.76s 
+[SCRAPE].. ◆ https://www.sheffield-pottery.com/pages/contact                                                      | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.sheffield-pottery.com/pages/contact                                                      | ✓ | ⏱: 1.81s 
+[FETCH]... ↓ https://www.sheffield-pottery.com                                                                    | ✓ | ⏱: 4.47s 
+[SCRAPE].. ◆ https://www.sheffield-pottery.com                                                                    | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.sheffield-pottery.com                                                                    | ✓ | ⏱: 5.38s 
+[FETCH]... ↓ https://www.sheffield-pottery.com/pages/sheffield-pottery-ceramics-supply-company                    | ✓ | ⏱: 0.86s 
+[SCRAPE].. ◆ https://www.sheffield-pottery.com/pages/sheffield-pottery-ceramics-supply-company                    | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.sheffield-pottery.com/pages/sheffield-pottery-ceramics-supply-company                    | ✓ | ⏱: 0.92s 
+[FETCH]... ↓ https://www.zoominfo.com/c/sheffield-pottery-inc/76547330                                            | ✓ | ⏱: 0.80s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/sheffield-pottery-inc/76547330                                            | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...ld-pottery-inc/76547330  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/c/sheffield-pottery-inc/76547330                                            | ✗ | ⏱: 1.72s 
+[FETCH]... ↓ https://www.yelp.com/biz/sheffield-pottery-sheffield                                                 | ✓ | ⏱: 1.50s 
+[SCRAPE].. ◆ https://www.yelp.com/biz/sheffield-pottery-sheffield                                                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.yelp.com/bi...field-pottery-sheffield  | Error: Blocked by anti-bot protection: DataDome captcha 
+[COMPLETE] ● https://www.yelp.com/biz/sheffield-pottery-sheffield                                                 | ✗ | ⏱: 1.91s 
+[FETCH]... ↓ https://www.visualvisitor.com/companies/4944976/sheffield_pottery                                    | ✓ | ⏱: 22.35s 
+[SCRAPE].. ◆ https://www.visualvisitor.com/companies/4944976/sheffield_pottery                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.visualvisitor.com/companies/4944976/sheffield_pottery                                    | ✓ | ⏱: 24.38s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.sheffield-pottery.com/cdn/shop/files...b3-bd2a-29d00542a10f.webp?v=1753377365&width=320  | ✓ | ⏱: 0.71s 
+[SCRAPE].. ◆ https://www.sheffield-pottery.com/cdn/shop/files...b3-bd2a-29d00542a10f.webp?v=1753377365&width=320  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.sheffield-p...?v=1753377365&width=320  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (575 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.sheffield-pottery.com/cdn/shop/files...b3-bd2a-29d00542a10f.webp?v=1753377365&width=320  | ✗ | ⏱: 0.72s 
+[FETCH]... ↓ https://www.sheffield-pottery.com/cdn/shop/files...84b-951f-fde6e1a30550.jpg?v=1678432503&width=320  | ✓ | ⏱: 1.14s 
+[SCRAPE].. ◆ https://www.sheffield-pottery.com/cdn/shop/files...84b-951f-fde6e1a30550.jpg?v=1678432503&width=320  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.sheffield-p...?v=1678432503&width=320  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (573 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.sheffield-pottery.com/cdn/shop/files...84b-951f-fde6e1a30550.jpg?v=1678432503&width=320  | ✗ | ⏱: 1.15s 
+[FETCH]... ↓ https://www.sheffield-pottery.com/cdn/shop/files...d46-85e0-590cfa84a8e6.jpg?v=1682486030&width=320  | ✓ | ⏱: 1.48s 
+[SCRAPE].. ◆ https://www.sheffield-pottery.com/cdn/shop/files...d46-85e0-590cfa84a8e6.jpg?v=1682486030&width=320  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.sheffield-p...?v=1682486030&width=320  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (575 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.sheffield-pottery.com/cdn/shop/files...d46-85e0-590cfa84a8e6.jpg?v=1682486030&width=320  | ✗ | ⏱: 1.48s 
+[FETCH]... ↓ https://www.sheffield-pottery.com/collections/our-approximately-weekly-newsletter                    | ✓ | ⏱: 3.02s 
+[SCRAPE].. ◆ https://www.sheffield-pottery.com/collections/our-approximately-weekly-newsletter                    | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.sheffield-pottery.com/collections/our-approximately-weekly-newsletter                    | ✓ | ⏱: 3.08s 
+[FETCH]... ↓ https://www.sheffield-pottery.com/pages/price-policy                                                 | ✓ | ⏱: 2.35s 
+[SCRAPE].. ◆ https://www.sheffield-pottery.com/pages/price-policy                                                 | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.sheffield-pottery.com/pages/price-policy                                                 | ✓ | ⏱: 2.41s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/sheffield-pottery-inc-9e14978c03c8.json

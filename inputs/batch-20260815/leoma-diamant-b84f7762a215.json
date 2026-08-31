@@ -1,0 +1,111 @@
+{
+  "name": "LEOMA Diamant",
+  "website": "https://leomadiamant.it",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00dc4b94-81d0-4303-89e5-c8f343ef3a1e",
+  "crm_linkedin_url": "https://www.linkedin.com/company/1672964/",
+  "crm_country": "意大利",
+  "crm_updated_at": "2026-07-27T07:56:01.12613+00:00",
+  "crm_contact_count": 8,
+  "crm_contacts": [
+    {
+      "name": "Mirko Chiambretto",
+      "email": null,
+      "additional_emails": null,
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Mirko Chiambretto",
+      "email": null,
+      "additional_emails": [],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/mirko-chiambretto-a0b412173",
+      "additional_linkedin": null
+    },
+    {
+      "name": "LEOMA DIAMANT s.r.l.",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+390113819358",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/company/1672964/",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Sergio Ferrero",
+      "email": null,
+      "additional_emails": [],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/sergioferrero1954/",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Sergio Ferrero",
+      "email": null,
+      "additional_emails": [],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/sergio-ferrero-12a14521",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "info@leomadiamant.it",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Sergio Ferrero",
+      "email": null,
+      "additional_emails": [
+        "sergio.ferrero@leomadiamant.it"
+      ],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Sergio Ferrero",
+      "email": "sergiofe@hotmail.it",
+      "additional_emails": [],
+      "phone": "+39 011 381 9358",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/sergio-ferrero-12a14521",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-15T03:37:06.830311+00:00",
+  "source": "twenty_postgresql_read_only"
+}

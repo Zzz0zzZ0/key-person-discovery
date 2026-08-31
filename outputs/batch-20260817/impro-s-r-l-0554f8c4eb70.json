@@ -1,0 +1,133 @@
+{
+  "company_name": "IMPRO S.R.L.",
+  "candidates": [],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Leandro Cazaux",
+      "current_title": "Técnico / Technical Contact",
+      "company_match": "uncertain",
+      "influence_type": "technical_influencer",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/ing-leandro-cazaux",
+          "status": "probable",
+          "source_url": "https://portfolio-6egs-impro.netlify.app/"
+        }
+      ],
+      "emails": [
+        {
+          "value": "leandrocazaux@gmail.com",
+          "status": "observed",
+          "source_url": "https://portfolio-6egs-impro.netlify.app/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+5493517514321",
+          "status": "valid_format",
+          "whatsapp_status": "verified",
+          "source_url": "https://portfolio-6egs-impro.netlify.app/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://portfolio-6egs-impro.netlify.app/",
+          "quote": "WhatsApp: +54 9 3517 51-4321 (Técnico)",
+          "supports": "Technical contact listed on joint 6EGS/IMPRO portfolio page with wa.me link"
+        },
+        {
+          "source_url": "https://portfolio-6egs-impro.netlify.app/",
+          "quote": "leandrocazaux@gmail.com (Técnico)",
+          "supports": "Email associated with technical role on portfolio page"
+        },
+        {
+          "source_url": "https://portfolio-6egs-impro.netlify.app/",
+          "quote": "LinkedIn: https://www.linkedin.com/in/ing-leandro-cazaux/ (Técnico)",
+          "supports": "LinkedIn profile listed under technical contact on joint portfolio"
+        }
+      ],
+      "confidence": 0.25,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "validation_rejections": [
+    {
+      "full_name": "Leandro Cazaux",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "whatsapp",
+      "matched_by": [
+        "whatsapp"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 3,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 7,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 22,
+    "search_engine_warnings": 0,
+    "urls_crawled": 12,
+    "crawl_failures": 3,
+    "contact_signals": 14,
+    "official_urls_discovered": 3,
+    "crm_website": "https://improsrl.com.ar",
+    "official_website": "https://improsrl.com.ar",
+    "website_recovered": false,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 1,
+    "unverified_candidates": 1,
+    "crm_contact_count": 5,
+    "crm_duplicates_removed": 3,
+    "target_contactable_items": 1,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.ceram-austria.com/wp-content/uploads/CERAM-RTO-design-form.pdf",
+    "markdown": "[PDF page 1]\nRTO-Design Form\n\nPlease email this form to:\n\nemail ceram-order@ceram-austria.com\n\nFrom:\n\nCompany:                                        Address:\n\nContact Person:\n\nPhone:\n\nemail:                                                   Project code:\n\nBy sending us the completed form we are able to offer you an optimized heat media bed\ndesign and quotation for ceramic honeycombs.\n\nBasic  RTO-unit Information:\n\n         RTO unit                                                   New                 revamp\n\n         Square / rectangular\n         or rotary unit\n\n         Number of chambers or segments\n\n\n         Hot Bypass                                                 Yes                 No\n\n         Gas burner flow (Nm³/h)\n\n         Regenerator bed dimensions                                 Length – width – max bed height\n         (net dimensions available for heat media\n\n         or block count per layer & chamber or                      or number of blocks per layer\n         segment\n\n         If revamp info on existing heat media and performance (delta p and TER)\n\n[PDF page 2]\nBasic parameters (obligatory)\n\n\n        Gas Flow Rate (standard conditions)                            Cycle time (one direction)\n\n                                            Nm³/h                                                           s\n\n\n        Inlet temperature (Tin)                                        required thermal efficiency\n                                                                       (therm=(Tox-Tout)/(Tox-Tin))\n                                              °C\n                                                                                                            %\n\n\n        Oxidation temperature (Tox)                                    max. acceptable pressure drop of\n                                                                       one heat media chamber\n                                              °C\n                                                                                                          mbar\n\n\n\nLimiting operational parameters:\n\n\n        Required minimum start up rate\n                                          °C/min                       continuous / discontinuous\n                                                                       operation\n                                                                                                    h / year\n                                                                             yes / no\n\n        maintenance (please describe)\n\n        wash outs                                                      others (please describe)\n\n\n        burn outs\n\n[PDF page 3]\nAdditional information on application:\n\n        VOC type and concentration (g/Nm³) and heat value of available (KJ/g)\n\n\n\n\n        Is there any dust or sticky particulates in the gas? (please describe)\n\n\n\n\n\n\n        Are there alkaline or other corrosives in the gas which could attack ceramic\n        material? (Please describe)\n\n\n\n\n\n\n        Are there any silica compounds in the gas? (Please describe)\n\n\n\n\n\n\n\nRequest for a corresponding quotation:\n\n         Requested delivery date                              dd. mm. yyyy\n\n                                                                   .        .\n\n                                                              ex works / seaport / on site\n                                                              (please indicate)\n\n\n\n         Quotation on transport costs (basic                  yes / no\n         quotation will be issued on FCA\n         transport not included)",
+    "error": "",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 3
+  },
+  {
+    "url": "https://www.ceram-austria.com/wp-content/uploads/DE_ISO_9001_14001_45001.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.ceram-austria.com/wp-content/uploads/Zertifikat-EN-ISO-3834-2.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  }
+]

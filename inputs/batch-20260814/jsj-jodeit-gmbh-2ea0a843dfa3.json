@@ -1,0 +1,109 @@
+{
+  "name": "JSJ Jodeit GmbH",
+  "website": "https://apps.glassglobal.com/profile/documents3274.html",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00021ac1-6c21-41d1-bfd8-b5115da5b029",
+  "crm_linkedin_url": "http://www.linkedin.com/company/jsj-jodeit-gmbh",
+  "crm_country": "德国",
+  "crm_updated_at": "2026-07-28T10:07:53.739771+00:00",
+  "crm_contact_count": 8,
+  "crm_contacts": [
+    {
+      "name": " Angel Elizondo",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/angelelizondo88",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Steffen Körner",
+      "email": "steffen_koerner@t-online.de",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/steffen-körner-a316b146",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Jens-Christian Danz",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/jens-christian-danz-644095181",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Nedim Moranjkic",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/nedim-moranjkic-38665837",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Steffen Schulze",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+49 9636 9204861",
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/steffen-schulze-5b64a2136",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Harald Jodeit",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+49 3641 622911",
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/harald-jodeit-3269107a",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Immo Truegber",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/immo-truegber-b501ab81",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+49 9636 92040",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-14T09:27:36.058453+00:00",
+  "source": "twenty_postgresql_read_only"
+}

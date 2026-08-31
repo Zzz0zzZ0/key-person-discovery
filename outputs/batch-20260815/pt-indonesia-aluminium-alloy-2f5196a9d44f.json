@@ -1,0 +1,137 @@
+{
+  "company_name": "PT Indonesia Aluminium Alloy",
+  "candidates": [
+    {
+      "full_name": "Agus Wibowo",
+      "current_title": "Operational Director",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://iaa.co.id/en/pimpinan-perusahaan/",
+          "quote": "Agus Wibowo – Operational Director",
+          "supports": "Listed as Operational Director on official leadership page"
+        },
+        {
+          "source_url": "https://iaa.co.id/direksi-pt-indonesia-aluminium-alloy-melakukan-audiensi-ke-bupati-batu-bara/",
+          "quote": "Direktur Operasi PT IAA, Agus Wibowo",
+          "supports": "Confirmed as Director Operasi in September 2021 audiensi with Batu Bara Regent"
+        },
+        {
+          "source_url": "https://iaa.co.id/pt-iaa-terima-kunjungan-sharing-session-pt-alindo-perkasa-sukses/",
+          "quote": "Direktur Operasi PT IAA, Bapak Agus Wibowo beserta seluruh tim PT IAA",
+          "supports": "Confirmed as active Operational Director in December 2022 sharing session with PT Alindo Perkasa"
+        }
+      ],
+      "confidence": 0.8,
+      "review_required": true
+    },
+    {
+      "full_name": "Adi Widodo",
+      "current_title": "President Commissioner",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 75,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://iaa.co.id/en/pimpinan-perusahaan/",
+          "quote": "Adi Widodo – President Commissioner",
+          "supports": "Listed as President Commissioner on official leadership page"
+        }
+      ],
+      "confidence": 0.7,
+      "review_required": true
+    },
+    {
+      "full_name": "Kuspriyono",
+      "current_title": "Commissioner",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 70,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://iaa.co.id/en/pimpinan-perusahaan/",
+          "quote": "Kuspriyono – Commissioner",
+          "supports": "Listed as Commissioner on official leadership page"
+        }
+      ],
+      "confidence": 0.65,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "marketing@iaa.co.id",
+      "status": "observed",
+      "source_url": "https://iaa.co.id/direksi-pt-indonesia-aluminium-alloy-melakukan-audiensi-ke-bupati-batu-bara/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+6281330117373",
+      "status": "valid_format",
+      "source_url": "https://iaa.co.id/direksi-pt-indonesia-aluminium-alloy-melakukan-audiensi-ke-bupati-batu-bara/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+6282179176822",
+      "status": "valid_format",
+      "source_url": "https://iaa.co.id/en/kontak-kami/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Ricky Gunawan",
+      "matched_by": [
+        "name"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 30,
+    "search_engine_warnings": 0,
+    "urls_crawled": 18,
+    "crawl_failures": 6,
+    "contact_signals": 23,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 2,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 17,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 1,
+    "contactable_items": 3,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

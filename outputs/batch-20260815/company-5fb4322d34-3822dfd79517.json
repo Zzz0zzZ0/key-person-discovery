@@ -1,0 +1,466 @@
+{
+  "company_name": "Управляющая Металлургическая Компания «УМК-Сталь»",
+  "candidates": [
+    {
+      "full_name": "Охотин Юрий Юрьевич",
+      "current_title": "Ведущий инженер (ферросплавы, основные сырьевые материалы)",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 5,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "snab1@mmc-steel.ru",
+          "status": "observed",
+          "source_url": "https://mmc-steel.ru/contacts/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+73436898026",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://mmc-steel.ru/contacts/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://mmc-steel.ru/contacts/",
+          "quote": "Охотин Юрий Юрьевич\nВедущий инженер (ферросплавы, основные сырьевые материалы)\n+7 343 68 98 026\nsnab1@mmc-steel.ru",
+          "supports": "Централизованное управление снабжения в УМК-Сталь, directly handles ferroalloys and primary raw material procurement — direct purchasing authority for SiC, magnesite, bauxite, and other refractory/steel inputs"
+        }
+      ],
+      "confidence": 0.88,
+      "review_required": true
+    },
+    {
+      "full_name": "Бадрутдинова Эльмира Жановна",
+      "current_title": "Ведущий инженер (огнеупоры)",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 5,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "snab4@mmc-steel.ru",
+          "status": "observed",
+          "source_url": "https://mmc-steel.ru/contacts/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+73436898550",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://mmc-steel.ru/contacts/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://mmc-steel.ru/contacts/",
+          "quote": "Бадрутдинова Эльмира Жановна\nВедущий инженер (огнеупоры)\n+7 343 68 98 550\nsnab4@mmc-steel.ru",
+          "supports": "Централизованное управление снабжения в УМК-Сталь, explicitly responsible for refractories — direct purchasing authority for magnesite, alumina, SiC, mullite and other огнеупоры inputs used in steel plant operations"
+        }
+      ],
+      "confidence": 0.88,
+      "review_required": true
+    },
+    {
+      "full_name": "Белов Антон Юрьевич",
+      "current_title": "Начальник отдела продаж конструкционного металла",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 4,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+73438553241",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://mmc-steel.ru/contacts/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://mmc-steel.ru/contacts/",
+          "quote": "Белов Антон Юрьевич\nНачальник отдела продаж конструкционного металла\n+7 343 85 53 241\nA.Belov@mmc-steel.ru",
+          "supports": "Head of structural metal sales department — has commercial influence over steel production inputs and procurement policy at УМК-Сталь's subsidiaries"
+        }
+      ],
+      "confidence": 0.8,
+      "review_required": true
+    },
+    {
+      "full_name": "Пугачева Елена Сергеевна",
+      "current_title": "Начальник отдела по продажам строительного сортамента",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 3,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "sale@mmc-steel.ru",
+          "status": "observed",
+          "source_url": "https://mmc-steel.ru/contacts/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+73436898543",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://mmc-steel.ru/contacts/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://mmc-steel.ru/contacts/",
+          "quote": "Пугачева Елена Сергеевна\nНачальник отдела по продажам строительного сортамента (арматура, фасонный прокат)\n+7 343 68 98 543\nsale@mmc-steel.ru",
+          "supports": "Head of construction steel sales — senior commercial role at УМК-Сталь with procurement influence"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "steel@mmc-steel.ru",
+      "status": "observed",
+      "source_url": "http://mmc-steel.ru",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73436898542",
+      "status": "valid_format",
+      "source_url": "http://mmc-steel.ru",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@tyumensteel.ru",
+      "status": "observed",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "postmaster@serovmet.ru",
+      "status": "observed",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "kln@mmc-steel.ru",
+      "status": "observed",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "kharlamenko@mmc-steel.ru",
+      "status": "observed",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "a.belov@mmc-steel.ru",
+      "status": "observed",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "market@serovmet.ru",
+      "status": "observed",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sekretar@oao-bru.ru",
+      "status": "observed",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "permyakov@oao-bru.ru",
+      "status": "observed",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "citcer@oao-bru.ru",
+      "status": "observed",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "zonov@oao-bru.ru",
+      "status": "observed",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "suhanov@oao-bru.ru",
+      "status": "observed",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "vibornih@oao-bru.ru",
+      "status": "observed",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "urazbahtina@oao-bru.ru",
+      "status": "observed",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "tokmakova_ui@tyumensteel.ru",
+      "status": "observed",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "yu.planina@serovmet.ru",
+      "status": "observed",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "kotov@tyumensteel.ru",
+      "status": "observed",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73452532888",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73438553529",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73438554009",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73438553427",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73436898012",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73436898024",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73436898023",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73438553500",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73438552003",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73438471555",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73438471850",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73438471575",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73438471750",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73438471645",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73438471617",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73452532859",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73438552280",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73438598550",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+73452532850",
+      "status": "valid_format",
+      "source_url": "https://mmc-steel.ru/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 37,
+    "search_engine_warnings": 1,
+    "urls_crawled": 30,
+    "crawl_failures": 0,
+    "contact_signals": 75,
+    "official_urls_discovered": 30,
+    "pdf_documents_discovered": 6,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 120,
+    "pdf_failures": 3,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 2,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 4,
+    "contactable_items": 41,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

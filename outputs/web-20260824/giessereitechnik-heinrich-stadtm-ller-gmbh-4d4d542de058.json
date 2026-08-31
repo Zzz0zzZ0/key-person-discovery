@@ -1,0 +1,62 @@
+{
+  "company_name": "Gießereitechnik Heinrich Stadtmüller GmbH",
+  "candidates": [],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Markus Stadtmüller",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 42,
+    "search_engine_warnings": 7,
+    "urls_crawled": 7,
+    "crawl_failures": 0,
+    "contact_signals": 2,
+    "official_urls_discovered": 4,
+    "crm_website": "https://ceramcore-stadtmueller.com",
+    "official_website": "https://ceramcore-stadtmueller.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 6,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 32,
+    "pdf_failures": 1,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 2,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 1,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 4,
+    "contactable_items": 0,
+    "target_contact_methods": 4,
+    "contact_methods": 0,
+    "contact_target_met": false,
+    "broad_discovery": false,
+    "topeasy_import": {},
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

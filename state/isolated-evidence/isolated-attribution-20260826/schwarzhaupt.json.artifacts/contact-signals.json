@@ -1,0 +1,96 @@
+[
+  {
+    "channel": "email",
+    "value": "post@schwarzhaupt.de",
+    "status": "observed",
+    "source_url": "http://www.schwarzhaupt.de/en/datenschutz.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49235190760",
+    "status": "valid_format",
+    "source_url": "http://www.schwarzhaupt.de/en/datenschutz.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "post@schwarzhaupt.de",
+    "status": "observed",
+    "source_url": "https://www.schwarzhaupt.de/en/impressum.html",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "mail@daro.de",
+    "status": "observed",
+    "source_url": "https://www.schwarzhaupt.de/en/impressum.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49235190760",
+    "status": "valid_format",
+    "source_url": "https://www.schwarzhaupt.de/en/impressum.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "post@schwarzhaupt.de",
+    "status": "observed",
+    "source_url": "https://www.schwarzhaupt.de/en/kontakt.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49235190760",
+    "status": "valid_format",
+    "source_url": "https://www.schwarzhaupt.de/en/kontakt.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "post@schwarzhaupt.de",
+    "status": "observed",
+    "source_url": "http://www.schwarzhaupt.de/en/impressum.html",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "mail@daro.de",
+    "status": "observed",
+    "source_url": "http://www.schwarzhaupt.de/en/impressum.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49235190760",
+    "status": "valid_format",
+    "source_url": "http://www.schwarzhaupt.de/en/impressum.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "post@schwarzhaupt.de",
+    "status": "observed",
+    "source_url": "https://www.schwarzhaupt.de/en/datenschutz.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49235190760",
+    "status": "valid_format",
+    "source_url": "https://www.schwarzhaupt.de/en/datenschutz.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

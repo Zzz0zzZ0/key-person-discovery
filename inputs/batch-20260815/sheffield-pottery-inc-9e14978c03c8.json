@@ -1,0 +1,155 @@
+{
+  "name": "Sheffield Pottery Inc.",
+  "website": "https://www.sheffield-pottery.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "0118743a-7c10-4a27-ab10-83366af3238a",
+  "crm_linkedin_url": "http://www.linkedin.com/company/sheffield-pottery",
+  "crm_country": "美国",
+  "crm_updated_at": "2026-07-27T09:36:17.347823+00:00",
+  "crm_contact_count": 12,
+  "crm_contacts": [
+    {
+      "name": " George Ullrich",
+      "email": "george@sheffield-pottery.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/george-ullrich-517702198",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "sales2@sheffield-pottery.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+1 888-774-2529",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Carolyn Duprey",
+      "email": "carolyn.duprey@gmail.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/carolyn-duprey-550802a7/",
+      "additional_linkedin": null
+    },
+    {
+      "name": " John Cowen",
+      "email": "john@sheffield-pottery.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/john-cowen-627aba10a/",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Tim Heffernan",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+1 413-229-7700 ext. 10, +18887742529ext20, +1 303-783-2547, +1 888-774-2529 ext. 20, +14132297700ext10, 3037832547",
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/tim-heffernan-95431a8",
+      "additional_linkedin": null
+    },
+    {
+      "name": " John Cowen",
+      "email": "john.cowen@sheffield-pottery.com",
+      "additional_emails": [
+        "cowen@sheffield-pottery.com",
+        "johncowen@gmail.com",
+        "ashleycowen@hotmail.com"
+      ],
+      "phone": "+1 413-229-7700",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/john-cowen-627aba10a",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Jennifer Adams",
+      "email": "jadams@sheffield-pottery.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/jennifer-adams-baa03811",
+      "additional_linkedin": null
+    },
+    {
+      "name": " John Cowen",
+      "email": "jcowen@sheffield-pottery.com",
+      "additional_emails": [],
+      "phone": "+1 413-229-7700 ext. 20, +1 888-774-2529 ext. 223",
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/john-cowen-627aba10a",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Katherine Tabiner",
+      "email": "katherinet@sheffield-pottery.com",
+      "additional_emails": [
+        "katherine.tabiner@sheffield-pottery.com",
+        "katherinetabiner@sheffield-pottery.com",
+        "ktabiner@sheffield-pottery.com",
+        "tabiner@sheffield-pottery.com",
+        "katherine@sheffield-pottery.com"
+      ],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/katherine-tabiner-99767b14a",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Carolyn Duprey",
+      "email": "cduprey@sheffield-pottery.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/carolyn-duprey-550802a7",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Jennifer Freese-Kubsch",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/jennifer-l-freese-kubsch",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-15T04:16:20.573641+00:00",
+  "source": "twenty_postgresql_read_only"
+}

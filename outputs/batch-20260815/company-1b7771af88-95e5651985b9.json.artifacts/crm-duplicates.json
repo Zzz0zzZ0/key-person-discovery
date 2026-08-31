@@ -1,0 +1,24 @@
+[
+  {
+    "kind": "candidate",
+    "full_name": "Салащенко Андрій Олександрович",
+    "matched_by": [
+      "email",
+      "phone"
+    ]
+  },
+  {
+    "kind": "candidate",
+    "full_name": "Пономаренко Руслан Валерійович",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "candidate",
+    "full_name": "Мельник",
+    "matched_by": [
+      "email"
+    ]
+  }
+]

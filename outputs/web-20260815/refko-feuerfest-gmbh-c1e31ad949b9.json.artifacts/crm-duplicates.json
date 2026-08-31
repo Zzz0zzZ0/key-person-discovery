@@ -1,0 +1,23 @@
+[
+  {
+    "kind": "candidate",
+    "full_name": "Herbert Hoenl",
+    "matched_by": [
+      "name"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "phone",
+    "matched_by": [
+      "phone"
+    ]
+  }
+]

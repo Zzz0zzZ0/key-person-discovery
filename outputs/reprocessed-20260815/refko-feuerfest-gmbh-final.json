@@ -1,0 +1,186 @@
+{
+  "company_name": "REFKO Feuerfest GmbH",
+  "candidates": [
+    {
+      "full_name": "Herbert Hoenl",
+      "current_title": "",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "hoenl@refko.de",
+          "status": "guessed",
+          "source_url": "https://www.refractories-worldforum.com/directory-supplier/listing/refko-feuerfest-gmbh/"
+        }
+      ],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.refractories-worldforum.com/directory-supplier/listing/refko-feuerfest-gmbh/",
+          "quote": "hoenl@refko.de",
+          "supports": "email local part uniquely matches an existing CRM contact surname"
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true,
+      "crm_existing_match": [
+        "name"
+      ]
+    },
+    {
+      "full_name": "Peter Weirich",
+      "current_title": "",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/peter-weirich-a81855231",
+          "status": "observed",
+          "source_url": "https://tt.linkedin.com/company/refko-feuerfest-gmbh"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://tt.linkedin.com/company/refko-feuerfest-gmbh",
+          "quote": "Peter Weirich",
+          "supports": "listed in the company's LinkedIn Employees section"
+        }
+      ],
+      "confidence": 0.7,
+      "review_required": true
+    },
+    {
+      "full_name": "Lukas Möhring",
+      "current_title": "",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/lukas-m%C3%B6hring-8a4085389",
+          "status": "observed",
+          "source_url": "https://tt.linkedin.com/company/refko-feuerfest-gmbh"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://tt.linkedin.com/company/refko-feuerfest-gmbh",
+          "quote": "Lukas Möhring",
+          "supports": "listed in the company's LinkedIn Employees section"
+        }
+      ],
+      "confidence": 0.7,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+4923262075",
+      "status": "valid_format",
+      "source_url": "https://malaysia.ahk.de/en/members/members-directory/refko-feuerfest-gmbh",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+4926231738",
+      "status": "valid_format",
+      "source_url": "https://www.refractories-worldforum.com/directory-supplier/listing/refko-feuerfest-gmbh/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "validation_rejections": [
+    {
+      "full_name": "Herbert Hoenl",
+      "reasons": [
+        "evidence URL was not fetched"
+      ]
+    },
+    {
+      "full_name": "Florian Laux",
+      "reasons": [
+        "evidence URL was not fetched"
+      ]
+    }
+  ],
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Herbert Hoenl",
+      "matched_by": [
+        "name"
+      ]
+    },
+    {
+      "kind": "candidate",
+      "full_name": "Micael Mota Silva",
+      "matched_by": [
+        "linkedin",
+        "name"
+      ]
+    },
+    {
+      "kind": "candidate",
+      "full_name": "Florian Laux",
+      "matched_by": [
+        "linkedin",
+        "name"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 3,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 6,
+    "anysearch_queries": 3,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 29,
+    "search_engine_warnings": 7,
+    "urls_crawled": 16,
+    "crawl_failures": 2,
+    "contact_signals": 15,
+    "official_urls_discovered": 3,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 5,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 2,
+    "crm_contact_count": 10,
+    "crm_duplicates_removed": 3,
+    "target_contactable_items": 1,
+    "contactable_items": 5,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  },
+  "reprocessed_from": [
+    "web-20260815/refko-feuerfest-gmbh-c1e31ad949b9.json",
+    "web-20260815/refko-feuerfest-gmbh-e2949747e7dd.json.artifacts/pages.json"
+  ],
+  "reprocessed_at": "2026-08-15T08:43:23.082818+00:00",
+  "reprocess_reason": "Apply deterministic LinkedIn employee binding, CRM new-channel retention, and directory footer filtering without new search calls."
+}

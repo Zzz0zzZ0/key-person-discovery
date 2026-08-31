@@ -1,0 +1,170 @@
+[
+  {
+    "channel": "email",
+    "value": "sales@allredi-ca.com",
+    "status": "observed",
+    "source_url": "https://www.manusabrasive.com/about",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@allredi-ca.com",
+    "status": "observed",
+    "source_url": "https://www.manusabrasive.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@allredi-ca.com",
+    "status": "observed",
+    "source_url": "https://www.manusabrasive.com/careers",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "accounting@allredi-ca.com",
+    "status": "observed",
+    "source_url": "https://www.manusabrasive.com/contact-usffff1510",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@allredi-ca.com",
+    "status": "observed",
+    "source_url": "https://www.manusabrasive.com/contact-usffff1510",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "calgary@allredi-ca.com",
+    "status": "observed",
+    "source_url": "https://www.manusabrasive.com/contact-usffff1510",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "vancouver@allredi-ca.com",
+    "status": "observed",
+    "source_url": "https://www.manusabrasive.com/contact-usffff1510",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "winnipeg@allredi-ca.com",
+    "status": "observed",
+    "source_url": "https://www.manusabrasive.com/contact-usffff1510",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "mississauga@allredi-ca.com",
+    "status": "observed",
+    "source_url": "https://www.manusabrasive.com/contact-usffff1510",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "mississauga@allredi-ca.com",
+    "status": "observed",
+    "source_url": "https://www.manusabrasive.com/news",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@allredi-ca.com",
+    "status": "observed",
+    "source_url": "https://www.manusabrasive.com/news",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@allredi-ca.com",
+    "status": "observed",
+    "source_url": "https://www.manusabrasive.com/tech-data",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "doe@manusabrasive.com",
+    "status": "observed",
+    "source_url": "https://www.signalhire.com/companies/manus-abrasive-systems-inc/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "j.d@manusabrasive.com",
+    "status": "observed",
+    "source_url": "https://www.signalhire.com/companies/manus-abrasive-systems-inc/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "doe-jane@manusabrasive.com",
+    "status": "observed",
+    "source_url": "https://www.signalhire.com/companies/manus-abrasive-systems-inc/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jane-doe@manusabrasive.com",
+    "status": "observed",
+    "source_url": "https://www.signalhire.com/companies/manus-abrasive-systems-inc/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jd@manusabrasive.com",
+    "status": "observed",
+    "source_url": "https://www.signalhire.com/companies/manus-abrasive-systems-inc/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "j_doe@manusabrasive.com",
+    "status": "observed",
+    "source_url": "https://www.signalhire.com/companies/manus-abrasive-systems-inc/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "support@signalhire.com",
+    "status": "observed",
+    "source_url": "https://www.signalhire.com/companies/manus-abrasive-systems-inc/email-format",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@allredi-ca.com",
+    "status": "observed",
+    "source_url": "https://www.manusabrasive.com/distributors",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@allredi-ca.com",
+    "status": "observed",
+    "source_url": "https://www.manusabrasive.com/gvs-respirators",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@allredi-ca.com",
+    "status": "observed",
+    "source_url": "https://www.manusabrasive.com/mega-blast-bulk-blast-machines",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@allredi-ca.com",
+    "status": "observed",
+    "source_url": "https://www.manusabrasive.com/10x-kinetix",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@allredi-ca.com",
+    "status": "observed",
+    "source_url": "https://www.manusabrasive.com/nova-talk---advanced-in-helmet-communication",
+    "company_public": true
+  }
+]

@@ -1,0 +1,259 @@
+[
+  {
+    "channel": "phone",
+    "value": "+542804662620",
+    "status": "valid_format",
+    "source_url": "https://20976-ar.all.biz/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5511989133675",
+    "status": "verified",
+    "source_url": "https://b2brazil.com/hotsite/procamet/products"
+  },
+  {
+    "channel": "phone",
+    "value": "+5511989133675",
+    "status": "valid_format",
+    "source_url": "https://b2brazil.com/hotsite/procamet/products",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "email",
+    "value": "info@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com/en/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ventas@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com/en/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541143435164",
+    "status": "valid_format",
+    "source_url": "https://www.procamet.com/en/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ventas@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541143435164",
+    "status": "valid_format",
+    "source_url": "https://www.procamet.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com/en/about-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ventas@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com/en/about-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541143435164",
+    "status": "valid_format",
+    "source_url": "https://www.procamet.com/en/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ventas@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541143435164",
+    "status": "valid_format",
+    "source_url": "https://www.procamet.com/contacto/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com/en/our-products/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ventas@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com/en/our-products/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541143435164",
+    "status": "valid_format",
+    "source_url": "https://www.procamet.com/en/our-products/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ventas@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541143435164",
+    "status": "valid_format",
+    "source_url": "https://www.procamet.com/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com/pt/a-empresa/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ventas@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com/pt/a-empresa/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541143435164",
+    "status": "valid_format",
+    "source_url": "https://www.procamet.com/pt/a-empresa/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com/la-empresa/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ventas@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com/la-empresa/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541143435164",
+    "status": "valid_format",
+    "source_url": "https://www.procamet.com/la-empresa/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com/pt/contato/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ventas@procamet.com",
+    "status": "observed",
+    "source_url": "https://www.procamet.com/pt/contato/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541143435164",
+    "status": "valid_format",
+    "source_url": "https://www.procamet.com/pt/contato/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@procamet.com",
+    "status": "observed",
+    "source_url": "http://www.procamet.com/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ventas@procamet.com",
+    "status": "observed",
+    "source_url": "http://www.procamet.com/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541143435164",
+    "status": "valid_format",
+    "source_url": "http://www.procamet.com/contacto/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/manuel-gomez-1ba74b353",
+    "status": "probable",
+    "source_url": "https://ar.linkedin.com/in/manuel-gomez-1ba74b353"
+  }
+]

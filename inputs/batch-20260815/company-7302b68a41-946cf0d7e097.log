@@ -1,0 +1,45 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.koyo-sha.co.jp                                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.koyo-sha.co.jp                                                                           | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://koyo-sha.co.jp/                                                                              | ✓ | ⏱: 1.52s 
+[SCRAPE].. ◆ https://koyo-sha.co.jp/                                                                              | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://koyo-sha.co.jp/                                                                              | ✓ | ⏱: 3.55s 
+Superfluous whitespace found in object header b'1' b'0'
+Superfluous whitespace found in object header b'2' b'0'
+Superfluous whitespace found in object header b'3' b'0'
+Superfluous whitespace found in object header b'87' b'0'
+Superfluous whitespace found in object header b'59' b'0'
+Superfluous whitespace found in object header b'60' b'0'
+Superfluous whitespace found in object header b'61' b'0'
+Superfluous whitespace found in object header b'62' b'0'
+Superfluous whitespace found in object header b'63' b'0'
+Superfluous whitespace found in object header b'64' b'0'
+Superfluous whitespace found in object header b'72' b'0'
+Superfluous whitespace found in object header b'86' b'0'
+Superfluous whitespace found in object header b'1' b'0'
+Superfluous whitespace found in object header b'2' b'0'
+Superfluous whitespace found in object header b'3' b'0'
+Superfluous whitespace found in object header b'8' b'0'
+Superfluous whitespace found in object header b'4' b'0'
+Superfluous whitespace found in object header b'5' b'0'
+Superfluous whitespace found in object header b'6' b'0'
+Superfluous whitespace found in object header b'7' b'0'
+Superfluous whitespace found in object header b'1' b'0'
+Superfluous whitespace found in object header b'2' b'0'
+Superfluous whitespace found in object header b'3' b'0'
+Superfluous whitespace found in object header b'22' b'0'
+Superfluous whitespace found in object header b'11' b'0'
+Superfluous whitespace found in object header b'10' b'0'
+Superfluous whitespace found in object header b'9' b'0'
+Superfluous whitespace found in object header b'6' b'0'
+Superfluous whitespace found in object header b'8' b'0'
+Superfluous whitespace found in object header b'19' b'0'
+Superfluous whitespace found in object header b'18' b'0'
+Superfluous whitespace found in object header b'17' b'0'
+Superfluous whitespace found in object header b'14' b'0'
+Superfluous whitespace found in object header b'16' b'0'
+Superfluous whitespace found in object header b'21' b'0'
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/company-7302b68a41-946cf0d7e097.json

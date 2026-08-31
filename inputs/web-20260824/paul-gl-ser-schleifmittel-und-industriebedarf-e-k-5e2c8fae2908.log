@@ -1,0 +1,21 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://glaeser-schleiftechnik.de/de/kontakt.html                                                    | ✓ | ⏱: 1.83s 
+[SCRAPE].. ◆ https://glaeser-schleiftechnik.de/de/kontakt.html                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://glaeser-schleiftechnik.de/de/kontakt.html                                                    | ✓ | ⏱: 2.91s 
+[FETCH]... ↓ https://glaeser-schleiftechnik.de/de/datenschutzerklaerung.html                                      | ✓ | ⏱: 0.90s 
+[SCRAPE].. ◆ https://glaeser-schleiftechnik.de/de/datenschutzerklaerung.html                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://glaeser-schleiftechnik.de/de/datenschutzerklaerung.html                                      | ✓ | ⏱: 2.93s 
+[FETCH]... ↓ https://glaeser-schleiftechnik.de/de/impressum.html                                                  | ✓ | ⏱: 1.66s 
+[SCRAPE].. ◆ https://glaeser-schleiftechnik.de/de/impressum.html                                                  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://glaeser-schleiftechnik.de/de/impressum.html                                                  | ✓ | ⏱: 3.68s 
+[FETCH]... ↓ https://glaeser-schleiftechnik.de                                                                    | ✓ | ⏱: 2.58s 
+[SCRAPE].. ◆ https://glaeser-schleiftechnik.de                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://glaeser-schleiftechnik.de                                                                    | ✓ | ⏱: 4.09s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://glaeser-schleiftechnik.de/de/news.html                                                       | ✓ | ⏱: 2.18s 
+[SCRAPE].. ◆ https://glaeser-schleiftechnik.de/de/news.html                                                       | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://glaeser-schleiftechnik.de/de/news.html                                                       | ✓ | ⏱: 2.19s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260824/paul-gl-ser-schleifmittel-und-industriebedarf-e-k-5e2c8fae2908.json

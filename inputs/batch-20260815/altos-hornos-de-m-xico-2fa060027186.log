@@ -1,0 +1,71 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.ahmsa.com/sobre-ahmsa/aviso-de-fraud...-vende-ni-oferta-sus-productos-por-internet.html  | ✓ | ⏱: 1.24s 
+[SCRAPE].. ◆ https://www.ahmsa.com/sobre-ahmsa/aviso-de-fraud...-vende-ni-oferta-sus-productos-por-internet.html  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.ahmsa.com/s...uctos-por-internet.html  | Error: Blocked by anti-bot protection: Near-empty content (39 bytes) with HTTP 200 
+[COMPLETE] ● https://www.ahmsa.com/sobre-ahmsa/aviso-de-fraud...-vende-ni-oferta-sus-productos-por-internet.html  | ✗ | ⏱: 2.14s 
+[FETCH]... ↓ https://www.ahmsa.com/sobre-ahmsa/aviso-de-fraude/ahmsa-no-vende-varilla-ni-tubos.html               | ✓ | ⏱: 0.82s 
+[SCRAPE].. ◆ https://www.ahmsa.com/sobre-ahmsa/aviso-de-fraude/ahmsa-no-vende-varilla-ni-tubos.html               | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.ahmsa.com/s...e-varilla-ni-tubos.html  | Error: Blocked by anti-bot protection: Near-empty content (39 bytes) with HTTP 200 
+[COMPLETE] ● https://www.ahmsa.com/sobre-ahmsa/aviso-de-fraude/ahmsa-no-vende-varilla-ni-tubos.html               | ✗ | ⏱: 0.83s 
+[FETCH]... ↓ https://www.ahmsa.com/sobre-ahmsa/                                                                   | ✓ | ⏱: 2.79s 
+[SCRAPE].. ◆ https://www.ahmsa.com/sobre-ahmsa/                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com/sobre-ahmsa/                                                                   | ✓ | ⏱: 3.70s 
+[FETCH]... ↓ https://www.ahmsa.com/sobre-ahmsa/aviso-de-fraude.html                                               | ✓ | ⏱: 2.76s 
+[SCRAPE].. ◆ https://www.ahmsa.com/sobre-ahmsa/aviso-de-fraude.html                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com/sobre-ahmsa/aviso-de-fraude.html                                               | ✓ | ⏱: 3.73s 
+[FETCH]... ↓ https://www.ahmsa.com                                                                                | ✓ | ⏱: 2.84s 
+[SCRAPE].. ◆ https://www.ahmsa.com                                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com                                                                                | ✓ | ⏱: 4.07s 
+[FETCH]... ↓ https://www.ahmsa.com/sobre-ahmsa/calidad-e-innovacion/certificaciones-y-reconocimientos/            | ✓ | ⏱: 1.29s 
+[SCRAPE].. ◆ https://www.ahmsa.com/sobre-ahmsa/calidad-e-innovacion/certificaciones-y-reconocimientos/            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com/sobre-ahmsa/calidad-e-innovacion/certificaciones-y-reconocimientos/            | ✓ | ⏱: 1.31s 
+[FETCH]... ↓ https://www.ahmsa.com/sobre-ahmsa/nuestra-razon-de-ser.html                                          | ✓ | ⏱: 0.78s 
+[SCRAPE].. ◆ https://www.ahmsa.com/sobre-ahmsa/nuestra-razon-de-ser.html                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com/sobre-ahmsa/nuestra-razon-de-ser.html                                          | ✓ | ⏱: 0.80s 
+[FETCH]... ↓ https://www.ahmsa.com/sobre-ahmsa/nuestra-historia/                                                  | ✓ | ⏱: 1.12s 
+[SCRAPE].. ◆ https://www.ahmsa.com/sobre-ahmsa/nuestra-historia/                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com/sobre-ahmsa/nuestra-historia/                                                  | ✓ | ⏱: 1.14s 
+[FETCH]... ↓ https://www.ahmsa.com/sobre-ahmsa/subsidiarias/minosa/micare.html                                    | ✓ | ⏱: 1.07s 
+[SCRAPE].. ◆ https://www.ahmsa.com/sobre-ahmsa/subsidiarias/minosa/micare.html                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com/sobre-ahmsa/subsidiarias/minosa/micare.html                                    | ✓ | ⏱: 1.09s 
+[FETCH]... ↓ https://www.ahmsa.com/sobre-ahmsa/subsidiarias/minosa/mimosa.html                                    | ✓ | ⏱: 0.66s 
+[SCRAPE].. ◆ https://www.ahmsa.com/sobre-ahmsa/subsidiarias/minosa/mimosa.html                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com/sobre-ahmsa/subsidiarias/minosa/mimosa.html                                    | ✓ | ⏱: 0.68s 
+[FETCH]... ↓ https://www.ahmsa.com/sobre-ahmsa/proceso-del-acero/                                                 | ✓ | ⏱: 1.69s 
+[SCRAPE].. ◆ https://www.ahmsa.com/sobre-ahmsa/proceso-del-acero/                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com/sobre-ahmsa/proceso-del-acero/                                                 | ✓ | ⏱: 1.71s 
+[FETCH]... ↓ https://www.ahmsa.com/sobre-ahmsa/subsidiarias/minosa/minosa.html                                    | ✓ | ⏱: 0.73s 
+[SCRAPE].. ◆ https://www.ahmsa.com/sobre-ahmsa/subsidiarias/minosa/minosa.html                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com/sobre-ahmsa/subsidiarias/minosa/minosa.html                                    | ✓ | ⏱: 0.75s 
+[FETCH]... ↓ https://www.ahmsa.com/sobre-ahmsa/ubicacion/oficinas-de-venta.html                                   | ✓ | ⏱: 1.57s 
+[SCRAPE].. ◆ https://www.ahmsa.com/sobre-ahmsa/ubicacion/oficinas-de-venta.html                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com/sobre-ahmsa/ubicacion/oficinas-de-venta.html                                   | ✓ | ⏱: 1.60s 
+[FETCH]... ↓ https://www.ahmsa.com/sobre-ahmsa/ubicacion/subsidiarias.html                                        | ✓ | ⏱: 1.60s 
+[SCRAPE].. ◆ https://www.ahmsa.com/sobre-ahmsa/ubicacion/subsidiarias.html                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com/sobre-ahmsa/ubicacion/subsidiarias.html                                        | ✓ | ⏱: 1.62s 
+[FETCH]... ↓ https://www.ahmsa.com/sobre-ahmsa/ubicacion/instalaciones.html                                       | ✓ | ⏱: 2.00s 
+[SCRAPE].. ◆ https://www.ahmsa.com/sobre-ahmsa/ubicacion/instalaciones.html                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com/sobre-ahmsa/ubicacion/instalaciones.html                                       | ✓ | ⏱: 2.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.ahmsa.com/en/about-ahmsa/                                                                | ✓ | ⏱: 2.67s 
+[SCRAPE].. ◆ https://www.ahmsa.com/en/about-ahmsa/                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com/en/about-ahmsa/                                                                | ✓ | ⏱: 2.69s 
+[FETCH]... ↓ https://www.ahmsa.com/generales/contacto.html                                                        | ✓ | ⏱: 2.47s 
+[SCRAPE].. ◆ https://www.ahmsa.com/generales/contacto.html                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com/generales/contacto.html                                                        | ✓ | ⏱: 2.50s 
+[FETCH]... ↓ https://www.ahmsa.com/sobre-ahmsa/calidad-e-innovacion/calidad-e-innovacion/                         | ✓ | ⏱: 2.50s 
+[SCRAPE].. ◆ https://www.ahmsa.com/sobre-ahmsa/calidad-e-innovacion/calidad-e-innovacion/                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com/sobre-ahmsa/calidad-e-innovacion/calidad-e-innovacion/                         | ✓ | ⏱: 2.52s 
+[FETCH]... ↓ https://www.ahmsa.com/sobre-ahmsa/proceso-del-acero/proceso-del-acero.html                           | ✓ | ⏱: 2.70s 
+[SCRAPE].. ◆ https://www.ahmsa.com/sobre-ahmsa/proceso-del-acero/proceso-del-acero.html                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com/sobre-ahmsa/proceso-del-acero/proceso-del-acero.html                           | ✓ | ⏱: 2.73s 
+[FETCH]... ↓ https://www.ahmsa.com/sobre-ahmsa/subsidiarias/                                                      | ✓ | ⏱: 1.21s 
+[SCRAPE].. ◆ https://www.ahmsa.com/sobre-ahmsa/subsidiarias/                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ahmsa.com/sobre-ahmsa/subsidiarias/                                                      | ✓ | ⏱: 1.24s 
+Xref table not zero-indexed. ID numbers for objects will be corrected.
+Xref table not zero-indexed. ID numbers for objects will be corrected.
+Rotated text discovered. Output will be incomplete.
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/altos-hornos-de-m-xico-2fa060027186.json

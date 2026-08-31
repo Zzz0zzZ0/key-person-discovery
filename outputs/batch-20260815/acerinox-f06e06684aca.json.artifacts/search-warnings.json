@@ -1,0 +1,14 @@
+[
+  {
+    "query": "http://www.acerinox.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.acerinox.com/sitemap.xml: response exceeds 2 MB"
+  },
+  {
+    "query": "http://www.acerinox.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "http://www.acerinox.com/sitemap.xml: response exceeds 2 MB"
+  }
+]

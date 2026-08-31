@@ -1,0 +1,72 @@
+[
+  {
+    "channel": "phone",
+    "value": "+492532880",
+    "status": "valid_format",
+    "source_url": "https://westeria.de/en/2023/westeria-lybover-partnership/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@impress.be",
+    "status": "observed",
+    "source_url": "https://www.impress.be/nl/realisaties/industrie-logistiek/lybover",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+32477302480",
+    "status": "verified",
+    "source_url": "https://www.impress.be/nl/realisaties/industrie-logistiek/lybover",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+32477302480",
+    "status": "valid_format",
+    "source_url": "https://www.impress.be/nl/realisaties/industrie-logistiek/lybover",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+3256243781",
+    "status": "valid_format",
+    "source_url": "https://www.impress.be/nl/realisaties/industrie-logistiek/lybover",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://be.linkedin.com/in/martijn-vandekerkhove-0a55a1157",
+    "status": "probable",
+    "source_url": "https://be.linkedin.com/in/martijn-vandekerkhove-0a55a1157"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/filip-boels-b22a8141",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/filip-boels-b22a8141"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/hansboels",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/hansboels"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/louis-schollier-4b381a19b",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/louis-schollier-4b381a19b"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/jeroen-de-conseth-167a71315",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/jeroen-de-conseth-167a71315"
+  }
+]

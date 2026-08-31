@@ -1,0 +1,111 @@
+[
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/pages/krueger-pottery-supply-contact-us-directions",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ryan@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/pages/krueger-pottery-supply-contact-us-directions",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/products/parent-child-three-additional-people",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/products/parent-child-two-additional-people",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/collections/all",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "anna@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://saintlouis.kidsoutandabout.com/content/krueger-pottery"
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://www.startupwebsolutions.com.au/k-headquarters/krueger-pottery-supply-headquarters.html"
+  },
+  {
+    "channel": "email",
+    "value": "ryan@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://www.startupwebsolutions.com.au/k-headquarters/krueger-pottery-supply-headquarters.html"
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/pages/covid",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/pages/krueger-pottery-supply-staff",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/pages/jobs",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ryan@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/pages/jobs",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/pages/krueger-pottery-supply-staff?srsltid=AfmBOoqRO2pkkvjm4N8jSa99DFTrJAeMBlh9qeA7f7UIwE4aM4lFLz_k",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/pages/krueger-pottery-supply-store-studio-hours",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tosales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/pages/krueger-pottery-supply-store-studio-hours",
+    "company_public": true
+  }
+]

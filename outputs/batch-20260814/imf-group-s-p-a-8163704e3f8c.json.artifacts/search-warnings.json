@@ -1,0 +1,158 @@
+[
+  {
+    "query": "https://imf-group.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://imf-group.com/sitemap.xml: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "\"IMF Group S.p.A.\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "HTTP connection error"
+  },
+  {
+    "query": "\"IMF Group S.p.A.\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "too many requests"
+  },
+  {
+    "query": "\"IMF Group S.p.A.\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"IMF Group S.p.A.\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"IMF Group S.p.A.\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "\"IMF Group S.p.A.\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:linkedin.com/in \"IMF Group S.p.A.\"",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:linkedin.com/in \"IMF Group S.p.A.\"",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:linkedin.com/in \"IMF Group S.p.A.\"",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "timeout"
+  },
+  {
+    "query": "\"IMF Group S.p.A.\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for '\"IMF Group S.p.A.\" (email OR phone OR WhatsApp OR \"wa.me\")': <urlopen error _ssl.c:999: The handshake operation timed out>"
+  },
+  {
+    "query": "\"IMF Group S.p.A.\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "\"IMF Group S.p.A.\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:imf-group.com (team OR management OR contact)",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for 'site:imf-group.com (team OR management OR contact)': <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "site:imf-group.com (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:imf-group.com (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:imf-group.com filetype:pdf",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for 'site:imf-group.com filetype:pdf': <urlopen error _ssl.c:999: The handshake operation timed out>"
+  },
+  {
+    "query": "site:imf-group.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:imf-group.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "too many requests"
+  },
+  {
+    "query": "site:imf-group.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "timeout"
+  },
+  {
+    "query": "\"IMF Group S.p.A.\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"IMF Group S.p.A.\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "\"IMF Group S.p.A.\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:imf-group.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:imf-group.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:imf-group.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "timeout"
+  }
+]

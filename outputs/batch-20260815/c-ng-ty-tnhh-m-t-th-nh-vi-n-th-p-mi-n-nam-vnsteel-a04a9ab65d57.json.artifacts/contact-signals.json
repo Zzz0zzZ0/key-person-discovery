@@ -1,0 +1,475 @@
+[
+  {
+    "channel": "phone",
+    "value": "+84913858349",
+    "status": "valid_format",
+    "source_url": "https://baodauthau.vn/cong-ty-tnhh-mot-thanh-vien-thep-mien-nam-vnsteel-thong-bao-post158898.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nguy%C3%AAn-tr%E1%BA%A7n-kh%C3%B4i-7a7500273",
+    "status": "observed",
+    "source_url": "http://tt.linkedin.com/company/thepmiennam"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nguy%E1%BB%85n-ti%E1%BA%BFn-tr%E1%BB%8Dng-4979b9315/en",
+    "status": "observed",
+    "source_url": "http://tt.linkedin.com/company/thepmiennam"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/%C4%91%C3%B4ng-ph%E1%BA%A1m-v%C4%83n-2037a9337",
+    "status": "observed",
+    "source_url": "http://tt.linkedin.com/company/thepmiennam"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nguyen-tony-a66b13357",
+    "status": "observed",
+    "source_url": "http://tt.linkedin.com/company/thepmiennam"
+  },
+  {
+    "channel": "phone",
+    "value": "+842147483647",
+    "status": "valid_format",
+    "source_url": "http://tt.linkedin.com/company/thepmiennam",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842513569672",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842543922091",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842838969612",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842837312466",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+84912270459",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842838969612",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/default.aspx",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+84837312466",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/default.aspx",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842543922091",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/default.aspx",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842543922091",
+    "status": "valid_format",
+    "source_url": "https://www.vnsteel.vn/don-vi-thanh-vien/cong-ty-tnhh-mtv-thep-mien-nam-vnsteel-5203.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+842543922092",
+    "status": "valid_format",
+    "source_url": "https://www.vnsteel.vn/don-vi-thanh-vien/cong-ty-tnhh-mtv-thep-mien-nam-vnsteel-5203.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+842543921005",
+    "status": "valid_format",
+    "source_url": "https://www.vnsteel.vn/don-vi-thanh-vien/cong-ty-tnhh-mtv-thep-mien-nam-vnsteel-5203.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "insangtaotre@gmail.com",
+    "status": "observed",
+    "source_url": "https://insangtaotre.vn/doc/cong-ty-tnhh-mot-thanh-vien-thep-mien-nam-vnsteel/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+84933991768",
+    "status": "valid_format",
+    "source_url": "https://insangtaotre.vn/doc/cong-ty-tnhh-mot-thanh-vien-thep-mien-nam-vnsteel/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+84310044487",
+    "status": "valid_format",
+    "source_url": "https://insangtaotre.vn/doc/cong-ty-tnhh-mot-thanh-vien-thep-mien-nam-vnsteel/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+84773127979",
+    "status": "valid_format",
+    "source_url": "https://insangtaotre.vn/doc/cong-ty-tnhh-mot-thanh-vien-thep-mien-nam-vnsteel/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+842543922091",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/tin-tuc?pagenumber=6",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842838969612",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/tin-tuc?pagenumber=6",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842837312466",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/tin-tuc?pagenumber=6",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842513569672",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/tin-tuc?pagenumber=6",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+84912270459",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/tin-tuc?pagenumber=6",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842543922091",
+    "status": "valid_format",
+    "source_url": "https://vnsteel.vn/don-vi-thanh-vien/cong-ty-tnhh-mtv-thep-mien-nam-vnsteel-5203.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+842543922092",
+    "status": "valid_format",
+    "source_url": "https://vnsteel.vn/don-vi-thanh-vien/cong-ty-tnhh-mtv-thep-mien-nam-vnsteel-5203.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+842543921005",
+    "status": "valid_format",
+    "source_url": "https://vnsteel.vn/don-vi-thanh-vien/cong-ty-tnhh-mtv-thep-mien-nam-vnsteel-5203.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+842838969612",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/contact-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+84837312466",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/contact-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842543922091",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/contact-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842838969612",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/introduction/certification-of-quality-management-system",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+84837312466",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/introduction/certification-of-quality-management-system",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842543922091",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/introduction/certification-of-quality-management-system",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842838969612",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/internal/text-management-software",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+84837312466",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/internal/text-management-software",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842543922091",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/internal/text-management-software",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842838969612",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/contact-us/sign-up-for",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+84837312466",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/contact-us/sign-up-for",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842543922091",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/contact-us/sign-up-for",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842838969612",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/news",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+84837312466",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/news",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842543922091",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/news",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842838969612",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/introduction/company-introductions-pictures-video",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+84837312466",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/introduction/company-introductions-pictures-video",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842543922091",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/introduction/company-introductions-pictures-video",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842838969612",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/news/company-news",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+84837312466",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/news/company-news",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842543922091",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/news/company-news",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842838969612",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/news/recruitment",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+84837312466",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/news/recruitment",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842543922091",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/news/recruitment",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842838969612",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/news/picture-and-video",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+84837312466",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/news/picture-and-video",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842543922091",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/news/picture-and-video",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842838969612",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/news/steel-industry-news",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+84837312466",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/news/steel-industry-news",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+842543922091",
+    "status": "valid_format",
+    "source_url": "https://www.thepmiennam.com.vn/en-US/news/steel-industry-news",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

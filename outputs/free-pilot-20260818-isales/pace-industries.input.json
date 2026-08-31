@@ -1,0 +1,14 @@
+{
+  "name": "Pace Industries",
+  "website": "https://paceind.com",
+  "industries": ["Foundry Casting", "Industrial Manufacturing", "Automotive"],
+  "products": ["Aluminum Die Casting", "Magnesium Die Casting", "Zinc Die Casting"],
+  "crm_company_id": null,
+  "crm_linkedin_url": null,
+  "crm_country": "United States",
+  "crm_contact_count": 0,
+  "crm_contacts": [],
+  "target_contact_count": 50,
+  "customs_search_enabled": false,
+  "source": "isolated_isales_comparison_20260818"
+}

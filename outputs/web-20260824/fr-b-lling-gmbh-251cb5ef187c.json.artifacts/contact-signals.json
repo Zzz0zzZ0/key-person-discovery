@@ -1,0 +1,18 @@
+[
+  {
+    "channel": "email",
+    "value": "mb@boelling-guss.de",
+    "status": "observed",
+    "source_url": "https://www.boelling-guss.de/kontakt.php",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49239292950",
+    "status": "valid_format",
+    "source_url": "https://www.boelling-guss.de/kontakt.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

@@ -1,0 +1,21 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://clauberg-schleifmittel.de/impressum/                                                         | ✓ | ⏱: 2.83s 
+[SCRAPE].. ◆ https://clauberg-schleifmittel.de/impressum/                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://clauberg-schleifmittel.de/impressum/                                                         | ✓ | ⏱: 4.86s 
+[FETCH]... ↓ https://clauberg-schleifmittel.de/kontakt/                                                           | ✓ | ⏱: 2.38s 
+[SCRAPE].. ◆ https://clauberg-schleifmittel.de/kontakt/                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://clauberg-schleifmittel.de/kontakt/                                                           | ✓ | ⏱: 4.41s 
+[FETCH]... ↓ https://clauberg-schleifmittel.de/?lang=en                                                           | ✓ | ⏱: 3.94s 
+[SCRAPE].. ◆ https://clauberg-schleifmittel.de/?lang=en                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://clauberg-schleifmittel.de/?lang=en                                                           | ✓ | ⏱: 5.28s 
+[FETCH]... ↓ https://clauberg-schleifmittel.de                                                                    | ✓ | ⏱: 3.62s 
+[SCRAPE].. ◆ https://clauberg-schleifmittel.de                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://clauberg-schleifmittel.de                                                                    | ✓ | ⏱: 5.65s 
+[FETCH]... ↓ https://clauberg-schleifmittel.de/kontakt/?lang=en                                                   | ✓ | ⏱: 1.20s 
+[SCRAPE].. ◆ https://clauberg-schleifmittel.de/kontakt/?lang=en                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://clauberg-schleifmittel.de/kontakt/?lang=en                                                   | ✓ | ⏱: 1.22s 
+[INIT].... → Crawl4AI 0.9.2 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260824/clauberg-gruppe-c94698e791e5.json

@@ -1,0 +1,18 @@
+[
+  {
+    "channel": "phone",
+    "value": "+492112807330",
+    "status": "valid_format",
+    "source_url": "https://www.glassglobal.com/profile/jsj_jodeit_gmbh-3274.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "personal@jsj.de",
+    "status": "observed",
+    "source_url": "https://www.xing.com/pages/jsj-jodeit-gmbh",
+    "company_public": true
+  }
+]

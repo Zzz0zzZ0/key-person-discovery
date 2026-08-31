@@ -1,0 +1,8 @@
+[
+  {
+    "query": "http://www.abrus-brusivo.cz",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "http://www.abrus-brusivo.cz/sitemap.xml: HTTP Error 404: Not Found"
+  }
+]

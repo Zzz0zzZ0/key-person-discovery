@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://ceramcore-stadtmueller.com/kontakt-impressum/",
+    "markdown": "Kontakt, Impressum und Kontakt Formular\nGießereitechnik Heinrich Stadtmüller GmbH. Präzise Keramikkerne für den ... Email: info@ceramcore-stadtmueller.com. Schreiben Sie uns eine Nachricht. Name ...",
+    "error": "",
+    "provider": "anysearch",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  },
+  {
+    "url": "https://ceramcore-stadtmueller.com/en/kontakt-impressum/",
+    "markdown": "Legal Notice - Gießereitechnik Heinrich Stadtmüller GmbH\nPhone: 0049-7473-65 34. Fax: 0049-7473-2 35 44. Email: info@ceramcore-stadtmueller.com. Send a Message. Name: (required); Email: (required); Website: Message ...",
+    "error": "",
+    "provider": "searxng",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "channel": "email",
+    "value": "comercial@improsrl.com.ar",
+    "status": "observed",
+    "source_url": "https://improsrl.com.ar",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@improsrl.com.ar",
+    "status": "observed",
+    "source_url": "https://improsrl.com.ar/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5493513253469",
+    "status": "verified",
+    "source_url": "https://improsrl.com.ar/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5493513253469",
+    "status": "valid_format",
+    "source_url": "https://improsrl.com.ar/contacto/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@improsrl.com.ar",
+    "status": "observed",
+    "source_url": "https://improsrl.com.ar/productos/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@improsrl.com.ar",
+    "status": "observed",
+    "source_url": "https://improsrl.com.ar/empresa/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@improsrl.com.ar",
+    "status": "observed",
+    "source_url": "https://improsrl.com.ar/projects/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "leandrocazaux@gmail.com",
+    "status": "observed",
+    "source_url": "https://portfolio-6egs-impro.netlify.app/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@improsrl.com.ar",
+    "status": "observed",
+    "source_url": "https://portfolio-6egs-impro.netlify.app/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/ing-leandro-cazaux",
+    "status": "observed",
+    "source_url": "https://portfolio-6egs-impro.netlify.app/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5493517514321",
+    "status": "verified",
+    "source_url": "https://portfolio-6egs-impro.netlify.app/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5493517514321",
+    "status": "valid_format",
+    "source_url": "https://portfolio-6egs-impro.netlify.app/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5493513253469",
+    "status": "verified",
+    "source_url": "https://portfolio-6egs-impro.netlify.app/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5493513253469",
+    "status": "valid_format",
+    "source_url": "https://portfolio-6egs-impro.netlify.app/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "channel": "email",
+    "value": "rh@fusium.ca",
+    "status": "observed",
+    "source_url": "https://fusium.ca/en/career/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://ca.linkedin.com/in/alexandre-rouleau",
+    "status": "probable",
+    "source_url": "https://ca.linkedin.com/in/alexandre-rouleau"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://ca.linkedin.com/in/gabriel-marchand/en",
+    "status": "probable",
+    "source_url": "https://ca.linkedin.com/in/gabriel-marchand/en"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://ca.linkedin.com/in/catherine-labb%C3%A9-cpa-a1a409331",
+    "status": "probable",
+    "source_url": "https://ca.linkedin.com/in/catherine-labb%C3%A9-cpa-a1a409331"
+  }
+]

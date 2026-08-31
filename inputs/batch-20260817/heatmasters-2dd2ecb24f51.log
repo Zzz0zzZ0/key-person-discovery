@@ -1,0 +1,55 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.heatmasters.com                                                                          | ✓ | ⏱: 2.75s 
+[SCRAPE].. ◆ https://www.heatmasters.com                                                                          | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.heatmasters.com                                                                          | ✓ | ⏱: 4.67s 
+[FETCH]... ↓ https://www.heatmastersmechanical.com                                                                | ✓ | ⏱: 3.92s 
+[SCRAPE].. ◆ https://www.heatmastersmechanical.com                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.heatmastersmechanical.com                                                                | ✓ | ⏱: 5.46s 
+[FETCH]... ↓ https://www.heatmastersmechanical.com/about-us                                                       | ✓ | ⏱: 1.32s 
+[SCRAPE].. ◆ https://www.heatmastersmechanical.com/about-us                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.heatmastersmechanical.com/about-us                                                       | ✓ | ⏱: 2.63s 
+[FETCH]... ↓ https://www.heatmastersmechanical.com/blog/566-w-van-buren                                           | ✓ | ⏱: 1.47s 
+[SCRAPE].. ◆ https://www.heatmastersmechanical.com/blog/566-w-van-buren                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.heatmastersmechanical.com/blog/566-w-van-buren                                           | ✓ | ⏱: 2.77s 
+[FETCH]... ↓ https://www.heatmastersmechanical.com/construction                                                   | ✓ | ⏱: 1.78s 
+[SCRAPE].. ◆ https://www.heatmastersmechanical.com/construction                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.heatmastersmechanical.com/construction                                                   | ✓ | ⏱: 3.35s 
+[FETCH]... ↓ https://www.heatmastersmechanical.com/contact                                                        | ✓ | ⏱: 1.58s 
+[SCRAPE].. ◆ https://www.heatmastersmechanical.com/contact                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.heatmastersmechanical.com/contact                                                        | ✓ | ⏱: 3.15s 
+[FETCH]... ↓ https://heatmasters.net/contact-us/                                                                  | ✓ | ⏱: 12.76s 
+[SCRAPE].. ◆ https://heatmasters.net/contact-us/                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://heatmasters.net/contact-us/                                                                  | ✓ | ⏱: 14.78s 
+[FETCH]... ↓ https://heatmasters.net                                                                              | ✓ | ⏱: 12.88s 
+[SCRAPE].. ◆ https://heatmasters.net                                                                              | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://heatmasters.net                                                                              | ✓ | ⏱: 14.91s 
+[FETCH]... ↓ https://www.heatmastersmechanical.com/plan-spec                                                      | ✓ | ⏱: 3.39s 
+[SCRAPE].. ◆ https://www.heatmastersmechanical.com/plan-spec                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.heatmastersmechanical.com/plan-spec                                                      | ✓ | ⏱: 4.75s 
+[FETCH]... ↓ https://www.yelp.com/biz/heatmasters-chicago-5                                                       | ✓ | ⏱: 2.64s 
+[SCRAPE].. ◆ https://www.yelp.com/biz/heatmasters-chicago-5                                                       | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.yelp.com/biz/heatmasters-chicago-5     | Error: Blocked by anti-bot protection: DataDome captcha 
+[COMPLETE] ● https://www.yelp.com/biz/heatmasters-chicago-5                                                       | ✗ | ⏱: 3.14s 
+[FETCH]... ↓ https://www.zoominfo.com/c/heatmasters/344103888                                                     | ✓ | ⏱: 1.86s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/heatmasters/344103888                                                     | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.com/c/heatmasters/344103888   | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/c/heatmasters/344103888                                                     | ✗ | ⏱: 3.71s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.yelp.com/biz/heatmasters-chicago-5                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.yelp.com/biz/heatmasters-chicago-5                                                       | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.zoominfo.com/c/heatmasters/344103888                                                     | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.zoominfo.com/c/heatmasters/344103888                                                     | ✓ | ⏱: 0.00s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.heatmastersmechanical.com/blog/1740-w-division                                           | ✓ | ⏱: 4.97s 
+[SCRAPE].. ◆ https://www.heatmastersmechanical.com/blog/1740-w-division                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.heatmastersmechanical.com/blog/1740-w-division                                           | ✓ | ⏱: 6.26s 
+[FETCH]... ↓ https://www.heatmastersmechanical.com/blog/1221-grundy                                               | ✓ | ⏱: 4.79s 
+[SCRAPE].. ◆ https://www.heatmastersmechanical.com/blog/1221-grundy                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.heatmastersmechanical.com/blog/1221-grundy                                               | ✓ | ⏱: 6.44s 
+[FETCH]... ↓ https://www.heatmastersmechanical.com/blog/65-e-wacker                                               | ✓ | ⏱: 4.97s 
+[SCRAPE].. ◆ https://www.heatmastersmechanical.com/blog/65-e-wacker                                               | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.heatmastersmechanical.com/blog/65-e-wacker                                               | ✓ | ⏱: 6.28s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260817/heatmasters-2dd2ecb24f51.json

@@ -1,0 +1,55 @@
+{
+  "company_name": "Industrias Mineiras do Mondego S.A. (IMOSA®)",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info.imosa@saint-gobain.com",
+      "status": "observed",
+      "source_url": "https://www.imosa.pt/contacte-nos-pt/"
+    },
+    {
+      "channel": "email",
+      "value": "info.incusa@saint-gobain.com",
+      "status": "observed",
+      "source_url": "https://www.imosa.pt/contacte-nos-pt/"
+    },
+    {
+      "channel": "phone",
+      "value": "+351244684999",
+      "status": "valid_format",
+      "source_url": "https://www.imosa.pt/contacte-nos-pt/",
+      "whatsapp_status": "unknown"
+    },
+    {
+      "channel": "phone",
+      "value": "+34913972193",
+      "status": "valid_format",
+      "source_url": "https://www.imosa.pt/contacte-nos-pt/",
+      "whatsapp_status": "unknown"
+    },
+    {
+      "channel": "email",
+      "value": "emprego.imosa@saint-gobain.com",
+      "status": "observed",
+      "source_url": "https://www.imosa.pt/en/about-us-en/"
+    }
+  ],
+  "review_required": true,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 30,
+    "search_engine_warnings": 0,
+    "urls_crawled": 20,
+    "crawl_failures": 2,
+    "contact_signals": 21,
+    "official_urls_discovered": 10,
+    "search_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

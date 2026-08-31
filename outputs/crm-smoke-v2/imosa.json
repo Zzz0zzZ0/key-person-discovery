@@ -1,0 +1,81 @@
+{
+  "company_name": "Industrias Mineiras do Mondego S.A. (IMOSA®)",
+  "candidates": [
+    {
+      "full_name": "Jose Martos",
+      "current_title": "CEO Saint-Gobain Portugal",
+      "company_match": "probable",
+      "influence_type": "decision_maker",
+      "influence_score": 7,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.imosa.pt/2023/10/11/vencedores-apurados-do-concurso-internacional-de-estudantes-de-arquitetura-da-saint-gobain/",
+          "quote": "CEO da Saint-Gobain em Portugal, Jose Martos",
+          "supports": "Listed as CEO of Saint-Gobain Portugal; IMOSA is a Saint-Gobain subsidiary in Portugal"
+        }
+      ],
+      "confidence": 0.55,
+      "review_required": true
+    },
+    {
+      "full_name": "Benoit Bazin",
+      "current_title": "CEO Saint-Gobain Group",
+      "company_match": "probable",
+      "influence_type": "decision_maker",
+      "influence_score": 6,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.imosa.pt/2023/10/11/vencedores-apurados-do-concurso-internacional-de-estudantes-de-arquitetura-da-saint-gobain/",
+          "quote": "CEO da Saint-Gobain, Benoit Bazin",
+          "supports": "Global CEO of Saint-Gobain Group; IMOSA is a subsidiary of Saint-Gobain Group Silica Sands and Minerals"
+        }
+      ],
+      "confidence": 0.45,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info.imosa@saint-gobain.com",
+      "status": "observed",
+      "source_url": "https://www.imosa.pt/en/contact-en/"
+    },
+    {
+      "channel": "email",
+      "value": "info.incusa@saint-gobain.com",
+      "status": "observed",
+      "source_url": "https://www.imosa.pt/en/contact-en/"
+    },
+    {
+      "channel": "phone",
+      "value": "+351244684999",
+      "status": "valid_format",
+      "source_url": "https://www.imosa.pt/en/contact-en/",
+      "whatsapp_status": "unknown"
+    },
+    {
+      "channel": "phone",
+      "value": "+34913972193",
+      "status": "valid_format",
+      "source_url": "https://www.imosa.pt/en/contact-en/",
+      "whatsapp_status": "unknown"
+    }
+  ],
+  "review_required": true,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 30,
+    "search_engine_warnings": 16,
+    "urls_crawled": 3,
+    "crawl_failures": 0,
+    "contact_signals": 4,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

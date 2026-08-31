@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://www.thorabrasivos.com.br/assets/files/catalogo_thor.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  }
+]

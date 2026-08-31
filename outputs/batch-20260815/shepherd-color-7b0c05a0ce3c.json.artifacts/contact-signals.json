@@ -1,0 +1,117 @@
+[
+  {
+    "channel": "email",
+    "value": "mryan@shepherdcolor.com",
+    "status": "observed",
+    "source_url": "https://www.shepherdcolor.com/the-shepherd-color-company-announces-their-newest-addition-to-the-ntp-yellow-product-portfolio/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "mryan@shepherdcolor.com",
+    "status": "observed",
+    "source_url": "https://www.shepherdcolor.com/the-shepherd-color-company-announces-new-black-pigment/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "mryan@shepherdcolor.com",
+    "status": "observed",
+    "source_url": "https://www.shepherdcolor.com/the-shepherd-color-company-announces-new-regional-sales-manager/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "salesusa@shepherdcolor.com",
+    "status": "observed",
+    "source_url": "https://www.shepherdcolor.com/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "melbourne@shepherdcolor.com",
+    "status": "observed",
+    "source_url": "https://www.shepherdcolor.com/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "europe@shepherdcolor.com",
+    "status": "observed",
+    "source_url": "https://www.shepherdcolor.com/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "shenzhen@shepherdcolorchina.com",
+    "status": "observed",
+    "source_url": "https://www.shepherdcolor.com/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+15138740714",
+    "status": "valid_format",
+    "source_url": "https://www.shepherdcolor.com/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+61395322632",
+    "status": "valid_format",
+    "source_url": "https://www.shepherdcolor.com/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+3256892511",
+    "status": "valid_format",
+    "source_url": "https://www.shepherdcolor.com/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+8675582124112",
+    "status": "valid_format",
+    "source_url": "https://www.shepherdcolor.com/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/gary-carter-a1b98013",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/gary-carter-a1b98013"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/christopher-noble-a5265916b",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/christopher-noble-a5265916b"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/richard-dixon-b8888949",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/richard-dixon-b8888949"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/john-marten-7b7102122",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/john-marten-7b7102122"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/brian-schwer-89184340",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/brian-schwer-89184340"
+  }
+]

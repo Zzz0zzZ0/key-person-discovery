@@ -1,0 +1,184 @@
+[
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/noticias/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/noticias/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/contacto/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "miranda.jorge93@yahoo.com",
+    "status": "observed",
+    "source_url": "https://radaris.com/p/Delia/Miranda/"
+  },
+  {
+    "channel": "email",
+    "value": "tmiranda@excite.com",
+    "status": "observed",
+    "source_url": "https://radaris.com/p/Delia/Miranda/"
+  },
+  {
+    "channel": "email",
+    "value": "delia.miranda@excite.com",
+    "status": "observed",
+    "source_url": "https://radaris.com/p/Delia/Miranda/"
+  },
+  {
+    "channel": "email",
+    "value": "gpettigrewlittle@juno.com",
+    "status": "observed",
+    "source_url": "https://radaris.com/p/Delia/Miranda/"
+  },
+  {
+    "channel": "email",
+    "value": "dalia.miranda@bellsouth.net",
+    "status": "observed",
+    "source_url": "https://radaris.com/p/Delia/Miranda/"
+  },
+  {
+    "channel": "email",
+    "value": "customer-service@radaris.com",
+    "status": "observed",
+    "source_url": "https://radaris.com/p/Delia/Miranda/"
+  },
+  {
+    "channel": "email",
+    "value": "info@swissfilms.ch",
+    "status": "observed",
+    "source_url": "https://www.swissfilms.ch/de/person/della-miranda/d39afca97ff64c3898a6c8ecd4ab2b75"
+  },
+  {
+    "channel": "phone",
+    "value": "+41432114050",
+    "status": "valid_format",
+    "source_url": "https://www.swissfilms.ch/de/person/della-miranda/d39afca97ff64c3898a6c8ecd4ab2b75",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "http://dellamiranda.com.ar/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "http://dellamiranda.com.ar/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@journeesdesoleure.ch",
+    "status": "observed",
+    "source_url": "https://www.solothurnerfilmtage.ch/fr/cinema-suisse/cineastes/della-miranda"
+  },
+  {
+    "channel": "phone",
+    "value": "+41326258080",
+    "status": "valid_format",
+    "source_url": "https://www.solothurnerfilmtage.ch/fr/cinema-suisse/cineastes/della-miranda",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/noticias/page/10/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/noticias/page/10/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/noticias/page/3/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/noticias/page/3/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://dellamiranda.com.ar/noticias/page/2/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5492995748957",
+    "status": "valid_format",
+    "source_url": "https://dellamiranda.com.ar/noticias/page/2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dellamiranda.com.ar",
+    "status": "observed",
+    "source_url": "https://www.dellamiranda.com.ar/wp-content/uploads/2020/08/Della-Miranda-Quienes-Somos.pdf"
+  }
+]

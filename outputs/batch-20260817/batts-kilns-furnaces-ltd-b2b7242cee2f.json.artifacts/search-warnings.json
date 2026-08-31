@@ -1,0 +1,14 @@
+[
+  {
+    "query": "\"Batts Kilns & Furnaces Ltd\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:kilns.co.uk (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  }
+]

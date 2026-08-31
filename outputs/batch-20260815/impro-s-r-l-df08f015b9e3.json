@@ -1,0 +1,43 @@
+{
+  "company_name": "IMPRO S.R.L.",
+  "candidates": [],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 24,
+    "search_engine_warnings": 0,
+    "urls_crawled": 6,
+    "crawl_failures": 1,
+    "contact_signals": 7,
+    "official_urls_discovered": 3,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 5,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 1,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

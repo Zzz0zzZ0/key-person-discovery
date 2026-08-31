@@ -1,0 +1,100 @@
+[
+  {
+    "channel": "email",
+    "value": "kontakt@2w-polska.pl",
+    "status": "observed",
+    "source_url": "https://2w-polska.pl",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48422505376",
+    "status": "valid_format",
+    "source_url": "https://2w-polska.pl",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kontakt@2w-polska.pl",
+    "status": "observed",
+    "source_url": "https://2w-polska.pl/o-firmie/"
+  },
+  {
+    "channel": "phone",
+    "value": "+48422505376",
+    "status": "valid_format",
+    "source_url": "https://2w-polska.pl/o-firmie/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "kontakt@2w-polska.pl",
+    "status": "observed",
+    "source_url": "https://2w-polska.pl/onsystem-technic/"
+  },
+  {
+    "channel": "phone",
+    "value": "+48422505376",
+    "status": "valid_format",
+    "source_url": "https://2w-polska.pl/onsystem-technic/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "kontakt@2w-polska.pl",
+    "status": "observed",
+    "source_url": "https://2w-polska.pl/kontakt/"
+  },
+  {
+    "channel": "phone",
+    "value": "+48422505376",
+    "status": "valid_format",
+    "source_url": "https://2w-polska.pl/kontakt/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "kontakt@2w-polska.pl",
+    "status": "observed",
+    "source_url": "https://2w-polska.pl/presta-products/"
+  },
+  {
+    "channel": "phone",
+    "value": "+48422505376",
+    "status": "valid_format",
+    "source_url": "https://2w-polska.pl/presta-products/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "kontakt@2w-polska.pl",
+    "status": "observed",
+    "source_url": "https://2w-polska.pl/unic/"
+  },
+  {
+    "channel": "phone",
+    "value": "+48422505376",
+    "status": "valid_format",
+    "source_url": "https://2w-polska.pl/unic/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/bart%C5%82omiej-w%C5%82odarczyk-62445a155",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/bart%C5%82omiej-w%C5%82odarczyk-62445a155"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/agata-pawlak-n18101999",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/agata-pawlak-n18101999"
+  }
+]

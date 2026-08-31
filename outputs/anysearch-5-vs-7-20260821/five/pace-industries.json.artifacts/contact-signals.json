@@ -1,0 +1,69 @@
+[
+  {
+    "channel": "phone",
+    "value": "+18883432278",
+    "status": "valid_format",
+    "source_url": "https://paceind.com/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18883432278",
+    "status": "valid_format",
+    "source_url": "https://paceind.com/contact/?open=request-a-quote",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+14794431455",
+    "status": "valid_format",
+    "source_url": "http://www.paceind.com/wp-content/uploads/2017/09/11155_Pace-Supplier-Quality-Manual.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18332209961",
+    "status": "valid_format",
+    "source_url": "https://paceind.com/wp-content/uploads/2024/04/Pace-Supplier-Quality-Manual.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/cathy-voskuil-529abb41",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/cathy-voskuil-529abb41"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/bill-koeppel-07372259",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/bill-koeppel-07372259"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/john-conquest-84ba2713",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/john-conquest-84ba2713"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/douglas-albert-b080b11",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/douglas-albert-b080b11"
+  },
+  {
+    "channel": "email",
+    "value": "hrhro@paceind.onmicrosoft.com",
+    "status": "probable",
+    "source_url": "https://paceind.com/now-hiring-harrison/",
+    "company_public": true
+  }
+]

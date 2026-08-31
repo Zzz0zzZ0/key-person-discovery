@@ -1,0 +1,221 @@
+{
+  "company_name": "Düker GmbH",
+  "candidates": [
+    {
+      "full_name": "Oliver Kraxner",
+      "current_title": "Managing Director",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "info@dueker.de",
+          "status": "observed",
+          "source_url": "https://www.dueker.de/en/imprint/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+4993537910",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.dueker.de/en/imprint/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.dueker.de/en/imprint/",
+          "quote": "Managing Director: Oliver Kraxner",
+          "supports": "Managing Director of Düker GmbH, verified via company imprint"
+        },
+        {
+          "source_url": "https://www.dueker.de/en/company/history/",
+          "quote": "Oliver Kraxner becomes Managing Director 2018",
+          "supports": "Confirmed as Managing Director since 2018 per company history page"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+496093870",
+      "status": "valid_format",
+      "source_url": "https://www.dueker.de/en/imprint/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+49753243010",
+      "status": "valid_format",
+      "source_url": "https://www.dueker.de/en/imprint/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+499353791550",
+      "status": "valid_format",
+      "source_url": "https://www.dueker.de/en/contact/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+499353791551",
+      "status": "valid_format",
+      "source_url": "https://www.dueker.de/en/contact/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+499353791552",
+      "status": "valid_format",
+      "source_url": "https://www.dueker.de/en/contact/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+499353791553",
+      "status": "valid_format",
+      "source_url": "https://www.dueker.de/en/contact/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+499353791555",
+      "status": "valid_format",
+      "source_url": "https://www.dueker.de/en/contact/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+499353791560",
+      "status": "valid_format",
+      "source_url": "https://www.dueker.de/en/contact/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+499353791565",
+      "status": "valid_format",
+      "source_url": "https://www.dueker.de/en/contact/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+499353791280",
+      "status": "valid_format",
+      "source_url": "https://www.dueker.de/en/contact/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+499353791570",
+      "status": "valid_format",
+      "source_url": "https://www.dueker.de/en/contact/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+499353791580",
+      "status": "valid_format",
+      "source_url": "https://www.dueker.de/en/contact/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "sales.drainage-tech@dueker.de",
+      "status": "observed",
+      "source_url": "https://www.dueker.de/fileadmin/download/en/02_Abflusstechnik/VAT_catalogue_NH.pdf",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 7,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 35,
+    "search_engine_warnings": 4,
+    "urls_crawled": 19,
+    "crawl_failures": 3,
+    "contact_signals": 18,
+    "official_urls_discovered": 8,
+    "crm_website": "https://dueker.de",
+    "official_website": "https://dueker.de",
+    "website_recovered": false,
+    "pdf_documents_discovered": 3,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 3,
+    "pdf_pages_extracted": 25,
+    "pdf_failures": 0,
+    "search_evidence_pages": 2,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 4,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 1,
+    "contactable_items": 14,
+    "target_contact_methods": 1,
+    "contact_methods": 15,
+    "contact_target_met": true,
+    "broad_discovery": false,
+    "topeasy_import": {},
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

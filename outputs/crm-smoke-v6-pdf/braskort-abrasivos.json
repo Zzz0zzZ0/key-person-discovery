@@ -1,0 +1,55 @@
+{
+  "company_name": "Braskort Abrasivos",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "whatsapp",
+      "value": "+5519998641869",
+      "status": "verified",
+      "source_url": "http://www.braskort.com.br/contato"
+    },
+    {
+      "channel": "phone",
+      "value": "+5519998641869",
+      "status": "valid_format",
+      "source_url": "http://www.braskort.com.br/contato",
+      "whatsapp_status": "verified"
+    },
+    {
+      "channel": "phone",
+      "value": "+551938781426",
+      "status": "valid_format",
+      "source_url": "http://www.braskort.com.br/contato",
+      "whatsapp_status": "unknown"
+    },
+    {
+      "channel": "phone",
+      "value": "+551939485330",
+      "status": "valid_format",
+      "source_url": "https://www.braskort.com.br",
+      "whatsapp_status": "unknown"
+    }
+  ],
+  "review_required": true,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 20,
+    "search_engine_warnings": 0,
+    "urls_crawled": 10,
+    "crawl_failures": 2,
+    "contact_signals": 23,
+    "official_urls_discovered": 2,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

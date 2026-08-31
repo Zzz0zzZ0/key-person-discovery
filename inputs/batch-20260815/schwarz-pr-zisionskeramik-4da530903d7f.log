@@ -1,0 +1,39 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.keramischekerne.de                                                                       | ✓ | ⏱: 1.29s 
+[SCRAPE].. ◆ https://www.keramischekerne.de                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.keramischekerne.de                                                                       | ✓ | ⏱: 2.55s 
+[FETCH]... ↓ https://www.keramischekerne.de/barrierefreiheitserklaerung/                                          | ✓ | ⏱: 1.05s 
+[SCRAPE].. ◆ https://www.keramischekerne.de/barrierefreiheitserklaerung/                                          | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.keramischekerne.de/barrierefreiheitserklaerung/                                          | ✓ | ⏱: 1.05s 
+[FETCH]... ↓ https://www.keramischekerne.de/datenschutz/                                                          | ✓ | ⏱: 0.55s 
+[SCRAPE].. ◆ https://www.keramischekerne.de/datenschutz/                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.keramischekerne.de/datenschutz/                                                          | ✓ | ⏱: 0.57s 
+[FETCH]... ↓ http://keramischekerne.de/Frankreich/startseite.htm                                                  | ✓ | ⏱: 2.80s 
+[SCRAPE].. ◆ http://keramischekerne.de/Frankreich/startseite.htm                                                  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://keramischekerne.de/Frankreich/startseite.htm                                                  | ✓ | ⏱: 4.75s 
+[FETCH]... ↓ https://www.keramischekerne.de/impressum/                                                            | ✓ | ⏱: 0.54s 
+[SCRAPE].. ◆ https://www.keramischekerne.de/impressum/                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.keramischekerne.de/impressum/                                                            | ✓ | ⏱: 0.55s 
+[FETCH]... ↓ https://www.11880.com/branchenbuch/herbertingen/180702231B102081494/schwarz-praezisionskeramik.html  | ✓ | ⏱: 4.28s 
+[SCRAPE].. ◆ https://www.11880.com/branchenbuch/herbertingen/180702231B102081494/schwarz-praezisionskeramik.html  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.11880.com/branchenbuch/herbertingen/180702231B102081494/schwarz-praezisionskeramik.html  | ✓ | ⏱: 5.14s 
+[FETCH]... ↓ https://www.keramischekerne.de/impressum/index.php                                                   | ✓ | ⏱: 0.52s 
+[SCRAPE].. ◆ https://www.keramischekerne.de/impressum/index.php                                                   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.keramischekerne.de/impressum/index.php                                                   | ✓ | ⏱: 0.53s 
+[FETCH]... ↓ https://www.keramischekerne.de/indexen.php                                                           | ✓ | ⏱: 0.53s 
+[SCRAPE].. ◆ https://www.keramischekerne.de/indexen.php                                                           | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.keramischekerne.de/indexen.php                                                           | ✓ | ⏱: 0.54s 
+[FETCH]... ↓ https://www.keramischekerne.de/unternehmen/                                                          | ✓ | ⏱: 0.59s 
+[SCRAPE].. ◆ https://www.keramischekerne.de/unternehmen/                                                          | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.keramischekerne.de/unternehmen/                                                          | ✓ | ⏱: 0.60s 
+[FETCH]... ↓ https://eicf.org/schwarz-przisionskeramik-becomes-eicf-new-member/                                   | ✓ | ⏱: 7.89s 
+[SCRAPE].. ◆ https://eicf.org/schwarz-przisionskeramik-becomes-eicf-new-member/                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://eicf.org/schwarz-przisionskeramik-becomes-eicf-new-member/                                   | ✓ | ⏱: 9.19s 
+[FETCH]... ↓ https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/                    | ✓ | ⏱: 3.07s 
+[SCRAPE].. ◆ https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/                    | ✓ | ⏱: 4.51s 
+Xref table not zero-indexed. ID numbers for objects will be corrected.
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/schwarz-pr-zisionskeramik-4da530903d7f.json

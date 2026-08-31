@@ -1,0 +1,75 @@
+[
+  {
+    "channel": "email",
+    "value": "comunicaespana@arcelormittal.com",
+    "status": "observed",
+    "source_url": "https://ecoacero.com/contacto/privacy-cookies-police-politica-de-privacidad/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "proteccion.datos@arcelormittal.com",
+    "status": "observed",
+    "source_url": "https://ecoacero.com/contacto/privacy-cookies-police-politica-de-privacidad/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@ecoacero.com",
+    "status": "observed",
+    "source_url": "https://ecoacero.com/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ecoacero@ecoacero.com",
+    "status": "observed",
+    "source_url": "https://ecoacero.com/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comunicaciones@estrella.com.do",
+    "status": "observed",
+    "source_url": "https://estrella.com.do/empresas/ecoacero/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ecoaceroslf@gmail.com",
+    "status": "observed",
+    "source_url": "https://ecoacero.wixsite.com/ecoacero/sobre-nosotros",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@ecoacero.com",
+    "status": "observed",
+    "source_url": "https://ecoacero.wixsite.com/ecoacero/sobre-nosotros",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34822040656",
+    "status": "valid_format",
+    "source_url": "https://ecoacero.wixsite.com/ecoacero/sobre-nosotros",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34620444100",
+    "status": "valid_format",
+    "source_url": "https://ecoacero.wixsite.com/ecoacero/sobre-nosotros",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/estefany-a-castillo-l-0b3076163",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/estefany-a-castillo-l-0b3076163"
+  }
+]

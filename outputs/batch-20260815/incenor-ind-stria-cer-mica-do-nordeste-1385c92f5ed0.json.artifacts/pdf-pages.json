@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.incenor.com.br/files/2026/07/catalogo-incenor-2026-jul-8c63cd1e53.pdf",
+    "markdown": "",
+    "error": "<urlopen error _ssl.c:999: The handshake operation timed out>",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.incenor.com.br/files/2026/05/catalogo-incenor-2026-c7ecd012a0.pdf",
+    "markdown": "",
+    "error": "<urlopen error _ssl.c:999: The handshake operation timed out>",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.incenor.com.br/download/Relatorio_de_transparencia_e_igualdade_salarial_incenor.pdf",
+    "markdown": "",
+    "error": "<urlopen error _ssl.c:999: The handshake operation timed out>",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  }
+]

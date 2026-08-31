@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://belcoind.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://belcoind.com/sitemap.xml: not well-formed (invalid token): line 4, column 490"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://www.sic-lime.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.sic-lime.com/sitemap.xml: HTTP Error 404: Not Found"
+  }
+]

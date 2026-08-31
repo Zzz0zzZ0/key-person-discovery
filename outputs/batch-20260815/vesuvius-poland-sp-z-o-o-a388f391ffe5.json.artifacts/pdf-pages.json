@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://www.vesuvius.com/content/dam/vesuvius/corporate/Site-services/terms-and-conditions-of-sale/Vesuvius%20Poland%20Sp%20z.o.o.-%20Terms%20and%20Conditions%20of%20Sale%20-%20December%202025.pdf",
+    "markdown": "",
+    "error": "HTTP Error 403: Forbidden",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  }
+]

@@ -1,0 +1,145 @@
+{
+  "name": "APEX Group",
+  "website": "https://www.apexgroup.eu",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "01180961-30f5-402e-a786-89674edce48b",
+  "crm_linkedin_url": "https://www.linkedin.com/company/apex-group/",
+  "crm_country": "荷兰 / 捷克 / 波兰 / 罗马尼亚",
+  "crm_updated_at": "2026-07-28T10:08:38.383065+00:00",
+  "crm_contact_count": 12,
+  "crm_contacts": [
+    {
+      "name": " Deepti Karkera",
+      "email": "deepti.karkera@gmail.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/deepti-karkera-049b2153",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Rajinder Sachdeva",
+      "email": "sachdevarajindersingh@gmail.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/rajinder-sachdeva-1032a566",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Radu Munteanu",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/radu-munteanu-434b8013a",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Aleksandra Migas",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+31 6 29289654",
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/aleksandra-migas-571972b3",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Sakina Tinwala",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/sakina-tinwala",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Eleni Machaira",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/eleni-machaira-1869b65a",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+420 541 424 830",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "infopl@apexgroup.eu",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "info@apexgroup.eu",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "infocz@apexgroup.eu",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "inforo@apexgroup.eu",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Stephen Igou",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+1 312-402-2029",
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/stephen-igou-279680195",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-15T04:14:25.960592+00:00",
+  "source": "twenty_postgresql_read_only"
+}

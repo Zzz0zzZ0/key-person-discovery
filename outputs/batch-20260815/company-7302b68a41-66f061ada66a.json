@@ -1,0 +1,55 @@
+{
+  "company_name": "株式会社光陽社",
+  "candidates": [
+    {
+      "full_name": "Katsuyuki Kondo",
+      "current_title": "C.E.O. & President",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 10,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.koyo-sha.co.jp/e/corporate_guidance/corporate_profile.html",
+          "quote": "Representative | Katsuyuki Kondo, C.E.O. & President",
+          "supports": "Current representative at Koyo-Sha Co., Ltd."
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 35,
+    "search_engine_warnings": 1,
+    "urls_crawled": 14,
+    "crawl_failures": 3,
+    "contact_signals": 0,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 4,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 1,
+    "pdf_pages_extracted": 1,
+    "pdf_failures": 2,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

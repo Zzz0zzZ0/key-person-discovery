@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.duedal.ch/pdf/Beschrieb%20ISO%2014001.pdf",
+    "markdown": "",
+    "error": "HTTP Error 404: Not Found",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.duedal.ch/pdf/Polymechaniker.pdf",
+    "markdown": "",
+    "error": "HTTP Error 404: Not Found",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.duedal.ch/pdf/2024Polymechaniker_in%20EFZ.pdf",
+    "markdown": "",
+    "error": "HTTP Error 404: Not Found",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  }
+]

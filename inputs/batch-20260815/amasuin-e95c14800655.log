@@ -1,0 +1,92 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://amasuin.es/about                                                                             | ✓ | ⏱: 6.60s 
+[SCRAPE].. ◆ https://amasuin.es/about                                                                             | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://amasuin.es/about                                                                             | ✓ | ⏱: 7.91s 
+[FETCH]... ↓ https://amasuin.es/etiqueta-producto/andamio-team                                                    | ✓ | ⏱: 6.58s 
+[SCRAPE].. ◆ https://amasuin.es/etiqueta-producto/andamio-team                                                    | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://amasuin.es/etiqueta-producto/andamio-team                                                    | ✓ | ⏱: 7.95s 
+[FETCH]... ↓ https://amasuin.es                                                                                   | ✓ | ⏱: 6.67s 
+[SCRAPE].. ◆ https://amasuin.es                                                                                   | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://amasuin.es                                                                                   | ✓ | ⏱: 8.22s 
+[FETCH]... ↓ https://amasuin.es/contacto                                                                          | ✓ | ⏱: 7.02s 
+[SCRAPE].. ◆ https://amasuin.es/contacto                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://amasuin.es/contacto                                                                          | ✓ | ⏱: 8.39s 
+[FETCH]... ↓ https://amasuin.es/newsletter                                                                        | ✓ | ⏱: 0.63s 
+[SCRAPE].. ◆ https://amasuin.es/newsletter                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://amasuin.es/newsletter                                                                        | ✓ | ⏱: 0.66s 
+[FETCH]... ↓ https://amasuin.es/marca/kaise                                                                       | ✓ | ⏱: 1.02s 
+[SCRAPE].. ◆ https://amasuin.es/marca/kaise                                                                       | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://amasuin.es/marca/kaise                                                                       | ✓ | ⏱: 1.06s 
+[FETCH]... ↓ https://amasuin.es/orden-ministerial-sobre-marcas-viales                                             | ✓ | ⏱: 0.64s 
+[SCRAPE].. ◆ https://amasuin.es/orden-ministerial-sobre-marcas-viales                                             | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://amasuin.es/orden-ministerial-sobre-marcas-viales                                             | ✓ | ⏱: 0.68s 
+[FETCH]... ↓ https://amasuin.es/marca/winnteck                                                                    | ✓ | ⏱: 2.28s 
+[SCRAPE].. ◆ https://amasuin.es/marca/winnteck                                                                    | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://amasuin.es/marca/winnteck                                                                    | ✓ | ⏱: 2.32s 
+[FETCH]... ↓ https://amasuin.es/producto/generador-8000w-angliru-s                                                | ✓ | ⏱: 1.71s 
+[SCRAPE].. ◆ https://amasuin.es/producto/generador-8000w-angliru-s                                                | ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://amasuin.es/producto/generador-8000w-angliru-s                                                | ✓ | ⏱: 1.79s 
+[FETCH]... ↓ https://amasuin.es/producto/andamio-multifuncion-team                                                | ✓ | ⏱: 1.99s 
+[SCRAPE].. ◆ https://amasuin.es/producto/andamio-multifuncion-team                                                | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://amasuin.es/producto/andamio-multifuncion-team                                                | ✓ | ⏱: 2.05s 
+[FETCH]... ↓ https://amasuin.es/producto/generador-de-vapor-kgvai9000-con-aspiracion                              | ✓ | ⏱: 1.53s 
+[SCRAPE].. ◆ https://amasuin.es/producto/generador-de-vapor-kgvai9000-con-aspiracion                              | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://amasuin.es/producto/generador-de-vapor-kgvai9000-con-aspiracion                              | ✓ | ⏱: 1.58s 
+[FETCH]... ↓ https://amasuin.es/producto/generador-de-vapor-kgvi6000                                              | ✓ | ⏱: 0.80s 
+[SCRAPE].. ◆ https://amasuin.es/producto/generador-de-vapor-kgvi6000                                              | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://amasuin.es/producto/generador-de-vapor-kgvi6000                                              | ✓ | ⏱: 0.86s 
+[FETCH]... ↓ https://amasuin.es/producto/generador-ozono-krdg-o3-225p-15-programable                              | ✓ | ⏱: 0.66s 
+[SCRAPE].. ◆ https://amasuin.es/producto/generador-ozono-krdg-o3-225p-15-programable                              | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://amasuin.es/producto/generador-ozono-krdg-o3-225p-15-programable                              | ✓ | ⏱: 0.71s 
+[FETCH]... ↓ https://amasuin.es/producto/juego-2-redes-para-porterias                                             | ✓ | ⏱: 0.68s 
+[SCRAPE].. ◆ https://amasuin.es/producto/juego-2-redes-para-porterias                                             | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://amasuin.es/producto/juego-2-redes-para-porterias                                             | ✓ | ⏱: 0.73s 
+[FETCH]... ↓ https://amasuin.es/producto/nebulizador-krd-ap14-5e-electrico-portatil                               | ✓ | ⏱: 0.74s 
+[SCRAPE].. ◆ https://amasuin.es/producto/nebulizador-krd-ap14-5e-electrico-portatil                               | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://amasuin.es/producto/nebulizador-krd-ap14-5e-electrico-portatil                               | ✓ | ⏱: 0.79s 
+[FETCH]... ↓ https://amasuin.es/shop/page/109                                                                     | ✓ | ⏱: 0.73s 
+[SCRAPE].. ◆ https://amasuin.es/shop/page/109                                                                     | ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://amasuin.es/shop/page/109                                                                     | ✓ | ⏱: 0.81s 
+[FETCH]... ↓ https://amasuin.es/reembolso_devoluciones                                                            | ✓ | ⏱: 1.34s 
+[SCRAPE].. ◆ https://amasuin.es/reembolso_devoluciones                                                            | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://amasuin.es/reembolso_devoluciones                                                            | ✓ | ⏱: 1.36s 
+[FETCH]... ↓ https://amasuin.es/sobre-nosotros                                                                    | ✓ | ⏱: 1.88s 
+[SCRAPE].. ◆ https://amasuin.es/sobre-nosotros                                                                    | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://amasuin.es/sobre-nosotros                                                                    | ✓ | ⏱: 1.91s 
+[FETCH]... ↓ https://www.amasuin.com/productos/herramienta-antimagnética/                                         | ✓ | ⏱: 4.98s 
+[SCRAPE].. ◆ https://www.amasuin.com/productos/herramienta-antimagnética/                                         | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.amasuin.com/productos/herramienta-antimagnética/                                         | ✓ | ⏱: 7.03s 
+[FETCH]... ↓ https://www.amasuin.com/la-empresa/                                                                  | ✓ | ⏱: 5.66s 
+[SCRAPE].. ◆ https://www.amasuin.com/la-empresa/                                                                  | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.amasuin.com/la-empresa/                                                                  | ✓ | ⏱: 7.71s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://amasuin.es/wp-content/uploads/2024/09/andamio-team-21062-300x300.jpg                         | ✓ | ⏱: 0.68s 
+[SCRAPE].. ◆ https://amasuin.es/wp-content/uploads/2024/09/andamio-team-21062-300x300.jpg                         | ✓ | ⏱: 0.00s 
+[ERROR]... × https://amasuin.es/wp-c...-team-21062-300x300.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (501 bytes, 0 chars visible) 
+[COMPLETE] ● https://amasuin.es/wp-content/uploads/2024/09/andamio-team-21062-300x300.jpg                         | ✗ | ⏱: 0.69s 
+[FETCH]... ↓ https://amasuin.es/wp-content/uploads/2024/09/andamio-team-21062-b.jpg                               | ✓ | ⏱: 0.55s 
+[SCRAPE].. ◆ https://amasuin.es/wp-content/uploads/2024/09/andamio-team-21062-b.jpg                               | ✓ | ⏱: 0.00s 
+[ERROR]... × https://amasuin.es/wp-c...ndamio-team-21062-b.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (489 bytes, 0 chars visible) 
+[COMPLETE] ● https://amasuin.es/wp-content/uploads/2024/09/andamio-team-21062-b.jpg                               | ✗ | ⏱: 0.56s 
+[FETCH]... ↓ https://amasuin.es/wp-content/uploads/2024/09/andamio-team-21062-c.jpg                               | ✓ | ⏱: 0.61s 
+[SCRAPE].. ◆ https://amasuin.es/wp-content/uploads/2024/09/andamio-team-21062-c.jpg                               | ✓ | ⏱: 0.00s 
+[ERROR]... × https://amasuin.es/wp-c...ndamio-team-21062-c.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (489 bytes, 0 chars visible) 
+[COMPLETE] ● https://amasuin.es/wp-content/uploads/2024/09/andamio-team-21062-c.jpg                               | ✗ | ⏱: 0.62s 
+[FETCH]... ↓ https://amasuin.es/wp-content/uploads/2024/09/andamio-team-21062-d.jpg                               | ✓ | ⏱: 0.57s 
+[SCRAPE].. ◆ https://amasuin.es/wp-content/uploads/2024/09/andamio-team-21062-d.jpg                               | ✓ | ⏱: 0.00s 
+[ERROR]... × https://amasuin.es/wp-c...ndamio-team-21062-d.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (489 bytes, 0 chars visible) 
+[COMPLETE] ● https://amasuin.es/wp-content/uploads/2024/09/andamio-team-21062-d.jpg                               | ✗ | ⏱: 0.57s 
+[FETCH]... ↓ https://amasuin.es/wp-content/uploads/2024/09/andamio-team-21062.jpg                                 | ✓ | ⏱: 0.76s 
+[SCRAPE].. ◆ https://amasuin.es/wp-content/uploads/2024/09/andamio-team-21062.jpg                                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://amasuin.es/wp-c.../andamio-team-21062.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (485 bytes, 0 chars visible) 
+[COMPLETE] ● https://amasuin.es/wp-content/uploads/2024/09/andamio-team-21062.jpg                                 | ✗ | ⏱: 0.76s 
+[FETCH]... ↓ https://amasuin.es/etiqueta-producto/andamio-multifuncion-team                                       | ✓ | ⏱: 5.97s 
+[SCRAPE].. ◆ https://amasuin.es/etiqueta-producto/andamio-multifuncion-team                                       | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://amasuin.es/etiqueta-producto/andamio-multifuncion-team                                       | ✓ | ⏱: 6.02s 
+[FETCH]... ↓ https://amasuin.es/contact-v2                                                                        | ✓ | ⏱: 6.16s 
+[SCRAPE].. ◆ https://amasuin.es/contact-v2                                                                        | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://amasuin.es/contact-v2                                                                        | ✓ | ⏱: 6.22s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/amasuin-e95c14800655.json

@@ -1,0 +1,108 @@
+{
+  "company_name": "Ri-Flex Abrasives S.R.L.",
+  "candidates": [
+    {
+      "full_name": "Guglielmo Piazzi",
+      "current_title": "General Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://aeroleads.com/c/ri---flex-abrasives-s.r.l.",
+          "quote": "G Guglielmo Piazzi General Manager Presso Riflex Abrasives E",
+          "supports": "AeroLeads org chart preview listing him as General Manager at Riflex Abrasives with email contact available"
+        },
+        {
+          "source_url": "https://riflex.com",
+          "quote": "RIFLEX è parte del gruppo fervi",
+          "supports": "Company website footer confirming Ri-Flex Abrasives S.R.L. and its affiliation to the Fervi group"
+        },
+        {
+          "source_url": "https://lei.bloomberg.com/leis/view/8156009C30F627B7CB93",
+          "quote": "RI - FLEX ABRASIVES S.R.L. Legal Address VIA VITTORIO BACHELET 1 SPILAMBERTO Modena (IT-MO) 41057 ITALY",
+          "supports": "Bloomberg LEI record confirming the company's legal entity and registration"
+        }
+      ],
+      "confidence": 0.72,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info@riflex.com",
+      "status": "observed",
+      "source_url": "https://riflex.com/contact-us/?lang=en",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+12244227575",
+      "status": "valid_format",
+      "source_url": "https://www.importyeti.com/supplier/ri-flex-abrasives-s-r-l",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+18009256278",
+      "status": "valid_format",
+      "source_url": "https://www.importyeti.com/supplier/ri-flex-abrasives-s-r-l",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+18553741199",
+      "status": "valid_format",
+      "source_url": "https://www.importgenius.com/suppliers/ri-flex-abrasives-s-r-l",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "validation_rejections": [
+    {
+      "full_name": "Andrea Grazi",
+      "reasons": [
+        "evidence URL was not fetched"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 38,
+    "search_engine_warnings": 0,
+    "urls_crawled": 17,
+    "crawl_failures": 2,
+    "contact_signals": 5,
+    "official_urls_discovered": 2,
+    "pdf_documents_discovered": 5,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 3,
+    "pdf_pages_extracted": 3,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 1,
+    "crm_contact_count": 2,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 4,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

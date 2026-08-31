@@ -1,0 +1,112 @@
+{
+  "company_name": "朝日アルミニウム株式会社",
+  "candidates": [
+    {
+      "full_name": "小林 秀和",
+      "current_title": "代表取締役社長",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://asahial.co.jp/company/",
+          "quote": "代表取締役社長 小林 秀和",
+          "supports": "Current president of 朝日アルミニウム株式会社, verified on official company page"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "小松 理央",
+      "current_title": "代表取締役会長",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://asahial.co.jp/company/",
+          "quote": "代表取締役会長 小松 理央",
+          "supports": "Current chairman of 朝日アルミニウム株式会社, verified on official company page"
+        }
+      ],
+      "confidence": 0.9,
+      "review_required": true
+    },
+    {
+      "full_name": "武部 貴一",
+      "current_title": "常務取締役",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://asahial.co.jp/company/",
+          "quote": "常務取締役 武部 貴一",
+          "supports": "Current managing director of 朝日アルミニウム株式会社, verified on official company page"
+        }
+      ],
+      "confidence": 0.8,
+      "review_required": true
+    },
+    {
+      "full_name": "角 浩二郎",
+      "current_title": "常務取締役",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://asahial.co.jp/company/",
+          "quote": "常務取締役 角 浩二郎",
+          "supports": "Current managing director of 朝日アルミニウム株式会社, verified on official company page"
+        }
+      ],
+      "confidence": 0.8,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 32,
+    "search_engine_warnings": 0,
+    "urls_crawled": 28,
+    "crawl_failures": 1,
+    "contact_signals": 1,
+    "official_urls_discovered": 11,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

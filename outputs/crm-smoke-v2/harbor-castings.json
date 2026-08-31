@@ -1,0 +1,15 @@
+{
+  "company_name": "Harbor Castings Inc.",
+  "candidates": [],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 30,
+    "search_engine_warnings": 14,
+    "urls_crawled": 5,
+    "crawl_failures": 1,
+    "contact_signals": 5,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

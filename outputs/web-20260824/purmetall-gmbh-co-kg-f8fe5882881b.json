@@ -1,0 +1,103 @@
+{
+  "company_name": "PURMETALL GmbH & Co. KG",
+  "candidates": [
+    {
+      "full_name": "Dipl.-Ing. Johannes Greinacher",
+      "current_title": "Authorized Representative (Vertreten durch)",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.purmetall.de/impressum.html",
+          "quote": "Vertreten durch Dipl.-Ing. Johannes Greinacher",
+          "supports": "Named authorized representative of PURMETALL GmbH & Co. KG on the official German legal notice (Impressum) page"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "purmetall@purmetall.de",
+      "status": "observed",
+      "source_url": "https://www.purmetall.de/contact.html",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+49208850020",
+      "status": "valid_format",
+      "source_url": "https://www.purmetall.de/contact.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+492088500236",
+      "status": "valid_format",
+      "source_url": "https://www.purmetall.de/contactTR.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 45,
+    "search_engine_warnings": 4,
+    "urls_crawled": 27,
+    "crawl_failures": 6,
+    "contact_signals": 18,
+    "official_urls_discovered": 15,
+    "crm_website": "https://purmetall.de",
+    "official_website": "https://www.purmetall.de",
+    "website_recovered": true,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 2,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 3,
+    "target_contact_methods": 4,
+    "contact_methods": 3,
+    "contact_target_met": false,
+    "broad_discovery": false,
+    "topeasy_import": {},
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

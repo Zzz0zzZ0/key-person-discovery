@@ -1,0 +1,91 @@
+[
+  {
+    "channel": "email",
+    "value": "hh@glaeser-schleiftechnik.de",
+    "status": "observed",
+    "source_url": "https://glaeser-schleiftechnik.de/de/kontakt.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49212207056",
+    "status": "valid_format",
+    "source_url": "https://glaeser-schleiftechnik.de/de/kontakt.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hh@glaeser-schleiftechnik.de",
+    "status": "observed",
+    "source_url": "https://glaeser-schleiftechnik.de/de/datenschutzerklaerung.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49212207056",
+    "status": "valid_format",
+    "source_url": "https://glaeser-schleiftechnik.de/de/datenschutzerklaerung.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hh@glaeser-schleiftechnik.de",
+    "status": "observed",
+    "source_url": "https://glaeser-schleiftechnik.de/de/impressum.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49212207056",
+    "status": "valid_format",
+    "source_url": "https://glaeser-schleiftechnik.de/de/impressum.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hh@glaeser-schleiftechnik.de",
+    "status": "observed",
+    "source_url": "https://glaeser-schleiftechnik.de",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49212207056",
+    "status": "valid_format",
+    "source_url": "https://glaeser-schleiftechnik.de",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hh@glaeser-schleiftechnik.de",
+    "status": "observed",
+    "source_url": "https://glaeser-schleiftechnik.de/de/news.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49212207056",
+    "status": "valid_format",
+    "source_url": "https://glaeser-schleiftechnik.de/de/news.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49212207056",
+    "status": "valid_format",
+    "source_url": "https://glaeser-schleiftechnik.de/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

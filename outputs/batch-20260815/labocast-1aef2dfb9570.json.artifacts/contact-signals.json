@@ -1,0 +1,198 @@
+[
+  {
+    "channel": "phone",
+    "value": "+33153386466",
+    "status": "valid_format",
+    "source_url": "https://labocast.fr/informations/nos-contacts/bienvenue-chez-labocast/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33153386466",
+    "status": "valid_format",
+    "source_url": "https://labocast.fr/informations/nos-contacts/mylabocast/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33153386466",
+    "status": "valid_format",
+    "source_url": "https://labocast.fr/informations/nos-contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33153386466",
+    "status": "valid_format",
+    "source_url": "https://labocast.fr",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33153386466",
+    "status": "valid_format",
+    "source_url": "https://labocast.fr/informations/nos-contacts/support-labocast/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33153386466",
+    "status": "valid_format",
+    "source_url": "https://labocast.fr/informations/nos-ressources-humaines/equipes/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33153386466",
+    "status": "valid_format",
+    "source_url": "https://labocast.fr/lesprit-dequipe/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33153386466",
+    "status": "valid_format",
+    "source_url": "https://labocast.fr/la-cohesion-dequipe/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "support@labocast3d.fr",
+    "status": "observed",
+    "source_url": "https://labocast.fr/informations/nos-contacts/support-labocast-3d/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "labocast3d@labocast3d.fr",
+    "status": "observed",
+    "source_url": "https://labocast.fr/informations/nos-contacts/support-labocast-3d/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@trioclear.fr",
+    "status": "observed",
+    "source_url": "https://labocast.fr/informations/nos-contacts/support-aligneurs-trioclear/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33153381541",
+    "status": "valid_format",
+    "source_url": "https://labocast.fr/informations/nos-contacts/support-aligneurs-trioclear/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33153386466",
+    "status": "valid_format",
+    "source_url": "https://labocast.fr/manager-une-equipe-tout-un-programme/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33153386466",
+    "status": "valid_format",
+    "source_url": "https://labocast.fr/infos-contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33153386466",
+    "status": "valid_format",
+    "source_url": "https://labocast.fr/informations/notre-histoire/newsletter/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+254726800278",
+    "status": "verified",
+    "source_url": "https://labocast-kenya.com/education/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+254726800278",
+    "status": "valid_format",
+    "source_url": "https://labocast-kenya.com/education/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "labocast3d@labocast3d.fr",
+    "status": "observed",
+    "source_url": "https://info.labocast.fr/hubfs/Labocast/1.%20PDF%20-%20Lbc%2c%20Lbc%203D%2c%20TrioClear/Labocast%203D/SHINING%203D/Aoralscan%20Elite%20Wireless%20Neo/FICHE%20TECHNIQUE/260629_Labocast3D_ShiningNEO_Fiche.pdf"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/nicolas-burckhart-5bb28224",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/nicolas-burckhart-5bb28224"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/raymond-fernandez-9670b22b",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/raymond-fernandez-9670b22b"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/leonel-castro-labomat-21615a67",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/leonel-castro-labomat-21615a67"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/julien-vincent-7a4a61198",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/julien-vincent-7a4a61198"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/bdeloge",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/bdeloge"
+  },
+  {
+    "channel": "email",
+    "value": "contact@labocast.fr",
+    "status": "probable",
+    "source_url": "https://labocast.fr/mentions-legales/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33660813580",
+    "status": "valid_format",
+    "source_url": "https://labocast.fr/mentions-legales/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

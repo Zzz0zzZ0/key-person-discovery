@@ -1,0 +1,54 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://ecoacero.com                                                                                 | ✓ | ⏱: 4.08s 
+[SCRAPE].. ◆ https://ecoacero.com                                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ecoacero.com                                                                                 | ✓ | ⏱: 6.11s 
+[FETCH]... ↓ https://ecoacero.com/news/                                                                           | ✓ | ⏱: 4.05s 
+[SCRAPE].. ◆ https://ecoacero.com/news/                                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ecoacero.com/news/                                                                           | ✓ | ⏱: 5.43s 
+[FETCH]... ↓ https://ecoacero.com/contacto/privacy-cookies-police-politica-de-privacidad/                         | ✓ | ⏱: 4.06s 
+[SCRAPE].. ◆ https://ecoacero.com/contacto/privacy-cookies-police-politica-de-privacidad/                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ecoacero.com/contacto/privacy-cookies-police-politica-de-privacidad/                         | ✓ | ⏱: 5.80s 
+[FETCH]... ↓ https://ecoacero.com/contacto/                                                                       | ✓ | ⏱: 5.09s 
+[SCRAPE].. ◆ https://ecoacero.com/contacto/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ecoacero.com/contacto/                                                                       | ✓ | ⏱: 6.82s 
+[FETCH]... ↓ https://ecoacero.com/nueva-pagina-sobre-aceros-para-envases-apeal/                                   | ✓ | ⏱: 1.32s 
+[SCRAPE].. ◆ https://ecoacero.com/nueva-pagina-sobre-aceros-para-envases-apeal/                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ecoacero.com/nueva-pagina-sobre-aceros-para-envases-apeal/                                   | ✓ | ⏱: 1.33s 
+[FETCH]... ↓ https://www.datanyze.com/companies/ecoacero/425800545                                                | ✓ | ⏱: 1.39s 
+[SCRAPE].. ◆ https://www.datanyze.com/companies/ecoacero/425800545                                                | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.datanyze.co...nies/ecoacero/425800545  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.datanyze.com/companies/ecoacero/425800545                                                | ✗ | ⏱: 3.04s 
+[FETCH]... ↓ https://www.elcaribe.com.do/panorama/pais/ecoacero-grupo-estrella-varillas-san-pedro-macoris/        | ✓ | ⏱: 4.33s 
+[SCRAPE].. ◆ https://www.elcaribe.com.do/panorama/pais/ecoacero-grupo-estrella-varillas-san-pedro-macoris/        | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.elcaribe.com.do/panorama/pais/ecoacero-grupo-estrella-varillas-san-pedro-macoris/        | ✓ | ⏱: 5.38s 
+[FETCH]... ↓ https://estrella.com.do/empresas/ecoacero/                                                           | ✓ | ⏱: 4.99s 
+[SCRAPE].. ◆ https://estrella.com.do/empresas/ecoacero/                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://estrella.com.do/empresas/ecoacero/                                                           | ✓ | ⏱: 6.78s 
+[FETCH]... ↓ https://ecoacero.wixsite.com/ecoacero/sobre-nosotros                                                 | ✓ | ⏱: 5.27s 
+[SCRAPE].. ◆ https://ecoacero.wixsite.com/ecoacero/sobre-nosotros                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ecoacero.wixsite.com/ecoacero/sobre-nosotros                                                 | ✓ | ⏱: 7.30s 
+[FETCH]... ↓ https://www.heattreattoday.com/ecoacero-expands-rebar-potential-with-new-mill/                       | ✓ | ⏱: 5.96s 
+[SCRAPE].. ◆ https://www.heattreattoday.com/ecoacero-expands-rebar-potential-with-new-mill/                       | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.heattreattoday.com/ecoacero-expands-rebar-potential-with-new-mill/                       | ✓ | ⏱: 7.22s 
+[FETCH]... ↓ https://www.recyclingtoday.com/news/ecoacero-est...eel-rebar-mill-dominican-republic-sms-recycling/  | ✓ | ⏱: 4.23s 
+[SCRAPE].. ◆ https://www.recyclingtoday.com/news/ecoacero-est...eel-rebar-mill-dominican-republic-sms-recycling/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.recyclingtoday.com/news/ecoacero-est...eel-rebar-mill-dominican-republic-sms-recycling/  | ✓ | ⏱: 5.47s 
+[FETCH]... ↓ https://www.sms-group.com/en-us/press-and-media/...for-its-new-rebar-mill-in-the-dominican-republic  | ✓ | ⏱: 3.51s 
+[SCRAPE].. ◆ https://www.sms-group.com/en-us/press-and-media/...for-its-new-rebar-mill-in-the-dominican-republic  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.sms-group.com/en-us/press-and-media/...for-its-new-rebar-mill-in-the-dominican-republic  | ✓ | ⏱: 5.52s 
+[FETCH]... ↓ https://www.sms-group.com/es-es/press-and-media/...for-its-new-rebar-mill-in-the-dominican-republic  | ✓ | ⏱: 3.00s 
+[SCRAPE].. ◆ https://www.sms-group.com/es-es/press-and-media/...for-its-new-rebar-mill-in-the-dominican-republic  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.sms-group.com/es-es/press-and-media/...for-its-new-rebar-mill-in-the-dominican-republic  | ✓ | ⏱: 5.01s 
+[FETCH]... ↓ https://www.zoominfo.com/pic/ecoacero/425800545                                                      | ✓ | ⏱: 0.95s 
+[SCRAPE].. ◆ https://www.zoominfo.com/pic/ecoacero/425800545                                                      | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.com/pic/ecoacero/425800545    | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/pic/ecoacero/425800545                                                      | ✗ | ⏱: 1.82s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.datanyze.com/companies/ecoacero/425800545                                                | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.datanyze.com/companies/ecoacero/425800545                                                | ✓ | ⏱: 0.05s 
+[FETCH]... ↓ https://www.zoominfo.com/pic/ecoacero/425800545                                                      | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.zoominfo.com/pic/ecoacero/425800545                                                      | ✓ | ⏱: 0.05s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260817/ecoacero-grupo-estrella-c29a44899675.json

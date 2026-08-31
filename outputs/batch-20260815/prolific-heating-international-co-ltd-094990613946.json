@@ -1,0 +1,93 @@
+{
+  "company_name": "Prolific Heating International Co., Ltd",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+66819148971",
+      "status": "valid_format",
+      "source_url": "https://phiheating.com/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+66618862879",
+      "status": "valid_format",
+      "source_url": "https://phiheating.com/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "support@signalhire.com",
+      "status": "observed",
+      "source_url": "https://www.signalhire.com/companies/prolific-heating-international-co-ltd",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+6621708171",
+      "status": "valid_format",
+      "source_url": "https://www.signalhire.com/companies/prolific-heating-international-co-ltd",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "validation_rejections": [
+    {
+      "full_name": "Takahiro Yoshioka",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Phummarin Sosrisakorn",
+      "matched_by": [
+        "name"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 2,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 26,
+    "search_engine_warnings": 0,
+    "urls_crawled": 20,
+    "crawl_failures": 6,
+    "contact_signals": 50,
+    "official_urls_discovered": 7,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 5,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 1,
+    "crm_contact_count": 14,
+    "crm_duplicates_removed": 2,
+    "target_contactable_items": 1,
+    "contactable_items": 4,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

@@ -1,0 +1,237 @@
+[
+  {
+    "channel": "email",
+    "value": "info@epoptavka.cz",
+    "status": "observed",
+    "source_url": "https://dodavatele.epoptavka.cz/1448027-refrasil-sro/nabidka/590595-samotove-vyrobky-tvarove",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420602563838",
+    "status": "valid_format",
+    "source_url": "https://dodavatele.epoptavka.cz/1448027-refrasil-sro/nabidka/590595-samotove-vyrobky-tvarove",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420251510908",
+    "status": "valid_format",
+    "source_url": "https://dodavatele.epoptavka.cz/1448027-refrasil-sro/nabidka/590595-samotove-vyrobky-tvarove",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "peterek@refrasil.cz",
+    "status": "observed",
+    "source_url": "https://en.firmy.cz/company/195117-refrasil-trinec-konska.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420558532026",
+    "status": "valid_format",
+    "source_url": "https://en.firmy.cz/company/195117-refrasil-trinec-konska.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "henryk.huczala@trz.cz",
+    "status": "probable",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "witos@refrasil.cz",
+    "status": "probable",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kusnierz@refrasil.cz",
+    "status": "probable",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kantor@refrasil.cz",
+    "status": "probable",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "peterek@refrasil.cz",
+    "status": "probable",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kalmus@refrasil.cz",
+    "status": "probable",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "taska@refrasil.cz",
+    "status": "probable",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kotasova@refrasil.cz",
+    "status": "probable",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "lanc@refrasil.cz",
+    "status": "probable",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "cerna@refrasil.cz",
+    "status": "probable",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "klus@refrasil.cz",
+    "status": "probable",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420558532026",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420558536222",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420602567280",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420558535206",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420558533286",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420558533262",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420773525687",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420558533263",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420724904869",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420558535221",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420558533278",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420558535376",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420602685478",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

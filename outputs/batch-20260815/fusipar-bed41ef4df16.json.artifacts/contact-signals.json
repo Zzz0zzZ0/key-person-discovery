@@ -1,0 +1,58 @@
+[
+  {
+    "channel": "email",
+    "value": "contato@fusipar.com.br",
+    "status": "observed",
+    "source_url": "https://www.facebook.com/fusipar.br/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+554136663362",
+    "status": "valid_format",
+    "source_url": "https://www.facebook.com/fusipar.br/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contato@fusipar.com.br",
+    "status": "observed",
+    "source_url": "http://www.fusipar.com.br",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contato@fusipar.com.br",
+    "status": "observed",
+    "source_url": "http://www.fusipar.com.br/contato/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "messagehelp@halodoc.com",
+    "status": "observed",
+    "source_url": "https://www.halodoc.com/artikel/fusipar-salep-ampuh-atasi-infeksi-kulit?srsltid=AfmBOooZ2XCxxsxWHPUNhMo_b91Ns9cEldHXDb3S7PvT6p9EMOcC2X88",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://br.linkedin.com/in/leonardo-tives-25536714b",
+    "status": "probable",
+    "source_url": "https://br.linkedin.com/in/leonardo-tives-25536714b"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://br.linkedin.com/in/sidiney-zanoni-6b094b34a",
+    "status": "probable",
+    "source_url": "https://br.linkedin.com/in/sidiney-zanoni-6b094b34a"
+  },
+  {
+    "channel": "email",
+    "value": "contato@fusipar.com.br",
+    "status": "probable",
+    "source_url": "http://www.fusipar.com.br/",
+    "company_public": true
+  }
+]

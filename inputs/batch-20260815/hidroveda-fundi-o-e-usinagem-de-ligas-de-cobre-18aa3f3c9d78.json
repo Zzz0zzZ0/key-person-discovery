@@ -1,0 +1,64 @@
+{
+  "name": "Hidroveda - Fundição e Usinagem de Ligas de Cobre",
+  "website": "https://www.hidroveda.ind.br",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00483bad-97fd-421d-8464-380db1274685",
+  "crm_linkedin_url": "http://www.linkedin.com/company/hidroveda",
+  "crm_country": "巴西",
+  "crm_updated_at": "2026-07-28T10:08:40.267319+00:00",
+  "crm_contact_count": 3,
+  "crm_contacts": [
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+55 17 99665-4056",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Mauro Mano",
+      "email": "mauro@hidroveda.com.br",
+      "additional_emails": [],
+      "phone": "+55 17 99771-8332",
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/mauro-mano-21b94243",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Marilia Sanches",
+      "email": "desenvolvimento@hidroveda.com.br",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/marilia-diniz-mano-sanches-75039810a",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T02:38:38.649770+00:00",
+  "source": "twenty_postgresql_read_only"
+}

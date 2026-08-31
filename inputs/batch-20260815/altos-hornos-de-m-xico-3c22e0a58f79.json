@@ -1,0 +1,209 @@
+{
+  "name": "Altos Hornos de México",
+  "website": "https://www.ahmsa.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00482bde-5e79-41c8-8d5c-ddea7e2708c1",
+  "crm_linkedin_url": "http://www.linkedin.com/company/ahmsa-altos-hornos-de-mexico-s.a.b.-",
+  "crm_country": "墨西哥",
+  "crm_updated_at": "2026-07-28T10:08:56.202558+00:00",
+  "crm_contact_count": 19,
+  "crm_contacts": [
+    {
+      "name": " Official Email",
+      "email": "bazar@ahmsa.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "serviciotecnico@ahmsa.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Sergio Lopez",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+1 210-621-5252",
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/sergio-lopez-47701325",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "webmaster@ahmsa.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "desarrollo_proveedores@gan.com.mx",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "dir_finanzas@gan.com.mx",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "com_soc_rel_publicas@gan.com.mx",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "direccion_juridico@gan.com.mx",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "cap_medio_ambiente@gan.com.mx",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+52 866 649 3000",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Luis Miechielsen",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/luis-enrique-zamudio-miechielsen-4620a830",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "ventas@ahmsa.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "reclutamiento@gan.com.mx",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "direccion_acero@gan.com.mx",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "plan_financiera@gan.com.mx",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "dir_abastecimientos@gan.com.mx",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "direccion_general@gan.com.mx",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Jorge Alberto Garza",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/jorge-alberto-garza-b589611a6",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "compras@gan.com.mx",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-15T06:59:19.442276+00:00",
+  "source": "twenty_postgresql_read_only"
+}

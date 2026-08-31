@@ -1,0 +1,98 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.altmann-casting.ch                                                                       | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.altmann-casting.ch                                                                       | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://rocketreach.co/altmann-casting-ag-profile_b4359b35c1f1a0c5                                   | ✓ | ⏱: 3.25s 
+[SCRAPE].. ◆ https://rocketreach.co/altmann-casting-ag-profile_b4359b35c1f1a0c5                                   | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...rofile_b4359b35c1f1a0c5  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/altmann-casting-ag-profile_b4359b35c1f1a0c5                                   | ✗ | ⏱: 3.26s 
+[FETCH]... ↓ https://www.altmann-casting.ch/kontakt?lang=en                                                       | ✓ | ⏱: 13.59s 
+[SCRAPE].. ◆ https://www.altmann-casting.ch/kontakt?lang=en                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.altmann-casting.ch/kontakt?lang=en                                                       | ✓ | ⏱: 13.61s 
+[FETCH]... ↓ https://www.altmann-casting.ch/portrait                                                              | ✓ | ⏱: 11.89s 
+[SCRAPE].. ◆ https://www.altmann-casting.ch/portrait                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.altmann-casting.ch/portrait                                                              | ✓ | ⏱: 11.90s 
+[FETCH]... ↓ https://www.altmann-casting.ch/?lang=en                                                              | ✓ | ⏱: 14.02s 
+[SCRAPE].. ◆ https://www.altmann-casting.ch/?lang=en                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.altmann-casting.ch/?lang=en                                                              | ✓ | ⏱: 14.04s 
+[FETCH]... ↓ https://www.altmann-casting.ch?lang=en                                                               | ✓ | ⏱: 0.50s 
+[SCRAPE].. ◆ https://www.altmann-casting.ch?lang=en                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.altmann-casting.ch?lang=en                                                               | ✓ | ⏱: 0.51s 
+[ANTIBOT]. ℹ https://www.jobup.ch/en...227-altmann-casting-ag/  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://www.jobup.ch/en/enterprises/3b424594-ea40-4a25-b553-6e77313df227-altmann-casting-ag/
+Call log:
+  - navigating to "https://www.jobup.ch/en/enterprises/3b424594-ea40-4a25-b553-6e77313df227-altmann-casting-ag/", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://www.jobup.ch/en...227-altmann-casting-ag/  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://www.jobup.ch/en/enterprises/3b424594-ea40-4a25-b553-6e77313df227-altmann-casting-ag/
+Call log:
+  - navigating to "https://www.jobup.ch/en/enterprises/3b424594-ea40-4a25-b553-6e77313df227-altmann-casting-ag/", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[FETCH]... ↓ https://www.jobs.ch/en/companies/3b424594-ea40-4...tmann-casting-ag/vacancies?source=company_detail  | ✓ | ⏱: 16.83s 
+[SCRAPE].. ◆ https://www.jobs.ch/en/companies/3b424594-ea40-4...tmann-casting-ag/vacancies?source=company_detail  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.jobs.ch/en/companies/3b424594-ea40-4...tmann-casting-ag/vacancies?source=company_detail  | ✓ | ⏱: 18.45s 
+[FETCH]... ↓ https://watch-web.ch/fournisseur-horloger/altmann-casting-ag                                         | ✓ | ⏱: 33.58s 
+[SCRAPE].. ◆ https://watch-web.ch/fournisseur-horloger/altmann-casting-ag                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://watch-web.ch/fournisseur-horloger/altmann-casting-ag                                         | ✓ | ⏱: 34.58s 
+[FETCH]... ↓ https://www.importgenius.com/suppliers/altmann-casting-ag                                            | ✓ | ⏱: 23.40s 
+[SCRAPE].. ◆ https://www.importgenius.com/suppliers/altmann-casting-ag                                            | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.importgenius.com/suppliers/altmann-casting-ag                                            | ✓ | ⏱: 25.09s 
+[FETCH]... ↓ https://www.responsiblejewellery.com/member/altmann-casting-ag/                                      | ✓ | ⏱: 10.34s 
+[SCRAPE].. ◆ https://www.responsiblejewellery.com/member/altmann-casting-ag/                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.responsiblejewellery.com/member/altmann-casting-ag/                                      | ✓ | ⏱: 11.92s 
+[ANTIBOT]. ℹ https://www.zoominfo.co...tmann-casting/450200001  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://www.zoominfo.com/c/altmann-casting/450200001
+Call log:
+  - navigating to "https://www.zoominfo.com/c/altmann-casting/450200001", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://www.zoominfo.co...tmann-casting/450200001  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://www.zoominfo.com/c/altmann-casting/450200001
+Call log:
+  - navigating to "https://www.zoominfo.com/c/altmann-casting/450200001", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.altmann-casting.ch/ansprechpersonen                                                      | ✓ | ⏱: 7.89s 
+[SCRAPE].. ◆ https://www.altmann-casting.ch/ansprechpersonen                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.altmann-casting.ch/ansprechpersonen                                                      | ✓ | ⏱: 7.91s 
+[FETCH]... ↓ https://www.altmann-casting.ch/portrait?lang=en                                                      | ✓ | ⏱: 7.56s 
+[SCRAPE].. ◆ https://www.altmann-casting.ch/portrait?lang=en                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.altmann-casting.ch/portrait?lang=en                                                      | ✓ | ⏱: 7.59s 
+[FETCH]... ↓ https://www.altmann-casting.ch/zusammenarbeit                                                        | ✓ | ⏱: 7.58s 
+[SCRAPE].. ◆ https://www.altmann-casting.ch/zusammenarbeit                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.altmann-casting.ch/zusammenarbeit                                                        | ✓ | ⏱: 7.60s 
+[FETCH]... ↓ https://www.altmann-casting.ch/prazisionsguss?lang=en                                                | ✓ | ⏱: 7.59s 
+[SCRAPE].. ◆ https://www.altmann-casting.ch/prazisionsguss?lang=en                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.altmann-casting.ch/prazisionsguss?lang=en                                                | ✓ | ⏱: 7.62s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260814/altmann-casting-ag-9054f51e48ee.json

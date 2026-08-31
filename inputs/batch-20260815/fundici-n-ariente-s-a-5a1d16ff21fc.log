@@ -1,0 +1,36 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.cuitonline.com/detalle/30534964893/fundicion-ariente-s-a.html                            | ✓ | ⏱: 2.21s 
+[SCRAPE].. ◆ https://www.cuitonline.com/detalle/30534964893/fundicion-ariente-s-a.html                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.cuitonline.com/detalle/30534964893/fundicion-ariente-s-a.html                            | ✓ | ⏱: 3.03s 
+[FETCH]... ↓ https://infonegocios.info/tarjetero/empresa/fundicion-ariente                                        | ✓ | ⏱: 2.67s 
+[SCRAPE].. ◆ https://infonegocios.info/tarjetero/empresa/fundicion-ariente                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://infonegocios.info/tarjetero/empresa/fundicion-ariente                                        | ✓ | ⏱: 4.27s 
+[FETCH]... ↓ https://fundicionariente.com.ar/                                                                     | ✓ | ⏱: 3.97s 
+[SCRAPE].. ◆ https://fundicionariente.com.ar/                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://fundicionariente.com.ar/                                                                     | ✓ | ⏱: 5.14s 
+[FETCH]... ↓ https://fundicionariente.com/es/empresa                                                              | ✓ | ⏱: 3.94s 
+[SCRAPE].. ◆ https://fundicionariente.com/es/empresa                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://fundicionariente.com/es/empresa                                                              | ✓ | ⏱: 5.97s 
+[FETCH]... ↓ https://www.fundicionariente.com.ar                                                                  | ✓ | ⏱: 3.89s 
+[SCRAPE].. ◆ https://www.fundicionariente.com.ar                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.fundicionariente.com.ar                                                                  | ✓ | ⏱: 5.20s 
+[FETCH]... ↓ https://www.fundicionariente.com.ar/es/contacto                                                      | ✓ | ⏱: 2.76s 
+[SCRAPE].. ◆ https://www.fundicionariente.com.ar/es/contacto                                                      | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.fundicionariente.com.ar/es/contacto                                                      | ✓ | ⏱: 3.98s 
+[FETCH]... ↓ https://www.fundicionariente.com.ar/es/servicios                                                     | ✓ | ⏱: 1.04s 
+[SCRAPE].. ◆ https://www.fundicionariente.com.ar/es/servicios                                                     | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.fundicionariente.com.ar/es/servicios                                                     | ✓ | ⏱: 2.30s 
+[FETCH]... ↓ https://www.fundicionariente.com.ar/es/tomografo-industrial                                          | ✓ | ⏱: 0.68s 
+[SCRAPE].. ◆ https://www.fundicionariente.com.ar/es/tomografo-industrial                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.fundicionariente.com.ar/es/tomografo-industrial                                          | ✓ | ⏱: 1.86s 
+[FETCH]... ↓ https://www.fundicionariente.com.ar/es/produccion                                                    | ✓ | ⏱: 12.18s 
+[SCRAPE].. ◆ https://www.fundicionariente.com.ar/es/produccion                                                    | ✓ | ⏱: 0.32s 
+[COMPLETE] ● https://www.fundicionariente.com.ar/es/produccion                                                    | ✓ | ⏱: 13.74s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://fundicionariente.com.ar/es/contacto                                                          | ✓ | ⏱: 3.05s 
+[SCRAPE].. ◆ https://fundicionariente.com.ar/es/contacto                                                          | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://fundicionariente.com.ar/es/contacto                                                          | ✓ | ⏱: 4.22s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/fundici-n-ariente-s-a-5a1d16ff21fc.json

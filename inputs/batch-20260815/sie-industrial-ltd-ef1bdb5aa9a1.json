@@ -1,0 +1,84 @@
+{
+  "name": "SIE Industrial LTD",
+  "website": "https://sieindustrial.co.uk",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00bfa0b0-2909-47db-b865-297756673c7d",
+  "crm_linkedin_url": "https://www.linkedin.com/company/sie-industrial-ltd/",
+  "crm_country": "英国",
+  "crm_updated_at": "2026-07-28T10:08:33.874591+00:00",
+  "crm_contact_count": 5,
+  "crm_contacts": [
+    {
+      "name": " Gareth Bowen",
+      "email": "gareth@sieindustrial.co.uk",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/gareth-bowen-0471b428",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Michael Brown",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/michael-brown-295374277",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Michael Brown",
+      "email": "michaelbrown@gmail.com",
+      "additional_emails": [
+        "michael@sieindustrial.co.uk"
+      ],
+      "phone": "+44 7801 661309",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/michael-brown-995b0057",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "info@sie-industrial.co.uk",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+44 191 416 5127",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-15T03:23:37.796767+00:00",
+  "source": "twenty_postgresql_read_only"
+}

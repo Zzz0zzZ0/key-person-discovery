@@ -1,0 +1,77 @@
+[
+  {
+    "query": "\"Braskort Abrasivos\" (procurement OR purchasing OR sourcing OR buyer)",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Braskort Abrasivos\" (procurement OR purchasing OR sourcing OR buyer)",
+    "engine": "google cse",
+    "reason": "too many requests"
+  },
+  {
+    "query": "\"Braskort Abrasivos\" (procurement OR purchasing OR sourcing OR buyer)",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Braskort Abrasivos\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Braskort Abrasivos\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "\"Braskort Abrasivos\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:linkedin.com/in \"Braskort Abrasivos\"",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:linkedin.com/in \"Braskort Abrasivos\"",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:linkedin.com/in \"Braskort Abrasivos\"",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Braskort Abrasivos\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Braskort Abrasivos\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:braskort.com.br (team OR management OR contact)",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:braskort.com.br (team OR management OR contact)",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:braskort.com.br filetype:pdf",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:braskort.com.br filetype:pdf",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  }
+]

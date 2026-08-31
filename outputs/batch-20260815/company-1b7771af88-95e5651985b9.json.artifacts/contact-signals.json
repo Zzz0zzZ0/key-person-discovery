@@ -1,0 +1,225 @@
+[
+  {
+    "channel": "email",
+    "value": "01@nzf.com.ua",
+    "status": "observed",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact"
+  },
+  {
+    "channel": "email",
+    "value": "ksv@nzf.com.ua",
+    "status": "observed",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact"
+  },
+  {
+    "channel": "email",
+    "value": "sales@nzf.com.ua",
+    "status": "observed",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact"
+  },
+  {
+    "channel": "email",
+    "value": "salaschenko.snab@nzf.com.ua",
+    "status": "observed",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact"
+  },
+  {
+    "channel": "email",
+    "value": "salaschenko.nzf@gmail.com",
+    "status": "observed",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact"
+  },
+  {
+    "channel": "email",
+    "value": "melnik@nzf.com.ua",
+    "status": "observed",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact"
+  },
+  {
+    "channel": "email",
+    "value": "yudin.snab@nzf.com.ua",
+    "status": "observed",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact"
+  },
+  {
+    "channel": "email",
+    "value": "osit@nzf.com.ua",
+    "status": "observed",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact"
+  },
+  {
+    "channel": "phone",
+    "value": "+380566630829",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380566630802",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380566630803",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380566654236",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380566630812",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380566630804",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380566630805",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380566630808",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380566630807",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380566630806",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380566630810",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380566630809",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380566630813",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380566630815",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380566630816",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380566630814",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380566654400",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380672080276",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380673293544",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380673293546",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/Default.aspx?sect=contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380443541600",
+    "status": "valid_format",
+    "source_url": "https://www.nzf.com.ua/files/content/management/certificate/616763231077%20%D0%9D%D0%86%D0%9A%D0%9E%D0%9F%D0%9E%D0%9B%D0%AC%D0%A1%D0%AC%D0%9A%D0%98%D0%99%20%D0%97%D0%90%D0%92%D0%9E%D0%94%20%D0%A4%D0%95%D0%A0%D0%9E%D0%A1%D0%9F%D0%9B%D0%90%D0%92%D0%86%D0%92%2014%20%D0%B0%D0%BD%D0%B3%D0%BB.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@1gb.ua",
+    "status": "probable",
+    "source_url": "http://nzf.com.ua/",
+    "company_public": true
+  }
+]

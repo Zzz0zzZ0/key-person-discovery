@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://ihbmetalcastings.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://ihbmetalcastings.com/sitemap.xml: HTTP Error 404: Not Found"
+  }
+]

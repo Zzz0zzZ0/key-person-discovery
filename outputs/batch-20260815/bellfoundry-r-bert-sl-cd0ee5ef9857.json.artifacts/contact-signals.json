@@ -1,0 +1,24 @@
+[
+  {
+    "channel": "email",
+    "value": "info@odlievaniezvonov.sk",
+    "status": "observed",
+    "source_url": "https://www.odlievaniezvonov.sk/contact/"
+  },
+  {
+    "channel": "phone",
+    "value": "+421911555339",
+    "status": "valid_format",
+    "source_url": "https://www.odlievaniezvonov.sk/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421903434568",
+    "status": "valid_format",
+    "source_url": "https://www.odlievaniezvonov.sk/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

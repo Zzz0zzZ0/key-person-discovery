@@ -1,0 +1,76 @@
+{
+  "company_name": "Amasuin",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "david@amasuin.com",
+      "status": "observed",
+      "source_url": "https://amasuin.es/etiqueta-producto/andamio-team",
+      "company_public": true
+    },
+    {
+      "channel": "linkedin",
+      "value": "https://www.linkedin.com/in/amasuin",
+      "status": "observed",
+      "source_url": "https://amasuin.es/etiqueta-producto/andamio-team",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+34936435797",
+      "status": "valid_format",
+      "source_url": "https://amasuin.es/etiqueta-producto/andamio-team",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+34678745474",
+      "status": "valid_format",
+      "source_url": "https://amasuin.es/etiqueta-producto/andamio-team",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "validation_rejections": [
+    {
+      "full_name": "David",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 40,
+    "search_engine_warnings": 1,
+    "urls_crawled": 30,
+    "crawl_failures": 8,
+    "contact_signals": 82,
+    "official_urls_discovered": 6,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 5,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 1,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 4,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

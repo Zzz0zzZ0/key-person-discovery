@@ -1,0 +1,8 @@
+[
+  {
+    "query": "http://colorobbia.es",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "http://colorobbia.es/sitemap.xml: HTTP Error 500: Internal Server Error"
+  }
+]

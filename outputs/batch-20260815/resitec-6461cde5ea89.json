@@ -1,0 +1,167 @@
+{
+  "company_name": "ReSiTec",
+  "candidates": [
+    {
+      "full_name": "Monica Moen",
+      "current_title": "Production Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 4,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "monica.moen@resitec.no",
+          "status": "observed",
+          "source_url": "https://www.resitec.no/about-resitec/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+4747638404",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.resitec.no/about-resitec/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.resitec.no/about-resitec/",
+          "quote": "Monica Moen, Production Manager, Tel: +47 476 38 404, Email: monica.moen@resitec.no",
+          "supports": "Production Manager, current role at ReSiTec AS"
+        },
+        {
+          "source_url": "https://www.resitec.no/contact/",
+          "quote": "Monica Moen, Production Manager, monica.moen at resitec.no, +47 476 38 404",
+          "supports": "Production Manager listed on official contact page"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Sjur Velken",
+      "current_title": "Senior R&D Engineer",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 4,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "sjur.velken@resitec.no",
+          "status": "observed",
+          "source_url": "https://www.resitec.no/about-resitec/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+4791125012",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.resitec.no/about-resitec/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.resitec.no/about-resitec/",
+          "quote": "Sjur Velken, Senior R&D Engineer, Tel: +47 911 25 012, Email: sjur.velken@resitec.no",
+          "supports": "Senior R&D Engineer, current role at ReSiTec AS"
+        },
+        {
+          "source_url": "https://www.resitec.no/contact/",
+          "quote": "Sjur Velken, Senior R&D Specialist, sjur.velken at resitec.no, +47 911 25 012",
+          "supports": "Senior R&D Specialist listed on official contact page"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "post@resitec.no",
+      "status": "observed",
+      "source_url": "https://www.resitec.no/2018/04/25/vil-du-vaere-en-del-av-teamet-i-resitec/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "mads.heintz@resitec.no",
+      "status": "observed",
+      "source_url": "https://www.resitec.no/about-resitec/",
+      "company_public": true
+    },
+    {
+      "channel": "linkedin",
+      "value": "https://www.linkedin.com/in/mads-christensen-heintz-500b87142/",
+      "status": "observed",
+      "source_url": "https://www.resitec.no/about-resitec/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+4745414332",
+      "status": "valid_format",
+      "source_url": "https://www.resitec.no/about-resitec/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+4745411415",
+      "status": "valid_format",
+      "source_url": "https://www.resitec.no/contact/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Knut Mørk",
+      "matched_by": [
+        "email",
+        "name"
+      ]
+    },
+    {
+      "kind": "candidate",
+      "full_name": "Thore J. Sørensen",
+      "matched_by": [
+        "email",
+        "linkedin"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 2,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 40,
+    "search_engine_warnings": 0,
+    "urls_crawled": 18,
+    "crawl_failures": 2,
+    "contact_signals": 41,
+    "official_urls_discovered": 8,
+    "pdf_documents_discovered": 4,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 3,
+    "pdf_pages_extracted": 12,
+    "pdf_failures": 0,
+    "search_evidence_pages": 5,
+    "contact_evidence_pages": 3,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 2,
+    "target_contactable_items": 4,
+    "contactable_items": 7,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

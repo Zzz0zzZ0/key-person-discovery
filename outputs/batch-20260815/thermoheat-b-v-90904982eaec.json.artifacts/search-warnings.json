@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://www.thermoheat.nl",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.thermoheat.nl/sitemap.xml: HTTP Error 404: Not Found"
+  }
+]

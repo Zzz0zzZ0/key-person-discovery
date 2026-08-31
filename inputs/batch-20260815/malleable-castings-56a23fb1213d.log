@@ -1,0 +1,45 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://castingssa.com/malleable-castings-boosts...es-with-new-automation-and-additional-equipment/  | ✓ | ⏱: 7.06s 
+[SCRAPE].. ◆ https://castingssa.com/malleable-castings-boosts...es-with-new-automation-and-additional-equipment/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://castingssa.com/malleable-castings-boosts...es-with-new-automation-and-additional-equipment/  | ✓ | ⏱: 8.97s 
+[FETCH]... ↓ https://malleable.co.za/contact-us                                                                   | ✓ | ⏱: 35.10s 
+[SCRAPE].. ◆ https://malleable.co.za/contact-us                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://malleable.co.za/contact-us                                                                   | ✓ | ⏱: 37.13s 
+[FETCH]... ↓ https://malleable.co.za                                                                              | ✓ | ⏱: 35.39s 
+[SCRAPE].. ◆ https://malleable.co.za                                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://malleable.co.za                                                                              | ✓ | ⏱: 37.41s 
+[FETCH]... ↓ https://malleable.co.za/about-us/                                                                    | ✓ | ⏱: 35.13s 
+[SCRAPE].. ◆ https://malleable.co.za/about-us/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://malleable.co.za/about-us/                                                                    | ✓ | ⏱: 37.16s 
+[FETCH]... ↓ https://malleable.co.za/specifications/                                                              | ✓ | ⏱: 12.36s 
+[SCRAPE].. ◆ https://malleable.co.za/specifications/                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://malleable.co.za/specifications/                                                              | ✓ | ⏱: 14.38s 
+[FETCH]... ↓ https://malleable.co.za/product-portfolio/                                                           | ✓ | ⏱: 13.55s 
+[SCRAPE].. ◆ https://malleable.co.za/product-portfolio/                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://malleable.co.za/product-portfolio/                                                           | ✓ | ⏱: 15.57s 
+[FETCH]... ↓ https://malleable.co.za/services                                                                     | ✓ | ⏱: 13.33s 
+[SCRAPE].. ◆ https://malleable.co.za/services                                                                     | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://malleable.co.za/services                                                                     | ✓ | ⏱: 15.35s 
+[FETCH]... ↓ https://malleable.co.za/mining                                                                       | ✓ | ⏱: 42.46s 
+[SCRAPE].. ◆ https://malleable.co.za/mining                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://malleable.co.za/mining                                                                       | ✓ | ⏱: 44.48s 
+[FETCH]... ↓ https://malleable.co.za/takclamp/                                                                    | ✓ | ⏱: 2.28s 
+[SCRAPE].. ◆ https://malleable.co.za/takclamp/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://malleable.co.za/takclamp/                                                                    | ✓ | ⏱: 4.14s 
+[FETCH]... ↓ https://www.indiabiz.info/en/bangalore-malleable-castings-private_4e                                 | ✓ | ⏱: 2.41s 
+[SCRAPE].. ◆ https://www.indiabiz.info/en/bangalore-malleable-castings-private_4e                                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.indiabiz.in...ble-castings-private_4e  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (3634 bytes) 
+[COMPLETE] ● https://www.indiabiz.info/en/bangalore-malleable-castings-private_4e                                 | ✗ | ⏱: 3.47s 
+[FETCH]... ↓ https://mycorporateinfo.com/business/bangalore-malleable-castings-private-limited                    | ✓ | ⏱: 3.25s 
+[SCRAPE].. ◆ https://mycorporateinfo.com/business/bangalore-malleable-castings-private-limited                    | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://mycorporateinfo.com/business/bangalore-malleable-castings-private-limited                    | ✓ | ⏱: 5.28s 
+[FETCH]... ↓ https://www.tofler.in/shah-malleable-castings-limited/company/U74999MH1963PLC012663                  | ✓ | ⏱: 4.65s 
+[SCRAPE].. ◆ https://www.tofler.in/shah-malleable-castings-limited/company/U74999MH1963PLC012663                  | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.tofler.in/shah-malleable-castings-limited/company/U74999MH1963PLC012663                  | ✓ | ⏱: 5.86s 
+[FETCH]... ↓ https://metalworkingnews.info/50th-anniversary-highlights-malleable-castings-progress-achievements/  | ✓ | ⏱: 7.64s 
+[SCRAPE].. ◆ https://metalworkingnews.info/50th-anniversary-highlights-malleable-castings-progress-achievements/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://metalworkingnews.info/50th-anniversary-highlights-malleable-castings-progress-achievements/  | ✓ | ⏱: 9.33s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/malleable-castings-56a23fb1213d.json

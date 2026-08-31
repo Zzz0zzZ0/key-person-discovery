@@ -1,0 +1,361 @@
+{
+  "company_name": "Grinding Techniques (Pty) Ltd",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info@grindtech.com",
+      "status": "observed",
+      "source_url": "http://www.grindtech.com/shop/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "hr@grindtech.com",
+      "status": "observed",
+      "source_url": "http://www.grindtech.com/shop/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+27112716400",
+      "status": "valid_format",
+      "source_url": "http://www.grindtech.com/shop/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+27123330977",
+      "status": "valid_format",
+      "source_url": "http://www.grindtech.com/shop/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+27317012882",
+      "status": "valid_format",
+      "source_url": "http://www.grindtech.com/shop/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+27414845128",
+      "status": "valid_format",
+      "source_url": "http://www.grindtech.com/shop/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+27215526840",
+      "status": "valid_format",
+      "source_url": "http://www.grindtech.com/shop/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "pta@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com/contact-us/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "dbn@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com/contact-us/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "pe@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com/contact-us/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "ct@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com/contact-us/",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Unknown Process Engineer",
+      "current_title": "Process Engineer",
+      "company_match": "uncertain",
+      "influence_type": "technical_influencer",
+      "influence_score": 0,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.grindtech.com/careers/",
+          "quote": "Process Engineer - listed as current vacancy on Grinding Techniques careers page",
+          "supports": "job_posting_current_vacancy"
+        }
+      ],
+      "confidence": 0.15,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Unknown Regional Sales Manager KZN",
+      "current_title": "Regional Sales Manager KZN",
+      "company_match": "uncertain",
+      "influence_type": "decision_maker",
+      "influence_score": 0,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.grindtech.com/careers/",
+          "quote": "REGIONAL SALES MANAGER – KZN - listed as vacancy on Grinding Techniques careers page",
+          "supports": "job_posting_current_vacancy"
+        }
+      ],
+      "confidence": 0.15,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Unknown Technical Sales Representative East Rand",
+      "current_title": "Technical Sales Representative East Rand",
+      "company_match": "uncertain",
+      "influence_type": "decision_maker",
+      "influence_score": 0,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.grindtech.com/careers/",
+          "quote": "Technical Sales Representative EAST RAND - listed as vacancy on Grinding Techniques careers page",
+          "supports": "job_posting_current_vacancy"
+        }
+      ],
+      "confidence": 0.15,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Unknown Technical Sales Representative West Rand",
+      "current_title": "Technical Sales Representative West Rand",
+      "company_match": "uncertain",
+      "influence_type": "decision_maker",
+      "influence_score": 0,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.grindtech.com/careers/",
+          "quote": "Technical Sales Representative West Rand - listed as vacancy on Grinding Techniques careers page",
+          "supports": "job_posting_current_vacancy"
+        }
+      ],
+      "confidence": 0.15,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Unknown Internal Sales Correspondent Cape Town",
+      "current_title": "Internal Sales Correspondent Cape Town",
+      "company_match": "uncertain",
+      "influence_type": "decision_maker",
+      "influence_score": 0,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.grindtech.com/careers/",
+          "quote": "INTERNAL SALES CORRESPONDENT – CAPE TOWN - listed as vacancy on Grinding Techniques careers page",
+          "supports": "job_posting_current_vacancy"
+        }
+      ],
+      "confidence": 0.15,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Stefan Meyer",
+      "current_title": "Management accountability in all Financial, Sales and Production activities",
+      "company_match": "probable",
+      "discovery_tier": "probable_current",
+      "influence_type": "technical_influencer",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/stefan-meyer-1957b822b",
+          "status": "probable",
+          "source_url": "https://za.linkedin.com/in/stefan-meyer-1957b822b"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://za.linkedin.com/in/stefan-meyer-1957b822b",
+          "quote": "Stefan Meyer - Managing Director at Grinding Techniques ... - LinkedIn Email or phone. Password. Show. Forgot ... Management accountability in all Financial, Sales and Production activities for Grinding Techniques (PTY) Ltd.",
+          "supports": "Search excerpt names the person, exact target company, and a target role; current employment and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true,
+      "validation_reasons": [
+        "search summary requires independent current-employment verification",
+        "contact ownership is not verified"
+      ]
+    }
+  ],
+  "validation_rejections": [
+    {
+      "full_name": "Mark Francisco",
+      "reasons": [
+        "current employment at the target company is not verified",
+        "evidence URL was not fetched",
+        "linkedin source URL was not fetched"
+      ]
+    },
+    {
+      "full_name": "Stefan Meyer",
+      "reasons": [
+        "current employment at the target company is not verified",
+        "evidence URL was not fetched",
+        "linkedin source URL was not fetched"
+      ]
+    },
+    {
+      "full_name": "Kevin Hodgkinson",
+      "reasons": [
+        "current employment at the target company is not verified",
+        "evidence URL was not fetched",
+        "linkedin source URL was not fetched"
+      ]
+    },
+    {
+      "full_name": "DJC Richardson",
+      "reasons": [
+        "current employment at the target company is not verified",
+        "evidence URL was not fetched",
+        "linkedin source URL was not fetched"
+      ]
+    },
+    {
+      "full_name": "Raymond Hutton",
+      "reasons": [
+        "current employment at the target company is not verified",
+        "evidence URL was not fetched",
+        "linkedin source URL was not fetched"
+      ]
+    },
+    {
+      "full_name": "Ryan King",
+      "reasons": [
+        "current employment at the target company is not verified",
+        "evidence URL was not fetched",
+        "linkedin source URL was not fetched"
+      ]
+    },
+    {
+      "full_name": "Unknown Process Engineer",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Unknown Regional Sales Manager KZN",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Unknown Technical Sales Representative East Rand",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Unknown Technical Sales Representative West Rand",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Unknown Internal Sales Correspondent Cape Town",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 76,
+    "search_engine_warnings": 16,
+    "urls_crawled": 9,
+    "crawl_failures": 0,
+    "contact_signals": 55,
+    "official_urls_discovered": 20,
+    "crm_website": "https://www.grindtech.com",
+    "official_website": "https://www.grindtech.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 1,
+    "pdf_documents_processed": 1,
+    "pdf_documents_extracted": 1,
+    "pdf_pages_extracted": 12,
+    "pdf_failures": 0,
+    "search_evidence_pages": 7,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 11,
+    "unverified_candidates": 6,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 50,
+    "contactable_items": 11,
+    "contact_target_met": false,
+    "broad_discovery": true,
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

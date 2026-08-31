@@ -1,0 +1,35 @@
+{
+  "name": "JSJ Jodeit GmbH",
+  "website": "https://apps.glassglobal.com/profile/documents3274.html",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00021ac1-6c21-41d1-bfd8-b5115da5b029",
+  "crm_linkedin_url": "http://www.linkedin.com/company/jsj-jodeit-gmbh",
+  "crm_country": "德国",
+  "crm_updated_at": "2026-07-28T10:07:53.739771+00:00",
+  "crm_contact_count": 8,
+  "target_contact_count": 0,
+  "fetched_at": "2026-08-14T08:21:19.314590+00:00",
+  "source": "twenty_postgresql_read_only"
+}

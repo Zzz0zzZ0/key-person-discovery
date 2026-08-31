@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://iac.ee",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://iac.ee/sitemap.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'iac.ee'. (_ssl.c:1016)>"
+  }
+]

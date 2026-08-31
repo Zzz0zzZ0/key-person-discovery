@@ -1,0 +1,119 @@
+{
+  "company_name": "CSN",
+  "candidates": [
+    {
+      "full_name": "Antonio Marco Campos Rabello",
+      "current_title": "CFO and IR Executive Director",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 75,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "invrel@csn.com.br",
+          "status": "observed",
+          "source_url": "https://ri.csn.com.br/en/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+551130497585",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://ri.csn.com.br/en/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://ri.csn.com.br/en/",
+          "quote": "CFO and IR Executive Director  Antonio Marco Campos Rabello",
+          "supports": "Verified current executive at CSN with financial oversight and investor relations responsibility"
+        }
+      ],
+      "confidence": 0.45,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "kongcsnmining@csn.hkphone",
+      "status": "observed",
+      "source_url": "https://www.csn.com.br/en/customers/"
+    },
+    {
+      "channel": "email",
+      "value": "info@csnmining.pt",
+      "status": "observed",
+      "source_url": "https://www.csn.com.br/en/customers/"
+    },
+    {
+      "channel": "email",
+      "value": "comercial@csnmining.pt",
+      "status": "observed",
+      "source_url": "https://www.csn.com.br/en/customers/"
+    },
+    {
+      "channel": "email",
+      "value": "alexandre.l@csn.com.br",
+      "status": "observed",
+      "source_url": "https://www.csn.com.br/en/customers/"
+    },
+    {
+      "channel": "phone",
+      "value": "+551130497203",
+      "status": "valid_format",
+      "source_url": "https://www.csn.com.br/en/customers/",
+      "whatsapp_status": "unknown"
+    },
+    {
+      "channel": "phone",
+      "value": "+552433445096",
+      "status": "valid_format",
+      "source_url": "https://www.csn.com.br/en/customers/",
+      "whatsapp_status": "unknown"
+    },
+    {
+      "channel": "phone",
+      "value": "+85222363400",
+      "status": "valid_format",
+      "source_url": "https://www.csn.com.br/en/customers/",
+      "whatsapp_status": "unknown"
+    },
+    {
+      "channel": "phone",
+      "value": "+553137491652",
+      "status": "valid_format",
+      "source_url": "https://www.csn.com.br/en/customers/",
+      "whatsapp_status": "unknown"
+    },
+    {
+      "channel": "email",
+      "value": "sactecon@sepetibatecon.com.br",
+      "status": "observed",
+      "source_url": "https://www.csn.com.br/en/about-us/csn-group/sepetiba-tecon/"
+    }
+  ],
+  "review_required": true,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 30,
+    "search_engine_warnings": 21,
+    "urls_crawled": 20,
+    "crawl_failures": 1,
+    "contact_signals": 29,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

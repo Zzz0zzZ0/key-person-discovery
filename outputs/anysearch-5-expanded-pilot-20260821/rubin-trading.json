@@ -1,0 +1,442 @@
+{
+  "company_name": "Rubin Trading AD",
+  "candidates": [
+    {
+      "full_name": "Elena Gigova",
+      "current_title": "Sales Coordinator",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+359879540686",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://rubin-glass.eu/elena-gigova/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://rubin-glass.eu/elena-gigova/",
+          "quote": "Elena is a Sales Coordinator at RUBIN GLASS FACTORY with over three years of experience, playing a key role in coordinating all stages of customer order processing.",
+          "supports": "current role at Rubin Trading AD / Rubin Glass Factory; coordinates order processing and serves as main point of contact between sales team, clients, and internal departments"
+        }
+      ],
+      "confidence": 0.92,
+      "review_required": true,
+      "discovery_tier": "verified_current",
+      "crm_existing_match": [
+        "email",
+        "name"
+      ]
+    },
+    {
+      "full_name": "Plamen Baykov",
+      "current_title": "Sales Director",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "p.baykov@rubin-glass.bg",
+          "status": "observed",
+          "source_url": "https://rubin-glass.eu/elena-gigova/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+359876700336",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://rubin-glass.eu/elena-gigova/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://rubin-glass.eu/elena-gigova/",
+          "quote": "Plamen Baykov, Sales Director, Rubin Glass Factory, p.baykov@rubin-glass.bg",
+          "supports": "current title as Sales Director at Rubin Glass Factory; listed on Elena Gigova's page alongside other Rubin employees"
+        }
+      ],
+      "confidence": 0.88,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    },
+    {
+      "full_name": "Lyudmila Tsekova",
+      "current_title": "Key Account Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+359879540690",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://rubin-glass.eu/elena-gigova/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://rubin-glass.eu/elena-gigova/",
+          "quote": "Lyudmila Tsekova, Key Account Manager, Rubin Glass Factory, regions Italy, the UK, Germany, Poland, Hungary, Israel, and Turkey",
+          "supports": "current role at Rubin Glass Factory; manages key accounts including Italy, a target market for Aceler"
+        }
+      ],
+      "confidence": 0.88,
+      "review_required": true,
+      "discovery_tier": "verified_current",
+      "crm_existing_match": [
+        "email",
+        "name"
+      ]
+    },
+    {
+      "full_name": "Aleksandra Atanasova",
+      "current_title": "Key Account Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+359879540741",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://rubin-glass.eu/elena-gigova/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://rubin-glass.eu/elena-gigova/",
+          "quote": "Aleksandra Atanasova, Key Account Manager, Rubin Glass Factory, region Italy",
+          "supports": "current role at Rubin Glass Factory; manages Italy account, a primary Aceler target market"
+        }
+      ],
+      "confidence": 0.88,
+      "review_required": true,
+      "discovery_tier": "verified_current",
+      "crm_existing_match": [
+        "email",
+        "name"
+      ]
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+359875308166",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu/careers/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+359875308169",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu/careers/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+359878743903",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu/careers/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+359875308162",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu/careers/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "c.custura@rubin-glass.bg",
+      "status": "observed",
+      "source_url": "https://rubin-glass.eu/elena-gigova/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "i.ilieva@rubin-glass.bg",
+      "status": "observed",
+      "source_url": "https://rubin-glass.eu/elena-gigova/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "a.tonchev@rubin-glass.bg",
+      "status": "observed",
+      "source_url": "https://rubin-glass.eu/elena-gigova/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+359879013746",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu/elena-gigova/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+359879540730",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu/elena-gigova/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+359879540794",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu/elena-gigova/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+359887074656",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu/elena-gigova/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+359878746932",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu/elena-gigova/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+359889470511",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu/elena-gigova/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "moulddesign@rubin-glass.bg",
+      "status": "observed",
+      "source_url": "https://rubin-glass.eu/wp-content/uploads/rubin-TD/1294003TD.pdf",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    }
+  ],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Vladimir Valev",
+      "current_title": "Technical Director",
+      "company_match": "probable",
+      "discovery_tier": "probable_current",
+      "influence_type": "technical_influencer",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/vladimir-valev-29b915114",
+          "status": "probable",
+          "source_url": "https://bg.linkedin.com/in/vladimir-valev-29b915114"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://bg.linkedin.com/in/vladimir-valev-29b915114",
+          "quote": "Vladimir Valev - Maintenance Specialist - DETELINA NUTS... | LinkedIn Technical Director at RUBIN TRADING AD.",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true,
+      "validation_reasons": [
+        "search summary requires independent current-employment verification",
+        "contact ownership is not verified"
+      ]
+    },
+    {
+      "full_name": "Ivan Ivanov",
+      "current_title": "Other similar profiles. Krastyo Karamanski. Technical Director",
+      "company_match": "probable",
+      "discovery_tier": "probable_current",
+      "influence_type": "technical_influencer",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/ivan-ivanov-976848103",
+          "status": "probable",
+          "source_url": "https://bg.linkedin.com/in/ivan-ivanov-976848103"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://bg.linkedin.com/in/ivan-ivanov-976848103",
+          "quote": "Ivan Ivanov - Mechanical Maintenance Engineer - Lufthansa... | LinkedIn Other similar profiles. Krastyo Karamanski. Technical Director at RUBIN TRADING AD.",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true,
+      "validation_reasons": [
+        "search summary requires independent current-employment verification",
+        "contact ownership is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Elena Gigova",
+      "matched_by": [
+        "email",
+        "name"
+      ]
+    },
+    {
+      "kind": "candidate",
+      "full_name": "Lyudmila Tsekova",
+      "matched_by": [
+        "email",
+        "name"
+      ]
+    },
+    {
+      "kind": "candidate",
+      "full_name": "Aleksandra Atanasova",
+      "matched_by": [
+        "email",
+        "name"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 9,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 7,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 72,
+    "search_engine_warnings": 11,
+    "urls_crawled": 11,
+    "crawl_failures": 0,
+    "contact_signals": 48,
+    "official_urls_discovered": 5,
+    "crm_website": "https://rubin-glass.eu",
+    "official_website": "https://rubin-glass.eu",
+    "website_recovered": false,
+    "pdf_documents_discovered": 6,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 1,
+    "pdf_pages_extracted": 1,
+    "pdf_failures": 2,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 2,
+    "crm_contact_count": 14,
+    "crm_duplicates_removed": 9,
+    "target_contactable_items": 1,
+    "contactable_items": 20,
+    "target_contact_methods": 1,
+    "contact_methods": 21,
+    "contact_target_met": true,
+    "broad_discovery": true,
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

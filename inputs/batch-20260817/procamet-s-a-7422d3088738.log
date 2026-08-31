@@ -1,0 +1,55 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rocketreach.co/procamet-sa-management_b709d3d7c4c2a9fd                                       | ✓ | ⏱: 2.91s 
+[SCRAPE].. ◆ https://rocketreach.co/procamet-sa-management_b709d3d7c4c2a9fd                                       | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...gement_b709d3d7c4c2a9fd  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/procamet-sa-management_b709d3d7c4c2a9fd                                       | ✗ | ⏱: 2.92s 
+[FETCH]... ↓ https://20976-ar.all.biz/                                                                            | ✓ | ⏱: 4.31s 
+[SCRAPE].. ◆ https://20976-ar.all.biz/                                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://20976-ar.all.biz/                                                                            | ✓ | ⏱: 5.65s 
+[FETCH]... ↓ https://www.emis.com/php/company-profile/AR/Procamet_SA_en_13836709.html                             | ✓ | ⏱: 3.65s 
+[SCRAPE].. ◆ https://www.emis.com/php/company-profile/AR/Procamet_SA_en_13836709.html                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.emis.com/php/company-profile/AR/Procamet_SA_en_13836709.html                             | ✓ | ⏱: 3.67s 
+[FETCH]... ↓ https://b2brazil.com/hotsite/procamet/products                                                       | ✓ | ⏱: 6.77s 
+[SCRAPE].. ◆ https://b2brazil.com/hotsite/procamet/products                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://b2brazil.com/hotsite/procamet/products                                                       | ✓ | ⏱: 7.60s 
+[FETCH]... ↓ https://participacionpublica.ambiente.gba.gob.ar/participacion/resumen/PROCAMET-SA                   | ✓ | ⏱: 6.77s 
+[SCRAPE].. ◆ https://participacionpublica.ambiente.gba.gob.ar/participacion/resumen/PROCAMET-SA                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://participacionpublica.ambiente.gba.gob.ar/participacion/resumen/PROCAMET-SA                   | ✓ | ⏱: 8.80s 
+[FETCH]... ↓ https://www.procamet.com/en/                                                                         | ✓ | ⏱: 2.68s 
+[SCRAPE].. ◆ https://www.procamet.com/en/                                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.procamet.com/en/                                                                         | ✓ | ⏱: 4.33s 
+[FETCH]... ↓ https://www.procamet.com                                                                             | ✓ | ⏱: 4.17s 
+[SCRAPE].. ◆ https://www.procamet.com                                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.procamet.com                                                                             | ✓ | ⏱: 6.18s 
+[FETCH]... ↓ https://www.procamet.com/en/about-us/                                                                | ✓ | ⏱: 1.70s 
+[SCRAPE].. ◆ https://www.procamet.com/en/about-us/                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.procamet.com/en/about-us/                                                                | ✓ | ⏱: 3.61s 
+[FETCH]... ↓ https://www.procamet.com/contacto/                                                                   | ✓ | ⏱: 3.60s 
+[SCRAPE].. ◆ https://www.procamet.com/contacto/                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.procamet.com/contacto/                                                                   | ✓ | ⏱: 5.23s 
+[FETCH]... ↓ https://www.procamet.com/en/our-products/                                                            | ✓ | ⏱: 2.16s 
+[SCRAPE].. ◆ https://www.procamet.com/en/our-products/                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.procamet.com/en/our-products/                                                            | ✓ | ⏱: 2.18s 
+[FETCH]... ↓ https://www.procamet.com/en/contact-us/                                                              | ✓ | ⏱: 2.53s 
+[SCRAPE].. ◆ https://www.procamet.com/en/contact-us/                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.procamet.com/en/contact-us/                                                              | ✓ | ⏱: 2.54s 
+[FETCH]... ↓ https://www.procamet.com/pt/a-empresa/                                                               | ✓ | ⏱: 2.55s 
+[SCRAPE].. ◆ https://www.procamet.com/pt/a-empresa/                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.procamet.com/pt/a-empresa/                                                               | ✓ | ⏱: 2.57s 
+[FETCH]... ↓ https://www.procamet.com/la-empresa/                                                                 | ✓ | ⏱: 2.50s 
+[SCRAPE].. ◆ https://www.procamet.com/la-empresa/                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.procamet.com/la-empresa/                                                                 | ✓ | ⏱: 2.51s 
+[FETCH]... ↓ https://www.procamet.com/pt/contato/                                                                 | ✓ | ⏱: 2.05s 
+[SCRAPE].. ◆ https://www.procamet.com/pt/contato/                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.procamet.com/pt/contato/                                                                 | ✓ | ⏱: 2.06s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rocketreach.co/procamet-sa-management_b709d3d7c4c2a9fd                                       | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://rocketreach.co/procamet-sa-management_b709d3d7c4c2a9fd                                       | ✓ | ⏱: 0.04s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://www.procamet.com/contacto/                                                                    | ✓ | ⏱: 4.30s 
+[SCRAPE].. ◆ http://www.procamet.com/contacto/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://www.procamet.com/contacto/                                                                    | ✓ | ⏱: 4.32s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260817/procamet-s-a-7422d3088738.json

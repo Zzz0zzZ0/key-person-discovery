@@ -1,0 +1,73 @@
+{
+  "name": "Ceram Austria GmbH",
+  "website": "https://www.ceram-austria.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00c30c07-ee1c-4370-8dec-6d47fae3679e",
+  "crm_linkedin_url": "http://www.linkedin.com/company/porzellanfabrik-frauenthal-gmbh",
+  "crm_country": "奥地利",
+  "crm_updated_at": "2026-07-29T05:05:59.832236+00:00",
+  "crm_contact_count": 4,
+  "crm_contacts": [
+    {
+      "name": " John Cochran",
+      "email": "cochran.john1@gmail.com",
+      "additional_emails": [],
+      "phone": "+1 702-498-0965, +1 913-205-5615",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/john-cochran-95834210",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Jacqueline Lagler",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/jacqueline-lagler-a57577182",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Christian Koegl",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/christian-k%c3%b6gl-234a16b2",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+43 3462 20000",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-15T03:24:36.013503+00:00",
+  "source": "twenty_postgresql_read_only"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "query": "https://www.thorabrasivos.com.br",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://thorabrasivos.com.br/wp-mates.php?h=2026012408: no element found: line 1, column 0"
+  },
+  {
+    "query": "https://www.thorabrasivos.com.br",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://thorabrasivos.com.br/wp-mates.php?h=2026021210: no element found: line 1, column 0"
+  },
+  {
+    "query": "https://www.thorabrasivos.com.br",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://thorabrasivos.com.br/wp-mates.php?h=2026021211: no element found: line 1, column 0"
+  },
+  {
+    "query": "https://www.thorabrasivos.com.br",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://thorabrasivos.com.br/wp-mates.php?h=2026021212: no element found: line 1, column 0"
+  }
+]

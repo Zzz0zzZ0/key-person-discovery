@@ -1,0 +1,101 @@
+{
+  "company_name": "RW Schleiftechnik GmbH",
+  "candidates": [
+    {
+      "full_name": "Wolfgang Riedl",
+      "current_title": "Geschäftsführer (Managing Director)",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "info@rwschleiftechnik.de",
+          "status": "observed",
+          "source_url": "https://www.rwschleiftechnik.de/18841.html"
+        }
+      ],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.rwschleiftechnik.de/18841.html",
+          "quote": "Geschäftsführer: Dipl.-Ing.(FH) Wolfgang Riedl",
+          "supports": "Managing Director named on company impressum"
+        }
+      ],
+      "confidence": 0.9,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+499234980970",
+      "status": "valid_format",
+      "source_url": "https://rwschleiftechnik.de/21889.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+499234980971",
+      "status": "valid_format",
+      "source_url": "https://rwschleiftechnik.de/21889.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 37,
+    "search_engine_warnings": 5,
+    "urls_crawled": 9,
+    "crawl_failures": 0,
+    "contact_signals": 7,
+    "official_urls_discovered": 1,
+    "crm_website": "https://rwschleiftechnik.de",
+    "official_website": "https://rwschleiftechnik.de",
+    "website_recovered": false,
+    "pdf_documents_discovered": 5,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 31,
+    "pdf_failures": 1,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 3,
+    "target_contact_methods": 4,
+    "contact_methods": 3,
+    "contact_target_met": false,
+    "broad_discovery": false,
+    "topeasy_import": {},
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

@@ -1,0 +1,29 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://ecoacero.wixsite.com/ecoacero/sobre-nosotros                                                 | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://ecoacero.wixsite.com/ecoacero/sobre-nosotros                                                 | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://estrella.com.do/empresas/ecoacero/                                                           | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://estrella.com.do/empresas/ecoacero/                                                           | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://ecoacero.com/                                                                                | ✓ | ⏱: 3.60s 
+[SCRAPE].. ◆ https://ecoacero.com/                                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ecoacero.com/                                                                                | ✓ | ⏱: 3.64s 
+[FETCH]... ↓ https://www.sms-group.com/en-us/press-and-media/...for-its-new-rebar-mill-in-the-dominican-republic  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sms-group.com/en-us/press-and-media/...for-its-new-rebar-mill-in-the-dominican-republic  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.sms-group.com/es-es/press-and-media/...for-its-new-rebar-mill-in-the-dominican-republic  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.sms-group.com/es-es/press-and-media/...for-its-new-rebar-mill-in-the-dominican-republic  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.recyclingtoday.com/news/ecoacero-est...teel-rebar-mill-dominican-republic-sms-recycling  | ✓ | ⏱: 4.42s 
+[SCRAPE].. ◆ https://www.recyclingtoday.com/news/ecoacero-est...teel-rebar-mill-dominican-republic-sms-recycling  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.recyclingtoday.com/news/ecoacero-est...teel-rebar-mill-dominican-republic-sms-recycling  | ✓ | ⏱: 5.14s 
+[FETCH]... ↓ https://aceroestrella.com.do                                                                         | ✓ | ⏱: 4.42s 
+[SCRAPE].. ◆ https://aceroestrella.com.do                                                                         | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://aceroestrella.com.do                                                                         | ✓ | ⏱: 5.57s 
+[FETCH]... ↓ https://rdteve.com/nacionales/economia-nacionales/inauguracion-ecoacero-san-pedro-de-macoris/        | ✓ | ⏱: 3.54s 
+[SCRAPE].. ◆ https://rdteve.com/nacionales/economia-nacionales/inauguracion-ecoacero-san-pedro-de-macoris/        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://rdteve.com/nacionales/economia-nacionales/inauguracion-ecoacero-san-pedro-de-macoris/        | ✓ | ⏱: 5.56s 
+[FETCH]... ↓ https://www.wire-tradefair.com/en/Media_News/New...n_in_Central_America_SMS_group_builds_rebar_mill  | ✓ | ⏱: 5.54s 
+[SCRAPE].. ◆ https://www.wire-tradefair.com/en/Media_News/New...n_in_Central_America_SMS_group_builds_rebar_mill  | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.wire-tradefair.com/en/Media_News/New...n_in_Central_America_SMS_group_builds_rebar_mill  | ✓ | ⏱: 7.25s 
+[INIT].... → Crawl4AI 0.9.2 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260817/ecoacero-grupo-estrella-d8d9ab39efb4.json

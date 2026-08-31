@@ -1,0 +1,93 @@
+{
+  "company_name": "Cordial Resources Enterprise",
+  "candidates": [
+    {
+      "full_name": "CK Toh",
+      "current_title": "Manager / Chief Executive Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 5,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.cordialcastings.com.my/our-capabilities/insights/why-work-with-cordial-resources-enterprise",
+          "quote": "My name is CK Toh. When you talk to me, you're not dealing with an outsourced sales rep—you're working with someone who is part of the manufacturing operation. I represent the foundry directly.",
+          "supports": "CK Toh is the named representative of Cordial Resources Enterprise, stating he represents the foundry directly."
+        },
+        {
+          "source_url": "https://www.exporthub.com/cordial-resources-enterprise-6641021/profile.html",
+          "quote": "Contact Person: CK TOH | Designation: Manager | Chief Executive Officer: CK TOH",
+          "supports": "ExportHub profile lists CK TOH as both Manager and CEO of Cordial Resources Enterprise."
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "contactus@exporthub.com",
+      "status": "observed",
+      "source_url": "https://www.exporthub.com/cordial-resources-enterprise-6641021/contact-us.html",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+12143067737",
+      "status": "valid_format",
+      "source_url": "https://www.exporthub.com/cordial-resources-enterprise-6641021/contact-us.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sales@cordialcastings.com.my",
+      "status": "observed",
+      "source_url": "https://www.facebook.com/p/Cordial-Resources-Enterprise-61574746328857",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+601120709882",
+      "status": "valid_format",
+      "source_url": "https://www.facebook.com/p/Cordial-Resources-Enterprise-61574746328857",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 37,
+    "search_engine_warnings": 1,
+    "urls_crawled": 18,
+    "crawl_failures": 4,
+    "contact_signals": 8,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 4,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

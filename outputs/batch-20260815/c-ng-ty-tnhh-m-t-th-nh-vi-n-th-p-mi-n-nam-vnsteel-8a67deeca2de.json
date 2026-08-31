@@ -1,0 +1,112 @@
+{
+  "company_name": "Công ty TNHH Một Thành Viên Thép Miền Nam - VNSTEEL",
+  "candidates": [
+    {
+      "full_name": "Hồ Văn Ích Em",
+      "current_title": "Trưởng phòng KTĐT (Trưởng phòng Kỹ thuật Đầu tư)",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 4,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://baodauthau.vn/cong-ty-tnhh-mot-thanh-vien-thep-mien-nam-vnsteel-thong-bao-post158898.html",
+          "quote": "Người liên hệ: Hồ Văn Ích Em - Trưởng phòng KTĐT. Điện thoại: 0913.858.349.",
+          "supports": "Public procurement notice explicitly names Hồ Văn Ích Em as contact and procurement department head with direct phone"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Lê Việt",
+      "current_title": "Tổng Giám đốc",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 5,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.thepmiennam.com.vn/thep-mien-nam--cong-bo-ban-lanh-daoo-moi--tri-an-lanh-dao-tien-nhiem",
+          "quote": "Ông Lê Việt – hiện là Phó Tổng Giám đốc thứ nhất Công ty Tôn Phương Nam, được bổ nhiệm giữ chức Thành viên Hội đồng thành viên, Tổng Giám đốc Công ty TNHH MTV Thép Miền Nam-VNSTEEL thay cho ông Nguyễn Nguyên Ngọc kết thúc nhiệm kỳ.",
+          "supports": "Official company announcement dated 05-07-2025 confirms Lê Việt appointed as Member of Members' Council and General Director of VNSTEEL effective 01/07/2025"
+        }
+      ],
+      "confidence": 0.9,
+      "review_required": true
+    },
+    {
+      "full_name": "Tô Vĩnh Hưng",
+      "current_title": "Thành viên Hội đồng thành viên, Phó Tổng Giám đốc",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 4,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.thepmiennam.com.vn/thep-mien-nam--cong-bo-ban-lanh-daoo-moi--tri-an-lanh-dao-tien-nhiem",
+          "quote": "Ông Tô Vĩnh Hưng – Thành viên Hội đồng thành viên, Phó Tổng giám đốc Công ty TNHH MTV Thép Miền Nam–VNSTEEL, được bổ nhiệm giữ chức Thành viên Hội đồng thành viên, Phó Tổng Giám đốc Công ty TNHH MTV Thép Miền Nam-VNSTEEL tiếp tục tái cử.",
+          "supports": "Official company announcement confirms Tô Vĩnh Hưng re-elected as Member of Members' Council and Deputy General Director effective 01/07/2025"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Bùi Thanh Cảnh",
+      "current_title": "Thành viên Hội đồng thành viên, Phó Tổng Giám đốc",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 4,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.thepmiennam.com.vn/thep-mien-nam--cong-bo-ban-lanh-daoo-moi--tri-an-lanh-dao-tien-nhiem",
+          "quote": "Ông Bùi Thanh Cảnh – hiện là Phó Tổng Giám đốc Công ty TNHH MTV Thép Miền Nam–VNSTEEL, được bổ nhiệm giữ chức Thành viên Hội đồng thành viên, Phó Tổng Giám đốc Công ty TNHH MTV Thép Miền Nam-VNSTEEL thay cho ông Nguyễn Hùng Mạnh kết thúc nhiệm kỳ.",
+          "supports": "Official company announcement confirms Bùi Thanh Cảnh promoted to Member of Members' Council and Deputy General Director effective 01/07/2025"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 36,
+    "search_engine_warnings": 1,
+    "urls_crawled": 30,
+    "crawl_failures": 6,
+    "contact_signals": 0,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

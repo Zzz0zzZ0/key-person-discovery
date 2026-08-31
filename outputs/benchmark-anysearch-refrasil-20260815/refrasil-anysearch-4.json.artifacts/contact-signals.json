@@ -1,0 +1,39 @@
+[
+  {
+    "channel": "email",
+    "value": "info@epoptavka.cz",
+    "status": "observed",
+    "source_url": "https://dodavatele.epoptavka.cz/1448027-refrasil-sro/nabidka/590595-samotove-vyrobky-tvarove",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420602563838",
+    "status": "valid_format",
+    "source_url": "https://dodavatele.epoptavka.cz/1448027-refrasil-sro/nabidka/590595-samotove-vyrobky-tvarove",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420251510908",
+    "status": "valid_format",
+    "source_url": "https://dodavatele.epoptavka.cz/1448027-refrasil-sro/nabidka/590595-samotove-vyrobky-tvarove",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/jind%C5%99ich-spratek-605a1583",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/jind%C5%99ich-spratek-605a1583"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/lukas-von-arx-3358335/?_l=en",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/lukas-von-arx-3358335/?_l=en"
+  }
+]

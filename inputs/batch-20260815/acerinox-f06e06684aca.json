@@ -1,0 +1,79 @@
+{
+  "name": "ACERINOX",
+  "website": "http://www.acerinox.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00def2ae-eafb-4dab-8420-5502dfd01920",
+  "crm_linkedin_url": "http://www.linkedin.com/company/acerinox-s-a-",
+  "crm_country": "西班牙",
+  "crm_updated_at": "2026-07-28T10:08:27.682346+00:00",
+  "crm_contact_count": 4,
+  "crm_contacts": [
+    {
+      "name": " Joni F.",
+      "email": "jf@acerinox.com",
+      "additional_emails": [
+        "joni.f@acerinox.com",
+        "f@acerinox.com",
+        "jonigabrielfernandes@hotmail.com"
+      ],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/joni-f-a20852b6",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Henri Vanbremeersch",
+      "email": "henri.vanbremeersch@gmail.com",
+      "additional_emails": [
+        "henri.vanbremeersch@2006.icam.fr"
+      ],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/henri-vanbremeersch-7a21a94",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+34 913 98 51 00",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Juan Meroño",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/juan-antonio-merono",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-15T03:43:12.408380+00:00",
+  "source": "twenty_postgresql_read_only"
+}

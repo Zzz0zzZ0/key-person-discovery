@@ -1,0 +1,111 @@
+{
+  "company_name": "Fusipar",
+  "candidates": [
+    {
+      "full_name": "Leonardo Tives",
+      "current_title": "Vendas na Fusipar",
+      "company_match": "probable",
+      "influence_type": "decision_maker",
+      "influence_score": 3,
+      "linkedin": [
+        {
+          "value": "https://br.linkedin.com/in/leonardo-tives-25536714b",
+          "status": "probable",
+          "source_url": "https://br.linkedin.com/in/leonardo-tives-25536714b"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://br.linkedin.com/in/leonardo-tives-25536714b",
+          "quote": "Leonardo Tives - Vendas na Fusipar. Vendas na Fusipar · Experiência: Fusipar",
+          "supports": "Current role as sales representative at Fusipar per search excerpt"
+        }
+      ],
+      "confidence": 0.55,
+      "review_required": true
+    },
+    {
+      "full_name": "Sidiney Zanoni",
+      "current_title": "Analista de Controladoria / Custo na Fusipar",
+      "company_match": "probable",
+      "influence_type": "decision_maker",
+      "influence_score": 2,
+      "linkedin": [
+        {
+          "value": "https://br.linkedin.com/in/sidiney-zanoni-6b094b34a",
+          "status": "probable",
+          "source_url": "https://br.linkedin.com/in/sidiney-zanoni-6b094b34a"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://br.linkedin.com/in/sidiney-zanoni-6b094b34a",
+          "quote": "Sidiney zanoni - Analista de Controladoria / Custo na Fusipar. Analista de Controladoria / Custo na Fusipar · Experiência: Fusipar",
+          "supports": "Current role as controller/cost analyst at Fusipar per search excerpt"
+        }
+      ],
+      "confidence": 0.55,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+554136663362",
+      "status": "valid_format",
+      "source_url": "https://www.facebook.com/fusipar.br/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "messagehelp@halodoc.com",
+      "status": "observed",
+      "source_url": "https://www.halodoc.com/artikel/fusipar-salep-ampuh-atasi-infeksi-kulit?srsltid=AfmBOooZ2XCxxsxWHPUNhMo_b91Ns9cEldHXDb3S7PvT6p9EMOcC2X88",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 37,
+    "search_engine_warnings": 0,
+    "urls_crawled": 8,
+    "crawl_failures": 3,
+    "contact_signals": 8,
+    "official_urls_discovered": 2,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 2,
+    "contact_evidence_pages": 2,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 2,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 4,
+    "contactable_items": 4,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

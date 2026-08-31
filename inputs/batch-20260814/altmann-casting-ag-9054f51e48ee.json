@@ -1,0 +1,127 @@
+{
+  "name": "Altmann Casting AG",
+  "website": "https://www.altmann-casting.ch",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "0013a046-4bc1-4ca4-8dd9-fef34593f990",
+  "crm_linkedin_url": "http://www.linkedin.com/company/altmann-casting-ag",
+  "crm_country": "瑞士",
+  "crm_updated_at": "2026-07-28T09:21:28.184803+00:00",
+  "crm_contact_count": 10,
+  "crm_contacts": [
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+41 32 331 33 55",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Widmer Alexandre",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/alexandrewidmer",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Mariia Lahno",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/mariia-lahno-020726263",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Shkurte Gashi",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/shkurte-hazeraj-gashi-1689451b4",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Rachel S",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/rachel-s-096436199",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Celia Cretin",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/c%c3%a9lia-cr%c3%a9tin-82b930252",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Célia Crétin",
+      "email": "celia.cretin@altmann-casting.ch",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/célia-crétin-82b930252",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "info@altmann-casting.ch",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Beat Spahr",
+      "email": "beat.spahr@altmann-casting.ch",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/beat-spahr-45158883",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Amonrat Huangching",
+      "email": "amonrat.huangching@altmann-casting.ch",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/amonrat-huangching-a3616119a",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-14T09:33:11.329120+00:00",
+  "source": "twenty_postgresql_read_only"
+}

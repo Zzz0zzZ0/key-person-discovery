@@ -1,0 +1,100 @@
+[
+  {
+    "channel": "email",
+    "value": "info@duedal.ch",
+    "status": "observed",
+    "source_url": "https://www.duedal.ch/%C3%BCber-uns"
+  },
+  {
+    "channel": "phone",
+    "value": "+41264932222",
+    "status": "valid_format",
+    "source_url": "https://www.duedal.ch/%C3%BCber-uns",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@duedal.ch",
+    "status": "observed",
+    "source_url": "https://www.duedal.ch/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+41264932222",
+    "status": "valid_format",
+    "source_url": "https://www.duedal.ch/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@duedal.ch",
+    "status": "observed",
+    "source_url": "https://www.duedal.ch/%C3%BCber-uns/team/"
+  },
+  {
+    "channel": "phone",
+    "value": "+41264932222",
+    "status": "valid_format",
+    "source_url": "https://www.duedal.ch/%C3%BCber-uns/team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@duedal.ch",
+    "status": "observed",
+    "source_url": "https://www.duedal.ch/anh%C3%A4nge/bureau-veritas/"
+  },
+  {
+    "channel": "phone",
+    "value": "+41264932222",
+    "status": "valid_format",
+    "source_url": "https://www.duedal.ch/anh%C3%A4nge/bureau-veritas/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "j.guery@duedal.ch",
+    "status": "observed",
+    "source_url": "https://www.duedal.ch/karriere/logistiker/"
+  },
+  {
+    "channel": "email",
+    "value": "info@duedal.ch",
+    "status": "observed",
+    "source_url": "https://www.duedal.ch/karriere/logistiker/"
+  },
+  {
+    "channel": "phone",
+    "value": "+41264932222",
+    "status": "valid_format",
+    "source_url": "https://www.duedal.ch/karriere/logistiker/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "a.stoeckli@duedal.ch",
+    "status": "observed",
+    "source_url": "https://www.duedal.ch/karriere/schmelzer/"
+  },
+  {
+    "channel": "email",
+    "value": "info@duedal.ch",
+    "status": "observed",
+    "source_url": "https://www.duedal.ch/karriere/schmelzer/"
+  },
+  {
+    "channel": "phone",
+    "value": "+41264932222",
+    "status": "valid_format",
+    "source_url": "https://www.duedal.ch/karriere/schmelzer/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

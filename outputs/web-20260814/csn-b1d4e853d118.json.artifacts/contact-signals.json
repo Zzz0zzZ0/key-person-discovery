@@ -1,0 +1,195 @@
+[
+  {
+    "channel": "email",
+    "value": "canal_denuncia@csn.com.br",
+    "status": "observed",
+    "source_url": "https://ri.csn.com.br/en/sustainability/people/"
+  },
+  {
+    "channel": "email",
+    "value": "compliance@csn.com.br",
+    "status": "observed",
+    "source_url": "https://ri.csn.com.br/en/sustainability/people/"
+  },
+  {
+    "channel": "phone",
+    "value": "+551130497206",
+    "status": "valid_format",
+    "source_url": "https://ri.csn.com.br/en/sustainability/people/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "email",
+    "value": "invrel@csn.com.br",
+    "status": "observed",
+    "source_url": "https://ri.csn.com.br/en/"
+  },
+  {
+    "channel": "phone",
+    "value": "+551130497585",
+    "status": "valid_format",
+    "source_url": "https://ri.csn.com.br/en/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "email",
+    "value": "kongcsnmining@csn.hkphone",
+    "status": "observed",
+    "source_url": "https://www.csn.com.br/en/customers/"
+  },
+  {
+    "channel": "email",
+    "value": "info@csnmining.pt",
+    "status": "observed",
+    "source_url": "https://www.csn.com.br/en/customers/"
+  },
+  {
+    "channel": "email",
+    "value": "comercial@csnmining.pt",
+    "status": "observed",
+    "source_url": "https://www.csn.com.br/en/customers/"
+  },
+  {
+    "channel": "email",
+    "value": "alexandre.l@csn.com.br",
+    "status": "observed",
+    "source_url": "https://www.csn.com.br/en/customers/"
+  },
+  {
+    "channel": "phone",
+    "value": "+551130497203",
+    "status": "valid_format",
+    "source_url": "https://www.csn.com.br/en/customers/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+552433445096",
+    "status": "valid_format",
+    "source_url": "https://www.csn.com.br/en/customers/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+85222363400",
+    "status": "valid_format",
+    "source_url": "https://www.csn.com.br/en/customers/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+553137491652",
+    "status": "valid_format",
+    "source_url": "https://www.csn.com.br/en/customers/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "email",
+    "value": "studentid@student.csn.edu",
+    "status": "observed",
+    "source_url": "https://www.reddit.com/r/CSN_Coyotes/comments/1rzj3li/need_help_with_csn_email_login_on_microsoft/"
+  },
+  {
+    "channel": "email",
+    "value": "help.desk@csn.edu",
+    "status": "observed",
+    "source_url": "https://www.csn.edu/gocsn"
+  },
+  {
+    "channel": "phone",
+    "value": "+17026515000",
+    "status": "valid_format",
+    "source_url": "https://www.csn.edu/gocsn",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+17026513000",
+    "status": "valid_format",
+    "source_url": "https://www.csn.edu/gocsn",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+17026514000",
+    "status": "valid_format",
+    "source_url": "https://www.csn.edu/gocsn",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+17026514900",
+    "status": "valid_format",
+    "source_url": "https://www.csn.edu/gocsn",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+17026514688",
+    "status": "valid_format",
+    "source_url": "https://www.csn.edu/gocsn",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+17026511067",
+    "status": "valid_format",
+    "source_url": "https://www.csn.edu/gocsn",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+17026512629",
+    "status": "valid_format",
+    "source_url": "https://www.csn.edu/gocsn",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+17023987545",
+    "status": "valid_format",
+    "source_url": "https://www.csn.edu/gocsn",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+17026514155",
+    "status": "valid_format",
+    "source_url": "https://www.csn.edu/gocsn",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+17026514747",
+    "status": "valid_format",
+    "source_url": "https://www.csn.edu/gocsn",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+17026514745",
+    "status": "valid_format",
+    "source_url": "https://www.csn.edu/gocsn",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+17252166789",
+    "status": "valid_format",
+    "source_url": "https://www.csn.edu/gocsn",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+17252166500",
+    "status": "valid_format",
+    "source_url": "https://www.csn.edu/gocsn",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "email",
+    "value": "sactecon@sepetibatecon.com.br",
+    "status": "observed",
+    "source_url": "https://www.csn.com.br/en/about-us/csn-group/sepetiba-tecon/"
+  }
+]

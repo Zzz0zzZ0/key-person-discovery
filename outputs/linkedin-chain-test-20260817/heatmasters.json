@@ -1,0 +1,220 @@
+{
+  "company_name": "Heatmasters",
+  "candidates": [
+    {
+      "full_name": "Ilkka Mujunen",
+      "current_title": "CEO",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 9,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://heatmasters.net/news/heatmasters-strengthens-its-industrial-and-heat-treatment-furnace-segment-by-acquiring-temptec-oy-ab/",
+          "quote": "Ilkka Mujunen, CEO of Heatmasters",
+          "supports": "CEO of Heatmasters confirmed in acquisition announcement"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Markku Pyykkö",
+      "current_title": "Business Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 8,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://heatmasters.net/news/heatmasters-acquired-the-furnace-services-and-maintenance-business-of-sarlin-oy-ab/",
+          "quote": "Markku Pyykkö, Business Manager at Heatmasters",
+          "supports": "Business Manager at Heatmasters confirmed in Sarlin acquisition article"
+        },
+        {
+          "source_url": "https://heatmasters.net/news/heatmasters-strengthens-its-industrial-and-heat-treatment-furnace-segment-by-acquiring-temptec-oy-ab/",
+          "quote": "Markku Pyykkö, Business Manager at Heatmasters",
+          "supports": "Business Manager at Heatmasters confirmed in Temptec acquisition article"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+358400956879",
+      "status": "valid_format",
+      "source_url": "https://heatmasters.net/contact-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+358207571343",
+      "status": "valid_format",
+      "source_url": "https://heatmasters.net/contact-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48515555010",
+      "status": "valid_format",
+      "source_url": "https://heatmasters.net/contact-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+37256245607",
+      "status": "valid_format",
+      "source_url": "https://heatmasters.net/contact-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Niklas Anttila",
+      "current_title": "Unknown",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 3,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/niklasant",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/niklasant"
+        }
+      ],
+      "emails": [
+        {
+          "value": "niklas.anttila@heatmasters.net",
+          "status": "observed",
+          "source_url": "https://linkedin.com/in/niklasant"
+        }
+      ],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/niklasant",
+          "quote": "niklas.anttila@heatmasters.net",
+          "supports": "Email at heatmasters.net domain associated with LinkedIn profile, suggesting employment at Heatmasters"
+        }
+      ],
+      "confidence": 0.5,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "validation_rejections": [
+    {
+      "full_name": "Niklas Anttila",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 6,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 7,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 34,
+    "search_engine_warnings": 0,
+    "urls_crawled": 20,
+    "crawl_failures": 2,
+    "contact_signals": 56,
+    "official_urls_discovered": 20,
+    "crm_website": "https://heatmasters.net",
+    "official_website": "https://heatmasters.net",
+    "website_recovered": false,
+    "pdf_documents_discovered": 3,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 3,
+    "pdf_pages_extracted": 45,
+    "pdf_failures": 0,
+    "search_evidence_pages": 3,
+    "linkedin_company_pages_verified": 2,
+    "linkedin_index_candidates_added": 0,
+    "contact_evidence_pages": 4,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 1,
+    "unverified_candidates": 1,
+    "crm_contact_count": 15,
+    "crm_duplicates_removed": 6,
+    "target_contactable_items": 1,
+    "contactable_items": 4,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

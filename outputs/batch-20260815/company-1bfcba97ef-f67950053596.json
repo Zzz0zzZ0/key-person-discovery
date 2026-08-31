@@ -1,0 +1,121 @@
+{
+  "company_name": "朝日アルミニウム株式会社",
+  "candidates": [
+    {
+      "full_name": "小林秀和",
+      "current_title": "代表取締役社長",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://asahial.co.jp/company/",
+          "quote": "会社概要 役員 代表取締役会長 小松 理央 代表取締役社長 小林 秀和",
+          "supports": "Official company page listing current representative director"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "小松理央",
+      "current_title": "代表取締役会長",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://asahial.co.jp/company/",
+          "quote": "会社概要 役員 代表取締役会長 小松 理央",
+          "supports": "Official company page listing current representative director"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "武部貴一",
+      "current_title": "常務取締役",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 70,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://asahial.co.jp/company/",
+          "quote": "常務取締役 武部 貴一",
+          "supports": "Official company page listing current managing director"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "角浩二郎",
+      "current_title": "常務取締役",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 70,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://asahial.co.jp/company/",
+          "quote": "常務取締役 角 浩二郎",
+          "supports": "Official company page listing current managing director"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 8,
+    "anysearch_queries": 2,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 40,
+    "search_engine_warnings": 18,
+    "urls_crawled": 11,
+    "crawl_failures": 0,
+    "contact_signals": 0,
+    "official_urls_discovered": 11,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

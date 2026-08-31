@@ -1,0 +1,99 @@
+{
+  "company_name": "Della Miranda",
+  "candidates": [
+    {
+      "full_name": "Pedro Rafael Soraire",
+      "current_title": "Fundador / Titular",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://dellamiranda.com.ar/nosotros/",
+          "quote": "Esta es la puerta de la primera estufa rusa que hicimos, en el año 1976... Eso me incentivó a no bajar los brazos y a capacitarme para fabricar materiales refractarios. Esta puerta la conseguí en una Chacarita... Ella representa la etapa fundacional de lo que hoy es Della Miranda.",
+          "supports": "Founder and technical decision-maker at Della Miranda; self-trained in refractory materials manufacturing since 1976"
+        },
+        {
+          "source_url": "https://www.dellamiranda.com.ar/wp-content/uploads/2020/08/Della-Miranda-Quienes-Somos.pdf",
+          "quote": "Somos una empresa familiar dedicada a la producción de objetos refractarios... elaboramos utensilios de cocina altamente resistentes al calor, y nuestros materiales para la construcción tienen alto contenido en alúmina.",
+          "supports": "Confirms family-owned refractory products company"
+        }
+      ],
+      "confidence": 0.78,
+      "review_required": true
+    },
+    {
+      "full_name": "María Claudia Elizondo",
+      "current_title": "Titular / Proprietaria",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://dellamiranda.com.ar/nosotros/",
+          "quote": "Somos una Pyme familiar dedicada a la elaboración de productos para el fuego, con materiales refractarios y 100% sustentables. Hace más de 15 años que llevamos adelante esta empresa Pedro Soraire, María Claudia Elizondo y nuestros hijos, María del Mar y Pedro (hijo).",
+          "supports": "Co-owner and decision-maker at Della Miranda; explicitly named as titular"
+        },
+        {
+          "source_url": "https://dellamiranda.com.ar/nosotros/",
+          "quote": "Cuando comenzamos con este emprendimiento, mi madre ya había fallecido. Entonces, pensando un poco como una forma de homenaje... decidimos nombrar a nuestra empresa como ella. María Claudia Elizondo, Titular de Della Miranda.",
+          "supports": "Confirmed as Titular of Della Miranda"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 2,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 36,
+    "search_engine_warnings": 0,
+    "urls_crawled": 14,
+    "crawl_failures": 0,
+    "contact_signals": 29,
+    "official_urls_discovered": 3,
+    "pdf_documents_discovered": 1,
+    "pdf_documents_processed": 1,
+    "pdf_documents_extracted": 1,
+    "pdf_pages_extracted": 11,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 2,
+    "crm_duplicates_removed": 2,
+    "target_contactable_items": 4,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

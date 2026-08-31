@@ -1,0 +1,119 @@
+[
+  {
+    "channel": "email",
+    "value": "sales@runyanpotterysupply.com",
+    "status": "observed",
+    "source_url": "https://runyanpotterysupply.wordpress.com/catalog/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@runyanpotterysupply.com",
+    "status": "observed",
+    "source_url": "https://runyanpotterysupply.com/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@runyanpotterysupply.com",
+    "status": "observed",
+    "source_url": "https://www.runyanpotterysupply.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@runyanpotterysupply.com",
+    "status": "observed",
+    "source_url": "https://www.runyanpotterysupply.com/catalog",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@runyanpotterysupply.com",
+    "status": "observed",
+    "source_url": "https://www.runyanpotterysupply.com/page/discounts",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical@maycocolors.com",
+    "status": "observed",
+    "source_url": "https://www.maycocolors.com/distributors/runyan-pottery-supply/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@maycocolors.com",
+    "status": "observed",
+    "source_url": "https://www.maycocolors.com/distributors/runyan-pottery-supply/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@runyanpotterysupply.com",
+    "status": "observed",
+    "source_url": "https://www.runyanpotterysupply.com/page/hoursdirections",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@runyanpotterysupply.com",
+    "status": "observed",
+    "source_url": "https://www.runyanpotterysupply.com/page/order",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18106874500",
+    "status": "valid_format",
+    "source_url": "https://www.thebluebook.com/iProView/1028327/runyan-pottery-supply-inc/manufacturers/locations-contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18016874512",
+    "status": "valid_format",
+    "source_url": "https://www.thebluebook.com/iProView/1028327/runyan-pottery-supply-inc/manufacturers/locations-contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18016874515",
+    "status": "valid_format",
+    "source_url": "https://www.thebluebook.com/iProView/1028327/runyan-pottery-supply-inc/manufacturers/locations-contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18887201710",
+    "status": "valid_format",
+    "source_url": "https://www.thebluebook.com/iProView/1028327/runyan-pottery-supply-inc/manufacturers/locations-contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18106874500",
+    "status": "valid_format",
+    "source_url": "https://www.thebluebook.com/iProView/1028327/runyan-pottery-supply-inc/manufacturers/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18887201710",
+    "status": "valid_format",
+    "source_url": "https://www.thebluebook.com/iProView/1028327/runyan-pottery-supply-inc/manufacturers/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

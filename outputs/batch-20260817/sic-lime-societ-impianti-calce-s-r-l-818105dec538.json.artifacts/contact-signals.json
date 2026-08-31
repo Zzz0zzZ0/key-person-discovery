@@ -1,0 +1,1158 @@
+[
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/news-fr/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/news-fr/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/news-fr/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/news-fr/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/news-fr/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/news-fr/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/fr/news-fr/articolo-1/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/fr/news-fr/articolo-1/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/it/news/articolo-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/it/news/articolo-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/it/news/articolo-1/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/it/news/articolo-1/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/news-fr/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/news-fr/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/news-fr/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/news-fr/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/news-fr/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/news-fr/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/fr/news-fr/articolo-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/fr/news-fr/articolo-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-3/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-3/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-3/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-3/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-3/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-3/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/it/news/articolo-3/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/it/news/articolo-3/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-5/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-5/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-5/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-5/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-5/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-5/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/it/news/articolo-5/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/it/news/articolo-5/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-6/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-6/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-6/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-6/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-6/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-6/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/it/news/articolo-6/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/it/news/articolo-6/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-4/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-4/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-4/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-4/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-4/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/news/articolo-4/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/it/news/articolo-4/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/it/news/articolo-4/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/news-en/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/news-en/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/news-en/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/news-en/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/news-en/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/news-en/articolo-1/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/news-en/articolo-1/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/news-en/articolo-1/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/news-en/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/news-en/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/news-en/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/news-en/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/news-en/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/news-en/articolo-2/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/news-en/articolo-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/news-en/articolo-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/history/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/history/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/history/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/history/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/history/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/history/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/the-company/history/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/the-company/history/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/sic-nel-mondo/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/sic-nel-mondo/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/sic-nel-mondo/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/sic-nel-mondo/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/sic-nel-mondo/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/sic-nel-mondo/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/the-company/sic-nel-mondo/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/the-company/sic-nel-mondo/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://www.sic-lime.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://www.sic-lime.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://www.sic-lime.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://www.sic-lime.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://www.sic-lime.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://www.sic-lime.com",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://www.sic-lime.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://www.sic-lime.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/category/news-fr/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/category/news-fr/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/category/news-fr/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/category/news-fr/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/category/news-fr/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/category/news-fr/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/fr/category/news-fr/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/fr/category/news-fr/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/category/news/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/category/news/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/category/news/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/category/news/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/category/news/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/it/category/news/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/it/category/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/it/category/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/fr/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/fr/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/technologies/machines-et-equipements/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/technologies/machines-et-equipements/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/technologies/machines-et-equipements/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/technologies/machines-et-equipements/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/technologies/machines-et-equipements/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/fr/technologies/machines-et-equipements/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/fr/technologies/machines-et-equipements/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/fr/technologies/machines-et-equipements/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "observed",
+    "source_url": "https://sic-lime.com/the-company/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/the-company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/the-company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/it/contatti",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "probable",
+    "source_url": "https://sic-lime.com/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "commercial.dept@sic-lime.it",
+    "status": "probable",
+    "source_url": "https://sic-lime.com/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "technical.dept@sic-lime.it",
+    "status": "probable",
+    "source_url": "https://sic-lime.com/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "account.dept@sic-lime.it",
+    "status": "probable",
+    "source_url": "https://sic-lime.com/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.in",
+    "status": "probable",
+    "source_url": "https://sic-lime.com/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918777834067",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sic@sic-lime.it",
+    "status": "probable",
+    "source_url": "https://sic-lime.com/the-company/sic-in-the-world/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "md@sic-lime.it",
+    "status": "probable",
+    "source_url": "https://sic-lime.com/the-company/sic-in-the-world/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390257604767",
+    "status": "valid_format",
+    "source_url": "https://sic-lime.com/the-company/sic-in-the-world/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

@@ -1,0 +1,125 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[ANTIBOT]. ℹ https://www.hanjoolightmetal.com/                  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://www.hanjoolightmetal.com/
+Call log:
+  - navigating to "https://www.hanjoolightmetal.com/", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://www.hanjoolightmetal.com/                  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://www.hanjoolightmetal.com/
+Call log:
+  - navigating to "https://www.hanjoolightmetal.com/", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://hanjoolightmetal.com                       | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://hanjoolightmetal.com/
+Call log:
+  - navigating to "https://hanjoolightmetal.com/", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://hanjoolightmetal.com                       | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://hanjoolightmetal.com/
+Call log:
+  - navigating to "https://hanjoolightmetal.com/", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://www.saramin.co....9/company_nm/한주라이트메탈(주)  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at 
+https://www.saramin.co.kr/zf_user/company-info/view/csn/ZDlWSEhNMDBWTVhLMWpOclJmZFVZdz09/company_nm/%ED%95%9C%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A9%94%ED%83%88(%EC%A3%BC)
+Call log:
+  - navigating to "https://www.saramin.co.kr/zf_user/company-info/view/csn/ZDlWSEhNMDBWTVhLMWpOclJmZFVZdz09/company_nm/%ED%95%9C%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A9%94%ED%83%88(%EC%A3%BC)", 
+waiting until "domcontentloaded"
+ 
+[ERROR]... × https://www.saramin.co....9/company_nm/한주라이트메탈(주)  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at 
+https://www.saramin.co.kr/zf_user/company-info/view/csn/ZDlWSEhNMDBWTVhLMWpOclJmZFVZdz09/company_nm/%ED%95%9C%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A9%94%ED%83%88(%EC%A3%BC)
+Call log:
+  - navigating to "https://www.saramin.co.kr/zf_user/company-info/view/csn/ZDlWSEhNMDBWTVhLMWpOclJmZFVZdz09/company_nm/%ED%95%9C%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A9%94%ED%83%88(%EC%A3%BC)", 
+waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://ko.wikipedia.org/wiki/한주라이트메탈              | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://ko.wikipedia.org/wiki/%ED%95%9C%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A9%94%ED%83%88
+Call log:
+  - navigating to "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A9%94%ED%83%88", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://ko.wikipedia.org/wiki/한주라이트메탈              | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_CONNECTION_CLOSED at https://ko.wikipedia.org/wiki/%ED%95%9C%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A9%94%ED%83%88
+Call log:
+  - navigating to "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A9%94%ED%83%88", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/src/key_person_discovery/cli.py", line 88, in <module>
+    main()
+  File "/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/src/key_person_discovery/cli.py", line 61, in main
+    result = discover(
+             ^^^^^^^^^
+  File "/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/src/key_person_discovery/pipeline.py", line 166, in discover
+    result = hermes.extract(company, evidence_pages, signals, artifacts_dir / "usage.json")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/src/key_person_discovery/hermes.py", line 51, in extract
+    output = parse_json_object(result.stdout)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/src/key_person_discovery/hermes.py", line 144, in parse_json_object
+    raise RuntimeError("Hermes output does not contain a JSON object")
+RuntimeError: Hermes output does not contain a JSON object

@@ -1,0 +1,47 @@
+{
+  "source": "twenty_crm_read_only",
+  "crm_writeback": false,
+  "changes_under_test": [
+    "official-domain and company-name URL relevance filtering",
+    "normalized company-name validation with explicit aliases"
+  ],
+  "companies": [
+    {
+      "crm_id": "fcce6d03-83ca-43c9-926f-7bad31e48b38",
+      "name": "Braskort Abrasivos",
+      "status": "completed",
+      "search_results": 30,
+      "search_engine_warnings": 15,
+      "urls_crawled": 3,
+      "crawl_failures": 0,
+      "contact_signals": 10,
+      "candidates": 0,
+      "unassigned_contacts": 4
+    },
+    {
+      "crm_id": "fad57e75-f529-4ac1-a316-3b8affaced43",
+      "name": "Harbor Castings Inc.",
+      "status": "completed",
+      "search_results": 30,
+      "search_engine_warnings": 14,
+      "urls_crawled": 5,
+      "crawl_failures": 1,
+      "contact_signals": 5,
+      "candidates": 0,
+      "unassigned_contacts": 0
+    },
+    {
+      "crm_id": "f521c51a-4c7e-4625-a629-e2f1dfe09e1a",
+      "name": "Industrias Mineiras do Mondego S.A. (IMOSA®)",
+      "status": "completed",
+      "search_results": 30,
+      "search_engine_warnings": 16,
+      "urls_crawled": 3,
+      "crawl_failures": 0,
+      "contact_signals": 4,
+      "candidates": 2,
+      "unassigned_contacts": 4,
+      "review_note": "Both candidates are parent-group executives without direct IMOSA employment evidence or contact channels."
+    }
+  ]
+}

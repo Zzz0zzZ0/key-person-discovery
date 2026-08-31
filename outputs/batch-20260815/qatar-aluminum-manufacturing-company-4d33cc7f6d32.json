@@ -1,0 +1,163 @@
+{
+  "company_name": "Qatar Aluminum Manufacturing Company",
+  "candidates": [
+    {
+      "full_name": "Abdulrahman Ahmad Al-Shaibi",
+      "current_title": "Board Member",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 3,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/mr-abdulrahman-ahmad-al-shaibi/",
+          "quote": "Board Member, Qatar Aluminum Manufacturing Company",
+          "supports": "Current board role at exact target company"
+        },
+        {
+          "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/",
+          "quote": "Board of Directors page listing Abdulrahman Ahmad Al-Shaibi",
+          "supports": "Board membership confirmed by official company page"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    },
+    {
+      "full_name": "Mohammed Essa Al-Mannai",
+      "current_title": "Board Member",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 3,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/mr-mohammed-essa-al-mannai/",
+          "quote": "Board Member, Qatar Aluminum Manufacturing Company",
+          "supports": "Current board role at exact target company"
+        },
+        {
+          "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/",
+          "quote": "Board of Directors page listing Mohammed Essa Al-Mannai",
+          "supports": "Board membership confirmed by official company page"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    },
+    {
+      "full_name": "Ahmad Saeed Al-Amoodi",
+      "current_title": "Board Member",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 3,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/mr-ahmad-saeed-al-amoodi/",
+          "quote": "Board Member, Qatar Aluminum Manufacturing Company",
+          "supports": "Current board role at exact target company"
+        },
+        {
+          "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/",
+          "quote": "Board of Directors page listing Ahmad Saeed Al-Amoodi",
+          "supports": "Board membership confirmed by official company page"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    },
+    {
+      "full_name": "Lolwa Khalil Salat",
+      "current_title": "Board Member",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 3,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/ms-lolwa-khalil-salat/",
+          "quote": "Board Member, Qatar Aluminum Manufacturing Company",
+          "supports": "Current board role at exact target company"
+        },
+        {
+          "source_url": "https://www.qamco.com.qa/ar/about/board-of-directors/ms-lolwa-khalil-salat/",
+          "quote": "Board Member page exists under /ar/about/board-of-directors/",
+          "supports": "Board membership confirmed by official Arabic company page"
+        },
+        {
+          "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/",
+          "quote": "Board of Directors page listing Lolwa Khalil Salat",
+          "supports": "Board membership confirmed by official company page"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+97440132277",
+      "status": "valid_format",
+      "source_url": "https://www.qamco.com.qa",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "validation_rejections": [
+    {
+      "full_name": "Nabeel Mohammed Al-Buenain",
+      "reasons": [
+        "evidence URL was not fetched"
+      ]
+    }
+  ],
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 33,
+    "search_engine_warnings": 1,
+    "urls_crawled": 30,
+    "crawl_failures": 1,
+    "contact_signals": 60,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 5,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 3,
+    "pdf_pages_extracted": 29,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 3,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 1,
+    "crm_contact_count": 1,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 4,
+    "contactable_items": 1,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

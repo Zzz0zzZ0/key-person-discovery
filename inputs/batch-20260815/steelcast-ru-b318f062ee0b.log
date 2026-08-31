@@ -1,0 +1,38 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://steelcast.ru                                                                                  | ✓ | ⏱: 4.46s 
+[SCRAPE].. ◆ http://steelcast.ru                                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://steelcast.ru                                                                                  | ✓ | ⏱: 5.09s 
+[FETCH]... ↓ https://steelcast.ru/                                                                                | ✓ | ⏱: 3.74s 
+[SCRAPE].. ◆ https://steelcast.ru/                                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://steelcast.ru/                                                                                | ✓ | ⏱: 4.80s 
+[FETCH]... ↓ http://steelcast.ru/steel_for_atomic_reactors                                                        | ✓ | ⏱: 4.20s 
+[SCRAPE].. ◆ http://steelcast.ru/steel_for_atomic_reactors                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://steelcast.ru/steel_for_atomic_reactors                                                        | ✓ | ⏱: 4.82s 
+[FETCH]... ↓ http://steelcast.ru/reactor_steel00                                                                  | ✓ | ⏱: 4.29s 
+[SCRAPE].. ◆ http://steelcast.ru/reactor_steel00                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://steelcast.ru/reactor_steel00                                                                  | ✓ | ⏱: 4.84s 
+[FETCH]... ↓ https://steelcast.ru/spravochnik1                                                                    | ✓ | ⏱: 0.79s 
+[SCRAPE].. ◆ https://steelcast.ru/spravochnik1                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://steelcast.ru/spravochnik1                                                                    | ✓ | ⏱: 0.81s 
+[FETCH]... ↓ https://steelcast.ru/proizvodstvo-stalnyh-slitkov                                                    | ✓ | ⏱: 0.79s 
+[SCRAPE].. ◆ https://steelcast.ru/proizvodstvo-stalnyh-slitkov                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://steelcast.ru/proizvodstvo-stalnyh-slitkov                                                    | ✓ | ⏱: 0.80s 
+[FETCH]... ↓ https://steelcast.ru/mail                                                                            | ✓ | ⏱: 1.10s 
+[SCRAPE].. ◆ https://steelcast.ru/mail                                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://steelcast.ru/mail                                                                            | ✓ | ⏱: 1.11s 
+[FETCH]... ↓ https://www.steelcast.ru/                                                                            | ✓ | ⏱: 3.59s 
+[SCRAPE].. ◆ https://www.steelcast.ru/                                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.steelcast.ru/                                                                            | ✓ | ⏱: 4.85s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://steelcast.ru/about                                                                           | ✓ | ⏱: 3.90s 
+[SCRAPE].. ◆ https://steelcast.ru/about                                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://steelcast.ru/about                                                                           | ✓ | ⏱: 3.92s 
+[FETCH]... ↓ https://www.steelcast.ru/about                                                                       | ✓ | ⏱: 3.92s 
+[SCRAPE].. ◆ https://www.steelcast.ru/about                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.steelcast.ru/about                                                                       | ✓ | ⏱: 3.94s 
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/steelcast-ru-b318f062ee0b.json

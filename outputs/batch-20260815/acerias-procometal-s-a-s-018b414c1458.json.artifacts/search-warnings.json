@@ -1,0 +1,8 @@
+[
+  {
+    "query": "http://aceriasprocometal.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "http://aceriasprocometal.com/sitemap.xml: HTTP Error 404: Not Found"
+  }
+]

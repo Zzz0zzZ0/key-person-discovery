@@ -1,0 +1,62 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://kruegerpottery.com                                                                           | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://kruegerpottery.com                                                                           | ✓ | ⏱: 0.03s 
+[FETCH]... ↓ https://kruegerpottery.com/pages/krueger-pottery-supply-contact-us-directions                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://kruegerpottery.com/pages/krueger-pottery-supply-contact-us-directions                        | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://kruegerpottery.com/products/parent-child-three-additional-people                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://kruegerpottery.com/products/parent-child-three-additional-people                             | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://kruegerpottery.com/products/parent-child-two-additional-people                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://kruegerpottery.com/products/parent-child-two-additional-people                               | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.accio.com/business/krueger-pottery-supply                                                | ✓ | ⏱: 2.89s 
+[SCRAPE].. ◆ https://www.accio.com/business/krueger-pottery-supply                                                | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.accio.com/business/krueger-pottery-supply                                                | ✓ | ⏱: 2.92s 
+[FETCH]... ↓ https://kruegerpottery.com/collections/all                                                           | ✓ | ⏱: 3.58s 
+[SCRAPE].. ◆ https://kruegerpottery.com/collections/all                                                           | ✓ | ⏱: 0.11s 
+[COMPLETE] ● https://kruegerpottery.com/collections/all                                                           | ✓ | ⏱: 3.71s 
+[FETCH]... ↓ https://saintlouis.kidsoutandabout.com/content/krueger-pottery                                       | ✓ | ⏱: 2.90s 
+[SCRAPE].. ◆ https://saintlouis.kidsoutandabout.com/content/krueger-pottery                                       | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://saintlouis.kidsoutandabout.com/content/krueger-pottery                                       | ✓ | ⏱: 4.94s 
+[FETCH]... ↓ https://www.facebook.com/Kruegerpotterysupply                                                        | ✓ | ⏱: 3.88s 
+[SCRAPE].. ◆ https://www.facebook.com/Kruegerpotterysupply                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.facebook.com/Kruegerpotterysupply                                                        | ✓ | ⏱: 5.90s 
+[FETCH]... ↓ https://www.instagram.com/kruegerpottery?hl=en                                                       | ✓ | ⏱: 5.04s 
+[SCRAPE].. ◆ https://www.instagram.com/kruegerpottery?hl=en                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.instagram.com/kruegerpottery?hl=en                                                       | ✓ | ⏱: 7.07s 
+[FETCH]... ↓ https://www.zoominfo.com/pic/krueger-pottery-inc/129664040                                           | ✓ | ⏱: 1.19s 
+[SCRAPE].. ◆ https://www.zoominfo.com/pic/krueger-pottery-inc/129664040                                           | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...r-pottery-inc/129664040  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/pic/krueger-pottery-inc/129664040                                           | ✗ | ⏱: 1.83s 
+[FETCH]... ↓ https://www.zoominfo.com/c/krueger-pottery-inc/129664040                                             | ✓ | ⏱: 2.78s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/krueger-pottery-inc/129664040                                             | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...r-pottery-inc/129664040  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/c/krueger-pottery-inc/129664040                                             | ✗ | ⏱: 3.60s 
+[FETCH]... ↓ https://ceramic.school/places/krueger-pottery-supply                                                 | ✓ | ⏱: 11.58s 
+[SCRAPE].. ◆ https://ceramic.school/places/krueger-pottery-supply                                                 | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://ceramic.school/places/krueger-pottery-supply                                                 | ✓ | ⏱: 13.19s 
+[FETCH]... ↓ https://www.startupwebsolutions.com.au/k-headquarters/krueger-pottery-supply-headquarters.html       | ✓ | ⏱: 6.34s 
+[SCRAPE].. ◆ https://www.startupwebsolutions.com.au/k-headquarters/krueger-pottery-supply-headquarters.html       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.startupwebsolutions.com.au/k-headquarters/krueger-pottery-supply-headquarters.html       | ✓ | ⏱: 8.36s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.zoominfo.com/c/krueger-pottery-inc/129664040                                             | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.zoominfo.com/c/krueger-pottery-inc/129664040                                             | ✓ | ⏱: 0.03s 
+[FETCH]... ↓ https://www.zoominfo.com/pic/krueger-pottery-inc/129664040                                           | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.zoominfo.com/pic/krueger-pottery-inc/129664040                                           | ✓ | ⏱: 0.00s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://kruegerpottery.com/pages/krueger-pottery-supply-staff                                        | ✓ | ⏱: 2.77s 
+[SCRAPE].. ◆ https://kruegerpottery.com/pages/krueger-pottery-supply-staff                                        | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://kruegerpottery.com/pages/krueger-pottery-supply-staff                                        | ✓ | ⏱: 2.82s 
+[FETCH]... ↓ https://kruegerpottery.com/pages/covid                                                               | ✓ | ⏱: 3.00s 
+[SCRAPE].. ◆ https://kruegerpottery.com/pages/covid                                                               | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://kruegerpottery.com/pages/covid                                                               | ✓ | ⏱: 3.04s 
+[FETCH]... ↓ https://kruegerpottery.com/pages/jobs                                                                | ✓ | ⏱: 2.86s 
+[SCRAPE].. ◆ https://kruegerpottery.com/pages/jobs                                                                | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://kruegerpottery.com/pages/jobs                                                                | ✓ | ⏱: 2.91s 
+[FETCH]... ↓ https://kruegerpottery.com/pages/krueger-pottery...O2pkkvjm4N8jSa99DFTrJAeMBlh9qeA7f7UIwE4aM4lFLz_k  | ✓ | ⏱: 2.90s 
+[SCRAPE].. ◆ https://kruegerpottery.com/pages/krueger-pottery...O2pkkvjm4N8jSa99DFTrJAeMBlh9qeA7f7UIwE4aM4lFLz_k  | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://kruegerpottery.com/pages/krueger-pottery...O2pkkvjm4N8jSa99DFTrJAeMBlh9qeA7f7UIwE4aM4lFLz_k  | ✓ | ⏱: 2.95s 
+[FETCH]... ↓ https://kruegerpottery.com/pages/krueger-pottery-supply-store-studio-hours                           | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://kruegerpottery.com/pages/krueger-pottery-supply-store-studio-hours                           | ✓ | ⏱: 0.00s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260817/krueger-pottery-supply-4b90cd6ef886.json

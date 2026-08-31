@@ -1,0 +1,65 @@
+{
+  "company_name": "RefraeX International FZ-LLC",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "linkedin",
+      "value": "https://www.linkedin.com/in/arul-kumar-252b64157/?originalSubdomain=ae",
+      "status": "observed",
+      "source_url": "https://refraex.com/about-us/",
+      "company_public": true
+    },
+    {
+      "channel": "linkedin",
+      "value": "https://www.linkedin.com/in/arul-kumar-252b64157/",
+      "status": "observed",
+      "source_url": "https://refraex.com/specialists",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "C. Arul Kumar",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 2,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 38,
+    "search_engine_warnings": 0,
+    "urls_crawled": 11,
+    "crawl_failures": 3,
+    "contact_signals": 25,
+    "official_urls_discovered": 3,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 6,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 2,
+    "crm_duplicates_removed": 2,
+    "target_contactable_items": 4,
+    "contactable_items": 2,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

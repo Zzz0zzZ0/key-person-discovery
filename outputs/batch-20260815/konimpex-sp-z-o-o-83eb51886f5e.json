@@ -1,0 +1,222 @@
+{
+  "company_name": "Konimpex Sp. z o.o.",
+  "candidates": [
+    {
+      "full_name": "Wojciech Pluta-Plutowski",
+      "current_title": "President of the Management Board",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 10,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://konimpex.pl/social-responsibility-politics",
+          "quote": "President of the Management Board  Wojciech Pluta-Plutowski",
+          "supports": "Current role as President of the Management Board at Konimpex Sp. z o.o."
+        },
+        {
+          "source_url": "https://www.northdata.com/Konimpex%20sp%C2%B7%20z%20o%C2%B7o%C2%B7,%20Konin/KRS0000043189",
+          "quote": "CEO Wiesław Wojciech Pluta-Plutowski CEO W. W. Pluta-Plutowski",
+          "supports": "Current CEO at Konimpex Sp. z o.o. since 2008, confirmed via KRS registry"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "alternative@konimpex.com.pl",
+      "status": "observed",
+      "source_url": "https://konimpex.pl/contact",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48694450462",
+      "status": "valid_format",
+      "source_url": "https://konimpex.pl/contact",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48694450373",
+      "status": "valid_format",
+      "source_url": "https://konimpex.pl/contact",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48502104171",
+      "status": "valid_format",
+      "source_url": "https://konimpex.pl/contact",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48513828832",
+      "status": "valid_format",
+      "source_url": "https://konimpex.pl/contact",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48694450354",
+      "status": "valid_format",
+      "source_url": "https://konimpex.pl/contact",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48694450397",
+      "status": "valid_format",
+      "source_url": "https://konimpex.pl/contact",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48513828633",
+      "status": "valid_format",
+      "source_url": "https://konimpex.pl/contact",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48694450609",
+      "status": "valid_format",
+      "source_url": "https://konimpex.pl/contact",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48694450693",
+      "status": "valid_format",
+      "source_url": "https://konimpex.pl/contact",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48513828775",
+      "status": "valid_format",
+      "source_url": "https://konimpex.pl/contact",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "konimpex@konimpex.com.pl",
+      "status": "observed",
+      "source_url": "https://www.krs-online.com.pl/firma/1439986-konimpex-sp-z-o-o-pph-zaklad-obrotu-surowcami-chemicznymi",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 8,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 29,
+    "search_engine_warnings": 1,
+    "urls_crawled": 17,
+    "crawl_failures": 1,
+    "contact_signals": 20,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 5,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 3,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 34,
+    "crm_duplicates_removed": 8,
+    "target_contactable_items": 1,
+    "contactable_items": 12,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

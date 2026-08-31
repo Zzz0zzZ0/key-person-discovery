@@ -1,0 +1,202 @@
+{
+  "company_name": "Clauberg Gruppe",
+  "candidates": [
+    {
+      "full_name": "Michael Clauberg",
+      "current_title": "Geschäftsführer / Authorized Representative, Michael Clauberg Schleifmittelfabrik GmbH",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "info@clauberg-schleifmittel.de",
+          "status": "observed",
+          "source_url": "https://clauberg-schleifmittel.de/impressum/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+492025141760",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://clauberg-schleifmittel.de/impressum/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://clauberg-schleifmittel.de/impressum/",
+          "quote": "Vertreten durch: Michael Clauberg",
+          "supports": "Michael Clauberg is the authorized representative (Vertreter) of Michael Clauberg Schleifmittelfabrik GmbH, the primary operating company of Clauberg Gruppe"
+        },
+        {
+          "source_url": "https://clauberg-schleifmittel.de/impressum/",
+          "quote": "Michael Clauberg Schleifmittelfabrik GmbH, Industriestr. 40, 42327 Wuppertal",
+          "supports": "Company address and legal entity confirmation"
+        },
+        {
+          "source_url": "https://clauberg-schleifmittel.de/?lang=en",
+          "quote": "Michael Clauberg GmbH, founded in 1966 in Wuppertal-Cronenberg",
+          "supports": "Founding history confirms company identity"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info@clauberg-gruppe.de",
+      "status": "observed",
+      "source_url": "https://clauberg-schleifmittel.de/impressum/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+4920251417610",
+      "status": "valid_format",
+      "source_url": "https://clauberg-schleifmittel.de/impressum/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+49202373280",
+      "status": "valid_format",
+      "source_url": "https://clauberg-schleifmittel.de/impressum/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+4920237328100",
+      "status": "valid_format",
+      "source_url": "https://clauberg-schleifmittel.de/impressum/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    }
+  ],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Moritz Berndtson",
+      "current_title": "Prokurist",
+      "company_match": "probable",
+      "influence_type": "decision_maker",
+      "influence_score": 75,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/moritz-berndtson-0b82b598",
+          "status": "probable",
+          "source_url": "https://de.linkedin.com/in/moritz-berndtson-0b82b598"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://de.linkedin.com/in/moritz-berndtson-0b82b598",
+          "quote": "Moritz Berndtson – Prokurist bei Clauberg Gruppe",
+          "supports": "LinkedIn search excerpt identifies Moritz Berndtson as Prokurist at Clauberg Gruppe. A 'Prokurist' holds commercial power of attorney and is a senior managerial role with decision-making authority."
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Lars Clauberg",
+      "current_title": "Unknown (formerly: Übernahme 1997, Carl Lauterjung Schleifmittelfabrik GmbH)",
+      "company_match": "uncertain",
+      "influence_type": "decision_maker",
+      "influence_score": 60,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://clauberg-schleifmittel.de/?lang=en",
+          "quote": "1997 – Lars Clauberg takes over Carl Lauterjung Schleifmittelfabrik GmbH which was founded in Solingen in 1896",
+          "supports": "Historical record showing Lars Clauberg took over Carl Lauterjung Schleifmittelfabrik GmbH in 1997. Current employment at Clauberg Gruppe cannot be verified from available evidence."
+        }
+      ],
+      "confidence": 0.3,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "validation_rejections": [
+    {
+      "full_name": "Moritz Berndtson",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Lars Clauberg",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 45,
+    "search_engine_warnings": 5,
+    "urls_crawled": 10,
+    "crawl_failures": 5,
+    "contact_signals": 28,
+    "official_urls_discovered": 1,
+    "crm_website": "https://clauberg-gruppe.de",
+    "official_website": "https://clauberg-schleifmittel.de",
+    "website_recovered": true,
+    "pdf_documents_discovered": 2,
+    "pdf_documents_processed": 2,
+    "pdf_documents_extracted": 1,
+    "pdf_pages_extracted": 6,
+    "pdf_failures": 1,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 2,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 2,
+    "unverified_candidates": 2,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 6,
+    "target_contact_methods": 4,
+    "contact_methods": 7,
+    "contact_target_met": true,
+    "broad_discovery": false,
+    "topeasy_import": {},
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

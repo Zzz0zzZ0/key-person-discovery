@@ -1,0 +1,326 @@
+{
+  "Krueger Pottery Supply": [
+    {
+      "url": "https://kruegerpottery.com/",
+      "status": 200,
+      "final_url": "https://kruegerpottery.com/",
+      "html_bytes": 429247,
+      "counts": {
+        "microdata": 0,
+        "json-ld": 2,
+        "opengraph": 1
+      },
+      "data": {
+        "microdata": [],
+        "json-ld": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Krueger Pottery Supply",
+            "logo": "https://cdn.shopify.com/s/files/1/0010/1931/4239/files/main_logo_250px_250x.png?v=1614747170",
+            "sameAs": [
+              "twitter.com/kruegerpottery",
+              "https://www.facebook.com/Kruegerpotterysupply/",
+              "",
+              "https://www.instagram.com/kruegerpottery/",
+              "",
+              "",
+              "https://www.youtube.com/kruegerpotterysupply",
+              ""
+            ],
+            "url": "https://kruegerpottery.com"
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "WebSite",
+            "name": "Krueger Pottery Supply",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://kruegerpottery.com/search?q={search_term_string}",
+              "query-input": "required name=search_term_string"
+            },
+            "url": "https://kruegerpottery.com"
+          }
+        ],
+        "opengraph": [
+          {
+            "og:site_name": "Krueger Pottery Supply",
+            "og:url": "https://kruegerpottery.com/",
+            "og:title": "Krueger Pottery Supply - Clay Supplies, Pottery Classes, Kiln Repair",
+            "og:description": "Shop our brick and mortar store in St. Louis or try us online for glazes, clay, tools, kilns, pottery wheels, extruders, slab rollers, raw materials, classes and kiln repair. Fast shipping and knowledgeable staff. We support what we sell!",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://kruegerpottery.com/pages/krueger-pottery-supply-contact-us-directions",
+      "status": 200,
+      "final_url": "https://kruegerpottery.com/pages/krueger-pottery-supply-contact-us-directions",
+      "html_bytes": 274551,
+      "counts": {
+        "microdata": 0,
+        "json-ld": 1,
+        "opengraph": 1
+      },
+      "data": {
+        "microdata": [],
+        "json-ld": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Krueger Pottery Supply",
+            "logo": "https://cdn.shopify.com/s/files/1/0010/1931/4239/files/main_logo_250px_250x.png?v=1614747170",
+            "sameAs": [
+              "twitter.com/kruegerpottery",
+              "https://www.facebook.com/Kruegerpotterysupply/",
+              "",
+              "https://www.instagram.com/kruegerpottery/",
+              "",
+              "",
+              "https://www.youtube.com/kruegerpotterysupply",
+              ""
+            ],
+            "url": "https://kruegerpottery.com/pages/krueger-pottery-supply-contact-us-directions"
+          }
+        ],
+        "opengraph": [
+          {
+            "og:site_name": "Krueger Pottery Supply",
+            "og:url": "https://kruegerpottery.com/pages/krueger-pottery-supply-contact-us-directions",
+            "og:title": "Krueger Pottery Supply - Contact Us & Directions",
+            "og:description": " Quick Directions - For detailed directions use the Google Maps link aboveComing from the East on I-44Exit at Shrewsbury. Make a left at the stop light, follow Shrewsbury to the first light which is Big Bend. Go left, and follow past Laclede Station Road and Murdoch (Stop Sign). We will be on the right side after Murdo",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://kruegerpottery.com/pages/krueger-pottery-supply-staff",
+      "status": 404,
+      "final_url": "https://kruegerpottery.com/pages/krueger-pottery-supply-staff",
+      "html_bytes": 270505,
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://kruegerpottery.com/pages/krueger-pottery-supply-staff"
+    }
+  ],
+  "Batts Kilns & Furnaces Ltd": [
+    {
+      "url": "https://kilns.co.uk/",
+      "status": 200,
+      "final_url": "https://www.kilns.co.uk/",
+      "html_bytes": 31332,
+      "counts": {
+        "microdata": 0,
+        "json-ld": 1,
+        "opengraph": 1
+      },
+      "data": {
+        "microdata": [],
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "WebPage",
+                "@id": "https://www.kilns.co.uk/",
+                "url": "https://www.kilns.co.uk/",
+                "name": "Pottery Kilns | Industrial Furnaces | Kilns & Furnaces",
+                "isPartOf": {
+                  "@id": "https://www.kilns.co.uk/#website"
+                },
+                "primaryImageOfPage": {
+                  "@id": "https://www.kilns.co.uk/#primaryimage"
+                },
+                "image": {
+                  "@id": "https://www.kilns.co.uk/#primaryimage"
+                },
+                "thumbnailUrl": "https://www.kilns.co.uk/wp-content/uploads/2025/10/KF_In-Stock_Banner_v7.jpg",
+                "datePublished": "2014-12-01T13:51:31+00:00",
+                "dateModified": "2026-08-07T12:18:10+00:00",
+                "description": "Leading UK manufacturer of kilns and furnaces for ceramics, glass, metal heat treatment, & dental applications, with over 70 years of engineering expertise. Enquire now.",
+                "breadcrumb": {
+                  "@id": "https://www.kilns.co.uk/#breadcrumb"
+                },
+                "inLanguage": "en-US",
+                "potentialAction": [
+                  {
+                    "@type": "ReadAction",
+                    "target": [
+                      "https://www.kilns.co.uk/"
+                    ]
+                  }
+                ]
+              },
+              {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://www.kilns.co.uk/#primaryimage",
+                "url": "https://www.kilns.co.uk/wp-content/uploads/2025/10/KF_In-Stock_Banner_v7.jpg",
+                "contentUrl": "https://www.kilns.co.uk/wp-content/uploads/2025/10/KF_In-Stock_Banner_v7.jpg",
+                "width": 1000,
+                "height": 400,
+                "caption": "Explore our range of in stock kilns including the new EcoKiln+, Phoenix, Falcon, and CU range of kilns. Available for delivery. Click the image and contact us to purchase your next kiln."
+              },
+              {
+                "@type": "BreadcrumbList",
+                "@id": "https://www.kilns.co.uk/#breadcrumb",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home"
+                  }
+                ]
+              },
+              {
+                "@type": "WebSite",
+                "@id": "https://www.kilns.co.uk/#website",
+                "url": "https://www.kilns.co.uk/",
+                "name": "Kilns &amp; Furnaces",
+                "description": "Offering Complete Kiln and Furnace solutions",
+                "potentialAction": [
+                  {
+                    "@type": "SearchAction",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://www.kilns.co.uk/?s={search_term_string}"
+                    },
+                    "query-input": {
+                      "@type": "PropertyValueSpecification",
+                      "valueRequired": true,
+                      "valueName": "search_term_string"
+                    }
+                  }
+                ],
+                "inLanguage": "en-US"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:locale": "en_US",
+            "og:title": "Pottery Kilns | Industrial Furnaces | Kilns & Furnaces",
+            "og:description": "Leading UK manufacturer of kilns and furnaces for ceramics, glass, metal heat treatment, & dental applications, with over 70 years of engineering expertise. Enquire now.",
+            "og:url": "https://www.kilns.co.uk/",
+            "og:site_name": "Kilns & Furnaces",
+            "article:modified_time": "2026-08-07T12:18:10+00:00",
+            "og:image": "https://www.kilns.co.uk/wp-content/uploads/2025/10/KF_In-Stock_Banner_v7.jpg",
+            "og:image:width": "1000",
+            "og:image:height": "400",
+            "og:image:type": "image/jpeg",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#",
+              "article": "http://ogp.me/ns/article#"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://kilns.co.uk/contact-us/",
+      "status": 200,
+      "final_url": "https://www.kilns.co.uk/contact-us",
+      "html_bytes": 29797,
+      "counts": {
+        "microdata": 0,
+        "json-ld": 1,
+        "opengraph": 1
+      },
+      "data": {
+        "microdata": [],
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "WebPage",
+                "@id": "https://www.kilns.co.uk/contact-us",
+                "url": "https://www.kilns.co.uk/contact-us",
+                "name": "Contact Us - Kilns &amp; Furnaces",
+                "isPartOf": {
+                  "@id": "https://www.kilns.co.uk/#website"
+                },
+                "datePublished": "2015-01-09T12:25:59+00:00",
+                "dateModified": "2026-03-10T15:33:49+00:00",
+                "breadcrumb": {
+                  "@id": "https://www.kilns.co.uk/contact-us#breadcrumb"
+                },
+                "inLanguage": "en-US",
+                "potentialAction": [
+                  {
+                    "@type": "ReadAction",
+                    "target": [
+                      "https://www.kilns.co.uk/contact-us"
+                    ]
+                  }
+                ]
+              },
+              {
+                "@type": "BreadcrumbList",
+                "@id": "https://www.kilns.co.uk/contact-us#breadcrumb",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.kilns.co.uk/"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Contact Us"
+                  }
+                ]
+              },
+              {
+                "@type": "WebSite",
+                "@id": "https://www.kilns.co.uk/#website",
+                "url": "https://www.kilns.co.uk/",
+                "name": "Kilns &amp; Furnaces",
+                "description": "Offering Complete Kiln and Furnace solutions",
+                "potentialAction": [
+                  {
+                    "@type": "SearchAction",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://www.kilns.co.uk/?s={search_term_string}"
+                    },
+                    "query-input": {
+                      "@type": "PropertyValueSpecification",
+                      "valueRequired": true,
+                      "valueName": "search_term_string"
+                    }
+                  }
+                ],
+                "inLanguage": "en-US"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:locale": "en_US",
+            "og:title": "Contact Us - Kilns & Furnaces",
+            "og:description": "Kilns & Furnaces Ltd Cinderhill Industrial Estate Weston Coyney Road Longton Stoke-on-Trent ST3 5JU United Kingdom   Phone: +44 (0) 1782 344270 E-Mail: sales@kilns.co.uk",
+            "og:url": "https://www.kilns.co.uk/contact-us",
+            "og:site_name": "Kilns & Furnaces",
+            "article:modified_time": "2026-03-10T15:33:49+00:00",
+            "@type": "article",
+            "@context": {
+              "og": "http://ogp.me/ns#",
+              "article": "http://ogp.me/ns/article#"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

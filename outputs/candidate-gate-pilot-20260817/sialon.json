@@ -1,0 +1,126 @@
+{
+  "company_name": "Sialon Ceramics",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+4535158085",
+      "status": "valid_format",
+      "source_url": "https://sialon.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+18337091399",
+      "status": "valid_format",
+      "source_url": "https://sialon.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+46317540790",
+      "status": "valid_format",
+      "source_url": "https://sialon.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Nico van Dongen",
+      "current_title": "Unknown",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+          "status": "observed",
+          "source_url": "https://sialon.com"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://sialon.com",
+          "quote": "[ ](https://www.linkedin.com/in/nico-van-dongen-3a6466165/)",
+          "supports": "LinkedIn profile linked from company website footer alongside Twitter and YouTube icons"
+        },
+        {
+          "source_url": "https://sialon.com/about-us/",
+          "quote": "[ ](https://www.linkedin.com/in/nico-van-dongen-3a6466165/)",
+          "supports": "Same LinkedIn profile linked from About Us page footer"
+        },
+        {
+          "source_url": "https://sialon.com/contact/",
+          "quote": "[ ](https://www.linkedin.com/in/nico-van-dongen-3a6466165/)",
+          "supports": "Same LinkedIn profile linked from Contact page footer"
+        }
+      ],
+      "confidence": 0.25,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "validation_rejections": [
+    {
+      "full_name": "Nico van Dongen",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 18,
+    "search_engine_warnings": 12,
+    "urls_crawled": 20,
+    "crawl_failures": 0,
+    "contact_signals": 80,
+    "official_urls_discovered": 3,
+    "crm_website": "https://sialon.com",
+    "official_website": "https://sialon.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 1,
+    "unverified_candidates": 1,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 3,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

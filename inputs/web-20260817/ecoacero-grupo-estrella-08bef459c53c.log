@@ -1,0 +1,22 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://aceroestrella.com.do                                                                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://aceroestrella.com.do                                                                         | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://estrella.com.do/empresas/ecoacero/                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://estrella.com.do/empresas/ecoacero/                                                           | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://rdteve.com/nacionales/economia-nacionales/inauguracion-ecoacero-san-pedro-de-macoris/        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://rdteve.com/nacionales/economia-nacionales/inauguracion-ecoacero-san-pedro-de-macoris/        | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.sms-group.com/en-us/press-and-media/...for-its-new-rebar-mill-in-the-dominican-republic  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sms-group.com/en-us/press-and-media/...for-its-new-rebar-mill-in-the-dominican-republic  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.wire-tradefair.com/en/Media_News/New...n_in_Central_America_SMS_group_builds_rebar_mill  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.wire-tradefair.com/en/Media_News/New...n_in_Central_America_SMS_group_builds_rebar_mill  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.zoominfo.com/c/acero-estrella/425424738                                                  | ✓ | ⏱: 1.61s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/acero-estrella/425424738                                                  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...cero-estrella/425424738  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/c/acero-estrella/425424738                                                  | ✗ | ⏱: 2.42s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.zoominfo.com/c/acero-estrella/425424738                                                  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.zoominfo.com/c/acero-estrella/425424738                                                  | ✓ | ⏱: 0.00s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260817/ecoacero-grupo-estrella-08bef459c53c.json

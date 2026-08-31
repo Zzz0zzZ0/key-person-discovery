@@ -1,0 +1,210 @@
+[
+  {
+    "channel": "email",
+    "value": "info@zalco.nl",
+    "status": "observed",
+    "source_url": "https://zalco.nl",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31113615000",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31113615003",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31113615006",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@zalco.nl",
+    "status": "observed",
+    "source_url": "https://zalco.nl/en/home",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31113615000",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl/en/home",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31113615003",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl/en/home",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31113615006",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl/en/home",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@zalco.nl",
+    "status": "observed",
+    "source_url": "https://zalco.nl/en/contact",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31113615000",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl/en/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31113615003",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl/en/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31113615006",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl/en/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@zalco.nl",
+    "status": "observed",
+    "source_url": "https://zalco.nl/en/news1",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31113615000",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl/en/news1",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@zalco.nl",
+    "status": "observed",
+    "source_url": "https://zalco.nl/en/news1/zalco-at-the-fair-in-dusseldorf-20163",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31113615000",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl/en/news1/zalco-at-the-fair-in-dusseldorf-20163",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@zalco.nl",
+    "status": "observed",
+    "source_url": "https://zalco.nl/nl/contact",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31113615000",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl/nl/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31113615003",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl/nl/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31113615006",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl/nl/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@zalco.nl",
+    "status": "observed",
+    "source_url": "https://zalco.nl/en/contact/directions",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31113615000",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl/en/contact/directions",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31102922689",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl/assets/files/ISO_9001.pdf?v=2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+31102922689",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl/assets/files/ISO_14001.pdf?v=2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+31102922689",
+    "status": "valid_format",
+    "source_url": "https://zalco.nl/assets/files/ISO_9001.pdf?v=2024",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

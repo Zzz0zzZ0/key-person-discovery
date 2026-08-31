@@ -1,0 +1,131 @@
+{
+  "company_name": "Runyan Pottery Supply, INC.",
+  "candidates": [
+    {
+      "full_name": "Mary Runyan",
+      "current_title": "Owner",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+18106874500",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.thebluebook.com/iProView/1028327/runyan-pottery-supply-inc/manufacturers/locations-contacts/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.thebluebook.com/iProView/1028327/runyan-pottery-supply-inc/manufacturers/locations-contacts/",
+          "quote": "Mary Runyan, Owner, Main Location",
+          "supports": "Current owner at Runyan Pottery Supply, Inc."
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    },
+    {
+      "full_name": "Tony Zintsmaster",
+      "current_title": "Owner",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.thebluebook.com/iProView/1028327/runyan-pottery-supply-inc/manufacturers/locations-contacts/",
+          "quote": "Tony Zintsmaster, Owner, Main Location",
+          "supports": "Current owner at Runyan Pottery Supply, Inc."
+        }
+      ],
+      "confidence": 0.7,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "technical@maycocolors.com",
+      "status": "observed",
+      "source_url": "https://www.maycocolors.com/distributors/runyan-pottery-supply/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@maycocolors.com",
+      "status": "observed",
+      "source_url": "https://www.maycocolors.com/distributors/runyan-pottery-supply/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+18016874512",
+      "status": "valid_format",
+      "source_url": "https://www.thebluebook.com/iProView/1028327/runyan-pottery-supply-inc/manufacturers/locations-contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+18016874515",
+      "status": "valid_format",
+      "source_url": "https://www.thebluebook.com/iProView/1028327/runyan-pottery-supply-inc/manufacturers/locations-contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+18887201710",
+      "status": "valid_format",
+      "source_url": "https://www.thebluebook.com/iProView/1028327/runyan-pottery-supply-inc/manufacturers/locations-contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 28,
+    "search_engine_warnings": 1,
+    "urls_crawled": 17,
+    "crawl_failures": 4,
+    "contact_signals": 15,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 2,
+    "pdf_documents_processed": 2,
+    "pdf_documents_extracted": 1,
+    "pdf_pages_extracted": 13,
+    "pdf_failures": 2,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 4,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 2,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 4,
+    "contactable_items": 6,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

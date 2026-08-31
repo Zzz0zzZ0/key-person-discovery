@@ -1,0 +1,655 @@
+[
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@sialon.com",
+    "status": "observed",
+    "source_url": "https://sialon.com/privacy/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/privacy/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/privacy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/privacy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/privacy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/sialon-ceramics-general-terms-and-conditions-of-sale/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/sialon-ceramics-general-terms-and-conditions-of-sale/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/sialon-ceramics-general-terms-and-conditions-of-sale/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/sialon-ceramics-general-terms-and-conditions-of-sale/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/about-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/de/contact/?wg-choose-original=false",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/de/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/de/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/de/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/el/contact/?wg-choose-original=false",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/el/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/el/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/el/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/es/contact/?wg-choose-original=false",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/es/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/es/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/es/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/fr/contact/?wg-choose-original=false",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/fr/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/fr/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/fr/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/id/contact/?wg-choose-original=false",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/id/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/id/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/id/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/it/contact/?wg-choose-original=false",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/it/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/it/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/it/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/pt/contact/?wg-choose-original=false",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/pt/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/pt/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/pt/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/sv/contact/?wg-choose-original=false",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/sv/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/sv/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/sv/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/tr/contact/?wg-choose-original=false",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/tr/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/tr/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/tr/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/zh/contact/?wg-choose-original=false",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/zh/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/zh/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/zh/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://www.sialon.com/about-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://www.sialon.com/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://www.sialon.com/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://www.sialon.com/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/cs/contact/?wg-choose-original=false",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/cs/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/cs/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/cs/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/bs/contact/?wg-choose-original=false",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/bs/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/bs/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/bs/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/da/contact/?wg-choose-original=false",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/da/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/da/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/da/contact/?wg-choose-original=false",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

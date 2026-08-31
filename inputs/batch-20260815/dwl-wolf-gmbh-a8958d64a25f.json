@@ -1,0 +1,118 @@
+{
+  "name": "DWL-Wolf GmbH",
+  "website": "https://www.dwl-wolf.de",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "014ab755-b523-431e-aeaf-1c29c18741e8",
+  "crm_linkedin_url": "https://de.linkedin.com/company/dwl-wolf-gmbh",
+  "crm_country": "德国",
+  "crm_updated_at": "2026-07-28T10:08:32.991391+00:00",
+  "crm_contact_count": 9,
+  "crm_contacts": [
+    {
+      "name": " Andreas Wolf",
+      "email": "andreas.wolf@dwl-wolf.de",
+      "additional_emails": [],
+      "phone": "+49 2351 67274317",
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/andreas-wolf-dwl",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "info@dwl-wolf.de",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+49 2351 6727430",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Jannik Tuleja",
+      "email": "jannik.tuleja@dwl-wolf.de",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/jannik-tuleja-61a042150",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Julian Wolf",
+      "email": "julian.wolf@dwl-wolf.de",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/julian-wolf-722a91250",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Kirsten Wolf",
+      "email": "kirsten.wolf@dwl-wolf.de",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/kirsten-wolf-043152252",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Tobias Beermann",
+      "email": "tobias.beermann@dwl-wolf.de",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/tobias-beermann-72027114b",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Ufuk Sirlibas",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/ufuk-sirlibas-2aa013368",
+      "additional_linkedin": null
+    },
+    {
+      "name": " K V",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/%d0%ba-%d0%b2-42404721a",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-15T04:34:56.400807+00:00",
+  "source": "twenty_postgresql_read_only"
+}

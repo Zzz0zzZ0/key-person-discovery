@@ -1,0 +1,275 @@
+{
+  "company_name": "Saldotecnica Europe S.R.L.",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+442920886500",
+      "status": "valid_format",
+      "source_url": "https://www.creditsafe.com/business-index/en-gb/company/saldotecnica-europe-srl-it07996548",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+390106133849",
+      "status": "valid_format",
+      "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+12199832438",
+      "status": "valid_format",
+      "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+919830041002",
+      "status": "valid_format",
+      "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+905334773872",
+      "status": "valid_format",
+      "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+380509124683",
+      "status": "valid_format",
+      "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+5511982082660",
+      "status": "valid_format",
+      "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+20227382678",
+      "status": "valid_format",
+      "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48322051258",
+      "status": "valid_format",
+      "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48601433387",
+      "status": "valid_format",
+      "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+56933892156",
+      "status": "valid_format",
+      "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+492161952625",
+      "status": "valid_format",
+      "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+358503164225",
+      "status": "valid_format",
+      "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Luca Giusti",
+      "matched_by": [
+        "email",
+        "linkedin",
+        "name"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 17,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 21,
+    "search_engine_warnings": 1,
+    "urls_crawled": 13,
+    "crawl_failures": 5,
+    "contact_signals": 146,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 14,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 3,
+    "pdf_pages_extracted": 8,
+    "pdf_failures": 0,
+    "search_evidence_pages": 3,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 23,
+    "crm_duplicates_removed": 17,
+    "target_contactable_items": 1,
+    "contactable_items": 13,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "query": "https://battskilns.co.uk",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://battskilns.co.uk/sitemap.xml: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "site:battskilns.co.uk (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:battskilns.co.uk (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "too many requests"
+  }
+]

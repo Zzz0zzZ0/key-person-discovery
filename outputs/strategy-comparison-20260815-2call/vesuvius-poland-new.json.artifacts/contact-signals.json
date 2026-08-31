@@ -1,0 +1,18 @@
+[
+  {
+    "channel": "email",
+    "value": "office@vesuvius.com.pl",
+    "status": "observed",
+    "source_url": "https://spmo.gliwice.pl/en/vesuvius-en/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48122775122",
+    "status": "valid_format",
+    "source_url": "https://spmo.gliwice.pl/en/vesuvius-en/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

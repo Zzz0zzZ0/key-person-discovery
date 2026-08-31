@@ -1,0 +1,156 @@
+[
+  {
+    "channel": "whatsapp",
+    "value": "+5519998641869",
+    "status": "verified",
+    "source_url": "http://www.braskort.com.br/contato"
+  },
+  {
+    "channel": "phone",
+    "value": "+5519998641869",
+    "status": "valid_format",
+    "source_url": "http://www.braskort.com.br/contato",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "phone",
+    "value": "+551938781426",
+    "status": "valid_format",
+    "source_url": "http://www.braskort.com.br/contato",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5519998641869",
+    "status": "verified",
+    "source_url": "https://www.braskort.com.br/produtos"
+  },
+  {
+    "channel": "phone",
+    "value": "+5519998641869",
+    "status": "valid_format",
+    "source_url": "https://www.braskort.com.br/produtos",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "phone",
+    "value": "+551938781426",
+    "status": "valid_format",
+    "source_url": "https://www.braskort.com.br/produtos",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5519998641869",
+    "status": "verified",
+    "source_url": "https://www.braskort.com.br"
+  },
+  {
+    "channel": "phone",
+    "value": "+5519998641869",
+    "status": "valid_format",
+    "source_url": "https://www.braskort.com.br",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "phone",
+    "value": "+551938781426",
+    "status": "valid_format",
+    "source_url": "https://www.braskort.com.br",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+551939485330",
+    "status": "valid_format",
+    "source_url": "https://www.braskort.com.br",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5519998641869",
+    "status": "verified",
+    "source_url": "https://www.braskort.com.br/empresa"
+  },
+  {
+    "channel": "phone",
+    "value": "+5519998641869",
+    "status": "valid_format",
+    "source_url": "https://www.braskort.com.br/empresa",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "phone",
+    "value": "+551938781426",
+    "status": "valid_format",
+    "source_url": "https://www.braskort.com.br/empresa",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5519998641869",
+    "status": "verified",
+    "source_url": "https://www.braskort.com.br/produtos/discos-de-corte-oxido-de-aluminio"
+  },
+  {
+    "channel": "phone",
+    "value": "+5519998641869",
+    "status": "valid_format",
+    "source_url": "https://www.braskort.com.br/produtos/discos-de-corte-oxido-de-aluminio",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "phone",
+    "value": "+551938781426",
+    "status": "valid_format",
+    "source_url": "https://www.braskort.com.br/produtos/discos-de-corte-oxido-de-aluminio",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5519998641869",
+    "status": "verified",
+    "source_url": "https://www.braskort.com.br/contato"
+  },
+  {
+    "channel": "phone",
+    "value": "+5519998641869",
+    "status": "valid_format",
+    "source_url": "https://www.braskort.com.br/contato",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "phone",
+    "value": "+551938781426",
+    "status": "valid_format",
+    "source_url": "https://www.braskort.com.br/contato",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5519998641869",
+    "status": "verified",
+    "source_url": "https://www.braskort.com.br/sobre"
+  },
+  {
+    "channel": "phone",
+    "value": "+5519998641869",
+    "status": "valid_format",
+    "source_url": "https://www.braskort.com.br/sobre",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "phone",
+    "value": "+551938781426",
+    "status": "valid_format",
+    "source_url": "https://www.braskort.com.br/sobre",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+551939485330",
+    "status": "valid_format",
+    "source_url": "https://www.braskort.com.br/sobre",
+    "whatsapp_status": "unknown"
+  }
+]

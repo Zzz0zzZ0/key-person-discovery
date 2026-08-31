@@ -1,0 +1,381 @@
+[
+  {
+    "channel": "phone",
+    "value": "+49216399960",
+    "status": "valid_format",
+    "source_url": "https://www.bundes-telefonbuch.de/niederkruechten/firma/dwl-wolf-gmbh-bvg063717766",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/en/impressum/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4923516727430",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de/en/impressum/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4923516727430",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/en/neu-im-team/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4923516727430",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de/en/neu-im-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/en/produktion/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4923516727430",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de/en/produktion/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/en/unternehmen/news/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4923516727430",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de/en/unternehmen/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/en/teeamwork/unser-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "andreas.wolf@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/en/teeamwork/unser-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kirsten.wolf@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/en/teeamwork/unser-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "julian.wolf@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/en/teeamwork/unser-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jannik.tuleja@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/en/teeamwork/unser-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "vitalij.sorokin@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/en/teeamwork/unser-team/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4923516727430",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de/en/teeamwork/unser-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49235167274317",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de/en/teeamwork/unser-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49235167274314",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de/en/teeamwork/unser-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+491633999602",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de/en/teeamwork/unser-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49235167274315",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de/en/teeamwork/unser-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4917610270613",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de/en/teeamwork/unser-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/en/unternehmen/standorte",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4923516727430",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de/en/unternehmen/standorte",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/en/unternehmen/historie",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4923516727430",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de/en/unternehmen/historie",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/unternehmen/news/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4923516727430",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de/unternehmen/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kirsten.wolf@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.xing.com/pages/dwl-wolf-gmbh",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4923516727430",
+    "status": "valid_format",
+    "source_url": "https://www.xing.com/pages/dwl-wolf-gmbh",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.regiomanager.de/suedwestfalen/unternehmen/dwl-wolf-gmbh/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/teeamwork/unser-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "andreas.wolf@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/teeamwork/unser-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kirsten.wolf@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/teeamwork/unser-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "julian.wolf@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/teeamwork/unser-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jannik.tuleja@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/teeamwork/unser-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "vitalij.sorokin@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/teeamwork/unser-team/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4923516727430",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de/teeamwork/unser-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/en/teeamwork/stellenangebote/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4923516727430",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de/en/teeamwork/stellenangebote/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/en/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4923516727430",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de/en/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dwl-wolf.de",
+    "status": "observed",
+    "source_url": "https://www.dwl-wolf.de/en/grounding-page/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4923516727430",
+    "status": "valid_format",
+    "source_url": "https://www.dwl-wolf.de/en/grounding-page/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/andreas-wolf-dwl",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/andreas-wolf-dwl"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/julian-wolf-722a91250",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/julian-wolf-722a91250"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/kirsten-wolf-dwlwolf",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/kirsten-wolf-dwlwolf"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/charline-wolf-i76",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/charline-wolf-i76"
+  }
+]

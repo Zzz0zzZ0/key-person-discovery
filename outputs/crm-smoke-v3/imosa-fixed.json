@@ -1,0 +1,128 @@
+{
+  "company_name": "Industrias Mineiras do Mondego S.A. (IMOSA®)",
+  "candidates": [
+    {
+      "full_name": "Asier Amorena Oyarzabal",
+      "current_title": "President",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.northdata.com/Imosa%20-%20Industrias%20Mineiras%20do%20Mondego%20SA,%20Guia%20PBL/PT%20502671254",
+          "quote": "President: A. Amorena Oyarzabal (12 Aug 2026)",
+          "supports": "Current President of IMOSA as of August 2026"
+        },
+        {
+          "source_url": "https://www.imosa.pt",
+          "quote": "Filial do Grupo Saint-Gobain Silica Sands e Feldspato em Espanha / Filial do Grupo Saint-Gobain Sands and Minerals em França",
+          "supports": "IMOSA is a subsidiary of Saint-Gobain Natural Resources Business Unit"
+        }
+      ],
+      "confidence": 0.92,
+      "review_required": true
+    },
+    {
+      "full_name": "Jean-Luc Gardaz",
+      "current_title": "Member of the Board",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 75,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.northdata.com/Imosa%20-%20Industrias%20Mineiras%20do%20Mondego%20SA,%20Guia%20PBL/PT%20502671254",
+          "quote": "Member of the board: Jean-Luc Gardaz (12 Aug 2026)",
+          "supports": "Current board member of IMOSA as of August 2026"
+        },
+        {
+          "source_url": "https://www.northdata.com/Imosa%20-%20Industrias%20Mineiras%20do%20Mondego%20SA,%20Guia%20PBL/PT%20502671254",
+          "quote": "Member of the board: Jean-Luc Gardaz (27 Apr 2020)",
+          "supports": "Board tenure since 2020 indicating sustained governance role"
+        }
+      ],
+      "confidence": 0.88,
+      "review_required": true
+    },
+    {
+      "full_name": "Paloma Tobar Gracia",
+      "current_title": "Member of the Board",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 75,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.northdata.com/Imosa%20-%20Industrias%20Mineiras%20do%20Mondego%20SA,%20Guia%20PBL/PT%20502671254",
+          "quote": "Member of the board Paloma Maria Tobar Gracia (12 Aug 2026)",
+          "supports": "Current board member of IMOSA as of August 2026"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info.imosa@saint-gobain.com",
+      "status": "observed",
+      "source_url": "https://www.imosa.pt/contacte-nos-pt/"
+    },
+    {
+      "channel": "email",
+      "value": "info.incusa@saint-gobain.com",
+      "status": "observed",
+      "source_url": "https://www.imosa.pt/contacte-nos-pt/"
+    },
+    {
+      "channel": "phone",
+      "value": "+351244684999",
+      "status": "valid_format",
+      "whatsapp_status": "unknown",
+      "source_url": "https://www.imosa.pt/contacte-nos-pt/"
+    },
+    {
+      "channel": "phone",
+      "value": "+34913972193",
+      "status": "valid_format",
+      "whatsapp_status": "unknown",
+      "source_url": "https://www.imosa.pt/contacte-nos-pt/"
+    },
+    {
+      "channel": "email",
+      "value": "emprego.imosa@saint-gobain.com",
+      "status": "observed",
+      "source_url": "https://www.imosa.pt/en/about-us-en/"
+    },
+    {
+      "channel": "email",
+      "value": "geral@iberinform.pt",
+      "status": "observed",
+      "source_url": "https://www.iberinform.pt/empresa/32002554/imosa-industrias-mineiras-do-mondego-s-a"
+    }
+  ],
+  "review_required": true,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 26,
+    "search_engine_warnings": 0,
+    "urls_crawled": 20,
+    "crawl_failures": 2,
+    "contact_signals": 20,
+    "official_urls_discovered": 10,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

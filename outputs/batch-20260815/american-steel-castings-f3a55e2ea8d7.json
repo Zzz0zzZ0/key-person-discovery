@@ -1,0 +1,144 @@
+{
+  "company_name": "American Steel Castings",
+  "candidates": [
+    {
+      "full_name": "Thomas K. Kane",
+      "current_title": "Vice President of Sales & Technical Service",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.americansteelcastings.com/why-asc",
+          "quote": "Thomas K. Kane, Vice President of Sales & Technical Service, BS in Metallurgical Engineering, University of Pittsburgh, MBA, Seton Hill University",
+          "supports": "Current employment at American Steel Castings as VP of Sales & Technical Service"
+        },
+        {
+          "source_url": "https://www.americansteelcastings.com/why-asc",
+          "quote": "I, along with the ASC team, am passionate about our products, understanding each application, optimizing product performance, and meeting customer needs and requirements.",
+          "supports": "Active role in technical service and customer requirement alignment at ASC"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Frank Moldovan",
+      "current_title": "General Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.americansteelcastings.com/why-asc",
+          "quote": "Frank Moldovan, General Manager of ASC since 2017, with a career dedicated to the foundry industry",
+          "supports": "Current employment as General Manager at American Steel Castings since 2017"
+        },
+        {
+          "source_url": "https://www.americansteelcastings.com/why-asc",
+          "quote": "I've built my career from the ground up. Starting in molding, I worked my way through each stage of operations, all the way to final shipment to our customers. I then transitioned to our sales team as an estimator, where I had the opportunity to develop lasting relationships with our customer base.",
+          "supports": "Deep operational and sales leadership at ASC"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Jesse Morris",
+      "current_title": "Castings Sales & Service Engineer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 75,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.americansteelcastings.com/why-asc",
+          "quote": "Jesse Morris, Castings Sales & Service Engineer, veteran leader with over 38 years of experience in foundry manufacturing and sales",
+          "supports": "Current employment at American Steel Castings as Castings Sales & Service Engineer"
+        },
+        {
+          "source_url": "https://www.americansteelcastings.com/why-asc",
+          "quote": "I enjoy bridging technical precision with commercial strategy while helping guide the next generation of foundry leaders.",
+          "supports": "Active role bridging technical and commercial functions at ASC"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "sales@americansteelcastings.com",
+      "status": "observed",
+      "source_url": "https://www.americansteelcastings.com/capabilities",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@americansteelcastings.com",
+      "status": "observed",
+      "source_url": "https://www.americansteelcastings.com/contact",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "hr@americansteelcastings.com",
+      "status": "observed",
+      "source_url": "https://www.americansteelcastings.com/contact",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "ar@americansteelcastings.com",
+      "status": "observed",
+      "source_url": "https://www.americansteelcastings.com/contact",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "ap@americansteelcastings.com",
+      "status": "observed",
+      "source_url": "https://www.americansteelcastings.com/contact",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 34,
+    "search_engine_warnings": 0,
+    "urls_crawled": 10,
+    "crawl_failures": 1,
+    "contact_signals": 13,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 2,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 5,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

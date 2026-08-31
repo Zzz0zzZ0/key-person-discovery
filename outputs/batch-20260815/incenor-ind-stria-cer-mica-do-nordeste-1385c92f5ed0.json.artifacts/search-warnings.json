@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://www.incenor.com.br",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.incenor.com.br/sitemap.xml: HTTP Error 403: Forbidden"
+  }
+]

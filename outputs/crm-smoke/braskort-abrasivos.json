@@ -1,0 +1,15 @@
+{
+  "company_name": "Braskort Abrasivos",
+  "candidates": [],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 30,
+    "search_engine_warnings": 9,
+    "urls_crawled": 8,
+    "crawl_failures": 1,
+    "contact_signals": 8,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

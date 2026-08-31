@@ -1,0 +1,390 @@
+{
+  "company_name": "Refrasil",
+  "candidates": [
+    {
+      "full_name": "Ing. Henryk Huczala",
+      "current_title": "Managing Director",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+420558532026",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.refrasil.cz/english/contacts/",
+          "quote": "Managing Director: Ing. Henryk Huczala tel.: +420 558 532 026 Henryk.Huczala@trz.cz",
+          "supports": "Verified title, phone, and email from official company contacts page"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Ing. Stanislav Witos",
+      "current_title": "Sales Director",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "witos@refrasil.cz",
+          "status": "observed",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+420558536222",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        },
+        {
+          "value": "+420602567280",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.refrasil.cz/english/contacts/",
+          "quote": "Sales Director: Ing. Stanislav Witos tel.: +420 558 536 222 mobile: +420 602 567 280 witos@refrasil.cz",
+          "supports": "Verified title, phone, mobile, and email from official company contacts page"
+        },
+        {
+          "source_url": "https://www.aihitdata.com/company/0121B2A2/refrasil/overview",
+          "quote": "VP of Sales: Ing. Stanislav Witos",
+          "supports": "Cross-reference from aiHitdata confirming role at Refrasil"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Ing. Libor Peterek",
+      "current_title": "Financial Director / CFO",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "peterek@refrasil.cz",
+          "status": "observed",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+420558533262",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.refrasil.cz/english/contacts/",
+          "quote": "Financial Director: Ing. Libor Peterek tel.: +420 558 533 262 peterek@refrasil.cz",
+          "supports": "Verified title, phone, and email from official company contacts page"
+        },
+        {
+          "source_url": "https://www.aihitdata.com/company/0121B2A2/refrasil/overview",
+          "quote": "CFO: Ing. Libor Peterek",
+          "supports": "Cross-reference from aiHitdata confirming CFO role at Refrasil"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Ing. Marcel Kuśnierz",
+      "current_title": "Production Director",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "kusnierz@refrasil.cz",
+          "status": "observed",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+420558535206",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.refrasil.cz/english/contacts/",
+          "quote": "Production Director: Ing. Marcel Kuśnierz tel.: +420 558 535 206 kusnierz@refrasil.cz",
+          "supports": "Verified title, phone, and email from official company contacts page"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Ing. Česlav Kantor",
+      "current_title": "Technical Director (R&D)",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "kantor@refrasil.cz",
+          "status": "observed",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+420558533286",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.refrasil.cz/english/contacts/",
+          "quote": "Technical Director (R&D): Ing. Česlav Kantor tel.: +420 558 533 286 kantor@refrasil.cz",
+          "supports": "Verified title, phone, and email from official company contacts page"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Radim Taska",
+      "current_title": "Seller for Germany, Italy, Switzerland",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 75,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "taska@refrasil.cz",
+          "status": "observed",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+420558533263",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        },
+        {
+          "value": "+420724904869",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.refrasil.cz/english/contacts/",
+          "quote": "Seller for Germany, Italy, Switzerland: Radim Taska tel.: +420 558 533 263 mobil: +420 724 904 869 taska@refrasil.cz",
+          "supports": "Verified title, phone, mobile, and email from official company contacts page"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Ing. David Kalmus",
+      "current_title": "Sales for Czechia, Slovakia, Hungary",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 70,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "kalmus@refrasil.cz",
+          "status": "observed",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+420773525687",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.refrasil.cz/english/contacts/",
+          "quote": "Sales for Czechia, Slovakia, Hungary: Ing. David Kalmus mobil: +420 773 525 687 kalmus@refrasil.cz",
+          "supports": "Verified title, mobile, and email from official company contacts page"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Ing. Olga Černá",
+      "current_title": "Quality Control",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 60,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "cerna@refrasil.cz",
+          "status": "observed",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+420558535376",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.refrasil.cz/english/contacts/",
+          "quote": "Quality Control: Ing. Olga Černá tel.: +420 558 535 376 cerna@refrasil.cz",
+          "supports": "Verified title, phone, and email from official company contacts page"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info@epoptavka.cz",
+      "status": "observed",
+      "source_url": "https://dodavatele.epoptavka.cz/1448027-refrasil-sro/nabidka/590595-samotove-vyrobky-tvarove",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+420602563838",
+      "status": "valid_format",
+      "source_url": "https://dodavatele.epoptavka.cz/1448027-refrasil-sro/nabidka/590595-samotove-vyrobky-tvarove",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+420251510908",
+      "status": "valid_format",
+      "source_url": "https://dodavatele.epoptavka.cz/1448027-refrasil-sro/nabidka/590595-samotove-vyrobky-tvarove",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "henryk.huczala@trz.cz",
+      "status": "probable",
+      "source_url": "https://www.refrasil.cz/english/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "lanc@refrasil.cz",
+      "status": "probable",
+      "source_url": "https://www.refrasil.cz/english/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "klus@refrasil.cz",
+      "status": "probable",
+      "source_url": "https://www.refrasil.cz/english/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+420558533278",
+      "status": "valid_format",
+      "source_url": "https://www.refrasil.cz/english/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "probable",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+420602685478",
+      "status": "valid_format",
+      "source_url": "https://www.refrasil.cz/english/contacts/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "probable",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Mgr. Magdalena Kotasová",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 8,
+    "anysearch_queries": 2,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 39,
+    "search_engine_warnings": 19,
+    "urls_crawled": 30,
+    "crawl_failures": 1,
+    "contact_signals": 29,
+    "official_urls_discovered": 24,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 1,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 4,
+    "contactable_items": 16,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

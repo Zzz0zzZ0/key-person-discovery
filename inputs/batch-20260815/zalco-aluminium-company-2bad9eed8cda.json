@@ -1,0 +1,130 @@
+{
+  "name": "Zalco Aluminium Company",
+  "website": "https://zalco.nl",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00f9f70c-f91d-4875-8694-76e407b2223c",
+  "crm_linkedin_url": null,
+  "crm_country": "Netherlands",
+  "crm_updated_at": "2026-07-27T07:56:01.12613+00:00",
+  "crm_contact_count": 10,
+  "crm_contacts": [
+    {
+      "name": "Jan van Wijck",
+      "email": null,
+      "additional_emails": [],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "https://nl.linkedin.com/in/jan-van-wijck-944524a",
+      "additional_linkedin": null
+    },
+    {
+      "name": "",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+31 113-615003",
+      "additional_phones": null,
+      "linkedin": "",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Jeroen Bakker",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+31 113-615014",
+      "additional_phones": null,
+      "linkedin": "",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Jan van Wijck",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+31 113-615003",
+      "additional_phones": null,
+      "linkedin": "",
+      "additional_linkedin": null
+    },
+    {
+      "name": "",
+      "email": null,
+      "additional_emails": [
+        "info@zalco.nl"
+      ],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "",
+      "additional_linkedin": null
+    },
+    {
+      "name": "",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+31 113-615006",
+      "additional_phones": null,
+      "linkedin": "",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Gerard Keijzer",
+      "email": null,
+      "additional_emails": [],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/gerardkeijzer",
+      "additional_linkedin": null
+    },
+    {
+      "name": "",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+31 113-615000",
+      "additional_phones": null,
+      "linkedin": "",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Bert Spies",
+      "email": null,
+      "additional_emails": [],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/bert-spies-6b5a8444",
+      "additional_linkedin": null
+    },
+    {
+      "name": "",
+      "email": null,
+      "additional_emails": [],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "https://nl.linkedin.com/company/zalco-bv",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-15T07:10:52.399916+00:00",
+  "source": "twenty_postgresql_read_only"
+}

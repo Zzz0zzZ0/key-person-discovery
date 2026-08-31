@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://hanjoolightmetal.com",
+    "markdown": "a03afe0dcf6bbee8",
+    "error": "",
+    "provider": "crawl4ai",
+    "source_type": "crawl",
+    "page_count": 0
+  },
+  {
+    "url": "https://hanjoolightmetal.com/board/",
+    "markdown": "a03afe0dcf6bbee8",
+    "error": "",
+    "provider": "crawl4ai",
+    "source_type": "crawl",
+    "page_count": 0
+  },
+  {
+    "url": "http://tt.linkedin.com/company/hanjoo-metal",
+    "markdown": "",
+    "error": "Access denied by robots.txt",
+    "provider": "crawl4ai",
+    "source_type": "crawl",
+    "page_count": 0
+  },
+  {
+    "url": "http://www.linkedin.com/company/hanjoo-metal",
+    "markdown": "",
+    "error": "Access denied by robots.txt",
+    "provider": "crawl4ai",
+    "source_type": "crawl",
+    "page_count": 0
+  }
+]

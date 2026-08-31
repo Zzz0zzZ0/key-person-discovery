@@ -1,0 +1,208 @@
+[
+  {
+    "channel": "email",
+    "value": "manhvt@soltec-hn.com",
+    "status": "observed",
+    "source_url": "https://soltec-hn.com/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hainl@soltec-hn.com",
+    "status": "observed",
+    "source_url": "https://soltec-hn.com/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+842263582699",
+    "status": "valid_format",
+    "source_url": "https://soltec-hn.com/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+84362258323",
+    "status": "valid_format",
+    "source_url": "https://soltec-hn.com/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hainl@soltec-hn.com",
+    "status": "observed",
+    "source_url": "https://soltec-hn.com",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+84362258323",
+    "status": "valid_format",
+    "source_url": "https://soltec-hn.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hainl@soltec-hn.com",
+    "status": "observed",
+    "source_url": "https://soltec-hn.com/en/home/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+84362258323",
+    "status": "valid_format",
+    "source_url": "https://soltec-hn.com/en/home/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contact@dauthau.net",
+    "status": "observed",
+    "source_url": "https://dauthau.net/vi/dn/CONG-TY-TNHH-MEITOKU-ENGINEERING-VIET-NAM/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hainl@soltec-hn.com",
+    "status": "observed",
+    "source_url": "https://soltec-hn.com/en/maintenance-repair/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+84362258323",
+    "status": "valid_format",
+    "source_url": "https://soltec-hn.com/en/maintenance-repair/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hainl@soltec-hn.com",
+    "status": "observed",
+    "source_url": "https://soltec-hn.com/en/steel-structure-fabrication/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+84362258323",
+    "status": "valid_format",
+    "source_url": "https://soltec-hn.com/en/steel-structure-fabrication/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "manhvt@soltec-hn.com",
+    "status": "observed",
+    "source_url": "https://soltec-hn.com/en/introduce",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hainl@soltec-hn.com",
+    "status": "observed",
+    "source_url": "https://soltec-hn.com/en/introduce",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+842263582699",
+    "status": "valid_format",
+    "source_url": "https://soltec-hn.com/en/introduce",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+84362258323",
+    "status": "valid_format",
+    "source_url": "https://soltec-hn.com/en/introduce",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hotro@topcv.vn",
+    "status": "observed",
+    "source_url": "https://www.topcv.vn/cong-ty/cong-ty-tnhh-soltec-ha-noi/234391.html",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hainl@soltec-hn.com",
+    "status": "observed",
+    "source_url": "https://soltec-hn.com/news",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+84362258323",
+    "status": "valid_format",
+    "source_url": "https://soltec-hn.com/news",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hainl@soltec-hn.com",
+    "status": "observed",
+    "source_url": "https://soltec-hn.com/en/news/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+84362258323",
+    "status": "valid_format",
+    "source_url": "https://soltec-hn.com/en/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "manhvt@soltec-hn.com",
+    "status": "observed",
+    "source_url": "https://soltec-hn.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hainl@soltec-hn.com",
+    "status": "observed",
+    "source_url": "https://soltec-hn.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+842263582699",
+    "status": "valid_format",
+    "source_url": "https://soltec-hn.com/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+84362258323",
+    "status": "valid_format",
+    "source_url": "https://soltec-hn.com/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

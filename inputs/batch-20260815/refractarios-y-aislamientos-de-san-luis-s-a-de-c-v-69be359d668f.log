@@ -1,0 +1,46 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://mexicoindustry.com/empresa/refractarios-y-aislamientos-de-san-luis-s-a-de-c-v                | ✓ | ⏱: 3.15s 
+[SCRAPE].. ◆ https://mexicoindustry.com/empresa/refractarios-y-aislamientos-de-san-luis-s-a-de-c-v                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mexicoindustry.com/empresa/refractarios-y-aislamientos-de-san-luis-s-a-de-c-v                | ✓ | ⏱: 4.05s 
+[FETCH]... ↓ https://refractariosyaislamientos.com.mx/conocenos/                                                  | ✓ | ⏱: 7.57s 
+[SCRAPE].. ◆ https://refractariosyaislamientos.com.mx/conocenos/                                                  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://refractariosyaislamientos.com.mx/conocenos/                                                  | ✓ | ⏱: 9.60s 
+[FETCH]... ↓ https://refractariosyaislamientos.com.mx                                                             | ✓ | ⏱: 9.08s 
+[SCRAPE].. ◆ https://refractariosyaislamientos.com.mx                                                             | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://refractariosyaislamientos.com.mx                                                             | ✓ | ⏱: 11.12s 
+[FETCH]... ↓ https://refractariosyaislamientos.com.mx/cordones-y-cintas/                                          | ✓ | ⏱: 6.32s 
+[SCRAPE].. ◆ https://refractariosyaislamientos.com.mx/cordones-y-cintas/                                          | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://refractariosyaislamientos.com.mx/cordones-y-cintas/                                          | ✓ | ⏱: 8.35s 
+[FETCH]... ↓ https://refractariosyaislamientos.com.mx/contactanos/                                                | ✓ | ⏱: 10.81s 
+[SCRAPE].. ◆ https://refractariosyaislamientos.com.mx/contactanos/                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://refractariosyaislamientos.com.mx/contactanos/                                                | ✓ | ⏱: 12.84s 
+[FETCH]... ↓ https://refractariosyaislamientos.com.mx/grasas-y-lubricantes/                                       | ✓ | ⏱: 3.82s 
+[SCRAPE].. ◆ https://refractariosyaislamientos.com.mx/grasas-y-lubricantes/                                       | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://refractariosyaislamientos.com.mx/grasas-y-lubricantes/                                       | ✓ | ⏱: 5.86s 
+[FETCH]... ↓ https://refractariosyaislamientos.com.mx/nutec-fibra-ceramica/                                       | ✓ | ⏱: 4.38s 
+[SCRAPE].. ◆ https://refractariosyaislamientos.com.mx/nutec-fibra-ceramica/                                       | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://refractariosyaislamientos.com.mx/nutec-fibra-ceramica/                                       | ✓ | ⏱: 6.41s 
+[FETCH]... ↓ https://refractariosyaislamientos.com.mx/productos/                                                  | ✓ | ⏱: 5.24s 
+[SCRAPE].. ◆ https://refractariosyaislamientos.com.mx/productos/                                                  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://refractariosyaislamientos.com.mx/productos/                                                  | ✓ | ⏱: 7.27s 
+[FETCH]... ↓ https://refractariosyaislamientos.com.mx/lps-desengrasantes-y-lubricantes/                           | ✓ | ⏱: 8.23s 
+[SCRAPE].. ◆ https://refractariosyaislamientos.com.mx/lps-desengrasantes-y-lubricantes/                           | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://refractariosyaislamientos.com.mx/lps-desengrasantes-y-lubricantes/                           | ✓ | ⏱: 10.27s 
+[FETCH]... ↓ https://www.cylex.mx/san+luis+potosí-san+luis+po...slamientos+de+san+luis+s.a.+de+c.v-11134327.html  | ✓ | ⏱: 2.76s 
+[SCRAPE].. ◆ https://www.cylex.mx/san+luis+potosí-san+luis+po...slamientos+de+san+luis+s.a.+de+c.v-11134327.html  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.cylex.mx/san+luis+potosí-san+luis+po...slamientos+de+san+luis+s.a.+de+c.v-11134327.html  | ✓ | ⏱: 3.83s 
+[FETCH]... ↓ https://www.dateas.com/es/explore/empresas-mexic...ctarios-y-aislamientos-de-san-luis-sa-de-cv-5128  | ✓ | ⏱: 1.32s 
+[SCRAPE].. ◆ https://www.dateas.com/es/explore/empresas-mexic...ctarios-y-aislamientos-de-san-luis-sa-de-cv-5128  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.dateas.com/...-san-luis-sa-de-cv-5128  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.dateas.com/es/explore/empresas-mexic...ctarios-y-aislamientos-de-san-luis-sa-de-cv-5128  | ✗ | ⏱: 2.42s 
+[FETCH]... ↓ https://www.zoominfo.com/c/refractariosyaislamientoscommx/1337447500                                 | ✓ | ⏱: 0.90s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/refractariosyaislamientoscommx/1337447500                                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...mientoscommx/1337447500  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/c/refractariosyaislamientoscommx/1337447500                                 | ✗ | ⏱: 1.76s 
+[FETCH]... ↓ https://refractariosyaislamientos.com.mx/telas-para-alta-temperatura/                                | ✓ | ⏱: 6.60s 
+[SCRAPE].. ◆ https://refractariosyaislamientos.com.mx/telas-para-alta-temperatura/                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://refractariosyaislamientos.com.mx/telas-para-alta-temperatura/                                | ✓ | ⏱: 8.63s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/refractarios-y-aislamientos-de-san-luis-s-a-de-c-v-69be359d668f.json

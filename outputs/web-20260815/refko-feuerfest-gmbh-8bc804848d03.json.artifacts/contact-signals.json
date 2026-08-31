@@ -1,0 +1,106 @@
+[
+  {
+    "channel": "phone",
+    "value": "+4923262075",
+    "status": "valid_format",
+    "source_url": "https://malaysia.ahk.de/en/members/members-directory/refko-feuerfest-gmbh",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refko.de",
+    "status": "observed",
+    "source_url": "https://www.refko.de/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926232075",
+    "status": "valid_format",
+    "source_url": "https://www.refko.de/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refko.de",
+    "status": "observed",
+    "source_url": "https://www.refko.de/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926232075",
+    "status": "valid_format",
+    "source_url": "https://www.refko.de/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refko.de",
+    "status": "observed",
+    "source_url": "https://www.refko.de/en/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926232075",
+    "status": "valid_format",
+    "source_url": "https://www.refko.de/en/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hoenl@refko.de",
+    "status": "observed",
+    "source_url": "https://www.refractories-worldforum.com/directory-supplier/listing/refko-feuerfest-gmbh/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@goeller-verlag.de",
+    "status": "observed",
+    "source_url": "https://www.refractories-worldforum.com/directory-supplier/listing/refko-feuerfest-gmbh/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926232075",
+    "status": "valid_format",
+    "source_url": "https://www.refractories-worldforum.com/directory-supplier/listing/refko-feuerfest-gmbh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926231738",
+    "status": "valid_format",
+    "source_url": "https://www.refractories-worldforum.com/directory-supplier/listing/refko-feuerfest-gmbh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497221502200",
+    "status": "valid_format",
+    "source_url": "https://www.refractories-worldforum.com/directory-supplier/listing/refko-feuerfest-gmbh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/florian-laux-525693231",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/florian-laux-525693231"
+  }
+]

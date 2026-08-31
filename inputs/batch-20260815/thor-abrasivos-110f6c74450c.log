@@ -1,0 +1,59 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://thorabrasivos.com.br/contato.php                                                             | ✓ | ⏱: 2.60s 
+[SCRAPE].. ◆ https://thorabrasivos.com.br/contato.php                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://thorabrasivos.com.br/contato.php                                                             | ✓ | ⏱: 3.50s 
+[FETCH]... ↓ https://thorabrasivos.com.br/produto-detalhe.php?id=17                                               | ✓ | ⏱: 2.33s 
+[SCRAPE].. ◆ https://thorabrasivos.com.br/produto-detalhe.php?id=17                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://thorabrasivos.com.br/produto-detalhe.php?id=17                                               | ✓ | ⏱: 3.22s 
+[FETCH]... ↓ https://thorabrasivos.com.br/produto-detalhe.php?id=16                                               | ✓ | ⏱: 2.36s 
+[SCRAPE].. ◆ https://thorabrasivos.com.br/produto-detalhe.php?id=16                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://thorabrasivos.com.br/produto-detalhe.php?id=16                                               | ✓ | ⏱: 3.24s 
+[FETCH]... ↓ https://thorabrasivos.com.br/produto-detalhe.php?id=27                                               | ✓ | ⏱: 0.59s 
+[SCRAPE].. ◆ https://thorabrasivos.com.br/produto-detalhe.php?id=27                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://thorabrasivos.com.br/produto-detalhe.php?id=27                                               | ✓ | ⏱: 0.61s 
+[FETCH]... ↓ https://thorabrasivos.com.br/sobre-nos.php                                                           | ✓ | ⏱: 0.52s 
+[SCRAPE].. ◆ https://thorabrasivos.com.br/sobre-nos.php                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://thorabrasivos.com.br/sobre-nos.php                                                           | ✓ | ⏱: 0.54s 
+[FETCH]... ↓ https://thorabrasivos.com.br/produto-detalhe.php?id=28                                               | ✓ | ⏱: 0.54s 
+[SCRAPE].. ◆ https://thorabrasivos.com.br/produto-detalhe.php?id=28                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://thorabrasivos.com.br/produto-detalhe.php?id=28                                               | ✓ | ⏱: 0.56s 
+[FETCH]... ↓ https://portalnacionaldaindustria.com.br/empresas/thor-abrasivos                                     | ✓ | ⏱: 5.72s 
+[SCRAPE].. ◆ https://portalnacionaldaindustria.com.br/empresas/thor-abrasivos                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://portalnacionaldaindustria.com.br/empresas/thor-abrasivos                                     | ✓ | ⏱: 7.36s 
+[FETCH]... ↓ https://www.instagram.com/thorabrasivos                                                              | ✓ | ⏱: 1.60s 
+[SCRAPE].. ◆ https://www.instagram.com/thorabrasivos                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.instagram.com/thorabrasivos                                                              | ✓ | ⏱: 3.65s 
+[FETCH]... ↓ https://www.facebook.com/100046864196084/posts/a...-corte-saiba-mais-sobre-nossos-s/461665474610920  | ✓ | ⏱: 2.06s 
+[SCRAPE].. ◆ https://www.facebook.com/100046864196084/posts/a...-corte-saiba-mais-sobre-nossos-s/461665474610920  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.facebook.com/100046864196084/posts/a...-corte-saiba-mais-sobre-nossos-s/461665474610920  | ✓ | ⏱: 4.08s 
+[FETCH]... ↓ https://www.thorabrasivos.com.br/contato.php                                                         | ✓ | ⏱: 1.21s 
+[SCRAPE].. ◆ https://www.thorabrasivos.com.br/contato.php                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.thorabrasivos.com.br/contato.php                                                         | ✓ | ⏱: 1.23s 
+[FETCH]... ↓ https://www.thorabrasivos.com.br                                                                     | ✓ | ⏱: 3.18s 
+[SCRAPE].. ◆ https://www.thorabrasivos.com.br                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.thorabrasivos.com.br                                                                     | ✓ | ⏱: 4.11s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://thorabrasivos.com.br/assets/images/contato-whats.png                                         | ✓ | ⏱: 1.11s 
+[SCRAPE].. ◆ https://thorabrasivos.com.br/assets/images/contato-whats.png                                         | ✓ | ⏱: 0.00s 
+[ERROR]... × https://thorabrasivos.c...mages/contato-whats.png  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (470 bytes, 0 chars visible) 
+[COMPLETE] ● https://thorabrasivos.com.br/assets/images/contato-whats.png                                         | ✗ | ⏱: 1.12s 
+[FETCH]... ↓ https://www.thorabrasivos.com.br/assets/images/contato-whats.png                                     | ✓ | ⏱: 1.11s 
+[SCRAPE].. ◆ https://www.thorabrasivos.com.br/assets/images/contato-whats.png                                     | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.thorabrasiv...mages/contato-whats.png  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (474 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.thorabrasivos.com.br/assets/images/contato-whats.png                                     | ✗ | ⏱: 1.12s 
+[FETCH]... ↓ https://www.thorabrasivos.com.br/assets/images/slider/sobre-nos.jpg                                  | ✓ | ⏱: 1.22s 
+[SCRAPE].. ◆ https://www.thorabrasivos.com.br/assets/images/slider/sobre-nos.jpg                                  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.thorabrasiv...es/slider/sobre-nos.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (491 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.thorabrasivos.com.br/assets/images/slider/sobre-nos.jpg                                  | ✗ | ⏱: 1.23s 
+[FETCH]... ↓ https://thorabrasivos.com.br/assets/images/slider/sobre-nos.jpg                                      | ✓ | ⏱: 1.29s 
+[SCRAPE].. ◆ https://thorabrasivos.com.br/assets/images/slider/sobre-nos.jpg                                      | ✓ | ⏱: 0.00s 
+[ERROR]... × https://thorabrasivos.c...es/slider/sobre-nos.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (487 bytes, 0 chars visible) 
+[COMPLETE] ● https://thorabrasivos.com.br/assets/images/slider/sobre-nos.jpg                                      | ✗ | ⏱: 1.29s 
+[FETCH]... ↓ https://www.thorabrasivos.com.br/sobre-nos.php                                                       | ✓ | ⏱: 2.09s 
+[SCRAPE].. ◆ https://www.thorabrasivos.com.br/sobre-nos.php                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.thorabrasivos.com.br/sobre-nos.php                                                       | ✓ | ⏱: 2.11s 
+Xref table not zero-indexed. ID numbers for objects will be corrected.
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/thor-abrasivos-110f6c74450c.json

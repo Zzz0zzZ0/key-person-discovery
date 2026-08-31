@@ -1,0 +1,80 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://aceriasprocometal.com/trayectoria.html                                                        | ✓ | ⏱: 1.51s 
+[SCRAPE].. ◆ http://aceriasprocometal.com/trayectoria.html                                                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://aceriasprocometal.com/trayectoria.html                                                        | ✓ | ⏱: 2.43s 
+[FETCH]... ↓ http://aceriasprocometal.com                                                                         | ✓ | ⏱: 1.51s 
+[SCRAPE].. ◆ http://aceriasprocometal.com                                                                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://aceriasprocometal.com                                                                         | ✓ | ⏱: 2.58s 
+[FETCH]... ↓ https://aceriasprocometal.com                                                                        | ✓ | ⏱: 1.62s 
+[SCRAPE].. ◆ https://aceriasprocometal.com                                                                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://aceriasprocometal.com                                                                        | ✓ | ⏱: 2.81s 
+[FETCH]... ↓ http://www.aceriasprocometal.com/cotizacion.php                                                      | ✓ | ⏱: 2.35s 
+[SCRAPE].. ◆ http://www.aceriasprocometal.com/cotizacion.php                                                      | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://www.aceriasprocometal.com/cotizacion.php                                                      | ✓ | ⏱: 3.68s 
+[ANTIBOT]. ℹ https://aceriasprocometal.com/contactenos.php      | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://aceriasprocometal.com/contactenos.php
+Call log:
+  - navigating to "https://aceriasprocometal.com/contactenos.php", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://aceriasprocometal.com/contactenos.php      | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://aceriasprocometal.com/contactenos.php
+Call log:
+  - navigating to "https://aceriasprocometal.com/contactenos.php", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[ANTIBOT]. ℹ https://aceriasprocometal.com/medios.html          | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://aceriasprocometal.com/medios.html
+Call log:
+  - navigating to "https://aceriasprocometal.com/medios.html", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://aceriasprocometal.com/medios.html          | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://aceriasprocometal.com/medios.html
+Call log:
+  - navigating to "https://aceriasprocometal.com/medios.html", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[FETCH]... ↓ https://www.emis.com/php/company-profile/CO/Acerias_Procometal_SAS_en_1180345.html                   | ✓ | ⏱: 3.90s 
+[SCRAPE].. ◆ https://www.emis.com/php/company-profile/CO/Acerias_Procometal_SAS_en_1180345.html                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.emis.com/php/company-profile/CO/Acerias_Procometal_SAS_en_1180345.html                   | ✓ | ⏱: 3.92s 
+[FETCH]... ↓ https://www.informacion-empresas.co/Empresa_ACERIAS-PROCOMETAL-LTDA.html                             | ✓ | ⏱: 2.61s 
+[SCRAPE].. ◆ https://www.informacion-empresas.co/Empresa_ACERIAS-PROCOMETAL-LTDA.html                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.informacion-empresas.co/Empresa_ACERIAS-PROCOMETAL-LTDA.html                             | ✓ | ⏱: 4.17s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://www.aceriasprocometal.com/contactenos.php                                                     | ✓ | ⏱: 1.63s 
+[SCRAPE].. ◆ http://www.aceriasprocometal.com/contactenos.php                                                     | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://www.aceriasprocometal.com/contactenos.php                                                     | ✓ | ⏱: 2.29s 
+[FETCH]... ↓ http://aceriasprocometal.com/contactenos.php                                                         | ✓ | ⏱: 1.63s 
+[SCRAPE].. ◆ http://aceriasprocometal.com/contactenos.php                                                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://aceriasprocometal.com/contactenos.php                                                         | ✓ | ⏱: 2.30s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/acerias-procometal-s-a-s-018b414c1458.json

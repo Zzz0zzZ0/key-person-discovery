@@ -1,0 +1,48 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://dellamiranda.com.ar/nosotros/                                                                | ✓ | ⏱: 3.81s 
+[SCRAPE].. ◆ https://dellamiranda.com.ar/nosotros/                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://dellamiranda.com.ar/nosotros/                                                                | ✓ | ⏱: 5.05s 
+[FETCH]... ↓ https://dellamiranda.com.ar/contacto/                                                                | ✓ | ⏱: 3.72s 
+[SCRAPE].. ◆ https://dellamiranda.com.ar/contacto/                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://dellamiranda.com.ar/contacto/                                                                | ✓ | ⏱: 5.06s 
+[FETCH]... ↓ https://dellamiranda.com.ar/2019/06/11/gracias-revista-weekend/                                      | ✓ | ⏱: 3.81s 
+[SCRAPE].. ◆ https://dellamiranda.com.ar/2019/06/11/gracias-revista-weekend/                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://dellamiranda.com.ar/2019/06/11/gracias-revista-weekend/                                      | ✓ | ⏱: 5.07s 
+[FETCH]... ↓ https://dellamiranda.com.ar                                                                          | ✓ | ⏱: 4.12s 
+[SCRAPE].. ◆ https://dellamiranda.com.ar                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://dellamiranda.com.ar                                                                          | ✓ | ⏱: 5.36s 
+[FETCH]... ↓ https://dellamiranda.com.ar/noticias/                                                                | ✓ | ⏱: 1.35s 
+[SCRAPE].. ◆ https://dellamiranda.com.ar/noticias/                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://dellamiranda.com.ar/noticias/                                                                | ✓ | ⏱: 1.37s 
+[FETCH]... ↓ https://dellamiranda.com.ar/novedades/                                                               | ✓ | ⏱: 1.14s 
+[SCRAPE].. ◆ https://dellamiranda.com.ar/novedades/                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://dellamiranda.com.ar/novedades/                                                               | ✓ | ⏱: 1.17s 
+[FETCH]... ↓ https://dellamiranda.com.ar/productos/                                                               | ✓ | ⏱: 1.16s 
+[SCRAPE].. ◆ https://dellamiranda.com.ar/productos/                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://dellamiranda.com.ar/productos/                                                               | ✓ | ⏱: 1.19s 
+[FETCH]... ↓ https://dellamiranda.com.ar/productos/linea-construccion/                                            | ✓ | ⏱: 2.35s 
+[SCRAPE].. ◆ https://dellamiranda.com.ar/productos/linea-construccion/                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://dellamiranda.com.ar/productos/linea-construccion/                                            | ✓ | ⏱: 2.37s 
+[FETCH]... ↓ https://dellamiranda.com.ar/recetas/                                                                 | ✓ | ⏱: 1.54s 
+[SCRAPE].. ◆ https://dellamiranda.com.ar/recetas/                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://dellamiranda.com.ar/recetas/                                                                 | ✓ | ⏱: 1.56s 
+[FETCH]... ↓ https://dellamiranda.com.ar/productos/linea-gastronomica/                                            | ✓ | ⏱: 2.32s 
+[SCRAPE].. ◆ https://dellamiranda.com.ar/productos/linea-gastronomica/                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://dellamiranda.com.ar/productos/linea-gastronomica/                                            | ✓ | ⏱: 2.34s 
+[FETCH]... ↓ https://dellamiranda.com.ar/productos/linea-hogar/                                                   | ✓ | ⏱: 2.74s 
+[SCRAPE].. ◆ https://dellamiranda.com.ar/productos/linea-hogar/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://dellamiranda.com.ar/productos/linea-hogar/                                                   | ✓ | ⏱: 2.76s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://dellamiranda.com.ar/noticias/page/10/                                                        | ✓ | ⏱: 4.45s 
+[SCRAPE].. ◆ https://dellamiranda.com.ar/noticias/page/10/                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://dellamiranda.com.ar/noticias/page/10/                                                        | ✓ | ⏱: 4.47s 
+[FETCH]... ↓ https://dellamiranda.com.ar/noticias/page/3/                                                         | ✓ | ⏱: 4.34s 
+[SCRAPE].. ◆ https://dellamiranda.com.ar/noticias/page/3/                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://dellamiranda.com.ar/noticias/page/3/                                                         | ✓ | ⏱: 4.36s 
+[FETCH]... ↓ https://dellamiranda.com.ar/noticias/page/2/                                                         | ✓ | ⏱: 4.36s 
+[SCRAPE].. ◆ https://dellamiranda.com.ar/noticias/page/2/                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://dellamiranda.com.ar/noticias/page/2/                                                         | ✓ | ⏱: 4.38s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/della-miranda-17327349d9ad.json

@@ -1,0 +1,78 @@
+[
+  {
+    "channel": "email",
+    "value": "andrew.ramsell@refcsl.co.uk",
+    "status": "observed",
+    "source_url": "https://refcsl.co.uk",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ron.ramsell@refcsl.co.uk",
+    "status": "observed",
+    "source_url": "https://refcsl.co.uk",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+447944288639",
+    "status": "valid_format",
+    "source_url": "https://refcsl.co.uk",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+447581456802",
+    "status": "valid_format",
+    "source_url": "https://refcsl.co.uk",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "andrew.ramsell@refcsl.co.uk",
+    "status": "observed",
+    "source_url": "https://www.refcsl.co.uk/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ron.ramsell@refcsl.co.uk",
+    "status": "observed",
+    "source_url": "https://www.refcsl.co.uk/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+447944288639",
+    "status": "valid_format",
+    "source_url": "https://www.refcsl.co.uk/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+447581456802",
+    "status": "valid_format",
+    "source_url": "https://www.refcsl.co.uk/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://in.linkedin.com/in/nabin-kumar-sahu-630b4a49?trk=org-employees",
+    "status": "observed",
+    "source_url": "https://in.linkedin.com/company/haripriya-refractories-pvt-ltd"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://in.linkedin.com/in/bibhu-prasad-sahu-78052b1b7?trk=org-employees",
+    "status": "observed",
+    "source_url": "https://in.linkedin.com/company/haripriya-refractories-pvt-ltd"
+  }
+]

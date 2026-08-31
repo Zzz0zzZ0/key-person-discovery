@@ -1,0 +1,101 @@
+{
+  "company_name": "Steelceram SL",
+  "candidates": [
+    {
+      "full_name": "Garcia Solanas Carlos",
+      "current_title": "Administrador Único",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 9,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.datoscif.es/empresa/steelceram-sl",
+          "quote": "Administrador Único Garcia Solanas Carlos",
+          "supports": "Sole administrator (Administrador Único) of Steelceram SL per Spanish mercantile registry (BORME)"
+        },
+        {
+          "source_url": "https://www.datoscif.es/empresa/steelceram-sl",
+          "quote": "Nombramientos Administrador Unico Garcia Solanas Carlos 04/10/2021",
+          "supports": "BORME appointment record confirming current sole administrator role from October 2021"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "innovacion@blove.es",
+      "status": "observed",
+      "source_url": "https://www.empresascif.com/empresa/steelceram-sl/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+34634856280",
+      "status": "valid_format",
+      "source_url": "https://www.empresascif.com/empresa/steelceram-sl/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+34938045262",
+      "status": "valid_format",
+      "source_url": "https://www.infoempresa.com/en-in/es/company/steelceram-sl",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 2,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 38,
+    "search_engine_warnings": 1,
+    "urls_crawled": 20,
+    "crawl_failures": 4,
+    "contact_signals": 30,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 5,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 2,
+    "pdf_failures": 1,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 2,
+    "target_contactable_items": 4,
+    "contactable_items": 3,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

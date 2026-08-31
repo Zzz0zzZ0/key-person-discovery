@@ -1,0 +1,103 @@
+{
+  "company_name": "SIC Lime - Società Impianti Calce S.r.l.",
+  "candidates": [],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Managing Director",
+      "matched_by": [
+        "email",
+        "phone"
+      ]
+    },
+    {
+      "kind": "candidate",
+      "full_name": "Sales & Marketing",
+      "matched_by": [
+        "email",
+        "phone"
+      ]
+    },
+    {
+      "kind": "candidate",
+      "full_name": "Engineering & Projects",
+      "matched_by": [
+        "email",
+        "phone"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 7,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 7,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 35,
+    "search_engine_warnings": 1,
+    "urls_crawled": 20,
+    "crawl_failures": 2,
+    "contact_signals": 154,
+    "official_urls_discovered": 20,
+    "crm_website": "https://sic-lime.com",
+    "official_website": "https://www.sic-lime.com",
+    "website_recovered": true,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 4,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 26,
+    "crm_duplicates_removed": 7,
+    "target_contactable_items": 1,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

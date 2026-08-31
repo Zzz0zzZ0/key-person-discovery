@@ -1,0 +1,334 @@
+{
+  "name": "Steelcast.ru",
+  "website": "http://steelcast.ru",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00a987bd-6ff7-40a7-8349-453246fad7f6",
+  "crm_linkedin_url": null,
+  "crm_country": null,
+  "crm_updated_at": "2026-07-29T05:05:59.832236+00:00",
+  "crm_contact_count": 33,
+  "crm_contacts": [
+    {
+      "name": " Jabaal Vaidya",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/jabaal-vaidya-75953520a",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Jay Badheka",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/jay-badheka-08a227339",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Ramkabir Devang",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/ramkabir-devang-8136598a",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Yogesh Dabhi",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/yogesh-dabhi-7001502b9",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Suresh Dharmavaram",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/suresh-dharmavaram-3341851a",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Sunil Vadhaiya",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/sunil-vadhaiya-419630236",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Visani Mehul",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/visani-mehul-22142122a",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Divyang Vadhwana",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/divyang-vadhwana-350983112",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Adarsh Malankiya",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/adarsh-malankiya-prajapati-974860218",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Subhash Sharma",
+      "email": "ss@steelcast.net",
+      "additional_emails": [],
+      "phone": "+91 70430 03208",
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/subhash-sharma-8986a318b",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Himanshu Raval",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/himanshu-raval-5212aa22a",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Shailesh Shah",
+      "email": "sss@steelcast.net",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/shailesh-shah-6462532b",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Jignesh Rajyaguru",
+      "email": "jhr@steelcast.net",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/jignesh-rajyaguru-33784830",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Chirag Ramanuj",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/chirag-ramanuj-7316231a0",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Manish Mehta",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/manish-mehta-37112ab2",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Karan Ganatra",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/karan-ganatra",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Ujjaval Agravat",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/ujjaval-agravat-5207b9240",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Abhishek Chauhan",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/abhishek-chauhan-51b5bb109",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Dipesh Boricha",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/dipesh-boricha-954bb0147",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Krunal Gohel",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/krunal-gohel-b52a5a206",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Darshan Rathod",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/darshan-rathod-56727a177",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Jaydeep Gohel",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/jaydeep-gohel-0b8770288",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Dhruvit Champaneri",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/dhruvit-champaneri-6bbab29a",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Kalpesh Harsora",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/kalpesh-harsora-a83017b6",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Vicky Vaghela",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/vicky-vaghela-017421255",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Devang Trivedi",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/devang-trivedi-965240275",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Makwana Sachin",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/makwana-sachin-035a09158",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Rushil Tamboli",
+      "email": "rct@steelcast.net",
+      "additional_emails": [],
+      "phone": "+91 96388 31111",
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/rushil-tamboli-469b8a312",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Mehul Shukla",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/mehul-shukla-99710377",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Paresh Bhavsar",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/paresh-bhavsar-b368a2148",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Divyrajsinh Gohil",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/divyrajsinh-gohil-977272194",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Deep Parmar",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/deep-parmar-325877224",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Mrhitesh Rathod",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+91 81406 81404",
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/hiteshachieve",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-15T03:11:44.998716+00:00",
+  "source": "twenty_postgresql_read_only"
+}

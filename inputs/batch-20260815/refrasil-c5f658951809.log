@@ -1,0 +1,119 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.refrasil.cz                                                                              | ✓ | ⏱: 1.45s 
+[SCRAPE].. ◆ https://www.refrasil.cz                                                                              | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz                                                                              | ✓ | ⏱: 3.04s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/                                                            | ✓ | ⏱: 1.50s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/                                                            | ✓ | ⏱: 2.90s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/basic-information/                                          | ✓ | ⏱: 1.39s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/basic-information/                                          | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/basic-information/                                          | ✓ | ⏱: 2.98s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/bodies/                                                     | ✓ | ⏱: 0.51s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/bodies/                                                     | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/bodies/                                                     | ✓ | ⏱: 0.51s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/history/refrasil_old/                                       | ✓ | ⏱: 0.52s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/history/refrasil_old/                                       | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/history/refrasil_old/                                       | ✓ | ⏱: 0.53s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/history/                                                    | ✓ | ⏱: 0.55s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/history/                                                    | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/history/                                                    | ✓ | ⏱: 0.56s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/quality-system/                                             | ✓ | ⏱: 0.55s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/quality-system/                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/quality-system/                                             | ✓ | ⏱: 0.56s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/quality-system/cert-en-3/                                   | ✓ | ⏱: 0.51s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/quality-system/cert-en-3/                                   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/quality-system/cert-en-3/                                   | ✓ | ⏱: 0.51s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/quality-system/certificate-en-page-001/                     | ✓ | ⏱: 0.51s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/quality-system/certificate-en-page-001/                     | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/quality-system/certificate-en-page-001/                     | ✓ | ⏱: 0.51s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2021-2024/                     | ✓ | ⏱: 0.52s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2021-2024/                     | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2021-2024/                     | ✓ | ⏱: 0.52s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-2/                        | ✓ | ⏱: 0.56s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-2/                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-2/                        | ✓ | ⏱: 0.57s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-3/                        | ✓ | ⏱: 0.56s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-3/                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-3/                        | ✓ | ⏱: 0.57s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-4/                        | ✓ | ⏱: 0.61s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-4/                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-4/                        | ✓ | ⏱: 0.62s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-5/                        | ✓ | ⏱: 0.61s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-5/                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-5/                        | ✓ | ⏱: 0.62s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-6/                        | ✓ | ⏱: 0.62s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-6/                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-6/                        | ✓ | ⏱: 0.62s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-7/                        | ✓ | ⏱: 0.52s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-7/                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-7/                        | ✓ | ⏱: 0.52s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-8/                        | ✓ | ⏱: 0.52s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-8/                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-8/                        | ✓ | ⏱: 0.53s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-page-0001/                | ✓ | ⏱: 0.52s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-page-0001/                | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/quality-system/certifikat-en-2024-page-0001/                | ✓ | ⏱: 0.53s 
+[FETCH]... ↓ https://www.refrasil.cz/english/about-us/quality-system/refrasil_qms_en-2/                           | ✓ | ⏱: 0.52s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/about-us/quality-system/refrasil_qms_en-2/                           | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/about-us/quality-system/refrasil_qms_en-2/                           | ✓ | ⏱: 0.53s 
+[FETCH]... ↓ https://www.refrasil.cz/english/contacts/contact-form/                                               | ✓ | ⏱: 0.51s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/contacts/contact-form/                                               | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/contacts/contact-form/                                               | ✓ | ⏱: 0.52s 
+[FETCH]... ↓ https://www.refrasil.cz/english/contacts/                                                            | ✓ | ⏱: 0.51s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/contacts/                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/contacts/                                                            | ✓ | ⏱: 0.52s 
+[FETCH]... ↓ https://www.refrasil.cz/english/contacts/map/                                                        | ✓ | ⏱: 0.52s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/contacts/map/                                                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/contacts/map/                                                        | ✓ | ⏱: 0.52s 
+[FETCH]... ↓ https://www.refrasil.cz/english/contacts/persons-2/                                                  | ✓ | ⏱: 0.51s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/contacts/persons-2/                                                  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/contacts/persons-2/                                                  | ✓ | ⏱: 0.52s 
+[FETCH]... ↓ https://www.refrasil.cz/english/downloads/movie-about-company/                                       | ✓ | ⏱: 0.51s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/downloads/movie-about-company/                                       | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/downloads/movie-about-company/                                       | ✓ | ⏱: 0.52s 
+[FETCH]... ↓ https://refrasil.sluzby.cz/                                                                          | ✓ | ⏱: 7.34s 
+[SCRAPE].. ◆ https://refrasil.sluzby.cz/                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://refrasil.sluzby.cz/                                                                          | ✓ | ⏱: 8.71s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.refrasil.cz/english/                                                                     | ✓ | ⏱: 1.26s 
+[SCRAPE].. ◆ https://www.refrasil.cz/english/                                                                     | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/english/                                                                     | ✓ | ⏱: 1.27s 
+[FETCH]... ↓ https://www.refrasil.cz/kontakty/whistleblowing                                                      | ✓ | ⏱: 0.56s 
+[SCRAPE].. ◆ https://www.refrasil.cz/kontakty/whistleblowing                                                      | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refrasil.cz/kontakty/whistleblowing                                                      | ✓ | ⏱: 0.56s 
+[FETCH]... ↓ https://markinton.com/trademark/refrasil-71509111                                                    | ✓ | ⏱: 2.46s 
+[SCRAPE].. ◆ https://markinton.com/trademark/refrasil-71509111                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://markinton.com/trademark/refrasil-71509111                                                    | ✓ | ⏱: 3.95s 
+[FETCH]... ↓ https://www.aihitdata.com/company/0121B2A2/refrasil/overview                                         | ✓ | ⏱: 3.10s 
+[SCRAPE].. ◆ https://www.aihitdata.com/company/0121B2A2/refrasil/overview                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.aihitdata.com/company/0121B2A2/refrasil/overview                                         | ✓ | ⏱: 5.12s 
+[FETCH]... ↓ https://dodavatele.epoptavka.cz/1448027-refrasil-sro/nabidka/590595-samotove-vyrobky-tvarove         | ✓ | ⏱: 3.92s 
+[SCRAPE].. ◆ https://dodavatele.epoptavka.cz/1448027-refrasil-sro/nabidka/590595-samotove-vyrobky-tvarove         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://dodavatele.epoptavka.cz/1448027-refrasil-sro/nabidka/590595-samotove-vyrobky-tvarove         | ✓ | ⏱: 5.24s 
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/src/key_person_discovery/cli.py", line 92, in <module>
+    main()
+  File "/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/src/key_person_discovery/cli.py", line 65, in main
+    result = discover(
+             ^^^^^^^^^
+  File "/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/src/key_person_discovery/pipeline.py", line 166, in discover
+    result = hermes.extract(company, evidence_pages, signals, artifacts_dir / "usage.json")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/src/key_person_discovery/hermes.py", line 52, in extract
+    _validate_output(
+  File "/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/src/key_person_discovery/hermes.py", line 245, in _validate_output
+    raise RuntimeError("Candidate email status is invalid")
+RuntimeError: Candidate email status is invalid

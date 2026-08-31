@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://aic.ir/Uploads/2024/6/ece0b80d-d59b-4ce2-b222-75671b7728df.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://aic.ir/Uploads/2024/6/ab9c9882-f7d2-4d30-9559-026766b96455.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://aic.ir/Uploads/2024/8/6e031b43-658a-4a92-97c3-823ef16d445e.pdf",
+    "markdown": "[PDF page 1]\nCERTIFICATE\n\n                        Registration Certificate\n           This document certifies that the innovation management systems of\n                        Ardakan Industrial Ceramics\n\n                               With the following Address:\n         8th Floor, No. 21, Shirin Bldg., Aghabozorgi St., Fereshteh, Tehran, Iran.\n\n                            Have been assessed and approved by\n                            TUV-INTERNATIONAL Limited\n                           To the following standards & guidelines:\n                                   ISO 34000:2016\n                     The approved systems apply to the following scope:\n  Design And Manufacturing Of Industrial Ceramics, Claus Catalysts And All\n                                  Tests Related To Them.\n                                Reference Number: 4795563\n                                Original Approval: 18th Jul 2024\n                               Current Certificate: 17th Jul 2025\n                                Certificate Expiry: 17th Jul 2027\n\n\n\n\n\n\n                                              A.Flavour\n                           On Behalf of TUV-INTERNATIONAL Limited\n                         WWW.TechUberVer.COM, user: TQCZKR, password: ABcd1234",
+    "error": "",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 1
+  }
+]

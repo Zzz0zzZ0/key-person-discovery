@@ -1,0 +1,36 @@
+{
+  "name": "Vesuvius Poland Sp. z o.o.",
+  "website": "https://vesuvius.pl",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "006f1423-b2ff-4022-b5ae-38d26b7b6e9b",
+  "crm_linkedin_url": null,
+  "crm_country": "波兰",
+  "crm_updated_at": "2026-07-29T05:05:59.248864+00:00",
+  "crm_contact_count": 0,
+  "crm_contacts": [],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T02:55:21.174871+00:00",
+  "source": "twenty_postgresql_read_only"
+}

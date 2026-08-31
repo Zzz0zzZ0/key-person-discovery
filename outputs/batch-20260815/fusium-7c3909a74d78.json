@@ -1,0 +1,119 @@
+{
+  "company_name": "Fusium",
+  "candidates": [
+    {
+      "full_name": "Alexandre Rouleau",
+      "current_title": "General Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 5,
+      "linkedin": [
+        {
+          "value": "https://ca.linkedin.com/in/alexandre-rouleau",
+          "status": "probable",
+          "source_url": "https://ca.linkedin.com/in/alexandre-rouleau"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://ca.linkedin.com/in/alexandre-rouleau",
+          "quote": "General Manager. Fusium. Jan 2022 - Present 4 years 7 months.",
+          "supports": "current employment at Fusium as General Manager"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Gabriel Marchand",
+      "current_title": "Administration (inferred)",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 1,
+      "linkedin": [
+        {
+          "value": "https://ca.linkedin.com/in/gabriel-marchand/en",
+          "status": "probable",
+          "source_url": "https://ca.linkedin.com/in/gabriel-marchand/en"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://ca.linkedin.com/in/gabriel-marchand/en",
+          "quote": "Fusium Nov 2019 - Present",
+          "supports": "current employment at Fusium since November 2019"
+        }
+      ],
+      "confidence": 0.5,
+      "review_required": true
+    },
+    {
+      "full_name": "Catherine Labbé",
+      "current_title": "CPA",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 2,
+      "linkedin": [
+        {
+          "value": "https://ca.linkedin.com/in/catherine-labb%C3%A9-cpa-a1a409331",
+          "status": "probable",
+          "source_url": "https://ca.linkedin.com/in/catherine-labb%C3%A9-cpa-a1a409331"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://ca.linkedin.com/in/catherine-labb%C3%A9-cpa-a1a409331",
+          "quote": "Fusium Jul 2024 - Present",
+          "supports": "current employment at Fusium as CPA since July 2024"
+        }
+      ],
+      "confidence": 0.5,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "rh@fusium.ca",
+      "status": "observed",
+      "source_url": "https://fusium.ca/en/career/",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 36,
+    "search_engine_warnings": 1,
+    "urls_crawled": 13,
+    "crawl_failures": 4,
+    "contact_signals": 4,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 3,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 4,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

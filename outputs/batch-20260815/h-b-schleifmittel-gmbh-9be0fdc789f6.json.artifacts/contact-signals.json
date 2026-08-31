@@ -1,0 +1,211 @@
+[
+  {
+    "channel": "phone",
+    "value": "+4926233017",
+    "status": "valid_format",
+    "source_url": "https://bizdb.de/firm/4524070/hb-schleifmittel-gmbh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+494661534218",
+    "status": "valid_format",
+    "source_url": "https://bizdb.de/firm/4524070/hb-schleifmittel-gmbh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hb-schleifmittel.de",
+    "status": "observed",
+    "source_url": "https://hb-schleifmittel.de",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926233017",
+    "status": "valid_format",
+    "source_url": "https://hb-schleifmittel.de",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hb-schleifmittel.de",
+    "status": "observed",
+    "source_url": "https://hb-schleifmittel.de/abrichten/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926233017",
+    "status": "valid_format",
+    "source_url": "https://hb-schleifmittel.de/abrichten/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hb-schleifmittel.de",
+    "status": "observed",
+    "source_url": "https://hb-schleifmittel.de/flachschleifscheiben/flachschleifen-mit-topfschleifscheiben/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926233017",
+    "status": "valid_format",
+    "source_url": "https://hb-schleifmittel.de/flachschleifscheiben/flachschleifen-mit-topfschleifscheiben/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hb-schleifmittel.de",
+    "status": "observed",
+    "source_url": "https://hb-schleifmittel.de/schleifscheibenaufnahmen/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926233017",
+    "status": "valid_format",
+    "source_url": "https://hb-schleifmittel.de/schleifscheibenaufnahmen/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hb-schleifmittel.de",
+    "status": "observed",
+    "source_url": "https://hb-schleifmittel.de/impressum/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@polarismedia.de",
+    "status": "observed",
+    "source_url": "https://hb-schleifmittel.de/impressum/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926233017",
+    "status": "valid_format",
+    "source_url": "https://hb-schleifmittel.de/impressum/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4969400502030",
+    "status": "valid_format",
+    "source_url": "https://hb-schleifmittel.de/impressum/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hb-schleifmittel.de",
+    "status": "observed",
+    "source_url": "https://hb-schleifmittel.de/shop/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926233017",
+    "status": "valid_format",
+    "source_url": "https://hb-schleifmittel.de/shop/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hb-schleifmittel.de",
+    "status": "observed",
+    "source_url": "https://hb-schleifmittel.de/unser-fachkompetentes-team/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926233017",
+    "status": "valid_format",
+    "source_url": "https://hb-schleifmittel.de/unser-fachkompetentes-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hb-schleifmittel.de",
+    "status": "observed",
+    "source_url": "https://hb-schleifmittel.de/unser-fachkompetentes-team?noredirect=de_DE",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926233017",
+    "status": "valid_format",
+    "source_url": "https://hb-schleifmittel.de/unser-fachkompetentes-team?noredirect=de_DE",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926233017",
+    "status": "valid_format",
+    "source_url": "https://www.dasoertliche.de/Themen/H-B-Schleifmittel-GmbH-Ransbach-Baumbach-Bahnhofstr",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hb-schleifmittel.de",
+    "status": "observed",
+    "source_url": "https://hb-schleifmittel.de/unser-fachkompetentes-team/?noredirect=de_DE",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926233017",
+    "status": "valid_format",
+    "source_url": "https://hb-schleifmittel.de/unser-fachkompetentes-team/?noredirect=de_DE",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hb-schleifmittel.de",
+    "status": "observed",
+    "source_url": "https://hb-schleifmittel.de/wp-content/uploads/2018/02/hb-katalog_web-2.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "info@hb-schleifmittel.de",
+    "status": "probable",
+    "source_url": "http://en.hb-schleifmittel.de/contact",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926233017",
+    "status": "valid_format",
+    "source_url": "http://en.hb-schleifmittel.de/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

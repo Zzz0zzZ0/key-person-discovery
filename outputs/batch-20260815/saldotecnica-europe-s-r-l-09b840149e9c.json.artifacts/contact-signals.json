@@ -1,0 +1,1093 @@
+[
+  {
+    "channel": "phone",
+    "value": "+442920886500",
+    "status": "valid_format",
+    "source_url": "https://www.creditsafe.com/business-index/en-gb/company/saldotecnica-europe-srl-it07996548",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@saldotecnica.eu",
+    "status": "observed",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hdv@macocorporation.com",
+    "status": "observed",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tihonpostbox@rambler.ru",
+    "status": "observed",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "salge@reside.com.br",
+    "status": "observed",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "karam.iskandar@spg-eg.com",
+    "status": "observed",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "bkunac@alpmuhendislik.net",
+    "status": "observed",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "j.zajac@forcastpolska.com",
+    "status": "observed",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "eros@ejtrepresentation.com",
+    "status": "observed",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "enno.hilgenhoener@weebotec.de",
+    "status": "observed",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "win.fink@maconas.de",
+    "status": "observed",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tero.harju@tetec.fi",
+    "status": "observed",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "office@indas.ru",
+    "status": "observed",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "pfloresvega@gmail.com",
+    "status": "observed",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "binod.k@macocorporation.com",
+    "status": "observed",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "office@imt-kh.com.ua",
+    "status": "observed",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@saldotecnica.eu",
+    "status": "observed",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390106133849",
+    "status": "valid_format",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+12199832438",
+    "status": "valid_format",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+919830041002",
+    "status": "valid_format",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+905334773872",
+    "status": "valid_format",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+380509124683",
+    "status": "valid_format",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511982082660",
+    "status": "valid_format",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+201223406005",
+    "status": "valid_format",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+20227382678",
+    "status": "valid_format",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322051258",
+    "status": "valid_format",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48601433387",
+    "status": "valid_format",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+56933892156",
+    "status": "valid_format",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+492161952625",
+    "status": "valid_format",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358503164225",
+    "status": "valid_format",
+    "source_url": "http://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@saldotecnica.eu",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hdv@macocorporation.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tihonpostbox@rambler.ru",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "j.zajac@forcastpolska.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "office@imt-kh.com.ua",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "binod.k@macocorporation.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tero.harju@tetec.fi",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "karam.iskandar@spg-eg.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "bkunac@alpmuhendislik.net",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "eros@ejtrepresentation.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "pfloresvega@gmail.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "win.fink@maconas.de",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "enno.hilgenhoener@weebotec.de",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "salge@reside.com.br",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "office@indas.ru",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@saldotecnica.eu",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390106133849",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+12199832438",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+919830041002",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+905334773872",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+380509124683",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322051258",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48601433387",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358503164225",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+201223406005",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+20227382678",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+56933892156",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+492161952625",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511982082660",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@saldotecnica.eu",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en"
+  },
+  {
+    "channel": "email",
+    "value": "hdv@macocorporation.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en"
+  },
+  {
+    "channel": "email",
+    "value": "tihonpostbox@rambler.ru",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en"
+  },
+  {
+    "channel": "email",
+    "value": "salge@reside.com.br",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en"
+  },
+  {
+    "channel": "email",
+    "value": "binod.k@macocorporation.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en"
+  },
+  {
+    "channel": "email",
+    "value": "eros@ejtrepresentation.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en"
+  },
+  {
+    "channel": "email",
+    "value": "office@imt-kh.com.ua",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en"
+  },
+  {
+    "channel": "email",
+    "value": "tero.harju@tetec.fi",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en"
+  },
+  {
+    "channel": "email",
+    "value": "bkunac@alpmuhendislik.net",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en"
+  },
+  {
+    "channel": "email",
+    "value": "karam.iskandar@spg-eg.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en"
+  },
+  {
+    "channel": "email",
+    "value": "office@indas.ru",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en"
+  },
+  {
+    "channel": "email",
+    "value": "win.fink@maconas.de",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en"
+  },
+  {
+    "channel": "email",
+    "value": "j.zajac@forcastpolska.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en"
+  },
+  {
+    "channel": "email",
+    "value": "enno.hilgenhoener@weebotec.de",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en"
+  },
+  {
+    "channel": "email",
+    "value": "pfloresvega@gmail.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en"
+  },
+  {
+    "channel": "email",
+    "value": "info@saldotecnica.eu",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en"
+  },
+  {
+    "channel": "phone",
+    "value": "+390106133849",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+12199832438",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+919830041002",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+905334773872",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380509124683",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+5511982082660",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+358503164225",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+201223406005",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+48322051258",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+48601433387",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+492161952625",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "sales@saldotecnica.eu",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hdv@macocorporation.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tihonpostbox@rambler.ru",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "pfloresvega@gmail.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "office@imt-kh.com.ua",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "eros@ejtrepresentation.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "win.fink@maconas.de",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "bkunac@alpmuhendislik.net",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "enno.hilgenhoener@weebotec.de",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "salge@reside.com.br",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "binod.k@macocorporation.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tero.harju@tetec.fi",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "office@indas.ru",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "karam.iskandar@spg-eg.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "j.zajac@forcastpolska.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@saldotecnica.eu",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390106133849",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+12199832438",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+919830041002",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+905334773872",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+380509124683",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+56933892156",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+492161952625",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511982082660",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358503164225",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+201223406005",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+20227382678",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322051258",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48601433387",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@saldotecnica.eu",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/"
+  },
+  {
+    "channel": "email",
+    "value": "hdv@macocorporation.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/"
+  },
+  {
+    "channel": "email",
+    "value": "tihonpostbox@rambler.ru",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/"
+  },
+  {
+    "channel": "email",
+    "value": "salge@reside.com.br",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/"
+  },
+  {
+    "channel": "email",
+    "value": "office@indas.ru",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/"
+  },
+  {
+    "channel": "email",
+    "value": "eros@ejtrepresentation.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/"
+  },
+  {
+    "channel": "email",
+    "value": "office@imt-kh.com.ua",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/"
+  },
+  {
+    "channel": "email",
+    "value": "pfloresvega@gmail.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/"
+  },
+  {
+    "channel": "email",
+    "value": "win.fink@maconas.de",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/"
+  },
+  {
+    "channel": "email",
+    "value": "enno.hilgenhoener@weebotec.de",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/"
+  },
+  {
+    "channel": "email",
+    "value": "j.zajac@forcastpolska.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/"
+  },
+  {
+    "channel": "email",
+    "value": "bkunac@alpmuhendislik.net",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/"
+  },
+  {
+    "channel": "email",
+    "value": "binod.k@macocorporation.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/"
+  },
+  {
+    "channel": "email",
+    "value": "karam.iskandar@spg-eg.com",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/"
+  },
+  {
+    "channel": "email",
+    "value": "tero.harju@tetec.fi",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/"
+  },
+  {
+    "channel": "email",
+    "value": "info@saldotecnica.eu",
+    "status": "observed",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/"
+  },
+  {
+    "channel": "phone",
+    "value": "+390106133849",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+12199832438",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+919830041002",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+905334773872",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+380509124683",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+5511982082660",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+492161952625",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+48322051258",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+48601433387",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+201223406005",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+358503164225",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/en/ankiros-2022-thanks-to-alp-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+390106133849",
+    "status": "valid_format",
+    "source_url": "https://www.saldotecnica.eu/wp-content/uploads/download/machining.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/luca-giusti-806700192",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/luca-giusti-806700192"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/alessandro-raffaele-79b376101",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/alessandro-raffaele-79b376101"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/antonino-campisi-6bb792227",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/antonino-campisi-6bb792227"
+  }
+]

@@ -1,0 +1,35 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://ablerefractory.com/products insulcast.html                                                    | ✓ | ⏱: 0.68s 
+[SCRAPE].. ◆ http://ablerefractory.com/products insulcast.html                                                    | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://ablerefractory.com/products insulcast.html                                                    | ✓ | ⏱: 1.24s 
+[FETCH]... ↓ http://ablerefractory.com/able_supply_stocks_ceramic_fiber.htm                                       | ✓ | ⏱: 0.70s 
+[SCRAPE].. ◆ http://ablerefractory.com/able_supply_stocks_ceramic_fiber.htm                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://ablerefractory.com/able_supply_stocks_ceramic_fiber.htm                                       | ✓ | ⏱: 1.25s 
+[FETCH]... ↓ http://ablerefractory.com/                                                                           | ✓ | ⏱: 1.10s 
+[SCRAPE].. ◆ http://ablerefractory.com/                                                                           | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://ablerefractory.com/                                                                           | ✓ | ⏱: 1.66s 
+[FETCH]... ↓ http://www.ablerefractory.com                                                                        | ✓ | ⏱: 1.35s 
+[SCRAPE].. ◆ http://www.ablerefractory.com                                                                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://www.ablerefractory.com                                                                        | ✓ | ⏱: 1.88s 
+[FETCH]... ↓ http://www.ablerefractory.com/refractoryproducts.htm                                                 | ✓ | ⏱: 0.67s 
+[SCRAPE].. ◆ http://www.ablerefractory.com/refractoryproducts.htm                                                 | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://www.ablerefractory.com/refractoryproducts.htm                                                 | ✓ | ⏱: 1.29s 
+[FETCH]... ↓ https://ablerefractory.com/                                                                          | ✓ | ⏱: 1.42s 
+[SCRAPE].. ◆ https://ablerefractory.com/                                                                          | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://ablerefractory.com/                                                                          | ✓ | ⏱: 2.29s 
+[FETCH]... ↓ https://governmentbidders.com/government-bidders/contractor-5260562-ABLE-SUPPLY-COMPANY.htm          | ✓ | ⏱: 2.13s 
+[SCRAPE].. ◆ https://governmentbidders.com/government-bidders/contractor-5260562-ABLE-SUPPLY-COMPANY.htm          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://governmentbidders.com/government-bidders/contractor-5260562-ABLE-SUPPLY-COMPANY.htm          | ✓ | ⏱: 2.14s 
+[FETCH]... ↓ https://www.ablerefractory.com/about_us.htm                                                          | ✓ | ⏱: 0.97s 
+[SCRAPE].. ◆ https://www.ablerefractory.com/about_us.htm                                                          | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.ablerefractory.com/about_us.htm                                                          | ✓ | ⏱: 1.87s 
+[FETCH]... ↓ https://www.ablerefractory.com/email.html                                                            | ✓ | ⏱: 0.55s 
+[SCRAPE].. ◆ https://www.ablerefractory.com/email.html                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.ablerefractory.com/email.html                                                            | ✓ | ⏱: 1.32s 
+[FETCH]... ↓ https://npe.law.stanford.edu/party/able-supply-company                                               | ✓ | ⏱: 4.62s 
+[SCRAPE].. ◆ https://npe.law.stanford.edu/party/able-supply-company                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://npe.law.stanford.edu/party/able-supply-company                                               | ✓ | ⏱: 5.79s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/able-supply-company-e1770a61ff6c.json

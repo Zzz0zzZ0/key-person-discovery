@@ -1,0 +1,86 @@
+{
+  "name": "SCHOTT",
+  "website": "https://www.schott.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "006d310a-5cbf-4eda-83e7-49f6d0366387",
+  "crm_linkedin_url": "https://www.linkedin.com/company/schott",
+  "crm_country": "德国 / 中国 / 美国",
+  "crm_updated_at": "2026-06-09T06:12:08.077808+00:00",
+  "crm_contact_count": 5,
+  "crm_contacts": [
+    {
+      "name": "Andres Varela",
+      "email": null,
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/andres-varela-55a8a91b",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+49 6131 660",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Erika Zakor",
+      "email": "erika.zakor@schott.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/erika-zakor-64a27420",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Timothy Smeltzer",
+      "email": "timothysmeltzer@gmail.com",
+      "additional_emails": [
+        "tim.smeltzer@us.schott.com"
+      ],
+      "phone": "+1 774-230-9244, +1 508-764-7287, +1 508-330-0144",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/timothy-smeltzer-b29a5b37",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Vinod Manglani",
+      "email": "vinod.manglani@schott.com",
+      "additional_emails": [
+        "vinod.manglani@yahoo.co.in"
+      ],
+      "phone": "+91 89800 12601",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/vinod-manglani-58924047",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-15T02:53:00.669619+00:00",
+  "source": "twenty_postgresql_read_only"
+}

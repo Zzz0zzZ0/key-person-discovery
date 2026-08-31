@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://hanjoolightmetal.com",
+    "markdown": "a03afe0dcf6bbee8",
+    "error": "",
+    "provider": "crawl4ai",
+    "source_type": "crawl",
+    "page_count": 0
+  },
+  {
+    "url": "https://hanjoolightmetal.com/board/",
+    "markdown": "a03afe0dcf6bbee8",
+    "error": "",
+    "provider": "crawl4ai",
+    "source_type": "crawl",
+    "page_count": 0
+  },
+  {
+    "url": "https://kr.linkedin.com/pub/dir/%EB%8F%84%ED%9B%88/%EA%B9%80/kr-0-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD",
+    "markdown": "",
+    "error": "Access denied by robots.txt",
+    "provider": "crawl4ai",
+    "source_type": "crawl",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.linkedin.com/pub/dir/%EB%8F%84%ED%9B%88/%EA%B9%80",
+    "markdown": "",
+    "error": "Access denied by robots.txt",
+    "provider": "crawl4ai",
+    "source_type": "crawl",
+    "page_count": 0
+  },
+  {
+    "url": "http://www.linkedin.com/company/hanjoo-metal",
+    "markdown": "",
+    "error": "Access denied by robots.txt",
+    "provider": "crawl4ai",
+    "source_type": "crawl",
+    "page_count": 0
+  },
+  {
+    "url": "http://tt.linkedin.com/company/hanjoo-metal",
+    "markdown": "",
+    "error": "Access denied by robots.txt",
+    "provider": "crawl4ai",
+    "source_type": "crawl",
+    "page_count": 0
+  }
+]

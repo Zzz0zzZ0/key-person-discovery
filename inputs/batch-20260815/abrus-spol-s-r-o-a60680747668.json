@@ -1,0 +1,46 @@
+{
+  "name": "ABRUS spol. s r. o.",
+  "website": "http://www.abrus-brusivo.cz",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "0175064a-d5b2-4b55-a150-f1c504e63cc4",
+  "crm_linkedin_url": null,
+  "crm_country": "捷克",
+  "crm_updated_at": "2026-07-29T08:36:14.146224+00:00",
+  "crm_contact_count": 1,
+  "crm_contacts": [
+    {
+      "name": " Official Email",
+      "email": "abrus@abrus-brusivo.cz",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T04:54:14.658326+00:00",
+  "source": "twenty_postgresql_read_only"
+}

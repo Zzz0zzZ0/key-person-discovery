@@ -1,0 +1,52 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://zalco.nl/en/contact                                                                          | ✓ | ⏱: 1.74s 
+[SCRAPE].. ◆ https://zalco.nl/en/contact                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://zalco.nl/en/contact                                                                          | ✓ | ⏱: 2.28s 
+[FETCH]... ↓ https://zalco.nl/de/produkte/rundbarren                                                              | ✓ | ⏱: 1.59s 
+[SCRAPE].. ◆ https://zalco.nl/de/produkte/rundbarren                                                              | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zalco.nl/de/produkte/rundbarren                                                              | ✓ | ⏱: 2.29s 
+[FETCH]... ↓ https://zalco.nl                                                                                     | ✓ | ⏱: 2.03s 
+[SCRAPE].. ◆ https://zalco.nl                                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://zalco.nl                                                                                     | ✓ | ⏱: 2.67s 
+[FETCH]... ↓ https://zalco.nl/en/contact/directions                                                               | ✓ | ⏱: 0.65s 
+[SCRAPE].. ◆ https://zalco.nl/en/contact/directions                                                               | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zalco.nl/en/contact/directions                                                               | ✓ | ⏱: 0.66s 
+[FETCH]... ↓ https://zalco.nl/es/home                                                                             | ✓ | ⏱: 0.55s 
+[SCRAPE].. ◆ https://zalco.nl/es/home                                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://zalco.nl/es/home                                                                             | ✓ | ⏱: 0.57s 
+[FETCH]... ↓ https://zalco.nl/en/home                                                                             | ✓ | ⏱: 0.57s 
+[SCRAPE].. ◆ https://zalco.nl/en/home                                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://zalco.nl/en/home                                                                             | ✓ | ⏱: 0.58s 
+[FETCH]... ↓ https://www.reuters.com/article/zalco-aluminium-idAFL5E8HB9ZX20120611/                               | ✓ | ⏱: 1.48s 
+[SCRAPE].. ◆ https://www.reuters.com/article/zalco-aluminium-idAFL5E8HB9ZX20120611/                               | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.reuters.com...-idAFL5E8HB9ZX20120611/  | Error: Blocked by anti-bot protection: DataDome captcha 
+[COMPLETE] ● https://www.reuters.com/article/zalco-aluminium-idAFL5E8HB9ZX20120611/                               | ✗ | ⏱: 3.49s 
+[FETCH]... ↓ https://zalco.nl/nl/contact                                                                          | ✓ | ⏱: 0.53s 
+[SCRAPE].. ◆ https://zalco.nl/nl/contact                                                                          | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zalco.nl/nl/contact                                                                          | ✓ | ⏱: 0.53s 
+[FETCH]... ↓ https://zalco.nl/nl/geschiedenis                                                                     | ✓ | ⏱: 0.62s 
+[SCRAPE].. ◆ https://zalco.nl/nl/geschiedenis                                                                     | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zalco.nl/nl/geschiedenis                                                                     | ✓ | ⏱: 0.63s 
+[FETCH]... ↓ https://zalco.nl/nl/vacatures                                                                        | ✓ | ⏱: 0.53s 
+[SCRAPE].. ◆ https://zalco.nl/nl/vacatures                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://zalco.nl/nl/vacatures                                                                        | ✓ | ⏱: 0.54s 
+[FETCH]... ↓ https://zalco.nl/nl/producten                                                                        | ✓ | ⏱: 0.55s 
+[SCRAPE].. ◆ https://zalco.nl/nl/producten                                                                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zalco.nl/nl/producten                                                                        | ✓ | ⏱: 0.56s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://zalco.nl/es/contact                                                                          | ✓ | ⏱: 2.01s 
+[SCRAPE].. ◆ https://zalco.nl/es/contact                                                                          | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zalco.nl/es/contact                                                                          | ✓ | ⏱: 2.02s 
+[FETCH]... ↓ https://zalco.nl/es/contact/como-llegar                                                              | ✓ | ⏱: 2.02s 
+[SCRAPE].. ◆ https://zalco.nl/es/contact/como-llegar                                                              | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zalco.nl/es/contact/como-llegar                                                              | ✓ | ⏱: 2.03s 
+[FETCH]... ↓ https://zalco.nl/en/news1                                                                            | ✓ | ⏱: 2.18s 
+[SCRAPE].. ◆ https://zalco.nl/en/news1                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zalco.nl/en/news1                                                                            | ✓ | ⏱: 2.19s 
+[FETCH]... ↓ https://zalco.nl/en/news1/zalco-at-the-fair-in-dusseldorf-20163                                      | ✓ | ⏱: 2.03s 
+[SCRAPE].. ◆ https://zalco.nl/en/news1/zalco-at-the-fair-in-dusseldorf-20163                                      | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zalco.nl/en/news1/zalco-at-the-fair-in-dusseldorf-20163                                      | ✓ | ⏱: 2.04s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/zalco-aluminium-company-fac9a38a5f5a.json

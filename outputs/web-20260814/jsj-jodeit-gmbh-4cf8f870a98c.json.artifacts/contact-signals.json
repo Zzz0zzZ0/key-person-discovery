@@ -1,0 +1,20 @@
+[
+  {
+    "channel": "phone",
+    "value": "+492112807330",
+    "status": "valid_format",
+    "source_url": "https://www.glassglobal.com/glasstec/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4921128073322",
+    "status": "valid_format",
+    "source_url": "https://www.glassglobal.com/glasstec/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

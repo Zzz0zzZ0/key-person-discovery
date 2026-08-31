@@ -1,0 +1,11 @@
+[
+  {
+    "channel": "phone",
+    "value": "+49233398840",
+    "status": "valid_format",
+    "source_url": "https://www.brackelsberg.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

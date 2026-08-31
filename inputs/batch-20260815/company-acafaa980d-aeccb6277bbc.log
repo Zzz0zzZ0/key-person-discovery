@@ -1,0 +1,83 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://ihbmetalcastings.com/bg/ekip                                                                 | ✓ | ⏱: 2.45s 
+[SCRAPE].. ◆ https://ihbmetalcastings.com/bg/ekip                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ihbmetalcastings.com/bg/ekip                                                                 | ✓ | ⏱: 4.47s 
+[FETCH]... ↓ https://ihbmetalcastings.com/bg/kontakti                                                             | ✓ | ⏱: 2.47s 
+[SCRAPE].. ◆ https://ihbmetalcastings.com/bg/kontakti                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://ihbmetalcastings.com/bg/kontakti                                                             | ✓ | ⏱: 4.48s 
+[FETCH]... ↓ https://ihbmetalcastings.com/bg/                                                                     | ✓ | ⏱: 2.92s 
+[SCRAPE].. ◆ https://ihbmetalcastings.com/bg/                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ihbmetalcastings.com/bg/                                                                     | ✓ | ⏱: 4.95s 
+[FETCH]... ↓ https://ihbmetalcastings.com                                                                         | ✓ | ⏱: 3.64s 
+[SCRAPE].. ◆ https://ihbmetalcastings.com                                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ihbmetalcastings.com                                                                         | ✓ | ⏱: 5.67s 
+[FETCH]... ↓ https://ihbmetalcastings.com/bg/produkti                                                             | ✓ | ⏱: 1.03s 
+[SCRAPE].. ◆ https://ihbmetalcastings.com/bg/produkti                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ihbmetalcastings.com/bg/produkti                                                             | ✓ | ⏱: 3.04s 
+[FETCH]... ↓ https://ihbmetalcastings.com/en/contacts                                                             | ✓ | ⏱: 1.02s 
+[SCRAPE].. ◆ https://ihbmetalcastings.com/en/contacts                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://ihbmetalcastings.com/en/contacts                                                             | ✓ | ⏱: 3.04s 
+[FETCH]... ↓ https://ihbmetalcastings.com/en/news/53-change-of-the-company-trade-name                             | ✓ | ⏱: 1.16s 
+[SCRAPE].. ◆ https://ihbmetalcastings.com/en/news/53-change-of-the-company-trade-name                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ihbmetalcastings.com/en/news/53-change-of-the-company-trade-name                             | ✓ | ⏱: 3.17s 
+[FETCH]... ↓ https://www.ihbmetalcastings.com/bg/novini/13-podobreni-uslovija-na-rabota-v-ihb-metal-kastings-ad   | ✓ | ⏱: 3.32s 
+[SCRAPE].. ◆ https://www.ihbmetalcastings.com/bg/novini/13-podobreni-uslovija-na-rabota-v-ihb-metal-kastings-ad   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.ihbmetalcastings.com/bg/novini/13-podobreni-uslovija-na-rabota-v-ihb-metal-kastings-ad   | ✓ | ⏱: 5.34s 
+[FETCH]... ↓ https://www.ihbmetalcastings.com/en                                                                  | ✓ | ⏱: 1.33s 
+[SCRAPE].. ◆ https://www.ihbmetalcastings.com/en                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ihbmetalcastings.com/en                                                                  | ✓ | ⏱: 3.35s 
+[FETCH]... ↓ https://www.ihbmetalcastings.com/en/activities/37-moulding                                           | ✓ | ⏱: 1.58s 
+[SCRAPE].. ◆ https://www.ihbmetalcastings.com/en/activities/37-moulding                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ihbmetalcastings.com/en/activities/37-moulding                                           | ✓ | ⏱: 3.60s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://ihbmetalcastings.com/images/news/News1_278x250_crop_478b24840a.jpg                           | ✓ | ⏱: 1.46s 
+[SCRAPE].. ◆ https://ihbmetalcastings.com/images/news/News1_278x250_crop_478b24840a.jpg                           | ✓ | ⏱: 0.00s 
+[ERROR]... × https://ihbmetalcasting...250_crop_478b24840a.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (502 bytes, 0 chars visible) 
+[COMPLETE] ● https://ihbmetalcastings.com/images/news/News1_278x250_crop_478b24840a.jpg                           | ✗ | ⏱: 3.46s 
+[FETCH]... ↓ https://ihbmetalcastings.com/en/about-us                                                             | ✓ | ⏱: 2.47s 
+[SCRAPE].. ◆ https://ihbmetalcastings.com/en/about-us                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ihbmetalcastings.com/en/about-us                                                             | ✓ | ⏱: 4.49s 
+[FETCH]... ↓ https://ihbmetalcastings.com/en/news                                                                 | ✓ | ⏱: 2.66s 
+[SCRAPE].. ◆ https://ihbmetalcastings.com/en/news                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ihbmetalcastings.com/en/news                                                                 | ✓ | ⏱: 4.68s 
+[FETCH]... ↓ https://ihbmetalcastings.com/en/team                                                                 | ✓ | ⏱: 3.04s 
+[SCRAPE].. ◆ https://ihbmetalcastings.com/en/team                                                                 | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://ihbmetalcastings.com/en/team                                                                 | ✓ | ⏱: 5.05s 
+[FETCH]... ↓ https://ihbmetalcastings.com/images/slider1/th/A...151x454_crop_and_resize_to_fit_478b24840a_th.jpg  | ✓ | ⏱: 0.56s 
+[SCRAPE].. ◆ https://ihbmetalcastings.com/images/slider1/th/A...151x454_crop_and_resize_to_fit_478b24840a_th.jpg  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://ihbmetalcasting...o_fit_478b24840a_th.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (574 bytes, 0 chars visible) 
+[COMPLETE] ● https://ihbmetalcastings.com/images/slider1/th/A...151x454_crop_and_resize_to_fit_478b24840a_th.jpg  | ✗ | ⏱: 2.57s 
+[FETCH]... ↓ https://www.ihbmetalcastings.com/en/about-us                                                         | ✓ | ⏱: 2.28s 
+[SCRAPE].. ◆ https://www.ihbmetalcastings.com/en/about-us                                                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.ihbmetalcastings.com/en/about-us                                                         | ✓ | ⏱: 4.29s 
+[FETCH]... ↓ https://www.ihbmetalcastings.com/en/contacts                                                         | ✓ | ⏱: 2.01s 
+[SCRAPE].. ◆ https://www.ihbmetalcastings.com/en/contacts                                                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.ihbmetalcastings.com/en/contacts                                                         | ✓ | ⏱: 4.03s 
+[FETCH]... ↓ https://www.ihbmetalcastings.com/en/news/51-presentation-of-our-new-vision-in-europe                 | ✓ | ⏱: 1.11s 
+[SCRAPE].. ◆ https://www.ihbmetalcastings.com/en/news/51-presentation-of-our-new-vision-in-europe                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ihbmetalcastings.com/en/news/51-presentation-of-our-new-vision-in-europe                 | ✓ | ⏱: 3.12s 
+[FETCH]... ↓ https://www.ihbmetalcastings.com/en/news                                                             | ✓ | ⏱: 2.50s 
+[SCRAPE].. ◆ https://www.ihbmetalcastings.com/en/news                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.ihbmetalcastings.com/en/news                                                             | ✓ | ⏱: 4.51s 
+[FETCH]... ↓ https://www.ihbmetalcastings.com/en/news/52-publications-in-the-media-about-us                       | ✓ | ⏱: 1.01s 
+[SCRAPE].. ◆ https://www.ihbmetalcastings.com/en/news/52-publications-in-the-media-about-us                       | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.ihbmetalcastings.com/en/news/52-publications-in-the-media-about-us                       | ✓ | ⏱: 3.02s 
+[FETCH]... ↓ https://www.ihbmetalcastings.com/images/news/EU_Proekt_278x250_crop_478b24840a.jpg                   | ✓ | ⏱: 0.15s 
+[SCRAPE].. ◆ https://www.ihbmetalcastings.com/images/news/EU_Proekt_278x250_crop_478b24840a.jpg                   | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.ihbmetalcas...250_crop_478b24840a.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (514 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.ihbmetalcastings.com/images/news/EU_Proekt_278x250_crop_478b24840a.jpg                   | ✗ | ⏱: 2.15s 
+[FETCH]... ↓ https://www.ihbmetalcastings.com/en/news/53-change-of-the-company-trade-name                         | ✓ | ⏱: 1.18s 
+[SCRAPE].. ◆ https://www.ihbmetalcastings.com/en/news/53-change-of-the-company-trade-name                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.ihbmetalcastings.com/en/news/53-change-of-the-company-trade-name                         | ✓ | ⏱: 3.20s 
+[FETCH]... ↓ https://www.ihbmetalcastings.com/en/team                                                             | ✓ | ⏱: 1.41s 
+[SCRAPE].. ◆ https://www.ihbmetalcastings.com/en/team                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.ihbmetalcastings.com/en/team                                                             | ✓ | ⏱: 3.42s 
+[FETCH]... ↓ https://www.ihbmetalcastings.com/images/slider1/...151x454_crop_and_resize_to_fit_478b24840a_th.jpg  | ✓ | ⏱: 0.58s 
+[SCRAPE].. ◆ https://www.ihbmetalcastings.com/images/slider1/...151x454_crop_and_resize_to_fit_478b24840a_th.jpg  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.ihbmetalcas...o_fit_478b24840a_th.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (578 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.ihbmetalcastings.com/images/slider1/...151x454_crop_and_resize_to_fit_478b24840a_th.jpg  | ✗ | ⏱: 2.59s 
+Xref table not zero-indexed. ID numbers for objects will be corrected.
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/company-acafaa980d-aeccb6277bbc.json

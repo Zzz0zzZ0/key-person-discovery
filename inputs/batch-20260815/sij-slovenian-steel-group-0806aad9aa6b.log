@@ -1,0 +1,64 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://ceelegalmatters.com/slovenia/19441-karme...advises-nlb-on-eur-230-million-loan-to-sij-group  | ✓ | ⏱: 1.46s 
+[SCRAPE].. ◆ https://ceelegalmatters.com/slovenia/19441-karme...advises-nlb-on-eur-230-million-loan-to-sij-group  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://ceelegalmatters...llion-loan-to-sij-group  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://ceelegalmatters.com/slovenia/19441-karme...advises-nlb-on-eur-230-million-loan-to-sij-group  | ✗ | ⏱: 2.58s 
+[FETCH]... ↓ https://www.sij-americas.com                                                                         | ✓ | ⏱: 1.88s 
+[SCRAPE].. ◆ https://www.sij-americas.com                                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sij-americas.com                                                                         | ✓ | ⏱: 2.37s 
+[FETCH]... ↓ https://www.sij-americas.com/en/about                                                                | ✓ | ⏱: 1.19s 
+[SCRAPE].. ◆ https://www.sij-americas.com/en/about                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sij-americas.com/en/about                                                                | ✓ | ⏱: 1.21s 
+[FETCH]... ↓ https://www.sij-americas.com/en/contacts                                                             | ✓ | ⏱: 0.94s 
+[SCRAPE].. ◆ https://www.sij-americas.com/en/contacts                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sij-americas.com/en/contacts                                                             | ✓ | ⏱: 0.95s 
+[FETCH]... ↓ https://www.ravnesystems.com/en/news/sij-group-received-the-te-award                                 | ✓ | ⏱: 3.65s 
+[SCRAPE].. ◆ https://www.ravnesystems.com/en/news/sij-group-received-the-te-award                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ravnesystems.com/en/news/sij-group-received-the-te-award                                 | ✓ | ⏱: 4.62s 
+[FETCH]... ↓ https://www.sij-americas.com/en/leadership                                                           | ✓ | ⏱: 0.90s 
+[SCRAPE].. ◆ https://www.sij-americas.com/en/leadership                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sij-americas.com/en/leadership                                                           | ✓ | ⏱: 0.91s 
+[FETCH]... ↓ https://www.sij-americas.com/en/locations-contact                                                    | ✓ | ⏱: 1.03s 
+[SCRAPE].. ◆ https://www.sij-americas.com/en/locations-contact                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sij-americas.com/en/locations-contact                                                    | ✓ | ⏱: 1.04s 
+[FETCH]... ↓ https://www.sij-americas.com/en/news-events                                                          | ✓ | ⏱: 1.03s 
+[SCRAPE].. ◆ https://www.sij-americas.com/en/news-events                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sij-americas.com/en/news-events                                                          | ✓ | ⏱: 1.04s 
+[FETCH]... ↓ https://www.sij-americas.com/en/news/invitation-...the-proposed-resolutions-of-the-sij9-noteholders  | ✓ | ⏱: 0.82s 
+[SCRAPE].. ◆ https://www.sij-americas.com/en/news/invitation-...the-proposed-resolutions-of-the-sij9-noteholders  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sij-americas.com/en/news/invitation-...the-proposed-resolutions-of-the-sij9-noteholders  | ✓ | ⏱: 0.83s 
+[FETCH]... ↓ https://www.sij-americas.com/en/news/notice-of-voting-by-sij9-noteholders                            | ✓ | ⏱: 0.84s 
+[SCRAPE].. ◆ https://www.sij-americas.com/en/news/notice-of-voting-by-sij9-noteholders                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sij-americas.com/en/news/notice-of-voting-by-sij9-noteholders                            | ✓ | ⏱: 0.86s 
+[FETCH]... ↓ https://www.sij-americas.com/en/news/publication...ng-to-the-notes-and-the-inter-creditor-agreement  | ✓ | ⏱: 0.86s 
+[SCRAPE].. ◆ https://www.sij-americas.com/en/news/publication...ng-to-the-notes-and-the-inter-creditor-agreement  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sij-americas.com/en/news/publication...ng-to-the-notes-and-the-inter-creditor-agreement  | ✓ | ⏱: 0.88s 
+[FETCH]... ↓ https://www.sij-americas.com/en/news/sij-acroni-restores-narrow-gauge-electric-locomotive-oe-vi      | ✓ | ⏱: 0.91s 
+[SCRAPE].. ◆ https://www.sij-americas.com/en/news/sij-acroni-restores-narrow-gauge-electric-locomotive-oe-vi      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sij-americas.com/en/news/sij-acroni-restores-narrow-gauge-electric-locomotive-oe-vi      | ✓ | ⏱: 0.93s 
+[FETCH]... ↓ https://www.sij-americas.com/en/news/spela-ponom...the-new-street-workout-park-in-dekani-nad-koprom  | ✓ | ⏱: 0.86s 
+[SCRAPE].. ◆ https://www.sij-americas.com/en/news/spela-ponom...the-new-street-workout-park-in-dekani-nad-koprom  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sij-americas.com/en/news/spela-ponom...the-new-street-workout-park-in-dekani-nad-koprom  | ✓ | ⏱: 0.87s 
+[FETCH]... ↓ https://www.comtrade.com/news/strategic-partners...lovenian-steel-group-is-attaining-great-results/  | ✓ | ⏱: 5.80s 
+[SCRAPE].. ◆ https://www.comtrade.com/news/strategic-partners...lovenian-steel-group-is-attaining-great-results/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.comtrade.com/news/strategic-partners...lovenian-steel-group-is-attaining-great-results/  | ✓ | ⏱: 7.84s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.sij-americas.com/contacts                                                                | ✓ | ⏱: 1.28s 
+[SCRAPE].. ◆ https://www.sij-americas.com/contacts                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sij-americas.com/contacts                                                                | ✓ | ⏱: 1.30s 
+[FETCH]... ↓ https://www.sij-americas.com/leadership                                                              | ✓ | ⏱: 1.29s 
+[SCRAPE].. ◆ https://www.sij-americas.com/leadership                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sij-americas.com/leadership                                                              | ✓ | ⏱: 1.31s 
+[FETCH]... ↓ https://www.sij-americas.com/about                                                                   | ✓ | ⏱: 1.43s 
+[SCRAPE].. ◆ https://www.sij-americas.com/about                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sij-americas.com/about                                                                   | ✓ | ⏱: 1.44s 
+[FETCH]... ↓ https://www.sij-americas.com/locations-contact                                                       | ✓ | ⏱: 1.47s 
+[SCRAPE].. ◆ https://www.sij-americas.com/locations-contact                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sij-americas.com/locations-contact                                                       | ✓ | ⏱: 1.48s 
+[FETCH]... ↓ https://www.sij-americas.com/news-events                                                             | ✓ | ⏱: 0.64s 
+[SCRAPE].. ◆ https://www.sij-americas.com/news-events                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sij-americas.com/news-events                                                             | ✓ | ⏱: 0.66s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/sij-slovenian-steel-group-0806aad9aa6b.json

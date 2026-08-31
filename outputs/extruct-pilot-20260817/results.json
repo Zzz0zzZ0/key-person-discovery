@@ -1,0 +1,655 @@
+{
+  "extruct_version": "0.18.0",
+  "companies": [
+    {
+      "name": "Sialon Ceramics",
+      "slug": "sialon-v2",
+      "entity_counts": {
+        "organization": 6,
+        "contactpoint": 13
+      },
+      "values": {
+        "emails": [],
+        "phones": [
+          "+1 833 709 1399",
+          "+1-833-709-1399",
+          "+44 20 7660 2162",
+          "+45 35 15 8085",
+          "+46 31 754 0790"
+        ],
+        "linkedin": [
+          "https://www.linkedin.com/in/nico-van-dongen-3a6466165/"
+        ]
+      },
+      "new_vs_existing": {
+        "emails": [],
+        "phones": [
+          "+1 833 709 1399",
+          "+1-833-709-1399",
+          "+44 20 7660 2162",
+          "+45 35 15 8085",
+          "+46 31 754 0790"
+        ],
+        "linkedin": [
+          "https://www.linkedin.com/in/nico-van-dongen-3a6466165/"
+        ]
+      },
+      "pages": [
+        {
+          "requested_url": "https://sialon.com/",
+          "final_url": "https://sialon.com/",
+          "status": 200,
+          "bytes": 1507331,
+          "syntax_counts": {
+            "microdata": 0,
+            "json-ld": 4,
+            "opengraph": 1
+          },
+          "entities": [
+            {
+              "syntax": "json-ld",
+              "types": [
+                "organization"
+              ],
+              "data": {
+                "@type": "Organization",
+                "name": "Sialon Ceramics",
+                "url": "https://sialon.com/",
+                "contactPoint": [
+                  {
+                    "@type": "ContactPoint",
+                    "telephone": "+46 31 754 0790"
+                  },
+                  {
+                    "@type": "ContactPoint",
+                    "telephone": "+45 35 15 8085"
+                  },
+                  {
+                    "@type": "ContactPoint",
+                    "telephone": "+44 20 7660 2162"
+                  },
+                  {
+                    "@type": "ContactPoint",
+                    "telephone": "+1 833 709 1399"
+                  }
+                ],
+                "sameAs": [
+                  "https://twitter.com/SialonC",
+                  "https://www.linkedin.com/in/nico-van-dongen-3a6466165/",
+                  "https://www.youtube.com/user/alupro97/feed?view_as=public"
+                ],
+                "address": {
+                  "@type": "PostalAddress"
+                }
+              }
+            },
+            {
+              "syntax": "json-ld",
+              "types": [
+                "contactpoint"
+              ],
+              "data": {
+                "@type": "ContactPoint",
+                "telephone": "+46 31 754 0790"
+              }
+            },
+            {
+              "syntax": "json-ld",
+              "types": [
+                "contactpoint"
+              ],
+              "data": {
+                "@type": "ContactPoint",
+                "telephone": "+45 35 15 8085"
+              }
+            },
+            {
+              "syntax": "json-ld",
+              "types": [
+                "contactpoint"
+              ],
+              "data": {
+                "@type": "ContactPoint",
+                "telephone": "+44 20 7660 2162"
+              }
+            },
+            {
+              "syntax": "json-ld",
+              "types": [
+                "contactpoint"
+              ],
+              "data": {
+                "@type": "ContactPoint",
+                "telephone": "+1 833 709 1399"
+              }
+            },
+            {
+              "syntax": "json-ld",
+              "types": [
+                "organization"
+              ],
+              "data": {
+                "@type": "Organization",
+                "name": "Sialon Ceramics",
+                "url": "https://sialon.com",
+                "sameAs": [
+                  "https://www.linkedin.com/in/nico-van-dongen-3a6466165/",
+                  "https://twitter.com/SialonC",
+                  "https://www.youtube.com/user/alupro97/feed?view_as=public"
+                ],
+                "contactPoint": {
+                  "@type": "ContactPoint",
+                  "telephone": "+1-833-709-1399",
+                  "url": "https://sialon.com/contact/"
+                }
+              }
+            },
+            {
+              "syntax": "json-ld",
+              "types": [
+                "contactpoint"
+              ],
+              "data": {
+                "@type": "ContactPoint",
+                "telephone": "+1-833-709-1399",
+                "url": "https://sialon.com/contact/"
+              }
+            }
+          ],
+          "values": {
+            "emails": [],
+            "phones": [
+              "+1 833 709 1399",
+              "+1-833-709-1399",
+              "+44 20 7660 2162",
+              "+45 35 15 8085",
+              "+46 31 754 0790"
+            ],
+            "linkedin": [
+              "https://www.linkedin.com/in/nico-van-dongen-3a6466165/"
+            ]
+          }
+        },
+        {
+          "requested_url": "https://sialon.com/about-us/",
+          "final_url": "https://sialon.com/about-us/",
+          "status": 200,
+          "bytes": 1230269,
+          "syntax_counts": {
+            "microdata": 0,
+            "json-ld": 4,
+            "opengraph": 1
+          },
+          "entities": [
+            {
+              "syntax": "json-ld",
+              "types": [
+                "organization"
+              ],
+              "data": {
+                "@type": "Organization",
+                "name": "Sialon Ceramics",
+                "url": "https://sialon.com/",
+                "contactPoint": [
+                  {
+                    "@type": "ContactPoint",
+                    "telephone": "+46 31 754 0790"
+                  },
+                  {
+                    "@type": "ContactPoint",
+                    "telephone": "+45 35 15 8085"
+                  },
+                  {
+                    "@type": "ContactPoint",
+                    "telephone": "+44 20 7660 2162"
+                  },
+                  {
+                    "@type": "ContactPoint",
+                    "telephone": "+1 833 709 1399"
+                  }
+                ],
+                "sameAs": [
+                  "https://twitter.com/SialonC",
+                  "https://www.linkedin.com/in/nico-van-dongen-3a6466165/",
+                  "https://www.youtube.com/user/alupro97/feed?view_as=public"
+                ],
+                "address": {
+                  "@type": "PostalAddress"
+                }
+              }
+            },
+            {
+              "syntax": "json-ld",
+              "types": [
+                "contactpoint"
+              ],
+              "data": {
+                "@type": "ContactPoint",
+                "telephone": "+46 31 754 0790"
+              }
+            },
+            {
+              "syntax": "json-ld",
+              "types": [
+                "contactpoint"
+              ],
+              "data": {
+                "@type": "ContactPoint",
+                "telephone": "+45 35 15 8085"
+              }
+            },
+            {
+              "syntax": "json-ld",
+              "types": [
+                "contactpoint"
+              ],
+              "data": {
+                "@type": "ContactPoint",
+                "telephone": "+44 20 7660 2162"
+              }
+            },
+            {
+              "syntax": "json-ld",
+              "types": [
+                "contactpoint"
+              ],
+              "data": {
+                "@type": "ContactPoint",
+                "telephone": "+1 833 709 1399"
+              }
+            },
+            {
+              "syntax": "json-ld",
+              "types": [
+                "organization"
+              ],
+              "data": {
+                "@type": "Organization",
+                "name": "Sialon Ceramics",
+                "url": "https://sialon.com"
+              }
+            }
+          ],
+          "values": {
+            "emails": [],
+            "phones": [
+              "+1 833 709 1399",
+              "+44 20 7660 2162",
+              "+45 35 15 8085",
+              "+46 31 754 0790"
+            ],
+            "linkedin": [
+              "https://www.linkedin.com/in/nico-van-dongen-3a6466165/"
+            ]
+          }
+        },
+        {
+          "requested_url": "https://sialon.com/contact/",
+          "final_url": "https://sialon.com/contact/",
+          "status": 200,
+          "bytes": 1369921,
+          "syntax_counts": {
+            "microdata": 0,
+            "json-ld": 4,
+            "opengraph": 1
+          },
+          "entities": [
+            {
+              "syntax": "json-ld",
+              "types": [
+                "organization"
+              ],
+              "data": {
+                "@type": "Organization",
+                "name": "Sialon Ceramics",
+                "url": "https://sialon.com/",
+                "contactPoint": [
+                  {
+                    "@type": "ContactPoint",
+                    "telephone": "+46 31 754 0790"
+                  },
+                  {
+                    "@type": "ContactPoint",
+                    "telephone": "+45 35 15 8085"
+                  },
+                  {
+                    "@type": "ContactPoint",
+                    "telephone": "+44 20 7660 2162"
+                  },
+                  {
+                    "@type": "ContactPoint",
+                    "telephone": "+1 833 709 1399"
+                  }
+                ],
+                "sameAs": [
+                  "https://twitter.com/SialonC",
+                  "https://www.linkedin.com/in/nico-van-dongen-3a6466165/",
+                  "https://www.youtube.com/user/alupro97/feed?view_as=public"
+                ],
+                "address": {
+                  "@type": "PostalAddress"
+                }
+              }
+            },
+            {
+              "syntax": "json-ld",
+              "types": [
+                "contactpoint"
+              ],
+              "data": {
+                "@type": "ContactPoint",
+                "telephone": "+46 31 754 0790"
+              }
+            },
+            {
+              "syntax": "json-ld",
+              "types": [
+                "contactpoint"
+              ],
+              "data": {
+                "@type": "ContactPoint",
+                "telephone": "+45 35 15 8085"
+              }
+            },
+            {
+              "syntax": "json-ld",
+              "types": [
+                "contactpoint"
+              ],
+              "data": {
+                "@type": "ContactPoint",
+                "telephone": "+44 20 7660 2162"
+              }
+            },
+            {
+              "syntax": "json-ld",
+              "types": [
+                "contactpoint"
+              ],
+              "data": {
+                "@type": "ContactPoint",
+                "telephone": "+1 833 709 1399"
+              }
+            },
+            {
+              "syntax": "json-ld",
+              "types": [
+                "organization"
+              ],
+              "data": {
+                "@type": "Organization",
+                "name": "Sialon Ceramics",
+                "url": "https://sialon.com"
+              }
+            }
+          ],
+          "values": {
+            "emails": [],
+            "phones": [
+              "+1 833 709 1399",
+              "+44 20 7660 2162",
+              "+45 35 15 8085",
+              "+46 31 754 0790"
+            ],
+            "linkedin": [
+              "https://www.linkedin.com/in/nico-van-dongen-3a6466165/"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heatmasters",
+      "slug": "heatmasters",
+      "entity_counts": {
+        "organization": 3
+      },
+      "values": {
+        "emails": [],
+        "phones": [],
+        "linkedin": [
+          "https://www.linkedin.com/company/heatmasters/"
+        ]
+      },
+      "new_vs_existing": {
+        "emails": [],
+        "phones": [],
+        "linkedin": [
+          "https://www.linkedin.com/company/heatmasters/"
+        ]
+      },
+      "pages": [
+        {
+          "requested_url": "https://heatmasters.net/",
+          "final_url": "https://heatmasters.net/",
+          "status": 200,
+          "bytes": 129227,
+          "syntax_counts": {
+            "microdata": 0,
+            "json-ld": 1,
+            "opengraph": 1
+          },
+          "entities": [
+            {
+              "syntax": "json-ld",
+              "types": [
+                "organization"
+              ],
+              "data": {
+                "@type": "Organization",
+                "name": "Heatmasters",
+                "url": "https://heatmasters.net/",
+                "sameAs": [
+                  "https://www.facebook.com/heatmastersheattreatment/",
+                  "https://www.linkedin.com/company/heatmasters/",
+                  "https://www.instagram.com/heatmastersheattreatment/"
+                ]
+              }
+            }
+          ],
+          "values": {
+            "emails": [],
+            "phones": [],
+            "linkedin": [
+              "https://www.linkedin.com/company/heatmasters/"
+            ]
+          }
+        },
+        {
+          "requested_url": "https://heatmasters.net/about-us/",
+          "final_url": "https://heatmasters.net/about-us/",
+          "status": 200,
+          "bytes": 42474,
+          "syntax_counts": {
+            "microdata": 0,
+            "json-ld": 1,
+            "opengraph": 1
+          },
+          "entities": [
+            {
+              "syntax": "json-ld",
+              "types": [
+                "organization"
+              ],
+              "data": {
+                "@type": "Organization",
+                "name": "Heatmasters",
+                "url": "https://heatmasters.net/",
+                "sameAs": [
+                  "https://www.facebook.com/heatmastersheattreatment/",
+                  "https://www.linkedin.com/company/heatmasters/",
+                  "https://www.instagram.com/heatmastersheattreatment/"
+                ]
+              }
+            }
+          ],
+          "values": {
+            "emails": [],
+            "phones": [],
+            "linkedin": [
+              "https://www.linkedin.com/company/heatmasters/"
+            ]
+          }
+        },
+        {
+          "requested_url": "https://heatmasters.net/contact-us/",
+          "final_url": "https://heatmasters.net/contact-us/",
+          "status": 200,
+          "bytes": 90949,
+          "syntax_counts": {
+            "microdata": 0,
+            "json-ld": 1,
+            "opengraph": 1
+          },
+          "entities": [
+            {
+              "syntax": "json-ld",
+              "types": [
+                "organization"
+              ],
+              "data": {
+                "@type": "Organization",
+                "name": "Heatmasters",
+                "url": "https://heatmasters.net/",
+                "sameAs": [
+                  "https://www.facebook.com/heatmastersheattreatment/",
+                  "https://www.linkedin.com/company/heatmasters/",
+                  "https://www.instagram.com/heatmastersheattreatment/"
+                ]
+              }
+            }
+          ],
+          "values": {
+            "emails": [],
+            "phones": [],
+            "linkedin": [
+              "https://www.linkedin.com/company/heatmasters/"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Acerias ProcoMetal S.A.S.",
+      "slug": "acerias",
+      "entity_counts": {},
+      "values": {
+        "emails": [],
+        "phones": [],
+        "linkedin": []
+      },
+      "new_vs_existing": {
+        "emails": [],
+        "phones": [],
+        "linkedin": []
+      },
+      "pages": [
+        {
+          "requested_url": "http://aceriasprocometal.com/",
+          "final_url": "http://aceriasprocometal.com/",
+          "status": 200,
+          "bytes": 6130,
+          "syntax_counts": {
+            "microdata": 0,
+            "json-ld": 0,
+            "opengraph": 0
+          },
+          "entities": [],
+          "values": {
+            "emails": [],
+            "phones": [],
+            "linkedin": []
+          }
+        },
+        {
+          "requested_url": "http://aceriasprocometal.com/trayectoria.html",
+          "final_url": "http://aceriasprocometal.com/trayectoria.html",
+          "status": 200,
+          "bytes": 5849,
+          "syntax_counts": {
+            "microdata": 0,
+            "json-ld": 0,
+            "opengraph": 0
+          },
+          "entities": [],
+          "values": {
+            "emails": [],
+            "phones": [],
+            "linkedin": []
+          }
+        },
+        {
+          "requested_url": "http://aceriasprocometal.com/contactenos.php",
+          "final_url": "http://aceriasprocometal.com/contactenos.php",
+          "status": 200,
+          "bytes": 6444,
+          "syntax_counts": {
+            "microdata": 0,
+            "json-ld": 0,
+            "opengraph": 0
+          },
+          "entities": [],
+          "values": {
+            "emails": [],
+            "phones": [],
+            "linkedin": []
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ardakan Industrial Ceramics",
+      "slug": "ardakan",
+      "entity_counts": {},
+      "values": {
+        "emails": [],
+        "phones": [],
+        "linkedin": []
+      },
+      "new_vs_existing": {
+        "emails": [],
+        "phones": [],
+        "linkedin": []
+      },
+      "pages": [
+        {
+          "requested_url": "http://www.aic.ir",
+          "error": "ConnectTimeout: HTTPConnectionPool(host='www.aic.ir', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='www.aic.ir', port=80) at 0x109bc9690>, 'Connection to www.aic.ir timed out. (connect timeout=25)'))"
+        }
+      ]
+    },
+    {
+      "name": "Rubin Trading AD",
+      "slug": "rubin",
+      "entity_counts": {},
+      "values": {
+        "emails": [],
+        "phones": [],
+        "linkedin": []
+      },
+      "new_vs_existing": {
+        "emails": [],
+        "phones": [],
+        "linkedin": []
+      },
+      "pages": [
+        {
+          "requested_url": "https://rubin-glass.eu",
+          "error": "ReadTimeout: HTTPSConnectionPool(host='rubin-glass.eu', port=443): Read timed out. (read timeout=25)"
+        },
+        {
+          "requested_url": "https://rubin-glass.eu/about-rubin/",
+          "error": "ReadTimeout: HTTPSConnectionPool(host='rubin-glass.eu', port=443): Read timed out. (read timeout=25)"
+        },
+        {
+          "requested_url": "https://rubin-glass.eu/contact-us/",
+          "error": "ReadTimeout: HTTPSConnectionPool(host='rubin-glass.eu', port=443): Read timed out. (read timeout=25)"
+        },
+        {
+          "requested_url": "https://rubin-glass.eu/antoaneta-vasileva/",
+          "error": "ReadTimeout: HTTPSConnectionPool(host='rubin-glass.eu', port=443): Read timed out. (read timeout=25)"
+        }
+      ]
+    }
+  ]
+}

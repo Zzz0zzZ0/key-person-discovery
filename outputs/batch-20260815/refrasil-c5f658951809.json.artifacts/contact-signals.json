@@ -1,0 +1,202 @@
+[
+  {
+    "channel": "email",
+    "value": "info@epoptavka.cz",
+    "status": "observed",
+    "source_url": "https://dodavatele.epoptavka.cz/1448027-refrasil-sro/nabidka/590595-samotove-vyrobky-tvarove",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420602563838",
+    "status": "valid_format",
+    "source_url": "https://dodavatele.epoptavka.cz/1448027-refrasil-sro/nabidka/590595-samotove-vyrobky-tvarove",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420251510908",
+    "status": "valid_format",
+    "source_url": "https://dodavatele.epoptavka.cz/1448027-refrasil-sro/nabidka/590595-samotove-vyrobky-tvarove",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "office@refrasil.cz",
+    "status": "observed",
+    "source_url": "https://www.refrasil.cz/wp-content/uploads/2017/11/Katalog-tvar%C5%AF-list-of-shapes.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "sales@refrasil.cz",
+    "status": "observed",
+    "source_url": "https://www.refrasil.cz/wp-content/uploads/2017/11/Katalog-tvar%C5%AF-list-of-shapes.pdf"
+  },
+  {
+    "channel": "phone",
+    "value": "+420558532026",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/wp-content/uploads/2017/11/Katalog-tvar%C5%AF-list-of-shapes.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+420558536222",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/wp-content/uploads/2017/11/Katalog-tvar%C5%AF-list-of-shapes.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+420558534260",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/wp-content/uploads/2017/11/Katalog-tvar%C5%AF-list-of-shapes.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/david-kalmus-ba5255299",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/david-kalmus-ba5255299"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/stanislav-witos-662a0340b",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/stanislav-witos-662a0340b"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/maro-h-9271ba28a",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/maro-h-9271ba28a"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/miroslav-bruk-9b6a7275",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/miroslav-bruk-9b6a7275"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/adam-molin-00992483",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/adam-molin-00992483"
+  },
+  {
+    "channel": "email",
+    "value": "henryk.huczala@trz.cz",
+    "status": "probable",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "witos@refrasil.cz",
+    "status": "probable",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420558532026",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420558536222",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420602567280",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/english/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "henryk.huczala@trz.cz",
+    "status": "probable",
+    "source_url": "https://www.refrasil.cz/kontakty/whistleblowing",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420558532026",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/kontakty/whistleblowing",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420558536222",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/kontakty/whistleblowing",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420602567280",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/kontakty/whistleblowing",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420558536222",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/deutsch/kontakte",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420602567280",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/deutsch/kontakte",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420558535206",
+    "status": "valid_format",
+    "source_url": "https://www.refrasil.cz/deutsch/kontakte",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@refrasil.cz",
+    "status": "probable",
+    "source_url": "https://www.refrasil.cz/wp-content/uploads/2017/11/Katalog-jakost%C3%AD-list-of-material.pdf",
+    "company_public": true
+  }
+]

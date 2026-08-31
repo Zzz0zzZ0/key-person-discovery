@@ -1,0 +1,17 @@
+[
+  {
+    "kind": "candidate",
+    "full_name": "Pilar Urrestarazu",
+    "matched_by": [
+      "email",
+      "name"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  }
+]

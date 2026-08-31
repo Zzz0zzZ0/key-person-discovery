@@ -1,0 +1,82 @@
+{
+  "name": "IMPRO S.R.L.",
+  "website": "https://improsrl.com.ar",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "010af87e-c518-4602-bf08-9088ca21f694",
+  "crm_linkedin_url": "https://www.linkedin.com/company/improsrl/",
+  "crm_country": "阿根廷",
+  "crm_updated_at": "2026-07-29T05:05:59.832236+00:00",
+  "crm_contact_count": 5,
+  "crm_contacts": [
+    {
+      "name": " Carlo Zanovello",
+      "email": "carlo.zanovello@impro.it",
+      "additional_emails": [],
+      "phone": "+39 335 757 7873",
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/carlo-zanovello-49b8b039",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Agustin Peirone Cappri",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/agustin-peirone-cappri",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Agustin Peirone Cappri",
+      "email": "a.peirone@improsrl.com.ar",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/agustin-peirone-cappri/",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "comercial@improsrl.com.ar",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+54 9 351 325-3469",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-15T04:06:21.788062+00:00",
+  "source": "twenty_postgresql_read_only"
+}

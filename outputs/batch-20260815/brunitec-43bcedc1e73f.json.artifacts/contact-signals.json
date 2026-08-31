@@ -1,0 +1,84 @@
+[
+  {
+    "channel": "email",
+    "value": "vendas@brunitec.com.br",
+    "status": "observed",
+    "source_url": "https://www.brunitec.com.br",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "financeiro@brunitec.com.br",
+    "status": "observed",
+    "source_url": "https://www.brunitec.com.br",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5511972044991",
+    "status": "verified",
+    "source_url": "https://www.brunitec.com.br",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511972044991",
+    "status": "valid_format",
+    "source_url": "https://www.brunitec.com.br",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "vendas@brunitec.com.br",
+    "status": "observed",
+    "source_url": "https://www.brunitec.com.br/brunidores-de-matrizes-de-parafuso-e-estamparia/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "financeiro@brunitec.com.br",
+    "status": "observed",
+    "source_url": "https://www.brunitec.com.br/brunidores-de-matrizes-de-parafuso-e-estamparia/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5511972044991",
+    "status": "verified",
+    "source_url": "https://www.brunitec.com.br/brunidores-de-matrizes-de-parafuso-e-estamparia/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511972044991",
+    "status": "valid_format",
+    "source_url": "https://www.brunitec.com.br/brunidores-de-matrizes-de-parafuso-e-estamparia/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5511972044991",
+    "status": "verified",
+    "source_url": "https://www.brunitec.com.br/en/home-en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511972044991",
+    "status": "valid_format",
+    "source_url": "https://www.brunitec.com.br/en/home-en",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551140289944",
+    "status": "valid_format",
+    "source_url": "https://www.brunitec.com.br/en/home-en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "company_name": "ZÜRN GmbH & Co. KG",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info@zuern.com",
+      "status": "observed",
+      "source_url": "https://www.zuern.com/en/business-units/sustainability/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+49892123960",
+      "status": "valid_format",
+      "source_url": "https://www.zuern.com/en/business-units/sustainability/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 40,
+    "search_engine_warnings": 11,
+    "urls_crawled": 16,
+    "crawl_failures": 7,
+    "contact_signals": 16,
+    "official_urls_discovered": 12,
+    "crm_website": "https://zuern.com",
+    "official_website": "https://zuern.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 2,
+    "pdf_documents_processed": 2,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 10,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 2,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 2,
+    "target_contact_methods": 4,
+    "contact_methods": 2,
+    "contact_target_met": false,
+    "broad_discovery": false,
+    "topeasy_import": {},
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

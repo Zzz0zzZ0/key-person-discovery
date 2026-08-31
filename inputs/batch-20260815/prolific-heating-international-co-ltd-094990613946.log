@@ -1,0 +1,64 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://phiheating.com/contact/                                                                      | ✓ | ⏱: 3.06s 
+[SCRAPE].. ◆ https://phiheating.com/contact/                                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://phiheating.com/contact/                                                                      | ✓ | ⏱: 4.01s 
+[FETCH]... ↓ https://phiheating.com/ja/csr-team/                                                                  | ✓ | ⏱: 2.95s 
+[SCRAPE].. ◆ https://phiheating.com/ja/csr-team/                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://phiheating.com/ja/csr-team/                                                                  | ✓ | ⏱: 3.68s 
+[FETCH]... ↓ https://phiheating.com/                                                                              | ✓ | ⏱: 4.41s 
+[SCRAPE].. ◆ https://phiheating.com/                                                                              | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://phiheating.com/                                                                              | ✓ | ⏱: 5.70s 
+[FETCH]... ↓ http://www.phiheating.com                                                                            | ✓ | ⏱: 4.52s 
+[SCRAPE].. ◆ http://www.phiheating.com                                                                            | ✓ | ⏱: 0.02s 
+[COMPLETE] ● http://www.phiheating.com                                                                            | ✓ | ⏱: 6.30s 
+[FETCH]... ↓ https://phiheating.com/ja/prolific-groups-leadership-training-2019/                                  | ✓ | ⏱: 2.90s 
+[SCRAPE].. ◆ https://phiheating.com/ja/prolific-groups-leadership-training-2019/                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://phiheating.com/ja/prolific-groups-leadership-training-2019/                                  | ✓ | ⏱: 2.92s 
+[FETCH]... ↓ https://phiheating.com/laboratory/contact/                                                           | ✓ | ⏱: 2.72s 
+[SCRAPE].. ◆ https://phiheating.com/laboratory/contact/                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://phiheating.com/laboratory/contact/                                                           | ✓ | ⏱: 2.74s 
+[FETCH]... ↓ https://phiheating.com/news-activities/                                                              | ✓ | ⏱: 1.98s 
+[SCRAPE].. ◆ https://phiheating.com/news-activities/                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://phiheating.com/news-activities/                                                              | ✓ | ⏱: 2.00s 
+[FETCH]... ↓ https://phiheating.com/prolific-group-company-outing-2023/                                           | ✓ | ⏱: 2.76s 
+[SCRAPE].. ◆ https://phiheating.com/prolific-group-company-outing-2023/                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://phiheating.com/prolific-group-company-outing-2023/                                           | ✓ | ⏱: 2.78s 
+[FETCH]... ↓ https://www.trademo.com/companies/prolific-heating-international-co-ltd/31398165                     | ✓ | ⏱: 1.53s 
+[SCRAPE].. ◆ https://www.trademo.com/companies/prolific-heating-international-co-ltd/31398165                     | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.trademo.com...ational-co-ltd/31398165  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (10345 bytes) 
+[COMPLETE] ● https://www.trademo.com/companies/prolific-heating-international-co-ltd/31398165                     | ✗ | ⏱: 1.53s 
+[FETCH]... ↓ https://phiheating.com/prolific-group-old/                                                           | ✓ | ⏱: 2.33s 
+[SCRAPE].. ◆ https://phiheating.com/prolific-group-old/                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://phiheating.com/prolific-group-old/                                                           | ✓ | ⏱: 2.36s 
+[FETCH]... ↓ https://www.zoominfo.com/pic/prolific-heating-international-co-ltd/358864410                         | ✓ | ⏱: 0.88s 
+[SCRAPE].. ◆ https://www.zoominfo.com/pic/prolific-heating-international-co-ltd/358864410                         | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...tional-co-ltd/358864410  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/pic/prolific-heating-international-co-ltd/358864410                         | ✗ | ⏱: 2.21s 
+[FETCH]... ↓ https://www.zoominfo.com/c/prolific-heating-international-co-ltd/358864410                           | ✓ | ⏱: 0.91s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/prolific-heating-international-co-ltd/358864410                           | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...tional-co-ltd/358864410  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/c/prolific-heating-international-co-ltd/358864410                           | ✗ | ⏱: 2.54s 
+[FETCH]... ↓ https://www.signalhire.com/companies/prolific-heating-international-co-ltd                           | ✓ | ⏱: 4.24s 
+[SCRAPE].. ◆ https://www.signalhire.com/companies/prolific-heating-international-co-ltd                           | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.signalhire.com/companies/prolific-heating-international-co-ltd                           | ✓ | ⏱: 5.25s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://phiheating.com/quality-person-of-the-year-award-2024/                                        | ✓ | ⏱: 2.56s 
+[SCRAPE].. ◆ https://phiheating.com/quality-person-of-the-year-award-2024/                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://phiheating.com/quality-person-of-the-year-award-2024/                                        | ✓ | ⏱: 2.59s 
+[FETCH]... ↓ https://phiheating.com/pes-services/after-service/                                                   | ✓ | ⏱: 2.86s 
+[SCRAPE].. ◆ https://phiheating.com/pes-services/after-service/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://phiheating.com/pes-services/after-service/                                                   | ✓ | ⏱: 2.88s 
+[FETCH]... ↓ https://phiheating.com/safety-commitment/                                                            | ✓ | ⏱: 2.60s 
+[SCRAPE].. ◆ https://phiheating.com/safety-commitment/                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://phiheating.com/safety-commitment/                                                            | ✓ | ⏱: 2.63s 
+[FETCH]... ↓ https://phiheating.com/th/career/                                                                    | ✓ | ⏱: 2.62s 
+[SCRAPE].. ◆ https://phiheating.com/th/career/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://phiheating.com/th/career/                                                                    | ✓ | ⏱: 2.65s 
+[FETCH]... ↓ https://phiheating.com/wp-content/uploads/2020/03/Traning-leadership2019-13.jpg?x35469               | ✓ | ⏱: 0.81s 
+[SCRAPE].. ◆ https://phiheating.com/wp-content/uploads/2020/03/Traning-leadership2019-13.jpg?x35469               | ✓ | ⏱: 0.00s 
+[ERROR]... × https://phiheating.com/...rship2019-13.jpg?x35469  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (510 bytes, 0 chars visible) 
+[COMPLETE] ● https://phiheating.com/wp-content/uploads/2020/03/Traning-leadership2019-13.jpg?x35469               | ✗ | ⏱: 0.82s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/prolific-heating-international-co-ltd-094990613946.json

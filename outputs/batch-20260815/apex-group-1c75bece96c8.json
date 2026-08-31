@@ -1,0 +1,335 @@
+{
+  "company_name": "APEX Group",
+  "candidates": [
+    {
+      "full_name": "Dr. Jens Kitzhofer",
+      "current_title": "R&D Manager",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 75,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.apexgroup.eu/company-profile/",
+          "quote": "R &D Manager | Dr. Jens Kitzhofer | +31 (0)70 300 4242",
+          "supports": "Named R&D Manager at APEX Group on official company profile page"
+        },
+        {
+          "source_url": "https://www.apexgroup.eu/news/",
+          "quote": "Dr. Jens Kitzhofer, R&D Manager, will present APEX Group's innovations",
+          "supports": "Confirmed as R&D Manager presenting APEX Group at PRC Europe 2018 conference"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Chris-Marije Dinulescu",
+      "current_title": "Chief Executive Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.apexgroup.eu/company-profile/",
+          "quote": "Chief Executive Officer | Ms. Chris-Marije Dinulescu | +31 (0)70 300 4242",
+          "supports": "Named CEO on official company profile page"
+        }
+      ],
+      "confidence": 0.9,
+      "review_required": true
+    },
+    {
+      "full_name": "Artur Gajda",
+      "current_title": "Chief Technology Officer",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.apexgroup.eu/company-profile/",
+          "quote": "Chief Technology Officer | Mr. Artur Gajda | +31 (0)70 300 4242",
+          "supports": "Named CTO on official company profile page"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Luis Fernandes",
+      "current_title": "Technical Sales Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 70,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.apexgroup.eu/company-profile/",
+          "quote": "Technical Sales Managers | Mr. Luis Fernandes | +31 (0)70 300 4242",
+          "supports": "Named Technical Sales Manager on official company profile page"
+        }
+      ],
+      "confidence": 0.8,
+      "review_required": true
+    },
+    {
+      "full_name": "Bartek Migas",
+      "current_title": "Technical Sales Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 70,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.apexgroup.eu/company-profile/",
+          "quote": "Technical Sales Managers | Mr. Bartek Migas | +48 (0)32 381 5050",
+          "supports": "Named Technical Sales Manager on official company profile page"
+        }
+      ],
+      "confidence": 0.8,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+31703004242",
+      "status": "valid_format",
+      "source_url": "https://www.apexgroup.eu/company-profile/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "services@myjobmag.co.za",
+      "status": "observed",
+      "source_url": "https://www.myjobmag.co.za/job/senior-tax-manager-apex-group",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "patrick.cummins@apexfs.com",
+      "status": "observed",
+      "source_url": "https://www.guernseyfinance.com/business-directory/a/apex-group",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "lauren.whiteside@apexfunds.co.uk",
+      "status": "observed",
+      "source_url": "https://www.guernseyfinance.com/business-directory/a/apex-group",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "mark.symmons@apexfs.com",
+      "status": "observed",
+      "source_url": "https://www.guernseyfinance.com/business-directory/a/apex-group",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+442035303664",
+      "status": "valid_format",
+      "source_url": "https://www.guernseyfinance.com/business-directory/a/apex-group",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+441481720071",
+      "status": "valid_format",
+      "source_url": "https://www.guernseyfinance.com/business-directory/a/apex-group",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "alice.read@apexgroup.com",
+      "status": "observed",
+      "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "joshua.farrow@apexgroup.com",
+      "status": "observed",
+      "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "paul.horton@apexfs.com",
+      "status": "observed",
+      "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "katie.baxter@apexgroup.com",
+      "status": "observed",
+      "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "jonty.strachan@apexgroup.com",
+      "status": "observed",
+      "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+442045490700",
+      "status": "valid_format",
+      "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+442045490727",
+      "status": "valid_format",
+      "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+442045490811",
+      "status": "valid_format",
+      "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+442045490809",
+      "status": "valid_format",
+      "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+442045490694",
+      "status": "valid_format",
+      "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48323815050",
+      "status": "valid_format",
+      "source_url": "https://old.apexgroup.eu/contact",
+      "whatsapp_status": "unknown",
+      "evidence_status": "probable",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+40268548349",
+      "status": "valid_format",
+      "source_url": "https://old.apexgroup.eu/contact",
+      "whatsapp_status": "unknown",
+      "evidence_status": "probable",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+420516777230",
+      "status": "valid_format",
+      "source_url": "https://old.apexgroup.eu/contact",
+      "whatsapp_status": "unknown",
+      "evidence_status": "probable",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 5,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 30,
+    "search_engine_warnings": 0,
+    "urls_crawled": 20,
+    "crawl_failures": 8,
+    "contact_signals": 36,
+    "official_urls_discovered": 7,
+    "pdf_documents_discovered": 5,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 3,
+    "search_evidence_pages": 4,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 12,
+    "crm_duplicates_removed": 5,
+    "target_contactable_items": 1,
+    "contactable_items": 20,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

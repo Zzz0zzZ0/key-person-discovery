@@ -1,0 +1,78 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[ANTIBOT]. ℹ https://www.3mabrasive.co.kr                       | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.3mabrasive.co.kr/
+Call log:
+  - navigating to "https://www.3mabrasive.co.kr/", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://www.3mabrasive.co.kr                       | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.3mabrasive.co.kr/
+Call log:
+  - navigating to "https://www.3mabrasive.co.kr/", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[FETCH]... ↓ https://www.3mabrasive.co.kr/3M/ko_KR/metalworki.../grinding/precision-grinding/markets/powertrain/  | ✓ | ⏱: 7.10s 
+[SCRAPE].. ◆ https://www.3mabrasive.co.kr/3M/ko_KR/metalworki.../grinding/precision-grinding/markets/powertrain/  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.3mabrasive.co.kr/3M/ko_KR/metalworki.../grinding/precision-grinding/markets/powertrain/  | ✓ | ⏱: 9.14s 
+[FETCH]... ↓ https://www.3mabrasive.co.kr/3M/ko_KR/metalworki...ding/precision-grinding/technology/conventional/  | ✓ | ⏱: 4.42s 
+[SCRAPE].. ◆ https://www.3mabrasive.co.kr/3M/ko_KR/metalworki...ding/precision-grinding/technology/conventional/  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.3mabrasive.co.kr/3M/ko_KR/metalworki...ding/precision-grinding/technology/conventional/  | ✓ | ⏱: 6.45s 
+[FETCH]... ↓ https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/applications/finishing/                        | ✓ | ⏱: 8.20s 
+[SCRAPE].. ◆ https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/applications/finishing/                        | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/applications/finishing/                        | ✓ | ⏱: 10.27s 
+[FETCH]... ↓ https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/applications/grinding/beveling/                | ✓ | ⏱: 8.38s 
+[SCRAPE].. ◆ https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/applications/grinding/beveling/                | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/applications/grinding/beveling/                | ✓ | ⏱: 10.42s 
+[FETCH]... ↓ https://www.3mabrasive.co.kr/3M/ko_KR/metalworki...ons/robotic-abrasives/system-integrator-network/  | ✓ | ⏱: 3.46s 
+[SCRAPE].. ◆ https://www.3mabrasive.co.kr/3M/ko_KR/metalworki...ons/robotic-abrasives/system-integrator-network/  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.3mabrasive.co.kr/3M/ko_KR/metalworki...ons/robotic-abrasives/system-integrator-network/  | ✓ | ⏱: 5.49s 
+[FETCH]... ↓ https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/products/                                      | ✓ | ⏱: 4.46s 
+[SCRAPE].. ◆ https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/products/                                      | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/products/                                      | ✓ | ⏱: 6.49s 
+[FETCH]... ↓ https://www.3mabrasive.co.kr/3M/ko_KR/metalworki.../featured-products/scotch-brite-clean-and-strip/  | ✓ | ⏱: 4.42s 
+[SCRAPE].. ◆ https://www.3mabrasive.co.kr/3M/ko_KR/metalworki.../featured-products/scotch-brite-clean-and-strip/  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.3mabrasive.co.kr/3M/ko_KR/metalworki.../featured-products/scotch-brite-clean-and-strip/  | ✓ | ⏱: 6.45s 
+[FETCH]... ↓ https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/products/cut-off-wheels/                       | ✓ | ⏱: 6.27s 
+[SCRAPE].. ◆ https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/products/cut-off-wheels/                       | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/products/cut-off-wheels/                       | ✓ | ⏱: 8.30s 
+[FETCH]... ↓ https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/resources/find-retail-store/                   | ✓ | ⏱: 2.14s 
+[SCRAPE].. ◆ https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/resources/find-retail-store/                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/resources/find-retail-store/                   | ✓ | ⏱: 4.16s 
+[FETCH]... ↓ https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/resources/abrasives-product-tiers/             | ✓ | ⏱: 3.99s 
+[SCRAPE].. ◆ https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/resources/abrasives-product-tiers/             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/resources/abrasives-product-tiers/             | ✓ | ⏱: 6.02s 
+[FETCH]... ↓ https://www.baiten.cn/so/s/pa:(한국쓰리엠 주식회사)                                                           | ✓ | ⏱: 2.01s 
+[SCRAPE].. ◆ https://www.baiten.cn/so/s/pa:(한국쓰리엠 주식회사)                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.baiten.cn/so/s/pa:(한국쓰리엠 주식회사)                                                           | ✓ | ⏱: 2.18s 
+[FETCH]... ↓ https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/products/flap-discs/                           | ✓ | ⏱: 6.91s 
+[SCRAPE].. ◆ https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/products/flap-discs/                           | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/products/flap-discs/                           | ✓ | ⏱: 8.97s 
+[FETCH]... ↓ https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/support/                                       | ✓ | ⏱: 10.70s 
+[SCRAPE].. ◆ https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/support/                                       | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.3mabrasive.co.kr/3M/ko_KR/metalworking-kr/support/                                       | ✓ | ⏱: 12.72s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.3mabrasive.co.kr/wps/wcm/connect/231...ACE-231962f0-a6f1-4d0c-bca4-ea5dc5828602-m2W.Rhg  | ✓ | ⏱: 0.59s 
+[SCRAPE].. ◆ https://www.3mabrasive.co.kr/wps/wcm/connect/231...ACE-231962f0-a6f1-4d0c-bca4-ea5dc5828602-m2W.Rhg  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.3mabrasive....a4-ea5dc5828602-m2W.Rhg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (610 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.3mabrasive.co.kr/wps/wcm/connect/231...ACE-231962f0-a6f1-4d0c-bca4-ea5dc5828602-m2W.Rhg  | ✗ | ⏱: 2.61s 
+[FETCH]... ↓ https://www.3mabrasive.co.kr/wps/wcm/connect/12b...ACE-12bc18e1-a293-4820-848d-10dd24bee63c-mmOVxjx  | ✓ | ⏱: 0.90s 
+[SCRAPE].. ◆ https://www.3mabrasive.co.kr/wps/wcm/connect/12b...ACE-12bc18e1-a293-4820-848d-10dd24bee63c-mmOVxjx  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.3mabrasive....8d-10dd24bee63c-mmOVxjx  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (610 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.3mabrasive.co.kr/wps/wcm/connect/12b...ACE-12bc18e1-a293-4820-848d-10dd24bee63c-mmOVxjx  | ✗ | ⏱: 2.91s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/company-18da7eaa39-d7676f46995b.json

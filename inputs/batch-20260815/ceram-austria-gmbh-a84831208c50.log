@@ -1,0 +1,67 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rocketreach.co/ceram-austria-gmbh-management_b47fa0f3fc4bae7b                                | ✓ | ⏱: 1.16s 
+[SCRAPE].. ◆ https://rocketreach.co/ceram-austria-gmbh-management_b47fa0f3fc4bae7b                                | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...gement_b47fa0f3fc4bae7b  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/ceram-austria-gmbh-management_b47fa0f3fc4bae7b                                | ✗ | ⏱: 1.16s 
+[FETCH]... ↓ https://www.ceram-austria.com/en/                                                                    | ✓ | ⏱: 4.61s 
+[SCRAPE].. ◆ https://www.ceram-austria.com/en/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ceram-austria.com/en/                                                                    | ✓ | ⏱: 5.78s 
+[FETCH]... ↓ https://www.ceram-austria.com                                                                        | ✓ | ⏱: 4.95s 
+[SCRAPE].. ◆ https://www.ceram-austria.com                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ceram-austria.com                                                                        | ✓ | ⏱: 6.11s 
+[FETCH]... ↓ https://www.ceram-austria.com/en/company/                                                            | ✓ | ⏱: 4.57s 
+[SCRAPE].. ◆ https://www.ceram-austria.com/en/company/                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ceram-austria.com/en/company/                                                            | ✓ | ⏱: 5.83s 
+[FETCH]... ↓ https://www.ceram-austria.com/startschuss-fuer-team-ceram-austria-winter-run-graz-2024-2025/         | ✓ | ⏱: 2.22s 
+[SCRAPE].. ◆ https://www.ceram-austria.com/startschuss-fuer-team-ceram-austria-winter-run-graz-2024-2025/         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ceram-austria.com/startschuss-fuer-team-ceram-austria-winter-run-graz-2024-2025/         | ✓ | ⏱: 2.24s 
+[FETCH]... ↓ https://www.ceram-austria.com/team-ceram-austria-wieder-am-start/                                    | ✓ | ⏱: 1.89s 
+[SCRAPE].. ◆ https://www.ceram-austria.com/team-ceram-austria-wieder-am-start/                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ceram-austria.com/team-ceram-austria-wieder-am-start/                                    | ✓ | ⏱: 1.91s 
+[FETCH]... ↓ https://www.ceram-austria.com/newsroom/                                                              | ✓ | ⏱: 7.73s 
+[SCRAPE].. ◆ https://www.ceram-austria.com/newsroom/                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ceram-austria.com/newsroom/                                                              | ✓ | ⏱: 7.75s 
+[FETCH]... ↓ https://www.ceram-austria.com/us/catlife_us                                                          | ✓ | ⏱: 3.16s 
+[SCRAPE].. ◆ https://www.ceram-austria.com/us/catlife_us                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ceram-austria.com/us/catlife_us                                                          | ✓ | ⏱: 3.18s 
+[FETCH]... ↓ https://www.ceram-austria.com/us/contact-references_us                                               | ✓ | ⏱: 3.10s 
+[SCRAPE].. ◆ https://www.ceram-austria.com/us/contact-references_us                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ceram-austria.com/us/contact-references_us                                               | ✓ | ⏱: 3.12s 
+[FETCH]... ↓ https://www.ceram-austria.com/us/products_us                                                         | ✓ | ⏱: 2.97s 
+[SCRAPE].. ◆ https://www.ceram-austria.com/us/products_us                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ceram-austria.com/us/products_us                                                         | ✓ | ⏱: 3.00s 
+[FETCH]... ↓ https://www.creditsafe.com/business-index/en-us/company/ceram-austria-gmbh-at04826152                | ✓ | ⏱: 3.63s 
+[SCRAPE].. ◆ https://www.creditsafe.com/business-index/en-us/company/ceram-austria-gmbh-at04826152                | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.creditsafe.com/business-index/en-us/company/ceram-austria-gmbh-at04826152                | ✓ | ⏱: 4.26s 
+[FETCH]... ↓ https://www.creditsafe.com/business-index/en-gb/company/ceram-austria-gmbh-at04826152                | ✓ | ⏱: 4.36s 
+[SCRAPE].. ◆ https://www.creditsafe.com/business-index/en-gb/company/ceram-austria-gmbh-at04826152                | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.creditsafe.com/business-index/en-gb/company/ceram-austria-gmbh-at04826152                | ✓ | ⏱: 5.03s 
+[FETCH]... ↓ https://www.creditsafe.com/business-index/nb-no/company/megaceram-be00355033                         | ✓ | ⏱: 1.75s 
+[SCRAPE].. ◆ https://www.creditsafe.com/business-index/nb-no/company/megaceram-be00355033                         | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.creditsafe.com/business-index/nb-no/company/megaceram-be00355033                         | ✓ | ⏱: 2.46s 
+[FETCH]... ↓ https://www.northdata.com/Ceram Austria GmbH, Frauental an der Laßnitz/118658y                       | ✓ | ⏱: 2.61s 
+[SCRAPE].. ◆ https://www.northdata.com/Ceram Austria GmbH, Frauental an der Laßnitz/118658y                       | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.northdata.com/Ceram Austria GmbH, Frauental an der Laßnitz/118658y                       | ✓ | ⏱: 2.67s 
+[FETCH]... ↓ https://www.northdata.de/Ceram Austria GmbH, Frauental an der Laßnitz/118658y                        | ✓ | ⏱: 2.83s 
+[SCRAPE].. ◆ https://www.northdata.de/Ceram Austria GmbH, Frauental an der Laßnitz/118658y                        | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.northdata.de/Ceram Austria GmbH, Frauental an der Laßnitz/118658y                        | ✓ | ⏱: 3.85s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.ceram-austria.com/en/scr-catalysts/                                                      | ✓ | ⏱: 4.23s 
+[SCRAPE].. ◆ https://www.ceram-austria.com/en/scr-catalysts/                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ceram-austria.com/en/scr-catalysts/                                                      | ✓ | ⏱: 4.26s 
+[FETCH]... ↓ https://www.ceram-austria.com/en/newsroom/                                                           | ✓ | ⏱: 4.26s 
+[SCRAPE].. ◆ https://www.ceram-austria.com/en/newsroom/                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ceram-austria.com/en/newsroom/                                                           | ✓ | ⏱: 4.28s 
+[FETCH]... ↓ http://ceram-austria.com/us/contact-references_us/                                                   | ✓ | ⏱: 3.22s 
+[SCRAPE].. ◆ http://ceram-austria.com/us/contact-references_us/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://ceram-austria.com/us/contact-references_us/                                                   | ✓ | ⏱: 5.26s 
+[FETCH]... ↓ https://www.ceram-austria.com/en/contact/                                                            | ✓ | ⏱: 6.45s 
+[SCRAPE].. ◆ https://www.ceram-austria.com/en/contact/                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ceram-austria.com/en/contact/                                                            | ✓ | ⏱: 6.48s 
+[FETCH]... ↓ https://www.ceram-austria.com/us/                                                                    | ✓ | ⏱: 2.65s 
+[SCRAPE].. ◆ https://www.ceram-austria.com/us/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ceram-austria.com/us/                                                                    | ✓ | ⏱: 2.68s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/ceram-austria-gmbh-a84831208c50.json

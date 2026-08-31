@@ -1,0 +1,175 @@
+{
+  "company_name": "Pace Industries",
+  "candidates": [
+    {
+      "full_name": "Doug Albert",
+      "current_title": "Chief Executive Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://paceind.com/about/executive-team-bios/",
+          "quote": "Doug Albert joined Pace Industries as Chief Executive Officer in April 2023",
+          "supports": "CEO of Pace Industries with operational and commercial strategy responsibility"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "John Olson",
+      "current_title": "Chief Operating Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://paceind.com/about/executive-team-bios/",
+          "quote": "John Olson is a seasoned executive with over 35 years of leadership experience in the global metals industry. He became Pace Industries' Chief Operating Officer in November 2023 where he is responsible for overseeing the company's procurement, supply chain and manufacturing operations network",
+          "supports": "COO of Pace Industries with direct oversight of procurement and supply chain"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Bill Estep",
+      "current_title": "Chief Commercial Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://paceind.com/about/executive-team-bios/",
+          "quote": "Bill Estep joined Pace Industries as Chief Commercial Officer in January 2024 where he is responsible for the commercial strategy, business expansion and creating lasting customer relationships",
+          "supports": "CCO of Pace Industries with commercial strategy responsibility"
+        }
+      ],
+      "confidence": 0.9,
+      "review_required": true
+    },
+    {
+      "full_name": "Inna Hannan",
+      "current_title": "Chief Administrative Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 75,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://paceind.com/about/executive-team-bios/",
+          "quote": "Inna Hannan is Chief Administrative Officer for Pace Industries. She joined the company in July 2023",
+          "supports": "CAO of Pace Industries"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Jim Potrykus",
+      "current_title": "Vice President of Finance",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 75,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://paceind.com/about/executive-team-bios/",
+          "quote": "Jim Potrykus joined Pace Industries as Vice President of Finance in May 2024",
+          "supports": "VP of Finance at Pace Industries"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Donna Zeiter",
+      "current_title": "Chief Human Resources Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 60,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://paceind.com/about/executive-team-bios/",
+          "quote": "Donna Zeiter joined Pace Industries as Chief Human Resources Officer in January 2024",
+          "supports": "CHRO at Pace Industries"
+        }
+      ],
+      "confidence": 0.8,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "validation_rejections": [
+    {
+      "full_name": "Jeremy Richard",
+      "reasons": [
+        "current employment at the target company is not verified",
+        "evidence URL was not fetched",
+        "linkedin source URL was not fetched"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 45,
+    "search_engine_warnings": 3,
+    "urls_crawled": 20,
+    "crawl_failures": 0,
+    "contact_signals": 1,
+    "official_urls_discovered": 15,
+    "crm_website": "https://paceind.com",
+    "official_website": "https://paceind.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 8,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 5,
+    "pdf_failures": 1,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 4,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 1,
+    "unverified_candidates": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 50,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

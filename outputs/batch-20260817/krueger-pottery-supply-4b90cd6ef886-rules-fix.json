@@ -1,0 +1,138 @@
+{
+  "company_name": "Krueger Pottery Supply",
+  "candidates": [
+    {
+      "full_name": "Ryan Clyde-Rich",
+      "current_title": "Co-Owner",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.accio.com/business/krueger-pottery-supply",
+          "quote": "the business was acquired by two long-term employees, Aimee Rich and Ryan Clyde-Rich, who renamed it Krueger Pottery Supply",
+          "supports": "Co-owner, acquired business in 2008 and runs it as co-owner"
+        },
+        {
+          "source_url": "https://kruegerpottery.com/pages/krueger-pottery-supply-staff",
+          "quote": "Ryan Clyde-Rich, who holds a BFA in Ceramics",
+          "supports": "Owner with ceramics background, relevant to product purchasing decisions"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Anna",
+      "current_title": "Unknown",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 30,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "anna@kruegerpottery.com",
+          "status": "observed",
+          "source_url": "https://saintlouis.kidsoutandabout.com/content/krueger-pottery"
+        }
+      ],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://saintlouis.kidsoutandabout.com/content/krueger-pottery",
+          "quote": "anna@kruegerpottery.com",
+          "supports": "Email address at kruegerpottery.com domain, appears in context of children's pottery activities suggesting staff involvement"
+        }
+      ],
+      "confidence": 0.3,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "validation_rejections": [
+    {
+      "full_name": "Anna",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Aimee Rich",
+      "matched_by": [
+        "name"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 3,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 7,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 35,
+    "search_engine_warnings": 0,
+    "urls_crawled": 20,
+    "crawl_failures": 2,
+    "contact_signals": 16,
+    "official_urls_discovered": 3,
+    "crm_website": "https://kruegerpottery.com",
+    "official_website": "https://kruegerpottery.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 4,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 1,
+    "unverified_candidates": 1,
+    "crm_contact_count": 5,
+    "crm_duplicates_removed": 3,
+    "target_contactable_items": 1,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  },
+  "reprocessed_from": "krueger-pottery-supply-4b90cd6ef886.json",
+  "reprocessed_at": "2026-08-17T03:31:19.432415+00:00",
+  "reprocess_reason": "apply 2026-08-17 official identity, public-source, and email cleanup rules"
+}

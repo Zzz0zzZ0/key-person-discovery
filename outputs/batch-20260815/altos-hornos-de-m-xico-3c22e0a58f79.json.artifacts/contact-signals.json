@@ -1,0 +1,182 @@
+[
+  {
+    "channel": "email",
+    "value": "webmaster@ahmsa.com",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/sobre-ahmsa/aviso-de-fraude.html"
+  },
+  {
+    "channel": "email",
+    "value": "ventas@ahmsa.com",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/sobre-ahmsa/aviso-de-fraude.html"
+  },
+  {
+    "channel": "email",
+    "value": "com_soc_rel_publicas@gan.com.mx",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/sobre-ahmsa/ubicacion/instalaciones.html"
+  },
+  {
+    "channel": "email",
+    "value": "contacto@nacionaldeacero.com",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/sobre-ahmsa/ubicacion/subsidiarias.html"
+  },
+  {
+    "channel": "email",
+    "value": "ventas@hojalatamexicana.com.mx",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/sobre-ahmsa/ubicacion/subsidiarias.html"
+  },
+  {
+    "channel": "email",
+    "value": "sales@ahmsainternational.com",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/sobre-ahmsa/ubicacion/subsidiarias.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+97286374173",
+    "status": "valid_format",
+    "source_url": "https://www.ahmsa.com/sobre-ahmsa/ubicacion/subsidiarias.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "ventas@ahmsa.comserviciotecnico",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/sobre-ahmsa/ubicacion/oficinas-de-venta.html"
+  },
+  {
+    "channel": "email",
+    "value": "ventas@ahmsa.com",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/sobre-ahmsa/ubicacion/oficinas-de-venta.html"
+  },
+  {
+    "channel": "email",
+    "value": "ventas@ahmsa.com",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/generales/contacto.html"
+  },
+  {
+    "channel": "email",
+    "value": "serviciotecnico@ahmsa.com",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/generales/contacto.html"
+  },
+  {
+    "channel": "email",
+    "value": "compras@gan.com.mx",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/generales/contacto.html"
+  },
+  {
+    "channel": "email",
+    "value": "bazar@ahmsa.com",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/generales/contacto.html"
+  },
+  {
+    "channel": "email",
+    "value": "dir_abastecimientos@gan.com.mx",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/generales/contacto.html"
+  },
+  {
+    "channel": "email",
+    "value": "desarrollo_proveedores@gan.com.mx",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/generales/contacto.html"
+  },
+  {
+    "channel": "email",
+    "value": "reclutamiento@gan.com.mx",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/generales/contacto.html"
+  },
+  {
+    "channel": "email",
+    "value": "dir_finanzas@gan.com.mx",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/generales/contacto.html"
+  },
+  {
+    "channel": "email",
+    "value": "plan_financiera@gan.com.mx",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/generales/contacto.html"
+  },
+  {
+    "channel": "email",
+    "value": "com_soc_rel_publicas@gan.com.mx",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/generales/contacto.html"
+  },
+  {
+    "channel": "email",
+    "value": "direccion_general@gan.com.mx",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/generales/contacto.html"
+  },
+  {
+    "channel": "email",
+    "value": "direccion_acero@gan.com.mx",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/generales/contacto.html"
+  },
+  {
+    "channel": "email",
+    "value": "direccion_juridico@gan.com.mx",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/generales/contacto.html"
+  },
+  {
+    "channel": "email",
+    "value": "cap_medio_ambiente@gan.com.mx",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/generales/contacto.html"
+  },
+  {
+    "channel": "email",
+    "value": "webmaster@ahmsa.com",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/generales/contacto.html"
+  },
+  {
+    "channel": "email",
+    "value": "plan_financiera@gan.com.mx",
+    "status": "observed",
+    "source_url": "https://www.ahmsa.com/relacion-con-inversionistas/herramientas-ir/contacto-ri/"
+  },
+  {
+    "channel": "phone",
+    "value": "+528666493330",
+    "status": "valid_format",
+    "source_url": "https://www.ahmsa.com/relacion-con-inversionistas/herramientas-ir/contacto-ri/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/leonardo-de-jesus-gallegos-de-la-torre-15552a1b4",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/leonardo-de-jesus-gallegos-de-la-torre-15552a1b4"
+  },
+  {
+    "channel": "email",
+    "value": "reclutamiento@gan.com.mx",
+    "status": "probable",
+    "source_url": "https://www.ahmsa.com/en/generals/work-with-us",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "amiento@gan.com.mx",
+    "status": "probable",
+    "source_url": "https://www.ahmsa.com/en/generals/work-with-us",
+    "company_public": true
+  }
+]

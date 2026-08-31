@@ -1,0 +1,367 @@
+[
+  {
+    "channel": "email",
+    "value": "spemailcontato@tecnicerceramica.com.brphone",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/contato/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contato@tecnicerceramica.com.br",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/contato/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5516997826362",
+    "status": "verified",
+    "source_url": "https://tecnicerceramica.com.br/contato/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5516997826362",
+    "status": "valid_format",
+    "source_url": "https://tecnicerceramica.com.br/contato/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "spemailcontato@tecnicerceramica.com.brphone",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contato@tecnicerceramica.com.br",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5516997826362",
+    "status": "verified",
+    "source_url": "https://tecnicerceramica.com.br",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5516997826362",
+    "status": "valid_format",
+    "source_url": "https://tecnicerceramica.com.br",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "spemailcontato@tecnicerceramica.com.brphone",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/conheca-a-tecnicer/"
+  },
+  {
+    "channel": "email",
+    "value": "contato@tecnicerceramica.com.br",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/conheca-a-tecnicer/"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5516997826362",
+    "status": "verified",
+    "source_url": "https://tecnicerceramica.com.br/conheca-a-tecnicer/"
+  },
+  {
+    "channel": "phone",
+    "value": "+5516997826362",
+    "status": "valid_format",
+    "source_url": "https://tecnicerceramica.com.br/conheca-a-tecnicer/",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "email",
+    "value": "spemailcontato@tecnicerceramica.com.brphone",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/category/ceramica"
+  },
+  {
+    "channel": "email",
+    "value": "contato@tecnicerceramica.com.br",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/category/ceramica"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5516997826362",
+    "status": "verified",
+    "source_url": "https://tecnicerceramica.com.br/category/ceramica"
+  },
+  {
+    "channel": "phone",
+    "value": "+5516997826362",
+    "status": "valid_format",
+    "source_url": "https://tecnicerceramica.com.br/category/ceramica",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "email",
+    "value": "spemailcontato@tecnicerceramica.com.brphone",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/ive-is-leading-apples-design-team/"
+  },
+  {
+    "channel": "email",
+    "value": "contato@tecnicerceramica.com.br",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/ive-is-leading-apples-design-team/"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5516997826362",
+    "status": "verified",
+    "source_url": "https://tecnicerceramica.com.br/ive-is-leading-apples-design-team/"
+  },
+  {
+    "channel": "phone",
+    "value": "+5516997826362",
+    "status": "valid_format",
+    "source_url": "https://tecnicerceramica.com.br/ive-is-leading-apples-design-team/",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "email",
+    "value": "spemailcontato@tecnicerceramica.com.brphone",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/services/alta-alumina/"
+  },
+  {
+    "channel": "email",
+    "value": "contato@tecnicerceramica.com.br",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/services/alta-alumina/"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5516997826362",
+    "status": "verified",
+    "source_url": "https://tecnicerceramica.com.br/services/alta-alumina/"
+  },
+  {
+    "channel": "phone",
+    "value": "+5516997826362",
+    "status": "valid_format",
+    "source_url": "https://tecnicerceramica.com.br/services/alta-alumina/",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "email",
+    "value": "spemailcontato@tecnicerceramica.com.brphone",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/room-tells-you-when-its-time-to-get-off"
+  },
+  {
+    "channel": "email",
+    "value": "contato@tecnicerceramica.com.br",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/room-tells-you-when-its-time-to-get-off"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5516997826362",
+    "status": "verified",
+    "source_url": "https://tecnicerceramica.com.br/room-tells-you-when-its-time-to-get-off"
+  },
+  {
+    "channel": "phone",
+    "value": "+5516997826362",
+    "status": "valid_format",
+    "source_url": "https://tecnicerceramica.com.br/room-tells-you-when-its-time-to-get-off",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "email",
+    "value": "spemailcontato@tecnicerceramica.com.brphone",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/services/materiais/"
+  },
+  {
+    "channel": "email",
+    "value": "contato@tecnicerceramica.com.br",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/services/materiais/"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5516997826362",
+    "status": "verified",
+    "source_url": "https://tecnicerceramica.com.br/services/materiais/"
+  },
+  {
+    "channel": "phone",
+    "value": "+5516997826362",
+    "status": "valid_format",
+    "source_url": "https://tecnicerceramica.com.br/services/materiais/",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "email",
+    "value": "spemailcontato@tecnicerceramica.com.brphone",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/services/produtos/"
+  },
+  {
+    "channel": "email",
+    "value": "contato@tecnicerceramica.com.br",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/services/produtos/"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5516997826362",
+    "status": "verified",
+    "source_url": "https://tecnicerceramica.com.br/services/produtos/"
+  },
+  {
+    "channel": "phone",
+    "value": "+5516997826362",
+    "status": "valid_format",
+    "source_url": "https://tecnicerceramica.com.br/services/produtos/",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "email",
+    "value": "spemailcontato@tecnicerceramica.com.brphone",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/services/socagem-com-ligacao-quimica/"
+  },
+  {
+    "channel": "email",
+    "value": "contato@tecnicerceramica.com.br",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/services/socagem-com-ligacao-quimica/"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5516997826362",
+    "status": "verified",
+    "source_url": "https://tecnicerceramica.com.br/services/socagem-com-ligacao-quimica/"
+  },
+  {
+    "channel": "phone",
+    "value": "+5516997826362",
+    "status": "valid_format",
+    "source_url": "https://tecnicerceramica.com.br/services/socagem-com-ligacao-quimica/",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "email",
+    "value": "spemailcontato@tecnicerceramica.com.brphone",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/services_group/mulita/"
+  },
+  {
+    "channel": "email",
+    "value": "contato@tecnicerceramica.com.br",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/services_group/mulita/"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5516997826362",
+    "status": "verified",
+    "source_url": "https://tecnicerceramica.com.br/services_group/mulita/"
+  },
+  {
+    "channel": "phone",
+    "value": "+5516997826362",
+    "status": "valid_format",
+    "source_url": "https://tecnicerceramica.com.br/services_group/mulita/",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "email",
+    "value": "spemailcontato@tecnicerceramica.com.brphone",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/services_group/produtos/"
+  },
+  {
+    "channel": "email",
+    "value": "contato@tecnicerceramica.com.br",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/services_group/produtos/"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5516997826362",
+    "status": "verified",
+    "source_url": "https://tecnicerceramica.com.br/services_group/produtos/"
+  },
+  {
+    "channel": "phone",
+    "value": "+5516997826362",
+    "status": "valid_format",
+    "source_url": "https://tecnicerceramica.com.br/services_group/produtos/",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "email",
+    "value": "spemailcontato@tecnicerceramica.com.brphone",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/services_group/vibracao-baixo-cimento/"
+  },
+  {
+    "channel": "email",
+    "value": "contato@tecnicerceramica.com.br",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/services_group/vibracao-baixo-cimento/"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5516997826362",
+    "status": "verified",
+    "source_url": "https://tecnicerceramica.com.br/services_group/vibracao-baixo-cimento/"
+  },
+  {
+    "channel": "phone",
+    "value": "+5516997826362",
+    "status": "valid_format",
+    "source_url": "https://tecnicerceramica.com.br/services_group/vibracao-baixo-cimento/",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "email",
+    "value": "spemailcontato@tecnicerceramica.com.brphone",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/they-claim-it-is-your-work-time-killer"
+  },
+  {
+    "channel": "email",
+    "value": "contato@tecnicerceramica.com.br",
+    "status": "observed",
+    "source_url": "https://tecnicerceramica.com.br/they-claim-it-is-your-work-time-killer"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5516997826362",
+    "status": "verified",
+    "source_url": "https://tecnicerceramica.com.br/they-claim-it-is-your-work-time-killer"
+  },
+  {
+    "channel": "phone",
+    "value": "+5516997826362",
+    "status": "valid_format",
+    "source_url": "https://tecnicerceramica.com.br/they-claim-it-is-your-work-time-killer",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "email",
+    "value": "contato@tecnicerceramica.com.br",
+    "status": "probable",
+    "source_url": "https://tecnicerceramica.com.br/contato",
+    "company_public": true
+  }
+]

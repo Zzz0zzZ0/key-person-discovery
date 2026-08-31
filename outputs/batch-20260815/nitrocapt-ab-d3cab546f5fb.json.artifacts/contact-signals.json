@@ -1,0 +1,53 @@
+[
+  {
+    "channel": "email",
+    "value": "johanna.dahl@nitrocapt.com",
+    "status": "observed",
+    "source_url": "https://careers.nitrocapt.com/connect",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sluholding@slu.se",
+    "status": "observed",
+    "source_url": "https://sluholding.se/en/2025/04/04/nitrocapt-launches-swedens-first-domestic-production-of-mineral-nitrogen-fertilizer-in-almost-two-decades",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "bjorn.lindh@nitrocapt.com",
+    "status": "observed",
+    "source_url": "https://nitrocapt.com/press/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://se.linkedin.com/in/gustaf-forsberg-59067011",
+    "status": "probable",
+    "source_url": "https://se.linkedin.com/in/gustaf-forsberg-59067011"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/adjani-isabelle",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/adjani-isabelle"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/aysu-k-10b3451ba",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/aysu-k-10b3451ba"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/robin-toss-16ab9b89",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/robin-toss-16ab9b89"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/adam-fusco-rosenholm-9539954",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/adam-fusco-rosenholm-9539954"
+  }
+]

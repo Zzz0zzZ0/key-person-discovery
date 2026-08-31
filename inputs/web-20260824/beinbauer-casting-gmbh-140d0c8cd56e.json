@@ -1,0 +1,83 @@
+{
+  "name": "Beinbauer Casting GmbH",
+  "website": "https://beinbauer-group.de",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "295a60df-3e9d-44f3-80fb-9a6f844e6ba7",
+  "crm_linkedin_url": "https://www.linkedin.com/company",
+  "crm_country": null,
+  "crm_updated_at": "2026-08-19T07:29:51.919853+00:00",
+  "crm_contact_count": 5,
+  "crm_contacts": [
+    {
+      "name": "Contact",
+      "email": null,
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/peter-holtmann-37588753",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Contact",
+      "email": "security@beinbauer-group.de",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Contact",
+      "email": null,
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://de.linkedin.com/in/johanneskuron",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Contact",
+      "email": null,
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://de.linkedin.com/in/phil-limbach-1830b63",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Contact",
+      "email": "info@beinbauer-group.de",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-24T03:40:02.719174+00:00",
+  "source": "twenty_postgresql_read_only"
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "candidate",
+    "full_name": "Ron Ramsell",
+    "matched_by": [
+      "email",
+      "phone"
+    ]
+  },
+  {
+    "kind": "candidate",
+    "full_name": "Andrew Ramsell",
+    "matched_by": [
+      "email",
+      "name"
+    ]
+  }
+]

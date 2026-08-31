@@ -1,0 +1,52 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.kilns.co.uk                                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk                                                                              | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.kilns.co.uk/brazing-furnaces                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk/brazing-furnaces                                                             | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.kilns.co.uk/contact-us                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk/contact-us                                                                   | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.kilns.co.uk/kiln-refurbishment                                                           | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.kilns.co.uk/kiln-refurbishment                                                           | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://www.kilns.co.uk/about-us                                                                     | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.kilns.co.uk/about-us                                                                     | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://www.kilns.co.uk/kilns/thermocouples                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk/kilns/thermocouples                                                          | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.kilns.co.uk/kilns/kg-35-staffordshire-wheel                                              | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.kilns.co.uk/kilns/kg-35-staffordshire-wheel                                              | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://www.kilns.co.uk/kilns/sintering                                                              | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.kilns.co.uk/kilns/sintering                                                              | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://www.kilns.co.uk/news                                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk/news                                                                         | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.kilns.co.uk/materials-testing-furnaces                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk/materials-testing-furnaces                                                   | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.kilns.co.uk/news/elevate-your-educational-programs-with-our-kilns-and-furnaces           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk/news/elevate-your-educational-programs-with-our-kilns-and-furnaces           | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.kilns.co.uk/news/education-kilns-buying-guide                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk/news/education-kilns-buying-guide                                            | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.kilns.co.uk/news/introducing-the-cu-labtech-kiln                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk/news/introducing-the-cu-labtech-kiln                                         | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.kilns.co.uk/news/grow-your-studio-pottery-business-with-kilns-and-furnaces               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk/news/grow-your-studio-pottery-business-with-kilns-and-furnaces               | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.kilns.co.uk/news/phoenix-hobby-kiln                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk/news/phoenix-hobby-kiln                                                      | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.kilns.co.uk/news/meet-our-drawing-office-manager                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk/news/meet-our-drawing-office-manager                                         | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.kilns.co.uk/news/thermal-process-equipment-and-solutions                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk/news/thermal-process-equipment-and-solutions                                 | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.kilns.co.uk/kilns/control-systems                                                        | ✓ | ⏱: 5.03s 
+[SCRAPE].. ◆ https://www.kilns.co.uk/kilns/control-systems                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk/kilns/control-systems                                                        | ✓ | ⏱: 5.06s 
+[FETCH]... ↓ https://www.kilns.co.uk/metal-heat-treatment-furnaces                                                | ✓ | ⏱: 4.71s 
+[SCRAPE].. ◆ https://www.kilns.co.uk/metal-heat-treatment-furnaces                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk/metal-heat-treatment-furnaces                                                | ✓ | ⏱: 4.72s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.kilns.co.uk/category/news                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk/category/news                                                                | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.kilns.co.uk/news/page/3                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk/news/page/3                                                                  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.kilns.co.uk/news/page/2                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kilns.co.uk/news/page/2                                                                  | ✓ | ⏱: 0.01s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260817/batts-kilns-furnaces-ltd-b2b7242cee2f.json

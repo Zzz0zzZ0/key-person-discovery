@@ -1,0 +1,59 @@
+[
+  {
+    "channel": "phone",
+    "value": "+499234980970",
+    "status": "valid_format",
+    "source_url": "https://rwschleiftechnik.de/21889.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+499234980971",
+    "status": "valid_format",
+    "source_url": "https://rwschleiftechnik.de/21889.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@rwschleiftechnik.de",
+    "status": "observed",
+    "source_url": "https://www.rwschleiftechnik.de/18841.html",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@rwschleiftechnik.de",
+    "status": "observed",
+    "source_url": "http://www.rwschleiftechnik.de/media/b444eaef3615d25bffff802cfffffff1.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+499234980970",
+    "status": "valid_format",
+    "source_url": "http://www.rwschleiftechnik.de/media/b444eaef3615d25bffff802cfffffff1.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@rwschleiftechnik.de",
+    "status": "observed",
+    "source_url": "http://rwschleiftechnik.de/media/a00b3d636f9431eaffff8237fffffff2.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+499234980970",
+    "status": "valid_format",
+    "source_url": "http://rwschleiftechnik.de/media/a00b3d636f9431eaffff8237fffffff2.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

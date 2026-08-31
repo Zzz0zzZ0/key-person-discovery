@@ -1,0 +1,41 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://brunitec.com.br/eng/brunimento.php                                                           | ✓ | ⏱: 10.20s 
+[SCRAPE].. ◆ https://brunitec.com.br/eng/brunimento.php                                                           | ✓ | ⏱: 0.00s 
+[ERROR]... × https://brunitec.com.br/eng/brunimento.php         | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements, script_heavy_shell (1041 bytes, 38 chars 
+visible) 
+[COMPLETE] ● https://brunitec.com.br/eng/brunimento.php                                                           | ✗ | ⏱: 11.89s 
+[FETCH]... ↓ https://www.brunitec.com.br/en/home-en                                                               | ✓ | ⏱: 10.77s 
+[SCRAPE].. ◆ https://www.brunitec.com.br/en/home-en                                                               | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.brunitec.com.br/en/home-en             | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements, script_heavy_shell (1041 bytes, 38 chars 
+visible) 
+[COMPLETE] ● https://www.brunitec.com.br/en/home-en                                                               | ✗ | ⏱: 12.19s 
+[FETCH]... ↓ https://www.brunitec.com.br/en/honing-of-camshaft-and-crankshaft-bearing/                            | ✓ | ⏱: 3.67s 
+[SCRAPE].. ◆ https://www.brunitec.com.br/en/honing-of-camshaft-and-crankshaft-bearing/                            | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.brunitec.co...and-crankshaft-bearing/  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements, script_heavy_shell (1041 bytes, 38 chars 
+visible) 
+[COMPLETE] ● https://www.brunitec.com.br/en/honing-of-camshaft-and-crankshaft-bearing/                            | ✗ | ⏱: 3.68s 
+[FETCH]... ↓ https://www.brunitec.com.br/en/honing-tools/                                                         | ✓ | ⏱: 3.80s 
+[SCRAPE].. ◆ https://www.brunitec.com.br/en/honing-tools/                                                         | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.brunitec.com.br/en/honing-tools/       | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements, script_heavy_shell (1041 bytes, 38 chars 
+visible) 
+[COMPLETE] ● https://www.brunitec.com.br/en/honing-tools/                                                         | ✗ | ⏱: 3.81s 
+[FETCH]... ↓ https://www.brunitec.com.br/en/what-is-the-honing-process/                                           | ✓ | ⏱: 1.95s 
+[SCRAPE].. ◆ https://www.brunitec.com.br/en/what-is-the-honing-process/                                           | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.brunitec.co...-is-the-honing-process/  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements, script_heavy_shell (1041 bytes, 38 chars 
+visible) 
+[COMPLETE] ● https://www.brunitec.com.br/en/what-is-the-honing-process/                                           | ✗ | ⏱: 1.95s 
+[FETCH]... ↓ https://www.brunitec.com.br/maquina-de-brunir-horizontal-manual-bhm-150/                             | ✓ | ⏱: 1.40s 
+[SCRAPE].. ◆ https://www.brunitec.com.br/maquina-de-brunir-horizontal-manual-bhm-150/                             | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.brunitec.co...izontal-manual-bhm-150/  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements, script_heavy_shell (1041 bytes, 38 chars 
+visible) 
+[COMPLETE] ● https://www.brunitec.com.br/maquina-de-brunir-horizontal-manual-bhm-150/                             | ✗ | ⏱: 1.40s 
+[FETCH]... ↓ https://www.brunitec.com.br                                                                          | ✓ | ⏱: 29.03s 
+[SCRAPE].. ◆ https://www.brunitec.com.br                                                                          | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.brunitec.com.br                                                                          | ✓ | ⏱: 30.55s 
+[FETCH]... ↓ https://www.brunitec.com.br/brunidores-de-matrizes-de-parafuso-e-estamparia/                         | ✓ | ⏱: 30.54s 
+[SCRAPE].. ◆ https://www.brunitec.com.br/brunidores-de-matrizes-de-parafuso-e-estamparia/                         | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.brunitec.com.br/brunidores-de-matrizes-de-parafuso-e-estamparia/                         | ✓ | ⏱: 31.98s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/brunitec-43bcedc1e73f.json

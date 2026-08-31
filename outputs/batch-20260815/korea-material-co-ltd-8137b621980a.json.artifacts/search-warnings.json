@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://koreamaterial.co.kr",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://koreamaterial.co.kr/sitemap.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'koreamaterial.co.kr'. (_ssl.c:1016)>"
+  }
+]

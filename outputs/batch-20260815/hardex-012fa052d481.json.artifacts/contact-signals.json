@@ -1,0 +1,190 @@
+[
+  {
+    "channel": "phone",
+    "value": "+33381405600",
+    "status": "valid_format",
+    "source_url": "http://www.hardex.fr/wp-content/themes/neve/assets/img/starter-content/team-03.jpg",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33384319540",
+    "status": "valid_format",
+    "source_url": "https://www.hardex.fr/contact-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33381405600",
+    "status": "valid_format",
+    "source_url": "https://www.hardex.fr/contact-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33381405600",
+    "status": "valid_format",
+    "source_url": "https://www.hardex.fr",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@example.com",
+    "status": "observed",
+    "source_url": "https://www.hardex.fr/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33381405600",
+    "status": "valid_format",
+    "source_url": "https://www.hardex.fr/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@hardex.ca",
+    "status": "observed",
+    "source_url": "https://www.hardex.com/copy-of-sales-kit-1",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+16729995892",
+    "status": "verified",
+    "source_url": "https://www.hardex.com/copy-of-sales-kit-1",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+16729995892",
+    "status": "valid_format",
+    "source_url": "https://www.hardex.com/copy-of-sales-kit-1",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+16729999558",
+    "status": "verified",
+    "source_url": "https://www.hardex.com/copy-of-sales-kit-1",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+16729999558",
+    "status": "valid_format",
+    "source_url": "https://www.hardex.com/copy-of-sales-kit-1",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33381405600",
+    "status": "valid_format",
+    "source_url": "https://www.hardex.fr/en/author/site04/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33381405600",
+    "status": "valid_format",
+    "source_url": "https://www.hardex.fr/en/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@hardex.fr",
+    "status": "observed",
+    "source_url": "https://www.hardex.fr/en/contact-3/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33384319540",
+    "status": "valid_format",
+    "source_url": "https://www.hardex.fr/en/contact-3/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33381405600",
+    "status": "valid_format",
+    "source_url": "https://www.hardex.fr/en/contact-3/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "m.stemmer@groupe-imi.fr",
+    "status": "observed",
+    "source_url": "https://www.hardex.fr/informations-legales/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33381405600",
+    "status": "valid_format",
+    "source_url": "https://www.hardex.fr/informations-legales/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33381405600",
+    "status": "valid_format",
+    "source_url": "https://www.hardex.fr/en/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33381405600",
+    "status": "valid_format",
+    "source_url": "https://www.hardex.fr/en/our-commitments/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33381405600",
+    "status": "valid_format",
+    "source_url": "https://www.hardex.fr/wp-content/themes/neve/assets/img/starter-content/team-03.jpg",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://mx.linkedin.com/in/joanna-palma-861607399",
+    "status": "probable",
+    "source_url": "https://mx.linkedin.com/in/joanna-palma-861607399"
+  },
+  {
+    "channel": "email",
+    "value": "m.stemmer@groupe-imi.frle",
+    "status": "probable",
+    "source_url": "https://www.hardex.fr/informations-legales/",
+    "company_public": true
+  }
+]

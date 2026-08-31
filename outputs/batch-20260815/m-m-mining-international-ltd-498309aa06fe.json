@@ -1,0 +1,78 @@
+{
+  "company_name": "M&M Mining International Ltd.",
+  "candidates": [
+    {
+      "full_name": "Sarah Whitfield",
+      "current_title": "Director",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://m-m-mining-international-ltd.ltds.uk/",
+          "quote": "Ms Sarah Whitfield, Director, appointed 2015-03-11",
+          "supports": "Verified director since 2015 via Companies House registry"
+        },
+        {
+          "source_url": "https://m-m-mining-international-ltd.ltds.uk/",
+          "quote": "Ms Sarah Whitfield, Ownership of shares 75%+",
+          "supports": "Person with Significant Control holding 75%+ ownership — ultimate decision authority"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+443301335515",
+      "status": "valid_format",
+      "source_url": "https://mmm-int.co.uk",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 40,
+    "search_engine_warnings": 1,
+    "urls_crawled": 18,
+    "crawl_failures": 4,
+    "contact_signals": 26,
+    "official_urls_discovered": 5,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 1,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 4,
+    "contactable_items": 1,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "channel": "email",
+    "value": "hosting@gabia.com",
+    "status": "observed",
+    "source_url": "https://koreamaterial.co.kr"
+  },
+  {
+    "channel": "phone",
+    "value": "+18553741199",
+    "status": "valid_format",
+    "source_url": "https://es.importgenius.com/suppliers/korea-material-co-ltd-48-hanjeo",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+14807453397",
+    "status": "valid_format",
+    "source_url": "https://es.importgenius.com/suppliers/korea-material-co-ltd-48-hanjeo",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

@@ -1,0 +1,193 @@
+[
+  {
+    "channel": "phone",
+    "value": "+554834612700",
+    "status": "valid_format",
+    "source_url": "https://coverings2024.smallworldlabs.com/co/elizabeth-revestimentos",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+554834477777",
+    "status": "verified",
+    "source_url": "https://elizabethrevestimentos.com.br/compliance/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+554834477777",
+    "status": "valid_format",
+    "source_url": "https://elizabethrevestimentos.com.br/compliance/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sac@ceramicaelizabeth.com",
+    "status": "observed",
+    "source_url": "https://elizabethrevestimentos.com.br/contato/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+554834477777",
+    "status": "verified",
+    "source_url": "https://elizabethrevestimentos.com.br/contato/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+554834477777",
+    "status": "valid_format",
+    "source_url": "https://elizabethrevestimentos.com.br/contato/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+554834477777",
+    "status": "verified",
+    "source_url": "https://elizabethrevestimentos.com.br",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+554834477777",
+    "status": "valid_format",
+    "source_url": "https://elizabethrevestimentos.com.br",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+554834477777",
+    "status": "verified",
+    "source_url": "https://elizabethrevestimentos.com.br/politica-de-privacidade/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+554834477777",
+    "status": "valid_format",
+    "source_url": "https://elizabethrevestimentos.com.br/politica-de-privacidade/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+558330152700",
+    "status": "verified",
+    "source_url": "https://elizabethrevestimentos.com.br/en/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+558330152700",
+    "status": "valid_format",
+    "source_url": "https://elizabethrevestimentos.com.br/en/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+558330152700",
+    "status": "verified",
+    "source_url": "https://elizabethrevestimentos.com.br/en/product/elizabeth-granitti-panna-tecn-nat-70x70cm/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+558330152700",
+    "status": "valid_format",
+    "source_url": "https://elizabethrevestimentos.com.br/en/product/elizabeth-granitti-panna-tecn-nat-70x70cm/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "emkt@grupoelizabeth.com.br",
+    "status": "observed",
+    "source_url": "https://www.facebook.com/elizabethrevestimentos/"
+  },
+  {
+    "channel": "phone",
+    "value": "+558321072000",
+    "status": "valid_format",
+    "source_url": "https://www.facebook.com/elizabethrevestimentos/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@cbinsights.com",
+    "status": "observed",
+    "source_url": "https://www.cbinsights.com/company/elizabeth-revestimentos"
+  },
+  {
+    "channel": "phone",
+    "value": "+12122923148",
+    "status": "valid_format",
+    "source_url": "https://www.cbinsights.com/company/elizabeth-revestimentos",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+554834477777",
+    "status": "verified",
+    "source_url": "https://elizabethrevestimentos.com.br/sobre-nos/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+554834477777",
+    "status": "valid_format",
+    "source_url": "https://elizabethrevestimentos.com.br/sobre-nos/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sac@ceramicaelizabeth.com",
+    "status": "observed",
+    "source_url": "https://elizabethrevestimentos.com.br/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+558330152700",
+    "status": "verified",
+    "source_url": "https://elizabethrevestimentos.com.br/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+558330152700",
+    "status": "valid_format",
+    "source_url": "https://elizabethrevestimentos.com.br/en/contact/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+558330152700",
+    "status": "verified",
+    "source_url": "https://elizabethrevestimentos.com.br/en/about/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+558330152700",
+    "status": "valid_format",
+    "source_url": "https://elizabethrevestimentos.com.br/en/about/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/vitor-hugo-azevedo-b429864a",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/vitor-hugo-azevedo-b429864a"
+  }
+]

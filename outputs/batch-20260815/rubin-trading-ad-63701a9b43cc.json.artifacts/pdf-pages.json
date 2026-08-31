@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://rubin-glass.eu/wp-content/uploads/2023/02/Dekl_politika-v3.0-03092021-Eng-1.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  }
+]

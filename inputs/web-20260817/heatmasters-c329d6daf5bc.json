@@ -1,0 +1,173 @@
+{
+  "name": "Heatmasters",
+  "website": "https://heatmasters.net",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "01a72464-4e10-468c-bfa0-44e03d2da525",
+  "crm_linkedin_url": "https://www.linkedin.com/company/heatmasters",
+  "crm_country": "芬兰 / 波兰 / 爱沙尼亚",
+  "crm_updated_at": "2026-07-27T10:53:14.862373+00:00",
+  "crm_contact_count": 15,
+  "crm_contacts": [
+    {
+      "name": " Markku Pyykkoe",
+      "email": "markku.pyykko@heatmasters.net",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/markku-pyykk%c3%b6-a138301b2",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Niklas Anttila",
+      "email": "niklas.anttila@heatmasters.net",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/niklasant",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Tero Vesanen",
+      "email": "tero.vesanen@heatmasters.net",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/tero-vesanen-a0515210a",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Agnieszka Luczyszyn",
+      "email": "agnieszka.luczyszyn@heatmasters.net",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/agnieszka-%c5%82uczyszyn-254457179",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Marko Toivonen",
+      "email": "marko.toivonen@heatmasters.net",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/marko-toivonen-678603152",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "info@heatmasters.net",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " German Robledo",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+1 281-402-5725",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/german-robledo-64537186",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+358 20 7181310",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Tapio Finnström",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/tapio-finnström-863279b1",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "varkaus@heatmasters.net",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "ants@heatmasters.ee",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Erik Eroma",
+      "email": "erik.eroma@heatmasters.net",
+      "additional_emails": [],
+      "phone": "+358 40 5511958",
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/erikeroma",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Kamil Ciepulis",
+      "email": "kamil.ciepulis@heatmasters.net",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/kamil-ciepulis-860405166",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "poland@heatmasters.net",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "turku@heatmasters.net",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-17T03:24:57.094326+00:00",
+  "source": "twenty_postgresql_read_only"
+}

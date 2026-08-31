@@ -1,0 +1,244 @@
+{
+  "company_name": "Công ty TNHH Một Thành Viên Thép Miền Nam - VNSTEEL",
+  "candidates": [
+    {
+      "full_name": "Hồ Văn Ích Em",
+      "current_title": "Trưởng phòng Kinh tế Đối ngoại và Hợp tác Quốc tế",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 0,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://baodauthau.vn/cong-ty-tnhh-mot-thanh-vien-thep-mien-nam-vnsteel-thong-bao-post158898.html",
+          "quote": "Người liên hệ: Hồ Văn Ích Em - Trưởng phòng KTĐT. Điện thoại: 0913.858.349.",
+          "supports": "Verified as contact person for the company's bidding/procurement office. Email confirmed on same document for bid submission: emhvi@thepmiennam.com.vn"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Nguyên Trần Khôi",
+      "current_title": "",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/nguy%C3%AAn-tr%E1%BA%A7n-kh%C3%B4i-7a7500273",
+          "status": "observed",
+          "source_url": "http://tt.linkedin.com/company/thepmiennam"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "http://tt.linkedin.com/company/thepmiennam",
+          "quote": "Nguyên Trần Khôi",
+          "supports": "listed in the company's LinkedIn Employees section"
+        }
+      ],
+      "confidence": 0.7,
+      "review_required": true
+    },
+    {
+      "full_name": "Nguyễn Tiến Trọng",
+      "current_title": "",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/nguy%E1%BB%85n-ti%E1%BA%BFn-tr%E1%BB%8Dng-4979b9315/en",
+          "status": "observed",
+          "source_url": "http://tt.linkedin.com/company/thepmiennam"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "http://tt.linkedin.com/company/thepmiennam",
+          "quote": "Nguyễn Tiến Trọng",
+          "supports": "listed in the company's LinkedIn Employees section"
+        }
+      ],
+      "confidence": 0.7,
+      "review_required": true
+    },
+    {
+      "full_name": "Nguyen Tony",
+      "current_title": "",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/nguyen-tony-a66b13357",
+          "status": "observed",
+          "source_url": "http://tt.linkedin.com/company/thepmiennam"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "http://tt.linkedin.com/company/thepmiennam",
+          "quote": "Nguyen Tony",
+          "supports": "listed in the company's LinkedIn Employees section"
+        }
+      ],
+      "confidence": 0.7,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+84913858349",
+      "status": "valid_format",
+      "source_url": "https://baodauthau.vn/cong-ty-tnhh-mot-thanh-vien-thep-mien-nam-vnsteel-thong-bao-post158898.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+842543922091",
+      "status": "valid_format",
+      "source_url": "https://www.vnsteel.vn/don-vi-thanh-vien/cong-ty-tnhh-mtv-thep-mien-nam-vnsteel-5203.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+842543922092",
+      "status": "valid_format",
+      "source_url": "https://www.vnsteel.vn/don-vi-thanh-vien/cong-ty-tnhh-mtv-thep-mien-nam-vnsteel-5203.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+842543921005",
+      "status": "valid_format",
+      "source_url": "https://www.vnsteel.vn/don-vi-thanh-vien/cong-ty-tnhh-mtv-thep-mien-nam-vnsteel-5203.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "insangtaotre@gmail.com",
+      "status": "observed",
+      "source_url": "https://insangtaotre.vn/doc/cong-ty-tnhh-mot-thanh-vien-thep-mien-nam-vnsteel/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+84933991768",
+      "status": "valid_format",
+      "source_url": "https://insangtaotre.vn/doc/cong-ty-tnhh-mot-thanh-vien-thep-mien-nam-vnsteel/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+84310044487",
+      "status": "valid_format",
+      "source_url": "https://insangtaotre.vn/doc/cong-ty-tnhh-mot-thanh-vien-thep-mien-nam-vnsteel/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+84773127979",
+      "status": "valid_format",
+      "source_url": "https://insangtaotre.vn/doc/cong-ty-tnhh-mot-thanh-vien-thep-mien-nam-vnsteel/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "validation_rejections": [
+    {
+      "full_name": "Nguyên Trần Khôi",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Nguyễn Tiến Trọng",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Đông Phạm Văn",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Nguyen Tony",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Đông Phạm Văn",
+      "matched_by": [
+        "linkedin"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 8,
+    "anysearch_queries": 3,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 40,
+    "search_engine_warnings": 14,
+    "urls_crawled": 29,
+    "crawl_failures": 1,
+    "contact_signals": 59,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 4,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 4,
+    "contactable_items": 11,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

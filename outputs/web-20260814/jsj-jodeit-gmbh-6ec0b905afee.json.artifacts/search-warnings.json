@@ -1,0 +1,116 @@
+[
+  {
+    "query": "https://apps.glassglobal.com/profile/documents3274.html",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://apps.glassglobal.com/sitemap.xml: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "\"JSJ Jodeit GmbH\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for '\"JSJ Jodeit GmbH\" (procurement OR purchasing OR sourcing OR buyer)': <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "\"JSJ Jodeit GmbH\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"JSJ Jodeit GmbH\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "\"JSJ Jodeit GmbH\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"JSJ Jodeit GmbH\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for '\"JSJ Jodeit GmbH\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")': Remote end closed connection without response"
+  },
+  {
+    "query": "\"JSJ Jodeit GmbH\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "\"JSJ Jodeit GmbH\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "too many requests"
+  },
+  {
+    "query": "\"JSJ Jodeit GmbH\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:linkedin.com/in \"JSJ Jodeit GmbH\"",
+    "provider": "searxng",
+    "engine": "searxng",
+    "reason": "All active SearXNG engines failed for 'site:linkedin.com/in \"JSJ Jodeit GmbH\"': bing: HTTP connection error, duckduckgo: timeout, google cse: Suspended: too many requests, qwant: timeout"
+  },
+  {
+    "query": "\"JSJ Jodeit GmbH\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"JSJ Jodeit GmbH\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "\"JSJ Jodeit GmbH\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:apps.glassglobal.com (team OR management OR contact)",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for 'site:apps.glassglobal.com (team OR management OR contact)': <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "site:apps.glassglobal.com (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "HTTP connection error"
+  },
+  {
+    "query": "site:apps.glassglobal.com (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:apps.glassglobal.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: HTTP connection error"
+  },
+  {
+    "query": "site:apps.glassglobal.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:apps.glassglobal.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "timeout"
+  }
+]

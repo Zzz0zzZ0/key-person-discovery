@@ -1,0 +1,81 @@
+{
+  "company_name": "GARION INTERNATIONAL LTD",
+  "candidates": [
+    {
+      "full_name": "Kyooho",
+      "current_title": "Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 75,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.go4worldbusiness.com/member/view/921780/garion-international-ltd-.html",
+          "quote": "Contact Person: Kyooho, Designation: Manager",
+          "supports": "Named contact person listed as Manager at Garion International Ltd., Pusan, South Korea"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Jeongtae Yoon",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 41,
+    "search_engine_warnings": 5,
+    "urls_crawled": 11,
+    "crawl_failures": 0,
+    "contact_signals": 13,
+    "official_urls_discovered": 1,
+    "crm_website": "https://c551701.tradekorea.com",
+    "official_website": "https://c551701.tradekorea.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 1,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 4,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  },
+  "reprocessed_from": "garion-international-ltd-5b7cef2d2fa1.json",
+  "reprocessed_at": "2026-08-17T03:31:19.432415+00:00",
+  "reprocess_reason": "apply 2026-08-17 official identity, public-source, and email cleanup rules"
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "channel": "email",
+    "value": "euroguss@nuernbergmesse.de",
+    "status": "observed",
+    "source_url": "https://www.euroguss.de/en/exhibitors/foshan-nanhai-superband-mould-co-ltd-2533219",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+8675785206050",
+    "status": "valid_format",
+    "source_url": "https://www.euroguss.de/en/exhibitors/foshan-nanhai-superband-mould-co-ltd-2533219",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4991186068987",
+    "status": "valid_format",
+    "source_url": "https://www.euroguss.de/en/exhibitors/foshan-nanhai-superband-mould-co-ltd-2533219",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/polina-milcheva-b2786a149/",
+    "status": "observed",
+    "source_url": "https://subcontracteu.com/en/companies/foshan-nanhai-superband-mould-co-ltd/2322",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+862566670000",
+    "status": "valid_format",
+    "source_url": "https://kr.made-in-china.com/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/wheel-mold-supplier",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/wheel-mold-supplier"
+  },
+  {
+    "channel": "email",
+    "value": "luowenxin@superband.com.cn",
+    "status": "observed",
+    "source_url": "https://linkedin.com/in/abby-law-735166354"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/abby-law-735166354",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/abby-law-735166354"
+  }
+]

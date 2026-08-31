@@ -1,0 +1,33 @@
+{
+  "name": "CSN",
+  "website": "https://www.csn.com.br",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "4f81c5c9-e6b2-4283-ac01-31f9781dbb0c",
+  "crm_linkedin_url": "https://www.linkedin.com/company/companhiasiderurgicanacional/",
+  "crm_country": "巴西",
+  "crm_updated_at": "2026-08-10T17:16:01.633385+00:00",
+  "fetched_at": "2026-08-14T07:37:34.069173+00:00",
+  "source": "twenty_postgresql_read_only"
+}

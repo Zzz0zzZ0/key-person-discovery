@@ -1,0 +1,76 @@
+{
+  "company_name": "RefraConsult GmbH",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "rcoffice@refraconsult.de",
+      "status": "observed",
+      "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "datenschutz@refraconsult.de",
+      "status": "observed",
+      "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+4962027604830",
+      "status": "valid_format",
+      "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+4962027604859",
+      "status": "valid_format",
+      "source_url": "https://refraconsult.de/index.php/ueber-uns2/impressum-2",
+      "whatsapp_status": "unknown",
+      "evidence_status": "probable",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Johannes Imle",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 31,
+    "search_engine_warnings": 1,
+    "urls_crawled": 24,
+    "crawl_failures": 1,
+    "contact_signals": 60,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 1,
+    "pdf_documents_processed": 1,
+    "pdf_documents_extracted": 1,
+    "pdf_pages_extracted": 8,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 6,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 4,
+    "contactable_items": 4,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "kind": "candidate",
+    "full_name": "Bartłomiej Włodarczyk",
+    "matched_by": [
+      "linkedin"
+    ]
+  },
+  {
+    "kind": "candidate",
+    "full_name": "Agata Pawlak",
+    "matched_by": [
+      "linkedin",
+      "name"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  }
+]

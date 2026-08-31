@@ -1,0 +1,197 @@
+{
+  "company_name": "SIJ – Slovenian Steel Group",
+  "candidates": [
+    {
+      "full_name": "Marjana Drolc Kaluža",
+      "current_title": "Director of Procurement",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "marjana.drolc.kaluza@sij.si",
+          "status": "guessed",
+          "source_url": "https://www.sij-americas.com/en/leadership"
+        }
+      ],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.sij-americas.com/en/leadership",
+          "quote": "Marjana Drolc Kaluža\nDirector of Procurement",
+          "supports": "Current title as Director of Procurement at SIJ Group, listed on official leadership page"
+        },
+        {
+          "source_url": "https://www.ravnesystems.com/en/news/sij-group-received-the-te-award",
+          "quote": "Upon receiving the award, Marjana Drolc Kaluža, Chief Procurement Officer at SIJ Group, stated: \"At SIJ Group, the largest steel group in Slovenia, we manage a procurement volume of EUR 500 million.\"",
+          "supports": "Verified as Chief Procurement Officer at SIJ Group managing EUR 500M procurement volume; confirms direct authority over purchasing decisions including refractory raw materials"
+        },
+        {
+          "source_url": "https://www.ravnesystems.com/en/news/sij-group-received-the-te-award",
+          "quote": "The introduction of category management has enhanced market and supplier knowledge, enabling faster and better decisions and reducing supplier risks. The \"Purchasing Practice of the Year 2024\" award recognises the efforts and commitment of the entire procurement team.",
+          "supports": "Confirms procurement leadership; award recognizes excellence in procurement category management"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info@sij.si",
+      "status": "observed",
+      "source_url": "https://www.sij-americas.com/en/about",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+17322031505",
+      "status": "valid_format",
+      "source_url": "https://www.sij-americas.com/en/contacts",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+38612429800",
+      "status": "valid_format",
+      "source_url": "https://www.sij-americas.com/en/contacts",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sara.wagner@sij.si",
+      "status": "observed",
+      "source_url": "https://www.ravnesystems.com/en/news/sij-group-received-the-te-award",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+38612429827",
+      "status": "valid_format",
+      "source_url": "https://www.ravnesystems.com/en/news/sij-group-received-the-te-award",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+38641313532",
+      "status": "valid_format",
+      "source_url": "https://www.ravnesystems.com/en/news/sij-group-received-the-te-award",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "tes@glas.agency",
+      "status": "observed",
+      "source_url": "https://www.sij-americas.com/en/news/invitation-to-vote-on-the-proposed-resolutions-of-the-sij9-noteholders",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "tom.vanson@glas.agency",
+      "status": "observed",
+      "source_url": "https://www.sij-americas.com/en/news/invitation-to-vote-on-the-proposed-resolutions-of-the-sij9-noteholders",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "project-sava@jadek-pensa.si",
+      "status": "observed",
+      "source_url": "https://www.sij-americas.com/en/news/invitation-to-vote-on-the-proposed-resolutions-of-the-sij9-noteholders",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "igor.malevanov@sij.si",
+      "status": "observed",
+      "source_url": "https://www.sij-americas.com/en/news/invitation-to-vote-on-the-proposed-resolutions-of-the-sij9-noteholders",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sandi.svetek@sij.si",
+      "status": "observed",
+      "source_url": "https://www.sij-americas.com/en/news/invitation-to-vote-on-the-proposed-resolutions-of-the-sij9-noteholders",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "katja.krumpak@sij.si",
+      "status": "observed",
+      "source_url": "https://www.sij-americas.com/en/news/sij-acroni-restores-narrow-gauge-electric-locomotive-oe-vi",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+38612429859",
+      "status": "valid_format",
+      "source_url": "https://www.sij-americas.com/en/news/sij-acroni-restores-narrow-gauge-electric-locomotive-oe-vi",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+38641814041",
+      "status": "valid_format",
+      "source_url": "https://www.sij-americas.com/en/news/sij-acroni-restores-narrow-gauge-electric-locomotive-oe-vi",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@comtrade.com",
+      "status": "observed",
+      "source_url": "https://www.comtrade.com/news/strategic-partnership-with-slovenian-steel-group-is-attaining-great-results/",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 25,
+    "search_engine_warnings": 0,
+    "urls_crawled": 20,
+    "crawl_failures": 2,
+    "contact_signals": 28,
+    "official_urls_discovered": 11,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 6,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 1,
+    "contactable_items": 16,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

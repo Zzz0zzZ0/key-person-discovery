@@ -1,0 +1,271 @@
+{
+  "company_name": "Промышленная группа «СОЭЗ»",
+  "candidates": [
+    {
+      "full_name": "Главный инженер",
+      "current_title": "Главный инженер",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 4,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+79277419940",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.soezgroup.ru/company/staff/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.soezgroup.ru/company/staff/",
+          "quote": "+7 (927) 741-99-40 Главный инженер",
+          "supports": "Named role listed on official company staff page"
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true
+    },
+    {
+      "full_name": "Отдел снабжения",
+      "current_title": "Отдел снабжения",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 4,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+79277453061",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.soezgroup.ru/company/staff/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.soezgroup.ru/company/staff/",
+          "quote": "+7 927 745-30-61 Отдел снабжения",
+          "supports": "Supply department phone on official staff page — primary procurement contact for raw materials sourcing"
+        }
+      ],
+      "confidence": 0.65,
+      "review_required": true
+    },
+    {
+      "full_name": "Отдел по работе с клиентами",
+      "current_title": "Отдел по работе с клиентами",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 2,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+79270010168",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.soezgroup.ru/company/staff/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.soezgroup.ru/company/staff/",
+          "quote": "+7 927 001-01-68 Отдел по работе с клиентами",
+          "supports": "Customer relations department on official staff page"
+        }
+      ],
+      "confidence": 0.55,
+      "review_required": true
+    },
+    {
+      "full_name": "Отдел кадров",
+      "current_title": "Отдел кадров",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 1,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+78469230453",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.soezgroup.ru/company/staff/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.soezgroup.ru/company/staff/",
+          "quote": "+7 846 923-04-53 Отдел кадров",
+          "supports": "HR department on official staff page"
+        }
+      ],
+      "confidence": 0.5,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "a.aponenko@soezgroup.ru",
+      "status": "observed",
+      "source_url": "https://www.soezgroup.ru",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "v.potapov@soezgroup.ru",
+      "status": "observed",
+      "source_url": "https://www.soezgroup.ru",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "buh@soezgroup.ru",
+      "status": "observed",
+      "source_url": "https://www.soezgroup.ru",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "ok@soezgroup.ru",
+      "status": "observed",
+      "source_url": "https://www.soezgroup.ru",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "omts@soezgroup.ru",
+      "status": "observed",
+      "source_url": "https://www.soezgroup.ru",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "uskp@soezgroup.ru",
+      "status": "observed",
+      "source_url": "https://www.soezgroup.ru",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "ogmet@soezgroup.ru",
+      "status": "observed",
+      "source_url": "https://www.soezgroup.ru",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "s.vostrikov@soezgroup.ru",
+      "status": "observed",
+      "source_url": "https://www.soezgroup.ru",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "energy@soezgroup.ru",
+      "status": "observed",
+      "source_url": "https://www.soezgroup.ru",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+78469230346",
+      "status": "valid_format",
+      "source_url": "https://www.soezgroup.ru",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+79371886381",
+      "status": "valid_format",
+      "source_url": "https://www.soezgroup.ru",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+79934705045",
+      "status": "valid_format",
+      "source_url": "https://www.soezgroup.ru",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+79276993594",
+      "status": "valid_format",
+      "source_url": "https://www.soezgroup.ru",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+79379806225",
+      "status": "valid_format",
+      "source_url": "https://www.soezgroup.ru",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Бухгалтерия",
+      "matched_by": [
+        "phone"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 3,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 40,
+    "search_engine_warnings": 0,
+    "urls_crawled": 30,
+    "crawl_failures": 0,
+    "contact_signals": 311,
+    "official_urls_discovered": 30,
+    "pdf_documents_discovered": 1,
+    "pdf_documents_processed": 1,
+    "pdf_documents_extracted": 1,
+    "pdf_pages_extracted": 1,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 3,
+    "target_contactable_items": 4,
+    "contactable_items": 18,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

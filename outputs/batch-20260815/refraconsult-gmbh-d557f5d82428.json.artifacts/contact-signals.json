@@ -1,0 +1,478 @@
+[
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://refraconsult.de/index.php/en/about-us",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://refraconsult.de/index.php/en/about-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://refraconsult.de/index.php/en/about-us/contact",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://refraconsult.de/index.php/en/about-us/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://refraconsult.de",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://refraconsult.de",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://refraconsult.de/index.php/service/beratung-consulting-2",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://refraconsult.de/index.php/service/beratung-consulting-2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://refraconsult.de/index.php/ueber-uns2/impressum-2",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://refraconsult.de/index.php/ueber-uns2/impressum-2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://www.refraconsult.de/index.php/en/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://www.refraconsult.de/index.php/en/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "rcoffice@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "datenschutz@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604830",
+    "status": "valid_format",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://www.refraconsult.de/index.php/ueber-uns2",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://www.refraconsult.de/index.php/ueber-uns2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://refraconsult.de/index.php/en/about-us/imprint",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://refraconsult.de/index.php/en/about-us/imprint",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "rcoffice@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://refraconsult.de/index.php/en/about-us/privacy-policy",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "datenschutz@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://refraconsult.de/index.php/en/about-us/privacy-policy",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://refraconsult.de/index.php/en/about-us/privacy-policy",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604830",
+    "status": "valid_format",
+    "source_url": "https://refraconsult.de/index.php/en/about-us/privacy-policy",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://refraconsult.de/index.php/en/about-us/privacy-policy",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://refraconsult.de/index.php/en/about-us/contact?rCH=-2",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://refraconsult.de/index.php/en/about-us/contact?rCH=-2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://refraconsult.de/index.php/en/about-us/contact?rCH=2",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://refraconsult.de/index.php/en/about-us/contact?rCH=2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://refraconsult.de/index.php/en/about-us/references",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://refraconsult.de/index.php/en/about-us/references",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://refraconsult.de/index.php/en/about-us?rCH=-2",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://refraconsult.de/index.php/en/about-us?rCH=-2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://refraconsult.de/index.php/en/about-us?rCH=2",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://refraconsult.de/index.php/en/about-us?rCH=2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/contact",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/imprint",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/imprint",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "rcoffice@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy?rCH=-2",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "datenschutz@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy?rCH=-2",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy?rCH=-2",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604830",
+    "status": "valid_format",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy?rCH=-2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy?rCH=-2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "rcoffice@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy?rCH=2",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "datenschutz@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy?rCH=2",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy?rCH=2",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604830",
+    "status": "valid_format",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy?rCH=2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/privacy-policy?rCH=2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/references",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us/references",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us?rCH=2",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us?rCH=2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "observed",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us?rCH=-2",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604831",
+    "status": "valid_format",
+    "source_url": "https://www.refraconsult.de/index.php/en/about-us?rCH=-2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraconsult.de",
+    "status": "probable",
+    "source_url": "https://refraconsult.de/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4962027604859",
+    "status": "valid_format",
+    "source_url": "https://refraconsult.de/index.php/ueber-uns2/impressum-2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

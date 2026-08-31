@@ -1,0 +1,64 @@
+{
+  "name": "Refractarios y Aislamientos de San Luis, S.A. DE C.V.",
+  "website": "https://refractariosyaislamientos.com.mx",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "011cd9e5-9fc4-454d-a01b-c26ab6338eaa",
+  "crm_linkedin_url": "http://www.linkedin.com/company/refractarios-y-aislamientos-de-san-luis",
+  "crm_country": "Mexico",
+  "crm_updated_at": "2026-07-27T10:53:14.862373+00:00",
+  "crm_contact_count": 3,
+  "crm_contacts": [
+    {
+      "name": " Official Email",
+      "email": "aisla.refrac07@yahoo.com.mx",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Jose Pablo Gallegos Cabrera",
+      "email": "josecabrera@gmail.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/jose-pablo-gallegos-cabrera-810444264",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+52 444 129 3806",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T04:22:14.584834+00:00",
+  "source": "twenty_postgresql_read_only"
+}

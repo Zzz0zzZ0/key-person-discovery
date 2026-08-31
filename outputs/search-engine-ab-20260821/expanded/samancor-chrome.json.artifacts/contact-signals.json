@@ -1,0 +1,144 @@
+[
+  {
+    "channel": "email",
+    "value": "sales@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "gpsda@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "webmaster@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "khuphuka@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451000",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "bridget.vonholdt@bcw-global.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/statement-samancor-chrome-limited/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27826100650",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/statement-samancor-chrome-limited/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27114808680",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/statement-samancor-chrome-limited/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451000",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2021/06/CSI-Brochure_Samancor-Chrome_Jan-2021LR.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info.office@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2026/05/260514-Updated-PAIA-Manual_14.05.2026.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "enquiries@inforegulator.org.za",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2026/05/260514-Updated-PAIA-Manual_14.05.2026.pdf"
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451000",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2026/05/260514-Updated-PAIA-Manual_14.05.2026.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451200",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2026/05/260514-Updated-PAIA-Manual_14.05.2026.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451031",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2026/05/260514-Updated-PAIA-Manual_14.05.2026.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451160",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2026/05/260514-Updated-PAIA-Manual_14.05.2026.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+27100235200",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2026/05/260514-Updated-PAIA-Manual_14.05.2026.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+27800017160",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2026/05/260514-Updated-PAIA-Manual_14.05.2026.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "notices@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/2302-form-C.-Paia-Application-with-POPI-final.pdf"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/farhana-rahaman-9b3b61a",
+    "status": "probable",
+    "source_url": "https://za.linkedin.com/in/farhana-rahaman-9b3b61a"
+  }
+]

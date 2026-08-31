@@ -1,0 +1,215 @@
+[
+  {
+    "channel": "email",
+    "value": "info@beinbauer-group.de",
+    "status": "observed",
+    "source_url": "https://beinbauer-group.de",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49850590030",
+    "status": "valid_format",
+    "source_url": "https://beinbauer-group.de",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@beinbauer-group.de",
+    "status": "observed",
+    "source_url": "https://www.beinbauer-group.de/kontakt/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4923041050",
+    "status": "valid_format",
+    "source_url": "https://www.beinbauer-group.de/kontakt/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49850590030",
+    "status": "valid_format",
+    "source_url": "https://www.beinbauer-group.de/kontakt/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49269292080",
+    "status": "valid_format",
+    "source_url": "https://www.beinbauer-group.de/kontakt/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@beinbauer-group.de",
+    "status": "observed",
+    "source_url": "https://www.beinbauer-group.de/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4923041050",
+    "status": "valid_format",
+    "source_url": "https://www.beinbauer-group.de/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49850590030",
+    "status": "valid_format",
+    "source_url": "https://www.beinbauer-group.de/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49269292080",
+    "status": "valid_format",
+    "source_url": "https://www.beinbauer-group.de/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@beinbauer-group.de",
+    "status": "observed",
+    "source_url": "https://www.beinbauer-group.de/en/services/supply-chain-management/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49850590030",
+    "status": "valid_format",
+    "source_url": "https://www.beinbauer-group.de/en/services/supply-chain-management/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@beinbauer-group.de",
+    "status": "observed",
+    "source_url": "https://www.beinbauer-group.de/en/group/management/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/johanneskuron",
+    "status": "observed",
+    "source_url": "https://www.beinbauer-group.de/en/group/management/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/phil-limbach-1830b63",
+    "status": "observed",
+    "source_url": "https://www.beinbauer-group.de/en/group/management/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/peter-holtmann-37588753",
+    "status": "observed",
+    "source_url": "https://www.beinbauer-group.de/en/group/management/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49850590030",
+    "status": "valid_format",
+    "source_url": "https://www.beinbauer-group.de/en/group/management/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@beinbauer-group.de",
+    "status": "observed",
+    "source_url": "https://www.beinbauer-group.de/leistungen/supply-chain-management/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49850590030",
+    "status": "valid_format",
+    "source_url": "https://www.beinbauer-group.de/leistungen/supply-chain-management/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@beinbauer-group.de",
+    "status": "observed",
+    "source_url": "https://www.beinbauer-group.de/en/group/about-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49850590030",
+    "status": "valid_format",
+    "source_url": "https://www.beinbauer-group.de/en/group/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@beinbauer-group.de",
+    "status": "observed",
+    "source_url": "https://www.beinbauer-group.de/unternehmen/management/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/johanneskuron",
+    "status": "observed",
+    "source_url": "https://www.beinbauer-group.de/unternehmen/management/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/phil-limbach-1830b63",
+    "status": "observed",
+    "source_url": "https://www.beinbauer-group.de/unternehmen/management/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/peter-holtmann-37588753",
+    "status": "observed",
+    "source_url": "https://www.beinbauer-group.de/unternehmen/management/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49850590030",
+    "status": "valid_format",
+    "source_url": "https://www.beinbauer-group.de/unternehmen/management/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "s.rheinwald@cos-legal.eu",
+    "status": "observed",
+    "source_url": "https://www.beinbauer-group.de/wp-content/uploads/2026/06/Code-of-Conduct-Beinbauer-Group.pdf",
+    "company_public": true
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "query": "http://keller.be",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "http://keller.be/sitemap.xml: syntax error: line 1, column 0"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "name": "Sialon Ceramics",
+  "website": "https://sialon.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "01a91bbc-0fef-4c69-a2f3-fce47a87b885",
+  "crm_linkedin_url": null,
+  "crm_country": null,
+  "crm_updated_at": "2026-07-29T06:07:06.653012+00:00",
+  "crm_contact_count": 3,
+  "crm_contacts": [
+    {
+      "name": "Official",
+      "email": null,
+      "additional_emails": null,
+      "phone": "31 754 0790",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Official",
+      "email": null,
+      "additional_emails": null,
+      "phone": "20 7660 2162",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Official",
+      "email": null,
+      "additional_emails": null,
+      "phone": "35 15 8085",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-17T02:56:50.961789+00:00",
+  "source": "twenty_postgresql_read_only"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ardakan Industrial Ceramics",
+    "pages": [
+      {
+        "requested_url": "http://www.aic.ir",
+        "error": "ConnectTimeout: HTTPConnectionPool(host='www.aic.ir', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='www.aic.ir', port=80) at 0x107b03410>, 'Connection to www.aic.ir timed out. (connect timeout=12)'))"
+      }
+    ]
+  },
+  {
+    "name": "Rubin Trading AD",
+    "pages": [
+      {
+        "requested_url": "https://rubin-glass.eu",
+        "error": "ReadTimeout: HTTPSConnectionPool(host='rubin-glass.eu', port=443): Read timed out. (read timeout=12)"
+      },
+      {
+        "requested_url": "https://rubin-glass.eu/about-rubin/",
+        "error": "ReadTimeout: HTTPSConnectionPool(host='rubin-glass.eu', port=443): Read timed out. (read timeout=12)"
+      },
+      {
+        "requested_url": "https://rubin-glass.eu/contact-us/",
+        "error": "ReadTimeout: HTTPSConnectionPool(host='rubin-glass.eu', port=443): Read timed out. (read timeout=12)"
+      },
+      {
+        "requested_url": "https://rubin-glass.eu/antoaneta-vasileva/",
+        "error": "ReadTimeout: HTTPSConnectionPool(host='rubin-glass.eu', port=443): Read timed out. (read timeout=12)"
+      }
+    ]
+  }
+]

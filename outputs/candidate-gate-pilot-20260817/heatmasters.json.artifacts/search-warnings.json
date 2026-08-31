@@ -1,0 +1,26 @@
+[
+  {
+    "query": "https://heatmasters.net",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://heatmasters.net/sitemap.xml: <urlopen error _ssl.c:999: The handshake operation timed out>"
+  },
+  {
+    "query": "site:heatmasters.net (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:heatmasters.net (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:heatmasters.net (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  }
+]

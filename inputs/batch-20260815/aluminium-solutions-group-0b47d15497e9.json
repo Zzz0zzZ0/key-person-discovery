@@ -1,0 +1,36 @@
+{
+  "name": "Aluminium Solutions Group",
+  "website": "https://alusolutionsgroup.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "01810754-ac50-4874-92cb-24cafd416289",
+  "crm_linkedin_url": "http://www.linkedin.com/company/aluminium-foundry-france",
+  "crm_country": "France / Spain",
+  "crm_updated_at": "2026-07-29T05:06:00.478646+00:00",
+  "crm_contact_count": 0,
+  "crm_contacts": [],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T04:56:45.286540+00:00",
+  "source": "twenty_postgresql_read_only"
+}

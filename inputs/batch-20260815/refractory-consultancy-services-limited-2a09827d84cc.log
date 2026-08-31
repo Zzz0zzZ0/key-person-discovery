@@ -1,0 +1,25 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://refcsl.co.uk                                                                                 | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://refcsl.co.uk                                                                                 | ✓ | ⏱: 0.03s 
+[FETCH]... ↓ https://www.refcsl.co.uk/                                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refcsl.co.uk/                                                                            | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.zoominfo.com/c/refractory-consultancy-services-ltd/540337440                             | ✓ | ⏱: 0.86s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/refractory-consultancy-services-ltd/540337440                             | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...-services-ltd/540337440  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/c/refractory-consultancy-services-ltd/540337440                             | ✗ | ⏱: 1.83s 
+[FETCH]... ↓ https://in.linkedin.com/company/haripriya-refractories-pvt-ltd                                       | ✓ | ⏱: 1.19s 
+[SCRAPE].. ◆ https://in.linkedin.com/company/haripriya-refractories-pvt-ltd                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://in.linkedin.com/company/haripriya-refractories-pvt-ltd                                       | ✓ | ⏱: 3.22s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://refcsl.co.uk/assets/team-hi-vis-workers.jpg                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://refcsl.co.uk/assets/team-hi-vis-workers.jpg                                                  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refcsl.co.uk/assets/team-hi-vis-workers.jpg                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refcsl.co.uk/assets/team-hi-vis-workers.jpg                                              | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://refcsl.co.uk/assets/team-rhi-magnesita.jpg                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://refcsl.co.uk/assets/team-rhi-magnesita.jpg                                                   | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refcsl.co.uk/assets/team-rhi-magnesita.jpg                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refcsl.co.uk/assets/team-rhi-magnesita.jpg                                               | ✓ | ⏱: 0.01s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/refractory-consultancy-services-limited-2a09827d84cc.json

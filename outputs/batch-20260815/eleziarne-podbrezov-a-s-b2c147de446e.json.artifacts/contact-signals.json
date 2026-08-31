@@ -1,0 +1,616 @@
+[
+  {
+    "channel": "email",
+    "value": "marketing@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.facebook.com/Zeleziarne.Podbrezova.a.s/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "cpw@live.unibo.it",
+    "status": "observed",
+    "source_url": "https://cancerpreventionatwork.eu/partner/zeleziarne-podbrezova-a-s-slovakia",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "admin@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451111",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "admin@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/about-us/"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451111",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "admin@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/category/company/"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451111",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/category/company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "admin@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/blog_students-praise-their-summer-jobs-at-zeleziarne-podbrezova-appreciating-both-the-team-and-the-pay/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451111",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/blog_students-praise-their-summer-jobs-at-zeleziarne-podbrezova-appreciating-both-the-team-and-the-pay/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "admin@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/company-management-and-gps-coordinates/"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451111",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/company-management-and-gps-coordinates/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "admin@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/contacts/"
+  },
+  {
+    "channel": "email",
+    "value": "kariera@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/contacts/"
+  },
+  {
+    "channel": "email",
+    "value": "shareholders@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/contacts/"
+  },
+  {
+    "channel": "email",
+    "value": "dundovic@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/contacts/"
+  },
+  {
+    "channel": "email",
+    "value": "capek.harold@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/contacts/"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451111",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486453014",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486453010",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486453020",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486453501",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486453410",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486453077",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486453076",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486453085",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486453041",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486453034",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486453045",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486452963",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486452805",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486452812",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486452817",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486452810",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486452816",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486452705",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486452794",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486452791",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486452820",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486452365",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486452361",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486453107",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421903807387",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486453105",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421903540012",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "admin@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/corporate-newspaper/"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451111",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/corporate-newspaper/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "admin@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/our-people-our-value/"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451111",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-people-our-value/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "villim.jan@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/"
+  },
+  {
+    "channel": "email",
+    "value": "infotale@tale.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/"
+  },
+  {
+    "channel": "email",
+    "value": "zpfutbal@mbox.zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/"
+  },
+  {
+    "channel": "email",
+    "value": "mazikova@mbox.zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/"
+  },
+  {
+    "channel": "email",
+    "value": "kastelan@hradlupca.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/"
+  },
+  {
+    "channel": "email",
+    "value": "gastro@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/"
+  },
+  {
+    "channel": "email",
+    "value": "zpinformatika@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/"
+  },
+  {
+    "channel": "email",
+    "value": "suja@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/"
+  },
+  {
+    "channel": "email",
+    "value": "zaninoni@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/"
+  },
+  {
+    "channel": "email",
+    "value": "admin@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451512",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486455002",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486712201",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486712202",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451240",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451222",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451225",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421484187429",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451530",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451532",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486452400",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486452502",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486452830",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486452888",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451670",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451672",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451111",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/our-services-for-people/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "admin@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/quality-and-integrated-management-systems/"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451111",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/quality-and-integrated-management-systems/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "admin@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/category/blog/"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451111",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/category/blog/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "admin@zelpo.sk",
+    "status": "observed",
+    "source_url": "https://www.zelpo.eu/general-contacts/"
+  },
+  {
+    "channel": "phone",
+    "value": "+421486451111",
+    "status": "valid_format",
+    "source_url": "https://www.zelpo.eu/general-contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/monika-lupt%C3%A1kov%C3%A1-856713383",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/monika-lupt%C3%A1kov%C3%A1-856713383"
+  }
+]

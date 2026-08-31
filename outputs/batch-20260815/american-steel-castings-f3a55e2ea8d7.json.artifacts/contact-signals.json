@@ -1,0 +1,93 @@
+[
+  {
+    "channel": "email",
+    "value": "sales@americansteelcastings.com",
+    "status": "observed",
+    "source_url": "https://www.americansteelcastings.com/capabilities",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@americansteelcastings.com",
+    "status": "observed",
+    "source_url": "https://www.americansteelcastings.com/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@americansteelcastings.com",
+    "status": "observed",
+    "source_url": "https://www.americansteelcastings.com/certifications-memberships",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@americansteelcastings.com",
+    "status": "observed",
+    "source_url": "https://americansteelcastings.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@americansteelcastings.com",
+    "status": "observed",
+    "source_url": "https://www.americansteelcastings.com/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@americansteelcastings.com",
+    "status": "observed",
+    "source_url": "https://www.americansteelcastings.com/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hr@americansteelcastings.com",
+    "status": "observed",
+    "source_url": "https://www.americansteelcastings.com/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ar@americansteelcastings.com",
+    "status": "observed",
+    "source_url": "https://www.americansteelcastings.com/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ap@americansteelcastings.com",
+    "status": "observed",
+    "source_url": "https://www.americansteelcastings.com/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@americansteelcastings.com",
+    "status": "observed",
+    "source_url": "https://www.americansteelcastings.com/industries",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@americansteelcastings.com",
+    "status": "observed",
+    "source_url": "https://www.americansteelcastings.com/request-a-quote",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@americansteelcastings.com",
+    "status": "observed",
+    "source_url": "https://www.americansteelcastings.com/jobs",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@americansteelcastings.com",
+    "status": "observed",
+    "source_url": "https://www.americansteelcastings.com/why-asc",
+    "company_public": true
+  }
+]

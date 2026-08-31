@@ -1,0 +1,43 @@
+[
+  {
+    "channel": "email",
+    "value": "info@riflex.com",
+    "status": "observed",
+    "source_url": "https://riflex.com/contact-us/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@riflex.com",
+    "status": "observed",
+    "source_url": "https://riflex.com/privacy-policy/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+12244227575",
+    "status": "valid_format",
+    "source_url": "https://www.importyeti.com/supplier/ri-flex-abrasives-s-r-l",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18009256278",
+    "status": "valid_format",
+    "source_url": "https://www.importyeti.com/supplier/ri-flex-abrasives-s-r-l",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18553741199",
+    "status": "valid_format",
+    "source_url": "https://www.importgenius.com/suppliers/ri-flex-abrasives-s-r-l",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

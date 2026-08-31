@@ -1,0 +1,26 @@
+[
+  {
+    "url": "http://www.apexgroup.eu/wp-content/uploads/2023/05/CORPEX-core_Technology.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.apexgroup.eu/wp-content/uploads/2023/05/APEX-Delfino_Technology.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.apexgroup.eu/wp-content/uploads/2023/05/APEX-Delfino_Flow-Conditioner.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  }
+]

@@ -1,0 +1,57 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://fr.openprocurements.com/supplier/fusium/                                                     | ✓ | ⏱: 2.14s 
+[SCRAPE].. ◆ https://fr.openprocurements.com/supplier/fusium/                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://fr.openprocurements.com/supplier/fusium/                                                     | ✓ | ⏱: 3.28s 
+[FETCH]... ↓ https://fusium.ca/en/career/                                                                         | ✓ | ⏱: 3.46s 
+[SCRAPE].. ◆ https://fusium.ca/en/career/                                                                         | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://fusium.ca/en/career/                                                                         | ✓ | ⏱: 5.50s 
+[FETCH]... ↓ https://fusium.ca/en/                                                                                | ✓ | ⏱: 3.59s 
+[SCRAPE].. ◆ https://fusium.ca/en/                                                                                | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://fusium.ca/en/                                                                                | ✓ | ⏱: 5.63s 
+[FETCH]... ↓ https://www.fusium.com                                                                               | ✓ | ⏱: 1.40s 
+[SCRAPE].. ◆ https://www.fusium.com                                                                               | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.fusium.com                                                                               | ✓ | ⏱: 2.74s 
+[FETCH]... ↓ https://www.fusium.com/contact                                                                       | ✓ | ⏱: 0.56s 
+[SCRAPE].. ◆ https://www.fusium.com/contact                                                                       | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.fusium.com/contact                                                                       | ✓ | ⏱: 1.34s 
+[FETCH]... ↓ https://www.fusium.com/about                                                                         | ✓ | ⏱: 0.90s 
+[SCRAPE].. ◆ https://www.fusium.com/about                                                                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.fusium.com/about                                                                         | ✓ | ⏱: 1.69s 
+[FETCH]... ↓ https://www.fusium.com/developers                                                                    | ✓ | ⏱: 0.58s 
+[SCRAPE].. ◆ https://www.fusium.com/developers                                                                    | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.fusium.com/developers                                                                    | ✓ | ⏱: 1.32s 
+[FETCH]... ↓ https://www.fusium.com/ftc-disclosure                                                                | ✓ | ⏱: 0.40s 
+[SCRAPE].. ◆ https://www.fusium.com/ftc-disclosure                                                                | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.fusium.com/ftc-disclosure                                                                | ✓ | ⏱: 1.17s 
+[FETCH]... ↓ https://www.fusium.com/privacy                                                                       | ✓ | ⏱: 0.60s 
+[SCRAPE].. ◆ https://www.fusium.com/privacy                                                                       | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.fusium.com/privacy                                                                       | ✓ | ⏱: 1.35s 
+[ANTIBOT]. ℹ https://fusium.com                                 | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_TIMED_OUT at https://fusium.com/
+Call log:
+  - navigating to "https://fusium.com/", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://fusium.com                                 | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_TIMED_OUT at https://fusium.com/
+Call log:
+  - navigating to "https://fusium.com/", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/fusium-7c3909a74d78.json

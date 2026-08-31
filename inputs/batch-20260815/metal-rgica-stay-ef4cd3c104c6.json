@@ -1,0 +1,66 @@
+{
+  "name": "Metalúrgica Stay",
+  "website": "http://www.fundstay.com.br",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "005ba66f-6d30-4517-95a2-c09cab3cba21",
+  "crm_linkedin_url": "http://www.linkedin.com/company/industria-metalurgica",
+  "crm_country": "巴西",
+  "crm_updated_at": "2026-07-29T06:42:11.583198+00:00",
+  "crm_contact_count": 3,
+  "crm_contacts": [
+    {
+      "name": " Rogério Barbosa Xavier",
+      "email": "stayhope@gmail.com",
+      "additional_emails": [
+        "stayhope@hotmail.com"
+      ],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/rogério-barbosa-xavier-065a872b",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "fundstay@fundstay.com.br",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Edivan Ghizzi ghizzi",
+      "email": "edivan.ghizzi@zensa.com.br",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/edivan-ghizzi-ghizzi-b6165836/",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T02:44:58.703250+00:00",
+  "source": "twenty_postgresql_read_only"
+}

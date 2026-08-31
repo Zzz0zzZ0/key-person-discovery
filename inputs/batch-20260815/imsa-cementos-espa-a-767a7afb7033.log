@@ -1,0 +1,61 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://cimsacementos.es/contacto/                                                                   | ✓ | ⏱: 2.38s 
+[SCRAPE].. ◆ https://cimsacementos.es/contacto/                                                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://cimsacementos.es/contacto/                                                                   | ✓ | ⏱: 4.43s 
+[FETCH]... ↓ https://cimsacementos.es/empresa/sobrecimsa/                                                         | ✓ | ⏱: 2.41s 
+[SCRAPE].. ◆ https://cimsacementos.es/empresa/sobrecimsa/                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://cimsacementos.es/empresa/sobrecimsa/                                                         | ✓ | ⏱: 4.45s 
+[FETCH]... ↓ https://cimsacementos.es                                                                             | ✓ | ⏱: 2.66s 
+[SCRAPE].. ◆ https://cimsacementos.es                                                                             | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://cimsacementos.es                                                                             | ✓ | ⏱: 4.70s 
+[FETCH]... ↓ https://cimsacementos.es/condiciones-de-uso/                                                         | ✓ | ⏱: 3.80s 
+[SCRAPE].. ◆ https://cimsacementos.es/condiciones-de-uso/                                                         | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://cimsacementos.es/condiciones-de-uso/                                                         | ✓ | ⏱: 5.85s 
+[FETCH]... ↓ https://cimsacementos.es/wp-content/uploads/2023/09/LEADERSHIP.png.webp                              | ✓ | ⏱: 0.55s 
+[SCRAPE].. ◆ https://cimsacementos.es/wp-content/uploads/2023/09/LEADERSHIP.png.webp                              | ✓ | ⏱: 0.00s 
+[ERROR]... × https://cimsacementos.e.../09/LEADERSHIP.png.webp  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (485 bytes, 0 chars visible) 
+[COMPLETE] ● https://cimsacementos.es/wp-content/uploads/2023/09/LEADERSHIP.png.webp                              | ✗ | ⏱: 2.56s 
+[FETCH]... ↓ https://cimsacementos.es/recursos-humanos/                                                           | ✓ | ⏱: 2.10s 
+[SCRAPE].. ◆ https://cimsacementos.es/recursos-humanos/                                                           | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://cimsacementos.es/recursos-humanos/                                                           | ✓ | ⏱: 4.13s 
+[FETCH]... ↓ https://cimsacementos.es/wp-content/uploads/2024/01/cimsa-cementos-team.png                          | ✓ | ⏱: 2.42s 
+[SCRAPE].. ◆ https://cimsacementos.es/wp-content/uploads/2024/01/cimsa-cementos-team.png                          | ✓ | ⏱: 0.00s 
+[ERROR]... × https://cimsacementos.e...cimsa-cementos-team.png  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (513 bytes, 0 chars visible) 
+[COMPLETE] ● https://cimsacementos.es/wp-content/uploads/2024/01/cimsa-cementos-team.png                          | ✗ | ⏱: 4.43s 
+[FETCH]... ↓ https://leadiq.com/c/çimsa/5a1d8ac0240000240064e3b5/employee-directory                               | ✓ | ⏱: 1.94s 
+[SCRAPE].. ◆ https://leadiq.com/c/çimsa/5a1d8ac0240000240064e3b5/employee-directory                               | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://leadiq.com/c/çimsa/5a1d8ac0240000240064e3b5/employee-directory                               | ✓ | ⏱: 1.97s 
+[FETCH]... ↓ https://cn.panjiva.com/Cimsa-Cementos-Espana-S-A-U/178681704                                         | ✓ | ⏱: 3.09s 
+[SCRAPE].. ◆ https://cn.panjiva.com/Cimsa-Cementos-Espana-S-A-U/178681704                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://cn.panjiva.com/Cimsa-Cementos-Espana-S-A-U/178681704                                         | ✓ | ⏱: 4.06s 
+[FETCH]... ↓ https://cincodias.elpais.com/directorio-empresas/empresa/498981/cimsa-cementos-espana                | ✓ | ⏱: 4.10s 
+[SCRAPE].. ◆ https://cincodias.elpais.com/directorio-empresas/empresa/498981/cimsa-cementos-espana                | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://cincodias.elpais.com/directorio-empresas/empresa/498981/cimsa-cementos-espana                | ✓ | ⏱: 6.13s 
+[FETCH]... ↓ https://empresite.eleconomista.es/CIMSA-CEMENTOS-ESPANA.html                                         | ✓ | ⏱: 4.44s 
+[SCRAPE].. ◆ https://empresite.eleconomista.es/CIMSA-CEMENTOS-ESPANA.html                                         | ✓ | ⏱: 0.00s 
+[ERROR]... × https://empresite.eleco...SA-CEMENTOS-ESPANA.html  | Error: Blocked by anti-bot protection: HTTP 429 Too Many Requests 
+[COMPLETE] ● https://empresite.eleconomista.es/CIMSA-CEMENTOS-ESPANA.html                                         | ✗ | ⏱: 4.45s 
+[FETCH]... ↓ https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau                                      | ✓ | ⏱: 2.28s 
+[SCRAPE].. ◆ https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau                                      | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau                                      | ✓ | ⏱: 2.48s 
+[FETCH]... ↓ https://www.empresia.es/empresa/cimsa-cementos-espana/                                               | ✓ | ⏱: 2.50s 
+[SCRAPE].. ◆ https://www.empresia.es/empresa/cimsa-cementos-espana/                                               | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.empresia.es/empresa/cimsa-cementos-espana/                                               | ✓ | ⏱: 3.66s 
+[FETCH]... ↓ https://www.einforma.com/informacion-empresa/cimsa-cementos-espana                                   | ✓ | ⏱: 5.55s 
+[SCRAPE].. ◆ https://www.einforma.com/informacion-empresa/cimsa-cementos-espana                                   | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.einforma.com/informacion-empresa/cimsa-cementos-espana                                   | ✓ | ⏱: 7.28s 
+[FETCH]... ↓ https://www.infoempresa.com/en-in/es/company/cimsa-cementos-espana-sa                                | ✓ | ⏱: 3.56s 
+[SCRAPE].. ◆ https://www.infoempresa.com/en-in/es/company/cimsa-cementos-espana-sa                                | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.infoempresa.com/en-in/es/company/cimsa-cementos-espana-sa                                | ✓ | ⏱: 5.13s 
+[FETCH]... ↓ https://www.concretonline.com/cementos/la-cement...nal-espanola-de-fabricantes-de-cemento-oficemen/  | ✓ | ⏱: 22.06s 
+[SCRAPE].. ◆ https://www.concretonline.com/cementos/la-cement...nal-espanola-de-fabricantes-de-cemento-oficemen/  | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.concretonline.com/cementos/la-cement...nal-espanola-de-fabricantes-de-cemento-oficemen/  | ✓ | ⏱: 23.74s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://cimsacementos.es/wp-content/themes/yootheme/cache/c3/LEADERSHIP.png-c35c2a61.webp            | ✓ | ⏱: 1.82s 
+[SCRAPE].. ◆ https://cimsacementos.es/wp-content/themes/yootheme/cache/c3/LEADERSHIP.png-c35c2a61.webp            | ✓ | ⏱: 0.00s 
+[ERROR]... × https://cimsacementos.e...RSHIP.png-c35c2a61.webp  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (512 bytes, 0 chars visible) 
+[COMPLETE] ● https://cimsacementos.es/wp-content/themes/yootheme/cache/c3/LEADERSHIP.png-c35c2a61.webp            | ✗ | ⏱: 3.84s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/imsa-cementos-espa-a-767a7afb7033.json

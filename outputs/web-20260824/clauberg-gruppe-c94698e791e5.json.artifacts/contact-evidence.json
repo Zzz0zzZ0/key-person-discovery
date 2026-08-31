@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://clauberg-schleifmittel.de/kontakt/?lang=en",
+    "markdown": "Contact – Dorfner Schleifmittelwerk GmbH\ninfo@clauberg-gruppe.de. Fields marked with an * are required. Name *. Company *. Email * ... info@clauberg-gruppe.de · +49 202 373 28 – 0 · +49 202 373 28 – 100.",
+    "error": "",
+    "provider": "anysearch",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  },
+  {
+    "url": "https://clauberg-schleifmittel.de/kontakt/",
+    "markdown": "Kontakt - Clauberg Schleifmittel\nKontakt Lauterjung & Tesche Schleifmittelfabrik GmbH Clauberg Schleifmittelfabrik GmbH Industriestraße 40 42327 Wuppertal Deutschland Tel.: +49 (0)202 – 51 41 76 – 0 Fax: +49 (0)202 – 51 41 76 – 10 info@clauberg-gruppe.de Name * Firma * E-Mail *",
+    "error": "",
+    "provider": "searxng",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  }
+]

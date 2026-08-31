@@ -1,0 +1,109 @@
+{
+  "company_name": "GE Patterns & Foundry",
+  "candidates": [
+    {
+      "full_name": "Christopher Lee Robins",
+      "current_title": "Metallurgist / Director",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 9,
+      "linkedin": [
+        {
+          "value": "https://linkedin.com/in/christopher-lee-robins-854a799a",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/christopher-lee-robins-854a799a"
+        },
+        {
+          "value": "https://linkedin.com/in/christopher-robins-6468a5b9",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/christopher-robins-6468a5b9"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/christopher-lee-robins-854a799a",
+          "quote": "Metallurgist/Director at GE Patterns & Foundry cc",
+          "supports": "current role at exact target company"
+        },
+        {
+          "source_url": "https://linkedin.com/in/christopher-robins-6468a5b9",
+          "quote": "Managing Director at GE Patterns & Foundry",
+          "supports": "current role at exact target company"
+        },
+        {
+          "source_url": "https://gepatterns.co.za",
+          "quote": "Founded over 30 years ago by Mr. GE Robins... under the leadership of CL Robins",
+          "supports": "CL Robins leads the company"
+        },
+        {
+          "source_url": "https://gepatterns.co.za/Pages/About-Us.asp",
+          "quote": "Today, under the leadership of CL Robins, we continue to uphold the values of precision, reliability, and customer satisfaction.",
+          "supports": "CL Robins is current leader"
+        },
+        {
+          "source_url": "https://gepatterns.co.za/Pages/Leading-Manufacturing-Steel-Company.asp",
+          "quote": "Founded by G.E. Robins and now under the leadership of C.L. Robins",
+          "supports": "C.L. Robins is current leadership"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "whatsapp",
+      "value": "+27716961177",
+      "status": "verified",
+      "source_url": "https://gepatterns.co.za/Pages/Contact-Us.asp",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+27716961177",
+      "status": "valid_format",
+      "source_url": "https://gepatterns.co.za/Pages/Contact-Us.asp",
+      "whatsapp_status": "verified",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sales@gepatterns.co.za",
+      "status": "observed",
+      "source_url": "https://gepatterns.co.za/Pages/About-Us.asp",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 32,
+    "search_engine_warnings": 2,
+    "urls_crawled": 10,
+    "crawl_failures": 3,
+    "contact_signals": 17,
+    "official_urls_discovered": 4,
+    "pdf_documents_discovered": 1,
+    "pdf_documents_processed": 1,
+    "pdf_documents_extracted": 1,
+    "pdf_pages_extracted": 1,
+    "pdf_failures": 0,
+    "search_evidence_pages": 2,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 3,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

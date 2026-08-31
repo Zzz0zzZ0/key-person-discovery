@@ -1,0 +1,132 @@
+{
+  "company_name": "ECOACERO (Grupo Estrella)",
+  "candidates": [
+    {
+      "full_name": "Pedro Estrella Tavares",
+      "current_title": "CEO",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://rdteve.com/nacionales/economia-nacionales/inauguracion-ecoacero-san-pedro-de-macoris/",
+          "quote": "Pedro Estrella Tavares, CEO de EcoAcero, explicó que las instalaciones están equipadas con tecnología de última generación",
+          "supports": "CEO of EcoAcero"
+        },
+        {
+          "source_url": "https://www.wire-tradefair.com/en/Media_News/News/Archive_Industry-News/Ecoacero_strengthens_its_position_in_Central_America_SMS_group_builds_rebar_mill",
+          "quote": "from left: Pedro Estrella, Director of Ecoacero",
+          "supports": "Director of EcoAcero"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Manuel Estrella",
+      "current_title": "Presidente del Consejo de Administración",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://rdteve.com/nacionales/economia-nacionales/inauguracion-ecoacero-san-pedro-de-macoris/",
+          "quote": "el ingeniero Manuel Estrella, presidente del consejo de administración del grupo",
+          "supports": "President of the board of directors of Grupo Estrella, inaugurated EcoAcero"
+        }
+      ],
+      "confidence": 0.9,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "comunicaciones@estrella.com.do",
+      "status": "observed",
+      "source_url": "https://aceroestrella.com.do",
+      "company_public": true
+    },
+    {
+      "channel": "whatsapp",
+      "value": "+18097965412",
+      "status": "verified",
+      "source_url": "https://aceroestrella.com.do",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+18097965412",
+      "status": "valid_format",
+      "source_url": "https://aceroestrella.com.do",
+      "whatsapp_status": "verified",
+      "company_public": true
+    },
+    {
+      "channel": "whatsapp",
+      "value": "+18097961326",
+      "status": "verified",
+      "source_url": "https://aceroestrella.com.do",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+18097961326",
+      "status": "valid_format",
+      "source_url": "https://aceroestrella.com.do",
+      "whatsapp_status": "verified",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 36,
+    "search_engine_warnings": 6,
+    "urls_crawled": 6,
+    "crawl_failures": 0,
+    "contact_signals": 7,
+    "official_urls_discovered": 1,
+    "crm_website": "https://aceroestrella.com.do",
+    "official_website": "https://aceroestrella.com.do",
+    "website_recovered": false,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 3,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

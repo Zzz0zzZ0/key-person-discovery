@@ -1,0 +1,130 @@
+{
+  "company_name": "Ardakan Industrial Ceramics",
+  "candidates": [
+    {
+      "full_name": "Asqar Borhani",
+      "current_title": "Managing Director, AIC Holding",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 9,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://ana.ir/en/news/3418/iranian-nanotechnology-company-makes-different-catalysts-silicate-based-ceramics",
+          "quote": "Asqar Borhani, the managing director of the AIC holding, said that the AIC was founded 29 years ago with the aim of producing industrial alumina and silicate-based ceramics",
+          "supports": "Managing Director of AIC holding; AIC includes Ardakan Industrial Ceramics as parent company"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info@ind-ceramics.com",
+      "status": "observed",
+      "source_url": "https://iranindustrial.com/en/details/10235",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "d.m@iranindustrial.com",
+      "status": "observed",
+      "source_url": "https://iranindustrial.com/en/details/10235",
+      "company_public": true
+    },
+    {
+      "channel": "whatsapp",
+      "value": "+918910106540",
+      "status": "verified",
+      "source_url": "https://www.alcircle.com/directory/bauxite/detail/60465/ardakan-industrial-ceramics-solutions",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+918910106540",
+      "status": "valid_format",
+      "source_url": "https://www.alcircle.com/directory/bauxite/detail/60465/ardakan-industrial-ceramics-solutions",
+      "whatsapp_status": "verified",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "validation_rejections": [
+    {
+      "full_name": "Ruhollah Nasiri",
+      "reasons": [
+        "evidence URL was not fetched",
+        "linkedin source URL was not fetched"
+      ]
+    },
+    {
+      "full_name": "Alex Afshar",
+      "reasons": [
+        "evidence URL was not fetched",
+        "linkedin source URL was not fetched"
+      ]
+    },
+    {
+      "full_name": "mrmojtaba z",
+      "reasons": [
+        "evidence URL was not fetched",
+        "linkedin source URL was not fetched"
+      ]
+    },
+    {
+      "full_name": "Sepideh Yaghoob Aly",
+      "reasons": [
+        "evidence URL was not fetched",
+        "linkedin source URL was not fetched"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 7,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 30,
+    "search_engine_warnings": 1,
+    "urls_crawled": 12,
+    "crawl_failures": 3,
+    "contact_signals": 9,
+    "official_urls_discovered": 1,
+    "crm_website": "http://www.aic.ir",
+    "official_website": "http://www.aic.ir",
+    "website_recovered": false,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 4,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 4,
+    "unverified_candidates": 0,
+    "crm_contact_count": 6,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 1,
+    "contactable_items": 3,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

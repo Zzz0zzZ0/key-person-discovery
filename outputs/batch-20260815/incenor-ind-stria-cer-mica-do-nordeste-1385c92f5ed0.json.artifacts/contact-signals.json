@@ -1,0 +1,51 @@
+[
+  {
+    "channel": "email",
+    "value": "sac@incenor.com.br",
+    "status": "observed",
+    "source_url": "https://www.incenor.com.br"
+  },
+  {
+    "channel": "phone",
+    "value": "+557121049300",
+    "status": "valid_format",
+    "source_url": "https://www.incenor.com.br",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "michael.chen@innovatex.com",
+    "status": "observed",
+    "source_url": "https://www.marketinsidedata.com/en/company/incenor-industria-ceramica/ac21cb648f5e57233f7e23bf0023f620",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/michaelchen",
+    "status": "observed",
+    "source_url": "https://www.marketinsidedata.com/en/company/incenor-industria-ceramica/ac21cb648f5e57233f7e23bf0023f620",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/example",
+    "status": "observed",
+    "source_url": "https://www.marketinsidedata.com/en/company/incenor-industria-ceramica/ac21cb648f5e57233f7e23bf0023f620",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sac@incenor.com.br",
+    "status": "observed",
+    "source_url": "https://www.incenor.com.br/contato/duvidas_frequentes"
+  },
+  {
+    "channel": "phone",
+    "value": "+557121049300",
+    "status": "valid_format",
+    "source_url": "https://www.incenor.com.br/contato/duvidas_frequentes",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "channel": "email",
+    "value": "comunicaciones@estrella.com.do",
+    "status": "observed",
+    "source_url": "https://aceroestrella.com.do",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+18097965412",
+    "status": "verified",
+    "source_url": "https://aceroestrella.com.do",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18097965412",
+    "status": "valid_format",
+    "source_url": "https://aceroestrella.com.do",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+18097961326",
+    "status": "verified",
+    "source_url": "https://aceroestrella.com.do",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18097961326",
+    "status": "valid_format",
+    "source_url": "https://aceroestrella.com.do",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comunicaciones@estrella.com.do",
+    "status": "observed",
+    "source_url": "https://estrella.com.do/empresas/ecoacero/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49211456001",
+    "status": "valid_format",
+    "source_url": "https://www.wire-tradefair.com/en/Media_News/News/Archive_Industry-News/Ecoacero_strengthens_its_position_in_Central_America_SMS_group_builds_rebar_mill",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

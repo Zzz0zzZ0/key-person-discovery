@@ -1,0 +1,60 @@
+{
+  "company_name": "Fuchino Porcelain Raw Material LTD.",
+  "candidates": [
+    {
+      "full_name": "Naoyuki Fuchino",
+      "current_title": "CEO",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://porcelain.work/com_gaiyo/",
+          "quote": "有限会社 渕野陶磁器原料　代表取締役　渕野直幸. CEO Naoyuki Fuchino",
+          "supports": "Named CEO of Fuchino Porcelain Raw Material LTD. with photo and Japanese title 代表取締役"
+        },
+        {
+          "source_url": "https://porcelain.work/com_gaiyo/",
+          "quote": "TEL：+81 0954-66-420",
+          "supports": "Company phone directly associated with Naoyuki Fuchino as company address/contact"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 36,
+    "search_engine_warnings": 0,
+    "urls_crawled": 30,
+    "crawl_failures": 24,
+    "contact_signals": 0,
+    "official_urls_discovered": 2,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 1,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

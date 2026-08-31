@@ -1,0 +1,92 @@
+{
+  "company_name": "ООО \"ТД ППК Промлитмаш\"",
+  "candidates": [
+    {
+      "full_name": "Кочетов Ефим Игоревич",
+      "current_title": "Генеральный директор",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+79044424220",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://xn--80apidcigiw6d.xn--p1ai"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://xn--80apidcigiw6d.xn--p1ai/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b/",
+          "quote": "Генеральный директор на основании Устава | Кочетов Ефим Игоревич",
+          "supports": "Кочетов Ефим Игоревич listed as Генеральный директор (General Director) on the official contacts page"
+        },
+        {
+          "source_url": "https://xn--80apidcigiw6d.xn--p1ai",
+          "quote": "тел.(моб) 8 904 442 42 20 - Генеральный директор Кочетов Ефим Игоревич",
+          "supports": "Mobile phone +79044424220 explicitly labelled as the General Director's direct line"
+        }
+      ],
+      "confidence": 0.55,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "ppk-plm@yandex.ru",
+      "status": "observed",
+      "source_url": "https://xn--80apidcigiw6d.xn--p1ai/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+78632565263",
+      "status": "valid_format",
+      "source_url": "https://xn--80apidcigiw6d.xn--p1ai/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 40,
+    "search_engine_warnings": 1,
+    "urls_crawled": 7,
+    "crawl_failures": 0,
+    "contact_signals": 22,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 1,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 4,
+    "contactable_items": 3,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

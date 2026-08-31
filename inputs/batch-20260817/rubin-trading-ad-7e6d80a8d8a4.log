@@ -1,0 +1,42 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rubin-glass.eu                                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://rubin-glass.eu                                                                               | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://rubin-glass.eu/contact-us/                                                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://rubin-glass.eu/contact-us/                                                                   | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://rubin-glass.eu/antoaneta-vasileva/                                                           | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://rubin-glass.eu/antoaneta-vasileva/                                                           | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://rubin-glass.eu/about-rubin/                                                                  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://rubin-glass.eu/about-rubin/                                                                  | ✓ | ⏱: 0.03s 
+[FETCH]... ↓ https://rubin-glass.eu/news/                                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://rubin-glass.eu/news/                                                                         | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://rubin-glass.eu/new-investment/                                                               | ✓ | ⏱: 3.79s 
+[SCRAPE].. ◆ https://rubin-glass.eu/new-investment/                                                               | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://rubin-glass.eu/new-investment/                                                               | ✓ | ⏱: 3.83s 
+[FETCH]... ↓ https://rubin-glass.eu/history/                                                                      | ✓ | ⏱: 4.11s 
+[SCRAPE].. ◆ https://rubin-glass.eu/history/                                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://rubin-glass.eu/history/                                                                      | ✓ | ⏱: 4.16s 
+[FETCH]... ↓ https://rubin-glass.eu/product/bottle-james-webb-1000ml-sp-pp31-5eh-fl/                              | ✓ | ⏱: 3.85s 
+[SCRAPE].. ◆ https://rubin-glass.eu/product/bottle-james-webb-1000ml-sp-pp31-5eh-fl/                              | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://rubin-glass.eu/product/bottle-james-webb-1000ml-sp-pp31-5eh-fl/                              | ✓ | ⏱: 3.90s 
+[FETCH]... ↓ https://rubin-glass.eu/terms-and-condition                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://rubin-glass.eu/terms-and-condition                                                           | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://rubin-glass.eu/product/jar-kora-161ml-to58deep-fl/                                           | ✓ | ⏱: 3.85s 
+[SCRAPE].. ◆ https://rubin-glass.eu/product/jar-kora-161ml-to58deep-fl/                                           | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://rubin-glass.eu/product/jar-kora-161ml-to58deep-fl/                                           | ✓ | ⏱: 3.90s 
+[FETCH]... ↓ https://rubin-glass.eu/wp-content/uploads/2022/02/1_management_policy-1.jpg                          | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://rubin-glass.eu/wp-content/uploads/2022/02/1_management_policy-1.jpg                          | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://rubin-glass.eu/sustainability/                                                               | ✓ | ⏱: 1.51s 
+[SCRAPE].. ◆ https://rubin-glass.eu/sustainability/                                                               | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://rubin-glass.eu/sustainability/                                                               | ✓ | ⏱: 1.54s 
+[INIT].... → Crawl4AI 0.9.2 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rubin-glass.eu/about-rubin/mailtoe.gigova@rubin-glass.bg                                     | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://rubin-glass.eu/about-rubin/mailtoe.gigova@rubin-glass.bg                                     | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://rubin-glass.eu/contact-us/mailtoe.gigova@rubin-glass.bg                                      | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://rubin-glass.eu/contact-us/mailtoe.gigova@rubin-glass.bg                                      | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://rubin-glass.eu/category/news/                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://rubin-glass.eu/category/news/                                                                | ✓ | ⏱: 0.01s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260817/rubin-trading-ad-7e6d80a8d8a4.json

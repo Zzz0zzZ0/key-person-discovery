@@ -1,0 +1,88 @@
+[
+  {
+    "channel": "email",
+    "value": "sales@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "gpsda@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "webmaster@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "khuphuka@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451000",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "bridget.vonholdt@bcw-global.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/statement-samancor-chrome-limited/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27826100650",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/statement-samancor-chrome-limited/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27114808680",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/statement-samancor-chrome-limited/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451000",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2020/04/SamancorCSR.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/farhana-rahaman-9b3b61a",
+    "status": "probable",
+    "source_url": "https://za.linkedin.com/in/farhana-rahaman-9b3b61a"
+  },
+  {
+    "channel": "phone",
+    "value": "+27132307000",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/corporate-headquarters/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

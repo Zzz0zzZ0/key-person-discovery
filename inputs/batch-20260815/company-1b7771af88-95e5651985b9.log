@@ -1,0 +1,21 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.nzf.com.ua/En/Default.aspx?id=10&sect=production                                         | ✓ | ⏱: 2.95s 
+[SCRAPE].. ◆ https://www.nzf.com.ua/En/Default.aspx?id=10&sect=production                                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.nzf.com.ua/En/Default.aspx?id=10&sect=production                                         | ✓ | ⏱: 3.99s 
+[FETCH]... ↓ https://www.nzf.com.ua/Default.aspx?sect=contact                                                     | ✓ | ⏱: 3.05s 
+[SCRAPE].. ◆ https://www.nzf.com.ua/Default.aspx?sect=contact                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.nzf.com.ua/Default.aspx?sect=contact                                                     | ✓ | ⏱: 4.09s 
+[FETCH]... ↓ https://www.nzf.com.ua                                                                               | ✓ | ⏱: 4.19s 
+[SCRAPE].. ◆ https://www.nzf.com.ua                                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.nzf.com.ua                                                                               | ✓ | ⏱: 5.22s 
+[FETCH]... ↓ https://www.nzf.com.ua/En/Default.aspx?id=15&sect=production                                         | ✓ | ⏱: 2.70s 
+[SCRAPE].. ◆ https://www.nzf.com.ua/En/Default.aspx?id=15&sect=production                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.nzf.com.ua/En/Default.aspx?id=15&sect=production                                         | ✓ | ⏱: 2.72s 
+[FETCH]... ↓ http://nzf.com.ua/                                                                                   | ✓ | ⏱: 37.42s 
+[SCRAPE].. ◆ http://nzf.com.ua/                                                                                   | ✓ | ⏱: 0.00s 
+[ERROR]... × http://nzf.com.ua/                                 | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (39 bytes, 0 chars visible) 
+[COMPLETE] ● http://nzf.com.ua/                                                                                   | ✗ | ⏱: 39.43s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/company-1b7771af88-95e5651985b9.json

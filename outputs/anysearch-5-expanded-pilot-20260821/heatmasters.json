@@ -1,0 +1,252 @@
+{
+  "company_name": "Heatmasters",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+358400956879",
+      "status": "valid_format",
+      "source_url": "https://heatmasters.net/pt-pt/contact-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+358207571343",
+      "status": "valid_format",
+      "source_url": "https://heatmasters.net/pt-pt/contact-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+48515555010",
+      "status": "valid_format",
+      "source_url": "https://heatmasters.net/pt-pt/contact-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+37256245607",
+      "status": "valid_format",
+      "source_url": "https://heatmasters.net/pt-pt/contact-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "invoice23162686@kollektor.fi",
+      "status": "observed",
+      "source_url": "https://heatmasters.net/pt-pt/contact-us/heatmasters.net/how-to-invoice-heatmasters/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "customercare@heatmasters.net",
+      "status": "observed",
+      "source_url": "https://heatmasters.net/pt-pt/contact-us/heatmasters.net/how-to-invoice-heatmasters/",
+      "company_public": true,
+      "verification_status": "company_source"
+    }
+  ],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Lasse Laakso",
+      "current_title": "Industrial Supervisor",
+      "company_match": "probable",
+      "influence_type": "technical_influencer",
+      "influence_score": 3,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/lasse-laakso-a2b434169",
+          "status": "probable",
+          "source_url": "https://fi.linkedin.com/in/lasse-laakso-a2b434169"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://fi.linkedin.com/in/lasse-laakso-a2b434169",
+          "quote": "Lasse Laakso - Current position at Heatmasters Oy | LinkedIn. Current position at Heatmasters Oy · Industrial supervisor with over 14 years of hands-on experience in welding, assembly, and both traditional and laser",
+          "supports": "Current role at Heatmasters Oy as industrial supervisor with hands-on experience in welding and assembly"
+        }
+      ],
+      "confidence": 0.4,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ],
+      "discovery_tier": "unverified"
+    },
+    {
+      "full_name": "Ilkka Mujunen",
+      "current_title": "",
+      "company_match": "uncertain",
+      "discovery_tier": "unverified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/mujunenilkka",
+          "status": "probable",
+          "source_url": "https://fi.linkedin.com/in/mujunenilkka"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://fi.linkedin.com/in/mujunenilkka",
+          "quote": "Ilkka Mujunen - Heat treatment wherever you are: Heatmasters Heat treatment wherever you are: Heatmasters - the Wizards of Metal · Heatmasters ... purchasing, assembly, financial controlling, and after sales support.",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.35,
+      "review_required": true,
+      "validation_reasons": [
+        "target-company association is visible but current employment is unverified",
+        "contact ownership is not verified"
+      ]
+    },
+    {
+      "full_name": "Tim Dowd",
+      "current_title": "Project Manager",
+      "company_match": "probable",
+      "discovery_tier": "unverified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/tim-dowd26",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/tim-dowd26"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/tim-dowd26",
+          "quote": "Tim Dowd - Project Manager at Heatmasters - LinkedIn Project Manager at Heatmasters · Experience: Heatmasters Mechanical · Education: Northern Illinois University · Location: Greater Chicago Area · 500+ ...",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true,
+      "validation_reasons": [
+        "search summary requires independent current-employment verification",
+        "contact ownership is not verified"
+      ]
+    }
+  ],
+  "validation_rejections": [
+    {
+      "full_name": "Lasse Laakso",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 6,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 7,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 90,
+    "search_engine_warnings": 13,
+    "urls_crawled": 20,
+    "crawl_failures": 2,
+    "contact_signals": 34,
+    "official_urls_discovered": 20,
+    "crm_website": "https://heatmasters.net",
+    "official_website": "https://heatmasters.net",
+    "website_recovered": false,
+    "pdf_documents_discovered": 6,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 3,
+    "pdf_pages_extracted": 25,
+    "pdf_failures": 0,
+    "search_evidence_pages": 6,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 1,
+    "unverified_candidates": 3,
+    "crm_contact_count": 15,
+    "crm_duplicates_removed": 6,
+    "target_contactable_items": 1,
+    "contactable_items": 9,
+    "target_contact_methods": 1,
+    "contact_methods": 9,
+    "contact_target_met": true,
+    "broad_discovery": true,
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

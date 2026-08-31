@@ -1,0 +1,22 @@
+[
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/yong-li-siew-589902116",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/yong-li-siew-589902116"
+  },
+  {
+    "channel": "email",
+    "value": "powerinsulation@gmail.com",
+    "status": "probable",
+    "source_url": "https://powerinsulationengineering.com/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "piesbpenang@gmail.com",
+    "status": "probable",
+    "source_url": "https://powerinsulationengineering.com/contact-us/",
+    "company_public": true
+  }
+]

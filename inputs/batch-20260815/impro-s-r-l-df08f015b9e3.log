@@ -1,0 +1,24 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://improsrl.com.ar/contacto/cursor/                                                             | ✓ | ⏱: 2.65s 
+[SCRAPE].. ◆ https://improsrl.com.ar/contacto/cursor/                                                             | ✓ | ⏱: 0.00s 
+[ERROR]... × https://improsrl.com.ar/contacto/cursor/           | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (151 bytes, 0 chars visible) 
+[COMPLETE] ● https://improsrl.com.ar/contacto/cursor/                                                             | ✗ | ⏱: 4.67s 
+[FETCH]... ↓ https://improsrl.com.ar/empresa/                                                                     | ✓ | ⏱: 5.24s 
+[SCRAPE].. ◆ https://improsrl.com.ar/empresa/                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://improsrl.com.ar/empresa/                                                                     | ✓ | ⏱: 7.27s 
+[FETCH]... ↓ https://improsrl.com.ar/contacto/                                                                    | ✓ | ⏱: 5.26s 
+[SCRAPE].. ◆ https://improsrl.com.ar/contacto/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://improsrl.com.ar/contacto/                                                                    | ✓ | ⏱: 7.28s 
+[FETCH]... ↓ https://improsrl.com.ar                                                                              | ✓ | ⏱: 5.65s 
+[SCRAPE].. ◆ https://improsrl.com.ar                                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://improsrl.com.ar                                                                              | ✓ | ⏱: 7.67s 
+[FETCH]... ↓ https://improsrl.com.ar/productos/                                                                   | ✓ | ⏱: 2.03s 
+[SCRAPE].. ◆ https://improsrl.com.ar/productos/                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://improsrl.com.ar/productos/                                                                   | ✓ | ⏱: 4.06s 
+[FETCH]... ↓ https://improsrl.com.ar/projects/                                                                    | ✓ | ⏱: 1.13s 
+[SCRAPE].. ◆ https://improsrl.com.ar/projects/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://improsrl.com.ar/projects/                                                                    | ✓ | ⏱: 3.15s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/impro-s-r-l-df08f015b9e3.json

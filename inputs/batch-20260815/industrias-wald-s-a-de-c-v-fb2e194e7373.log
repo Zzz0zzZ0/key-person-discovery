@@ -1,0 +1,49 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://wald.com.mx/contact/                                                                         | ✓ | ⏱: 4.70s 
+[SCRAPE].. ◆ https://wald.com.mx/contact/                                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://wald.com.mx/contact/                                                                         | ✓ | ⏱: 6.09s 
+[FETCH]... ↓ https://wald.com.mx/about/                                                                           | ✓ | ⏱: 4.67s 
+[SCRAPE].. ◆ https://wald.com.mx/about/                                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://wald.com.mx/about/                                                                           | ✓ | ⏱: 6.11s 
+[FETCH]... ↓ https://wald.com.mx/bomba-caja-bipartida-series-3092/                                                | ✓ | ⏱: 4.60s 
+[SCRAPE].. ◆ https://wald.com.mx/bomba-caja-bipartida-series-3092/                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://wald.com.mx/bomba-caja-bipartida-series-3092/                                                | ✓ | ⏱: 6.14s 
+[FETCH]... ↓ https://wald.com.mx                                                                                  | ✓ | ⏱: 4.70s 
+[SCRAPE].. ◆ https://wald.com.mx                                                                                  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://wald.com.mx                                                                                  | ✓ | ⏱: 6.48s 
+[FETCH]... ↓ https://wald.com.mx/en/contact-us/                                                                   | ✓ | ⏱: 1.31s 
+[SCRAPE].. ◆ https://wald.com.mx/en/contact-us/                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://wald.com.mx/en/contact-us/                                                                   | ✓ | ⏱: 1.34s 
+[FETCH]... ↓ https://wald.com.mx/en/lobe-gear-pump-series-duro/                                                   | ✓ | ⏱: 1.49s 
+[SCRAPE].. ◆ https://wald.com.mx/en/lobe-gear-pump-series-duro/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://wald.com.mx/en/lobe-gear-pump-series-duro/                                                   | ✓ | ⏱: 1.51s 
+[FETCH]... ↓ https://wald.com.mx/en/liquid-ring-vacuum-pump-series-wcl/                                           | ✓ | ⏱: 1.65s 
+[SCRAPE].. ◆ https://wald.com.mx/en/liquid-ring-vacuum-pump-series-wcl/                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://wald.com.mx/en/liquid-ring-vacuum-pump-series-wcl/                                           | ✓ | ⏱: 1.68s 
+[FETCH]... ↓ https://wald.com.mx/en                                                                               | ✓ | ⏱: 2.12s 
+[SCRAPE].. ◆ https://wald.com.mx/en                                                                               | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://wald.com.mx/en                                                                               | ✓ | ⏱: 2.16s 
+[FETCH]... ↓ https://wald.com.mx/explosionproof/                                                                  | ✓ | ⏱: 1.11s 
+[SCRAPE].. ◆ https://wald.com.mx/explosionproof/                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://wald.com.mx/explosionproof/                                                                  | ✓ | ⏱: 1.13s 
+[FETCH]... ↓ https://wald.com.mx/en/maintenance-2/                                                                | ✓ | ⏱: 1.47s 
+[SCRAPE].. ◆ https://wald.com.mx/en/maintenance-2/                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://wald.com.mx/en/maintenance-2/                                                                | ✓ | ⏱: 1.50s 
+[FETCH]... ↓ https://wald.com.mx/formulario-contacto/                                                             | ✓ | ⏱: 0.91s 
+[SCRAPE].. ◆ https://wald.com.mx/formulario-contacto/                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://wald.com.mx/formulario-contacto/                                                             | ✓ | ⏱: 0.92s 
+[FETCH]... ↓ https://wald.com.mx/en/manuals-2/                                                                    | ✓ | ⏱: 1.18s 
+[SCRAPE].. ◆ https://wald.com.mx/en/manuals-2/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://wald.com.mx/en/manuals-2/                                                                    | ✓ | ⏱: 1.21s 
+[FETCH]... ↓ https://wald.com.mx/motores/                                                                         | ✓ | ⏱: 1.75s 
+[SCRAPE].. ◆ https://wald.com.mx/motores/                                                                         | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://wald.com.mx/motores/                                                                         | ✓ | ⏱: 1.78s 
+[FETCH]... ↓ https://wald.com.mx/productos/                                                                       | ✓ | ⏱: 1.63s 
+[SCRAPE].. ◆ https://wald.com.mx/productos/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://wald.com.mx/productos/                                                                       | ✓ | ⏱: 1.66s 
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/industrias-wald-s-a-de-c-v-fb2e194e7373.json

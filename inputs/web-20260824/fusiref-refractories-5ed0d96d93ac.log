@@ -1,0 +1,58 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rocketreach.co/fusiref-refractories-sa-email-format_b792249cc2213eab                         | ✓ | ⏱: 0.59s 
+[SCRAPE].. ◆ https://rocketreach.co/fusiref-refractories-sa-email-format_b792249cc2213eab                         | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...format_b792249cc2213eab  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/fusiref-refractories-sa-email-format_b792249cc2213eab                         | ✗ | ⏱: 1.30s 
+[FETCH]... ↓ https://www.fusiref.com/en/contact                                                                   | ✓ | ⏱: 2.20s 
+[SCRAPE].. ◆ https://www.fusiref.com/en/contact                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.fusiref.com/en/contact                                                                   | ✓ | ⏱: 3.05s 
+[FETCH]... ↓ https://www.fusiref.com/en/news                                                                      | ✓ | ⏱: 1.91s 
+[SCRAPE].. ◆ https://www.fusiref.com/en/news                                                                      | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.fusiref.com/en/news                                                                      | ✓ | ⏱: 2.75s 
+[FETCH]... ↓ https://www.fusiref.com/en                                                                           | ✓ | ⏱: 2.32s 
+[SCRAPE].. ◆ https://www.fusiref.com/en                                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.fusiref.com/en                                                                           | ✓ | ⏱: 3.34s 
+[FETCH]... ↓ https://www.fusiref.com                                                                              | ✓ | ⏱: 2.54s 
+[SCRAPE].. ◆ https://www.fusiref.com                                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.fusiref.com                                                                              | ✓ | ⏱: 4.08s 
+[FETCH]... ↓ https://www.fusiref.com/en/our-resources                                                             | ✓ | ⏱: 0.58s 
+[SCRAPE].. ◆ https://www.fusiref.com/en/our-resources                                                             | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.fusiref.com/en/our-resources                                                             | ✓ | ⏱: 0.61s 
+[FETCH]... ↓ https://www.fusiref.com/fr/contact                                                                   | ✓ | ⏱: 0.63s 
+[SCRAPE].. ◆ https://www.fusiref.com/fr/contact                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.fusiref.com/fr/contact                                                                   | ✓ | ⏱: 0.64s 
+[FETCH]... ↓ https://www.fusiref.com/nl/contact                                                                   | ✓ | ⏱: 0.80s 
+[SCRAPE].. ◆ https://www.fusiref.com/nl/contact                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.fusiref.com/nl/contact                                                                   | ✓ | ⏱: 0.82s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rocketreach.co/fusiref-refractories-sa-email-format_b792249cc2213eab                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://rocketreach.co/fusiref-refractories-sa-email-format_b792249cc2213eab                         | ✓ | ⏱: 0.00s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.fusiref.com/uploads/news/id23/nominee.jpg                                                | ✓ | ⏱: 1.08s 
+[SCRAPE].. ◆ https://www.fusiref.com/uploads/news/id23/nominee.jpg                                                | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.fusiref.com...s/news/id23/nominee.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (459 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.fusiref.com/uploads/news/id23/nominee.jpg                                                | ✗ | ⏱: 1.09s 
+[FETCH]... ↓ https://www.fusiref.com/uploads/news/id23/trends.jpg                                                 | ✓ | ⏱: 0.48s 
+[SCRAPE].. ◆ https://www.fusiref.com/uploads/news/id23/trends.jpg                                                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.fusiref.com...ds/news/id23/trends.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (457 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.fusiref.com/uploads/news/id23/trends.jpg                                                 | ✗ | ⏱: 0.48s 
+[FETCH]... ↓ https://www.fusiref.com/fr/formulaire-de-contact                                                     | ✓ | ⏱: 1.57s 
+[SCRAPE].. ◆ https://www.fusiref.com/fr/formulaire-de-contact                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.fusiref.com/fr/formulaire-de-contact                                                     | ✓ | ⏱: 1.60s 
+[FETCH]... ↓ https://www.fusiref.com/en/contact-form                                                              | ✓ | ⏱: 1.99s 
+[SCRAPE].. ◆ https://www.fusiref.com/en/contact-form                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.fusiref.com/en/contact-form                                                              | ✓ | ⏱: 2.01s 
+[FETCH]... ↓ https://www.fusiref.com/nl/contactformulier                                                          | ✓ | ⏱: 1.61s 
+[SCRAPE].. ◆ https://www.fusiref.com/nl/contactformulier                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.fusiref.com/nl/contactformulier                                                          | ✓ | ⏱: 1.63s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.fusiref.com/uploads/news/id23/nominee.jpg                                                | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.fusiref.com/uploads/news/id23/nominee.jpg                                                | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://www.fusiref.com/uploads/news/id23/trends.jpg                                                 | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.fusiref.com/uploads/news/id23/trends.jpg                                                 | ✓ | ⏱: 0.01s 
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260824/fusiref-refractories-5ed0d96d93ac.json

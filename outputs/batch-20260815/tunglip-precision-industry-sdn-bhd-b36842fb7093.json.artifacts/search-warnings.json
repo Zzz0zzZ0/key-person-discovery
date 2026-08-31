@@ -1,0 +1,14 @@
+[
+  {
+    "query": "https://tunglip.com.my",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://tunglip.com.my/wp-sitemap.xml: undefined entity: line 19, column 0"
+  },
+  {
+    "query": "https://tunglip.com.my",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://tunglip.com.my/sitemap.xml: undefined entity: line 19, column 0"
+  }
+]

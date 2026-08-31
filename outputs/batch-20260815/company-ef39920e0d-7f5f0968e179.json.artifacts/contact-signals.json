@@ -1,0 +1,2321 @@
+[
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "a.aponenko@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "v.potapov@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "buh@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ok@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "omts@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "uskp@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "s.vostrikov@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "energy@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79371886381",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79276993594",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79379806225",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/alyuminiy-kharakteristiki-gde-ispolzuyut-vidy-sposoby-polucheniya/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/alyuminiy-kharakteristiki-gde-ispolzuyut-vidy-sposoby-polucheniya/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/alyuminiy-kharakteristiki-gde-ispolzuyut-vidy-sposoby-polucheniya/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/alyuminiy-kharakteristiki-gde-ispolzuyut-vidy-sposoby-polucheniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/alyuminiy-kharakteristiki-gde-ispolzuyut-vidy-sposoby-polucheniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/alyuminiy-kharakteristiki-gde-ispolzuyut-vidy-sposoby-polucheniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/alyuminiy-kharakteristiki-gde-ispolzuyut-vidy-sposoby-polucheniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/alyuminiy-kharakteristiki-gde-ispolzuyut-vidy-sposoby-polucheniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/alyuminiy-kharakteristiki-gde-ispolzuyut-vidy-sposoby-polucheniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/alyuminiy-kharakteristiki-gde-ispolzuyut-vidy-sposoby-polucheniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/austenitnye-stali-polnyy-obzor-klassa-i-marok/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/austenitnye-stali-polnyy-obzor-klassa-i-marok/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/austenitnye-stali-polnyy-obzor-klassa-i-marok/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/austenitnye-stali-polnyy-obzor-klassa-i-marok/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/austenitnye-stali-polnyy-obzor-klassa-i-marok/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/austenitnye-stali-polnyy-obzor-klassa-i-marok/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/austenitnye-stali-polnyy-obzor-klassa-i-marok/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/austenitnye-stali-polnyy-obzor-klassa-i-marok/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/austenitnye-stali-polnyy-obzor-klassa-i-marok/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/austenitnye-stali-polnyy-obzor-klassa-i-marok/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/blagorodnye-metally-ot-proiskhozhdeniya-do-ispolzovaniya/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/blagorodnye-metally-ot-proiskhozhdeniya-do-ispolzovaniya/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/blagorodnye-metally-ot-proiskhozhdeniya-do-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/blagorodnye-metally-ot-proiskhozhdeniya-do-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/blagorodnye-metally-ot-proiskhozhdeniya-do-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/blagorodnye-metally-ot-proiskhozhdeniya-do-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/blagorodnye-metally-ot-proiskhozhdeniya-do-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/blagorodnye-metally-ot-proiskhozhdeniya-do-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/bystrorezhushchaya-stal-svoystva-markirovka-i-oblasti-ispolzovaniya/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/bystrorezhushchaya-stal-svoystva-markirovka-i-oblasti-ispolzovaniya/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/bystrorezhushchaya-stal-svoystva-markirovka-i-oblasti-ispolzovaniya/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/bystrorezhushchaya-stal-svoystva-markirovka-i-oblasti-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/bystrorezhushchaya-stal-svoystva-markirovka-i-oblasti-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/bystrorezhushchaya-stal-svoystva-markirovka-i-oblasti-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/bystrorezhushchaya-stal-svoystva-markirovka-i-oblasti-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/bystrorezhushchaya-stal-svoystva-markirovka-i-oblasti-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/bystrorezhushchaya-stal-svoystva-markirovka-i-oblasti-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/bystrorezhushchaya-stal-svoystva-markirovka-i-oblasti-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/chem-i-kak-sverlit-nerzhaveyku-instrumenty-rezhimy-sovety/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/chem-i-kak-sverlit-nerzhaveyku-instrumenty-rezhimy-sovety/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chem-i-kak-sverlit-nerzhaveyku-instrumenty-rezhimy-sovety/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chem-i-kak-sverlit-nerzhaveyku-instrumenty-rezhimy-sovety/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chem-i-kak-sverlit-nerzhaveyku-instrumenty-rezhimy-sovety/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chem-i-kak-sverlit-nerzhaveyku-instrumenty-rezhimy-sovety/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chem-i-kak-sverlit-nerzhaveyku-instrumenty-rezhimy-sovety/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chem-i-kak-sverlit-nerzhaveyku-instrumenty-rezhimy-sovety/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/chertezhi-detaley-tipy-trebovaniya-i-uslovnye-oboznacheniya/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/chertezhi-detaley-tipy-trebovaniya-i-uslovnye-oboznacheniya/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/chertezhi-detaley-tipy-trebovaniya-i-uslovnye-oboznacheniya/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chertezhi-detaley-tipy-trebovaniya-i-uslovnye-oboznacheniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chertezhi-detaley-tipy-trebovaniya-i-uslovnye-oboznacheniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chertezhi-detaley-tipy-trebovaniya-i-uslovnye-oboznacheniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chertezhi-detaley-tipy-trebovaniya-i-uslovnye-oboznacheniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chertezhi-detaley-tipy-trebovaniya-i-uslovnye-oboznacheniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chertezhi-detaley-tipy-trebovaniya-i-uslovnye-oboznacheniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chertezhi-detaley-tipy-trebovaniya-i-uslovnye-oboznacheniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/chto-takoe-otlivki/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/chto-takoe-otlivki/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/chto-takoe-otlivki/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chto-takoe-otlivki/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chto-takoe-otlivki/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chto-takoe-otlivki/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chto-takoe-otlivki/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chto-takoe-otlivki/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chto-takoe-otlivki/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/chto-takoe-otlivki/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/detalizatsiya-i-sistematizatsiya-marok-staley/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/detalizatsiya-i-sistematizatsiya-marok-staley/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/detalizatsiya-i-sistematizatsiya-marok-staley/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/detalizatsiya-i-sistematizatsiya-marok-staley/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/detalizatsiya-i-sistematizatsiya-marok-staley/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/detalizatsiya-i-sistematizatsiya-marok-staley/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/detalizatsiya-i-sistematizatsiya-marok-staley/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/detalizatsiya-i-sistematizatsiya-marok-staley/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/detalizatsiya-i-sistematizatsiya-marok-staley/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/detalizatsiya-i-sistematizatsiya-marok-staley/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/dlya-chego-nuzhno-legirovanie-stali/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/dlya-chego-nuzhno-legirovanie-stali/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/dlya-chego-nuzhno-legirovanie-stali/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/dlya-chego-nuzhno-legirovanie-stali/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/dlya-chego-nuzhno-legirovanie-stali/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/dlya-chego-nuzhno-legirovanie-stali/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/dlya-chego-nuzhno-legirovanie-stali/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/dlya-chego-nuzhno-legirovanie-stali/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/dlya-chego-nuzhno-legirovanie-stali/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/dlya-chego-nuzhno-legirovanie-stali/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/elektroprovodnost-metallov-chto-eto-primenenie-v-promyshlennosti-i-zavisimost-ot-razlichnykh-faktoro/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/elektroprovodnost-metallov-chto-eto-primenenie-v-promyshlennosti-i-zavisimost-ot-razlichnykh-faktoro/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/elektroprovodnost-metallov-chto-eto-primenenie-v-promyshlennosti-i-zavisimost-ot-razlichnykh-faktoro/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/elektroprovodnost-metallov-chto-eto-primenenie-v-promyshlennosti-i-zavisimost-ot-razlichnykh-faktoro/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/elektroprovodnost-metallov-chto-eto-primenenie-v-promyshlennosti-i-zavisimost-ot-razlichnykh-faktoro/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/elektroprovodnost-metallov-chto-eto-primenenie-v-promyshlennosti-i-zavisimost-ot-razlichnykh-faktoro/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/elektroprovodnost-metallov-chto-eto-primenenie-v-promyshlennosti-i-zavisimost-ot-razlichnykh-faktoro/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/elektroprovodnost-metallov-chto-eto-primenenie-v-promyshlennosti-i-zavisimost-ot-razlichnykh-faktoro/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/elektroprovodnost-metallov-chto-eto-primenenie-v-promyshlennosti-i-zavisimost-ot-razlichnykh-faktoro/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/elektroprovodnost-metallov-chto-eto-primenenie-v-promyshlennosti-i-zavisimost-ot-razlichnykh-faktoro/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/fosfatirovanie-metalla-tekhnologiya-i-klyuchevye-osobennosti/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/fosfatirovanie-metalla-tekhnologiya-i-klyuchevye-osobennosti/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/fosfatirovanie-metalla-tekhnologiya-i-klyuchevye-osobennosti/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/fosfatirovanie-metalla-tekhnologiya-i-klyuchevye-osobennosti/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/fosfatirovanie-metalla-tekhnologiya-i-klyuchevye-osobennosti/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/fosfatirovanie-metalla-tekhnologiya-i-klyuchevye-osobennosti/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/fosfatirovanie-metalla-tekhnologiya-i-klyuchevye-osobennosti/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/fosfatirovanie-metalla-tekhnologiya-i-klyuchevye-osobennosti/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/gde-primenyaetsya-chugun-svoystva-sostav-i-vidy/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/gde-primenyaetsya-chugun-svoystva-sostav-i-vidy/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/gde-primenyaetsya-chugun-svoystva-sostav-i-vidy/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/gde-primenyaetsya-chugun-svoystva-sostav-i-vidy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/gde-primenyaetsya-chugun-svoystva-sostav-i-vidy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/gde-primenyaetsya-chugun-svoystva-sostav-i-vidy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/gde-primenyaetsya-chugun-svoystva-sostav-i-vidy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/gde-primenyaetsya-chugun-svoystva-sostav-i-vidy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/gde-primenyaetsya-chugun-svoystva-sostav-i-vidy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/gde-primenyaetsya-chugun-svoystva-sostav-i-vidy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-effektivno-udalit-staruyu-krasku-s-metalla/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-effektivno-udalit-staruyu-krasku-s-metalla/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-effektivno-udalit-staruyu-krasku-s-metalla/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-effektivno-udalit-staruyu-krasku-s-metalla/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-effektivno-udalit-staruyu-krasku-s-metalla/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-effektivno-udalit-staruyu-krasku-s-metalla/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-effektivno-udalit-staruyu-krasku-s-metalla/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-effektivno-udalit-staruyu-krasku-s-metalla/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-sdelat-mangal-svoimi-rukami/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-sdelat-mangal-svoimi-rukami/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-sdelat-mangal-svoimi-rukami/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-sdelat-mangal-svoimi-rukami/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-sdelat-mangal-svoimi-rukami/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-sdelat-mangal-svoimi-rukami/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-sdelat-mangal-svoimi-rukami/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-sdelat-mangal-svoimi-rukami/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-sdelat-mangal-svoimi-rukami/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kak-sdelat-mangal-svoimi-rukami/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/khromistaya-stal-klassifikatsiya-i-kharakteristiki/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/khromistaya-stal-klassifikatsiya-i-kharakteristiki/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/khromistaya-stal-klassifikatsiya-i-kharakteristiki/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/khromistaya-stal-klassifikatsiya-i-kharakteristiki/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/khromistaya-stal-klassifikatsiya-i-kharakteristiki/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/khromistaya-stal-klassifikatsiya-i-kharakteristiki/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/khromistaya-stal-klassifikatsiya-i-kharakteristiki/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/khromistaya-stal-klassifikatsiya-i-kharakteristiki/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/khromistaya-stal-klassifikatsiya-i-kharakteristiki/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/khromistaya-stal-klassifikatsiya-i-kharakteristiki/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/korroziya-metallicheskikh-izdeliy-prichiny-vidy-i-metody-zashchity/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/korroziya-metallicheskikh-izdeliy-prichiny-vidy-i-metody-zashchity/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/korroziya-metallicheskikh-izdeliy-prichiny-vidy-i-metody-zashchity/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/korroziya-metallicheskikh-izdeliy-prichiny-vidy-i-metody-zashchity/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/korroziya-metallicheskikh-izdeliy-prichiny-vidy-i-metody-zashchity/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/korroziya-metallicheskikh-izdeliy-prichiny-vidy-i-metody-zashchity/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/korroziya-metallicheskikh-izdeliy-prichiny-vidy-i-metody-zashchity/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/korroziya-metallicheskikh-izdeliy-prichiny-vidy-i-metody-zashchity/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/kratkiy-spravochnik-po-legiruyushchim-elementam-i-primesyam-v-stalyakh/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/kratkiy-spravochnik-po-legiruyushchim-elementam-i-primesyam-v-stalyakh/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/kratkiy-spravochnik-po-legiruyushchim-elementam-i-primesyam-v-stalyakh/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kratkiy-spravochnik-po-legiruyushchim-elementam-i-primesyam-v-stalyakh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kratkiy-spravochnik-po-legiruyushchim-elementam-i-primesyam-v-stalyakh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kratkiy-spravochnik-po-legiruyushchim-elementam-i-primesyam-v-stalyakh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kratkiy-spravochnik-po-legiruyushchim-elementam-i-primesyam-v-stalyakh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kratkiy-spravochnik-po-legiruyushchim-elementam-i-primesyam-v-stalyakh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kratkiy-spravochnik-po-legiruyushchim-elementam-i-primesyam-v-stalyakh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/kratkiy-spravochnik-po-legiruyushchim-elementam-i-primesyam-v-stalyakh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-pod-davleniem-tekhnologicheskie-aspekty-i-oblasti-primeneniya/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-pod-davleniem-tekhnologicheskie-aspekty-i-oblasti-primeneniya/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-pod-davleniem-tekhnologicheskie-aspekty-i-oblasti-primeneniya/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-pod-davleniem-tekhnologicheskie-aspekty-i-oblasti-primeneniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-pod-davleniem-tekhnologicheskie-aspekty-i-oblasti-primeneniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-pod-davleniem-tekhnologicheskie-aspekty-i-oblasti-primeneniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-pod-davleniem-tekhnologicheskie-aspekty-i-oblasti-primeneniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-pod-davleniem-tekhnologicheskie-aspekty-i-oblasti-primeneniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-pod-davleniem-tekhnologicheskie-aspekty-i-oblasti-primeneniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-pod-davleniem-tekhnologicheskie-aspekty-i-oblasti-primeneniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-v-peschanye-formy-tekhnologii-i-produktsiya/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-v-peschanye-formy-tekhnologii-i-produktsiya/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-v-peschanye-formy-tekhnologii-i-produktsiya/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-v-peschanye-formy-tekhnologii-i-produktsiya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-v-peschanye-formy-tekhnologii-i-produktsiya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-v-peschanye-formy-tekhnologii-i-produktsiya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-v-peschanye-formy-tekhnologii-i-produktsiya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-v-peschanye-formy-tekhnologii-i-produktsiya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-v-peschanye-formy-tekhnologii-i-produktsiya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/lite-v-peschanye-formy-tekhnologii-i-produktsiya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/litevaya-forma-osnovy-i-protsessy/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/litevaya-forma-osnovy-i-protsessy/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/litevaya-forma-osnovy-i-protsessy/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/litevaya-forma-osnovy-i-protsessy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/litevaya-forma-osnovy-i-protsessy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/litevaya-forma-osnovy-i-protsessy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/litevaya-forma-osnovy-i-protsessy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/litevaya-forma-osnovy-i-protsessy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/litevaya-forma-osnovy-i-protsessy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/litevaya-forma-osnovy-i-protsessy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/liteynye-defekty-v-otlivkakh/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/liteynye-defekty-v-otlivkakh/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/liteynye-defekty-v-otlivkakh/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/liteynye-defekty-v-otlivkakh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/liteynye-defekty-v-otlivkakh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/liteynye-defekty-v-otlivkakh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/liteynye-defekty-v-otlivkakh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/liteynye-defekty-v-otlivkakh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/liteynye-defekty-v-otlivkakh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/liteynye-defekty-v-otlivkakh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskie-fermy-tipy-i-oblasti-ispolzovaniya/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskie-fermy-tipy-i-oblasti-ispolzovaniya/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskie-fermy-tipy-i-oblasti-ispolzovaniya/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskie-fermy-tipy-i-oblasti-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskie-fermy-tipy-i-oblasti-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskie-fermy-tipy-i-oblasti-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskie-fermy-tipy-i-oblasti-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskie-fermy-tipy-i-oblasti-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskie-fermy-tipy-i-oblasti-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskie-fermy-tipy-i-oblasti-ispolzovaniya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskiy-karkas-zdaniya-tipy-konstruktivnye-osobennosti-i-montazh/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskiy-karkas-zdaniya-tipy-konstruktivnye-osobennosti-i-montazh/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskiy-karkas-zdaniya-tipy-konstruktivnye-osobennosti-i-montazh/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskiy-karkas-zdaniya-tipy-konstruktivnye-osobennosti-i-montazh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskiy-karkas-zdaniya-tipy-konstruktivnye-osobennosti-i-montazh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskiy-karkas-zdaniya-tipy-konstruktivnye-osobennosti-i-montazh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskiy-karkas-zdaniya-tipy-konstruktivnye-osobennosti-i-montazh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskiy-karkas-zdaniya-tipy-konstruktivnye-osobennosti-i-montazh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskiy-karkas-zdaniya-tipy-konstruktivnye-osobennosti-i-montazh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/blog/metallicheskiy-karkas-zdaniya-tipy-konstruktivnye-osobennosti-i-montazh/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/partners/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/partners/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/partners/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/partners/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/partners/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/partners/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/partners/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/partners/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/licenses/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/licenses/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/licenses/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/licenses/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/licenses/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/licenses/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/licenses/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/licenses/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/index.php"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/index.php"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/index.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/index.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/index.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/index.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/index.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/index.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/staff/"
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/staff/"
+  },
+  {
+    "channel": "email",
+    "value": "a.aponenko@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/staff/"
+  },
+  {
+    "channel": "email",
+    "value": "v.potapov@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/staff/"
+  },
+  {
+    "channel": "email",
+    "value": "buh@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/staff/"
+  },
+  {
+    "channel": "email",
+    "value": "ok@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/staff/"
+  },
+  {
+    "channel": "email",
+    "value": "omts@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/staff/"
+  },
+  {
+    "channel": "email",
+    "value": "uskp@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/staff/"
+  },
+  {
+    "channel": "email",
+    "value": "ogmet@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/staff/"
+  },
+  {
+    "channel": "email",
+    "value": "s.vostrikov@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/staff/"
+  },
+  {
+    "channel": "email",
+    "value": "energy@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/staff/"
+  },
+  {
+    "channel": "email",
+    "value": "vl.pentan@gmail.com",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/staff/"
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/staff/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/staff/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/staff/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/staff/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/staff/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/staff/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79371886381",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/staff/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79934705045",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/staff/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79276993594",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/staff/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+79379806225",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/staff/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "probable",
+    "source_url": "https://www.soezgroup.ru/contacts",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "probable",
+    "source_url": "https://www.soezgroup.ru/contacts",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/contacts",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/contacts",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/contacts",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/contacts",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/contacts",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/contacts",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

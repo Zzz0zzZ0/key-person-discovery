@@ -1,0 +1,54 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rocketreach.co/thomas-wilmes-email_46890155                                                  | ✓ | ⏱: 0.47s 
+[SCRAPE].. ◆ https://rocketreach.co/thomas-wilmes-email_46890155                                                  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...s-wilmes-email_46890155  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/thomas-wilmes-email_46890155                                                  | ✗ | ⏱: 1.16s 
+[FETCH]... ↓ https://www.ekw-refractories.com/en/about-us/brochures/                                              | ✓ | ⏱: 1.34s 
+[SCRAPE].. ◆ https://www.ekw-refractories.com/en/about-us/brochures/                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ekw-refractories.com/en/about-us/brochures/                                              | ✓ | ⏱: 3.13s 
+[FETCH]... ↓ https://www.ekw-refractories.com                                                                     | ✓ | ⏱: 2.29s 
+[SCRAPE].. ◆ https://www.ekw-refractories.com                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ekw-refractories.com                                                                     | ✓ | ⏱: 4.31s 
+[FETCH]... ↓ https://www.ekw-refractories.com/en/about-us/awards/                                                 | ✓ | ⏱: 1.57s 
+[SCRAPE].. ◆ https://www.ekw-refractories.com/en/about-us/awards/                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ekw-refractories.com/en/about-us/awards/                                                 | ✓ | ⏱: 3.59s 
+[FETCH]... ↓ https://www.ekw-refractories.com/en/                                                                 | ✓ | ⏱: 2.15s 
+[SCRAPE].. ◆ https://www.ekw-refractories.com/en/                                                                 | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.ekw-refractories.com/en/                                                                 | ✓ | ⏱: 4.16s 
+[FETCH]... ↓ https://www.ekw-refractories.com/en/about-us/company/                                                | ✓ | ⏱: 0.49s 
+[SCRAPE].. ◆ https://www.ekw-refractories.com/en/about-us/company/                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ekw-refractories.com/en/about-us/company/                                                | ✓ | ⏱: 0.51s 
+[FETCH]... ↓ https://www.ekw-refractories.com/en/about-us/research-development/                                   | ✓ | ⏱: 0.59s 
+[SCRAPE].. ◆ https://www.ekw-refractories.com/en/about-us/research-development/                                   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.ekw-refractories.com/en/about-us/research-development/                                   | ✓ | ⏱: 0.61s 
+[FETCH]... ↓ https://www.ekw-refractories.com/en/career/job-advertisement/                                        | ✓ | ⏱: 0.60s 
+[SCRAPE].. ◆ https://www.ekw-refractories.com/en/career/job-advertisement/                                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.ekw-refractories.com/en/career/job-advertisement/                                        | ✓ | ⏱: 0.62s 
+[FETCH]... ↓ https://www.ekw-refractories.com/en/contact/contact-persons/                                         | ✓ | ⏱: 0.48s 
+[SCRAPE].. ◆ https://www.ekw-refractories.com/en/contact/contact-persons/                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ekw-refractories.com/en/contact/contact-persons/                                         | ✓ | ⏱: 0.50s 
+[FETCH]... ↓ https://www.ekw-refractories.com/en/about-us/locations/                                              | ✓ | ⏱: 0.80s 
+[SCRAPE].. ◆ https://www.ekw-refractories.com/en/about-us/locations/                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ekw-refractories.com/en/about-us/locations/                                              | ✓ | ⏱: 0.82s 
+[FETCH]... ↓ https://www.ekw-refractories.com/en/contact/contact-us/                                              | ✓ | ⏱: 0.72s 
+[SCRAPE].. ◆ https://www.ekw-refractories.com/en/contact/contact-us/                                              | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.ekw-refractories.com/en/contact/contact-us/                                              | ✓ | ⏱: 0.73s 
+[FETCH]... ↓ https://www.ekw-refractories.com/en/news/                                                            | ✓ | ⏱: 0.49s 
+[SCRAPE].. ◆ https://www.ekw-refractories.com/en/news/                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.ekw-refractories.com/en/news/                                                            | ✓ | ⏱: 0.51s 
+[FETCH]... ↓ https://www.ekw-refractories.com/en/contact/ekw-refractories/                                        | ✓ | ⏱: 0.68s 
+[SCRAPE].. ◆ https://www.ekw-refractories.com/en/contact/ekw-refractories/                                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.ekw-refractories.com/en/contact/ekw-refractories/                                        | ✓ | ⏱: 0.69s 
+[FETCH]... ↓ https://www.zoominfo.com/c/ekw-gmbh/368429498                                                        | ✓ | ⏱: 0.56s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/ekw-gmbh/368429498                                                        | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.com/c/ekw-gmbh/368429498      | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.zoominfo.com/c/ekw-gmbh/368429498                                                        | ✗ | ⏱: 1.19s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rocketreach.co/thomas-wilmes-email_46890155                                                  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://rocketreach.co/thomas-wilmes-email_46890155                                                  | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://www.zoominfo.com/c/ekw-gmbh/368429498                                                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.zoominfo.com/c/ekw-gmbh/368429498                                                        | ✓ | ⏱: 0.00s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260824/ekw-gmbh-5a8fd4e875fb.json

@@ -1,0 +1,52 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://aeroleads.com/c/ri---flex-abrasives-s.r.l.                                                   | ✓ | ⏱: 3.63s 
+[SCRAPE].. ◆ https://aeroleads.com/c/ri---flex-abrasives-s.r.l.                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://aeroleads.com/c/ri---flex-abrasives-s.r.l.                                                   | ✓ | ⏱: 3.66s 
+[FETCH]... ↓ https://lei.bloomberg.com/leis/view/8156009C30F627B7CB93                                             | ✓ | ⏱: 2.60s 
+[SCRAPE].. ◆ https://lei.bloomberg.com/leis/view/8156009C30F627B7CB93                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://lei.bloomberg.com/leis/view/8156009C30F627B7CB93                                             | ✓ | ⏱: 4.63s 
+[FETCH]... ↓ https://riflex.com/?lang=en                                                                          | ✓ | ⏱: 3.71s 
+[SCRAPE].. ◆ https://riflex.com/?lang=en                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://riflex.com/?lang=en                                                                          | ✓ | ⏱: 4.53s 
+[FETCH]... ↓ https://riflex.com/author/riflex-admin/?lang=en                                                      | ✓ | ⏱: 2.19s 
+[SCRAPE].. ◆ https://riflex.com/author/riflex-admin/?lang=en                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://riflex.com/author/riflex-admin/?lang=en                                                      | ✓ | ⏱: 2.21s 
+[FETCH]... ↓ https://riflex.com/category/support-nylon/?lang=en                                                   | ✓ | ⏱: 1.37s 
+[SCRAPE].. ◆ https://riflex.com/category/support-nylon/?lang=en                                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://riflex.com/category/support-nylon/?lang=en                                                   | ✓ | ⏱: 1.40s 
+[FETCH]... ↓ https://riflex.com/category/news/                                                                    | ✓ | ⏱: 4.14s 
+[SCRAPE].. ◆ https://riflex.com/category/news/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://riflex.com/category/news/                                                                    | ✓ | ⏱: 4.15s 
+[FETCH]... ↓ https://riflex.com                                                                                   | ✓ | ⏱: 7.50s 
+[SCRAPE].. ◆ https://riflex.com                                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://riflex.com                                                                                   | ✓ | ⏱: 8.79s 
+[FETCH]... ↓ https://riflex.com/contact-us/?lang=en                                                               | ✓ | ⏱: 3.33s 
+[SCRAPE].. ◆ https://riflex.com/contact-us/?lang=en                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://riflex.com/contact-us/?lang=en                                                               | ✓ | ⏱: 3.35s 
+[FETCH]... ↓ https://riflex.com/contatti/                                                                         | ✓ | ⏱: 2.41s 
+[SCRAPE].. ◆ https://riflex.com/contatti/                                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://riflex.com/contatti/                                                                         | ✓ | ⏱: 2.43s 
+[FETCH]... ↓ https://riflex.com/privacy-policy/?lang=en                                                           | ✓ | ⏱: 1.61s 
+[SCRAPE].. ◆ https://riflex.com/privacy-policy/?lang=en                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://riflex.com/privacy-policy/?lang=en                                                           | ✓ | ⏱: 1.62s 
+[FETCH]... ↓ https://www.importyeti.com/supplier/ri-flex-abrasives-s-r-l                                          | ✓ | ⏱: 1.51s 
+[SCRAPE].. ◆ https://www.importyeti.com/supplier/ri-flex-abrasives-s-r-l                                          | ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.importyeti.com/supplier/ri-flex-abrasives-s-r-l                                          | ✓ | ⏱: 2.17s 
+[FETCH]... ↓ https://www.importgenius.com/suppliers/ri-flex-abrasives-s-r-l                                       | ✓ | ⏱: 3.05s 
+[SCRAPE].. ◆ https://www.importgenius.com/suppliers/ri-flex-abrasives-s-r-l                                       | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.importgenius.com/suppliers/ri-flex-abrasives-s-r-l                                       | ✓ | ⏱: 3.09s 
+[FETCH]... ↓ https://www.tendata.com/en/buyer/ri-flex-abrasives-s-r-l-ITAIe4ae63d7d4aefb269f7dc50c1927639a.html   | ✓ | ⏱: 3.35s 
+[SCRAPE].. ◆ https://www.tendata.com/en/buyer/ri-flex-abrasives-s-r-l-ITAIe4ae63d7d4aefb269f7dc50c1927639a.html   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.tendata.com/en/buyer/ri-flex-abrasives-s-r-l-ITAIe4ae63d7d4aefb269f7dc50c1927639a.html   | ✓ | ⏱: 3.38s 
+[FETCH]... ↓ https://www.fatturatoitalia.it/ri-flex-abrasives-srl-03383460361                                     | ✓ | ⏱: 4.84s 
+[SCRAPE].. ◆ https://www.fatturatoitalia.it/ri-flex-abrasives-srl-03383460361                                     | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.fatturatoitalia.it/ri-flex-abrasives-srl-03383460361                                     | ✓ | ⏱: 6.15s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://riflex.com/about-us/?lang=en                                                                 | ✓ | ⏱: 3.58s 
+[SCRAPE].. ◆ https://riflex.com/about-us/?lang=en                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://riflex.com/about-us/?lang=en                                                                 | ✓ | ⏱: 3.60s 
+Xref table not zero-indexed. ID numbers for objects will be corrected.
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/ri-flex-abrasives-s-r-l-f3282730745d.json

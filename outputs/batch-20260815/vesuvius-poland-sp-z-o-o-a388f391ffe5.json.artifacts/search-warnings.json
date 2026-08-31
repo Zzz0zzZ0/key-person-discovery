@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://vesuvius.pl",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://vesuvius.pl/sitemap.xml: HTTP Error 403: Forbidden"
+  }
+]

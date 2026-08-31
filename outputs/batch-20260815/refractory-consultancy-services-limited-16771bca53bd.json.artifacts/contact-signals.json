@@ -1,0 +1,34 @@
+[
+  {
+    "channel": "email",
+    "value": "andrew.ramsell@refcsl.co.uk",
+    "status": "observed",
+    "source_url": "https://refcsl.co.uk",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ron.ramsell@refcsl.co.uk",
+    "status": "observed",
+    "source_url": "https://refcsl.co.uk",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+447944288639",
+    "status": "valid_format",
+    "source_url": "https://refcsl.co.uk",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+447581456802",
+    "status": "valid_format",
+    "source_url": "https://refcsl.co.uk",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

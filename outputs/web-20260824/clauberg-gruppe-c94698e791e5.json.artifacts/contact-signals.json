@@ -1,0 +1,237 @@
+[
+  {
+    "channel": "email",
+    "value": "info@clauberg-schleifmittel.de",
+    "status": "observed",
+    "source_url": "https://clauberg-schleifmittel.de/impressum/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@clauberg-gruppe.de",
+    "status": "observed",
+    "source_url": "https://clauberg-schleifmittel.de/impressum/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+492025141760",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de/impressum/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920251417610",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de/impressum/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49202373280",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de/impressum/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920237328100",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de/impressum/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@clauberg-gruppe.de",
+    "status": "observed",
+    "source_url": "https://clauberg-schleifmittel.de/kontakt/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+492025141760",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de/kontakt/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920251417610",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de/kontakt/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49202373280",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de/kontakt/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920237328100",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de/kontakt/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@clauberg-gruppe.de",
+    "status": "observed",
+    "source_url": "https://clauberg-schleifmittel.de/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+492025141760",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920251417610",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49202373280",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920237328100",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@clauberg-gruppe.de",
+    "status": "observed",
+    "source_url": "https://clauberg-schleifmittel.de",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+492025141760",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920251417610",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49202373280",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920237328100",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@clauberg-gruppe.de",
+    "status": "observed",
+    "source_url": "https://clauberg-schleifmittel.de/kontakt/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+492025141760",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de/kontakt/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920251417610",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de/kontakt/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49202373280",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de/kontakt/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920237328100",
+    "status": "valid_format",
+    "source_url": "https://clauberg-schleifmittel.de/kontakt/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@clauberg-schleifmittel.de",
+    "status": "observed",
+    "source_url": "https://2026.clauberg-schleifmittel.de/wp-content/uploads/Schleifkoerper-keramischgebunden-englisch.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/moritz-berndtson-0b82b598",
+    "status": "probable",
+    "source_url": "https://de.linkedin.com/in/moritz-berndtson-0b82b598"
+  }
+]

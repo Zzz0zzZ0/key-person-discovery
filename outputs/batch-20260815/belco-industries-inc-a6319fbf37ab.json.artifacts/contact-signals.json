@@ -1,0 +1,284 @@
+[
+  {
+    "channel": "email",
+    "value": "belco@belcoind.com",
+    "status": "observed",
+    "source_url": "https://www.belcoind.com/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+16167940410",
+    "status": "valid_format",
+    "source_url": "https://www.belcoind.com/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "belco@belcoind.com",
+    "status": "observed",
+    "source_url": "https://belcoind.com",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+16167940410",
+    "status": "valid_format",
+    "source_url": "https://belcoind.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "belco@belcoind.com",
+    "status": "observed",
+    "source_url": "https://www.belcoind.com/age-ovens/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+16167940410",
+    "status": "valid_format",
+    "source_url": "https://www.belcoind.com/age-ovens/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "belco@belcoind.com",
+    "status": "observed",
+    "source_url": "https://www.belcoind.com/bradford-white-takes-powder-coating-new-heights-belco",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+16167940410",
+    "status": "valid_format",
+    "source_url": "https://www.belcoind.com/bradford-white-takes-powder-coating-new-heights-belco",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "belco@belcoind.com",
+    "status": "observed",
+    "source_url": "https://www.belcoind.com/company-info/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+16167940410",
+    "status": "valid_format",
+    "source_url": "https://www.belcoind.com/company-info/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "bsparks@belcoind.com",
+    "status": "observed",
+    "source_url": "https://www.belcoind.com/careers/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jswanson@belcoind.com",
+    "status": "observed",
+    "source_url": "https://www.belcoind.com/careers/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "belco@belcoind.com",
+    "status": "observed",
+    "source_url": "https://www.belcoind.com/careers/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+16167940410",
+    "status": "valid_format",
+    "source_url": "https://www.belcoind.com/careers/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "belco@belcoind.com",
+    "status": "observed",
+    "source_url": "https://www.belcoind.com/heres-what-you-need-to-know-about-age-ovens/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+16167940410",
+    "status": "valid_format",
+    "source_url": "https://www.belcoind.com/heres-what-you-need-to-know-about-age-ovens/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "belco@belcoind.com",
+    "status": "observed",
+    "source_url": "https://www.belcoind.com/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+16167940410",
+    "status": "valid_format",
+    "source_url": "https://www.belcoind.com/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "belco@belcoind.com",
+    "status": "observed",
+    "source_url": "https://www.belcoind.com/stacking-systems/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+16167940410",
+    "status": "valid_format",
+    "source_url": "https://www.belcoind.com/stacking-systems/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "belco@belcoind.com",
+    "status": "observed",
+    "source_url": "https://www.belcoind.com/why-your-company-needs-an-automatic-die-cleaning-system/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+16167940410",
+    "status": "valid_format",
+    "source_url": "https://www.belcoind.com/why-your-company-needs-an-automatic-die-cleaning-system/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "belco@belcoind.com",
+    "status": "observed",
+    "source_url": "https://www.belcoind.com/vertical-aluminum-extrusion/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+16167940410",
+    "status": "valid_format",
+    "source_url": "https://www.belcoind.com/vertical-aluminum-extrusion/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "belco@belcoind.com",
+    "status": "observed",
+    "source_url": "https://www.belcoind.com/industrial-preventive-maintenance-saves-money",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+16167940410",
+    "status": "valid_format",
+    "source_url": "https://www.belcoind.com/industrial-preventive-maintenance-saves-money",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@limitlesspurchasing.com",
+    "status": "observed",
+    "source_url": "https://www.limitlesspurchasing.com/nsn/manufacturer/belco-industries-inc/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+17147054780",
+    "status": "valid_format",
+    "source_url": "https://www.limitlesspurchasing.com/nsn/manufacturer/belco-industries-inc/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ckohn@belcoind.com",
+    "status": "observed",
+    "source_url": "https://www.ccaiweb.com/member/belcoindustries",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ckohn@belcoind.com",
+    "status": "observed",
+    "source_url": "https://www.lightmetalage.com/suppliers/belco-industries-inc",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "lboyle@belcoind.com",
+    "status": "observed",
+    "source_url": "https://www.belcoind.com/wp-content/uploads/2015/05/belco_laser_cutting.pdf"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/mike-ingraham-175aa998",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/mike-ingraham-175aa998"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/peter-edwards-43a31992",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/peter-edwards-43a31992"
+  },
+  {
+    "channel": "email",
+    "value": "bsparks@belcoind.com",
+    "status": "probable",
+    "source_url": "https://www.belcoind.com/careers",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jswanson@belcoind.com",
+    "status": "probable",
+    "source_url": "https://www.belcoind.com/careers",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "belco@belcoind.com",
+    "status": "probable",
+    "source_url": "https://www.belcoind.com/careers",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "belco@belcoind.com",
+    "status": "probable",
+    "source_url": "https://www.belcoind.com/laser/",
+    "company_public": true
+  }
+]

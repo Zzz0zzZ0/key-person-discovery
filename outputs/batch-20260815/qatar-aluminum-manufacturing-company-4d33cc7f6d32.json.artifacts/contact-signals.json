@@ -1,0 +1,434 @@
+[
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/ar/about/board-of-directors/ms-lolwa-khalil-salat/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/ar/about/board-of-directors/ms-lolwa-khalil-salat/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/ar/investor-relations/investor-relations-contact/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/ar/investor-relations/investor-relations-contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440139750",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/ar/investor-relations/investor-relations-contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/mr-abdulrahman-ahmad-al-shaibi/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/mr-abdulrahman-ahmad-al-shaibi/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/mr-mohammed-essa-al-mannai/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/mr-mohammed-essa-al-mannai/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/mr-ahmad-saeed-al-amoodi/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/mr-ahmad-saeed-al-amoodi/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/mr-nabeel-mohammed-al-buenain"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/mr-nabeel-mohammed-al-buenain",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/about/useful-links/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/about/useful-links/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+97444031111",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/about/useful-links/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+97444402000",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/about/useful-links/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/contact-us/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/investor-relations/investor-relations-contact/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/investor-relations/investor-relations-contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/media-center/media-contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/media-center/media-contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://qamco.com.qa/en/media-center/media-contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://qamco.com.qa/en/media-center/media-contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/ar/about/mission/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/ar/about/mission/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/ar/about/board-of-directors/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/ar/about/board-of-directors/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/ar/about/joint-ventures/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/ar/about/joint-ventures/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/ar/about/history/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/ar/about/history/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/ar/about/vision/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/ar/about/vision/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/about/faq/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/about/faq/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/ms-lolwa-khalil-salat/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/about/board-of-directors/ms-lolwa-khalil-salat/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/about/history/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/about/history/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/about/joint-ventures/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/about/joint-ventures/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/about/mission/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/about/mission/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/about/vision/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/about/vision/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/investor-relations/company-announcements/"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/investor-relations/company-announcements/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/media-center/press-release-and-articles/qatar-aluminum-manufacturing-company-announces-the-controlled-shutdown-of-its-joint-venture-operations/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/media-center/press-release-and-articles/qatar-aluminum-manufacturing-company-announces-the-controlled-shutdown-of-its-joint-venture-operations/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qatarenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/en/media-center/press-release-and-articles/replacement-of-a-member-of-the-board-of-directors-of-qatar-aluminum-manufacturing-company-qamco/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/en/media-center/press-release-and-articles/replacement-of-a-member-of-the-board-of-directors-of-qatar-aluminum-manufacturing-company-qamco/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "qamco.investorrelations@qataenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/media/5vuhpdef/qamco-ir-presentation-march-2026-eng.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "qamco@qataenergy.qa",
+    "status": "observed",
+    "source_url": "https://www.qamco.com.qa/media/5vuhpdef/qamco-ir-presentation-march-2026-eng.pdf"
+  },
+  {
+    "channel": "phone",
+    "value": "+97440132277",
+    "status": "valid_format",
+    "source_url": "https://www.qamco.com.qa/media/5vuhpdef/qamco-ir-presentation-march-2026-eng.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

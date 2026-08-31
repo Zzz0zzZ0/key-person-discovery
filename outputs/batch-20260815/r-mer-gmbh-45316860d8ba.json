@@ -1,0 +1,65 @@
+{
+  "company_name": "Römer GmbH",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "fake-address@cosuno.com",
+      "status": "observed",
+      "source_url": "https://directory.cosuno.com/de/germany/companies/ingenieurburo-romer-gmbh-908953",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@media-cafe.de",
+      "status": "observed",
+      "source_url": "https://giessereibedarf-roemer.com/impressum/",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Georg v. Römer",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 2,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 32,
+    "search_engine_warnings": 1,
+    "urls_crawled": 15,
+    "crawl_failures": 5,
+    "contact_signals": 13,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 2,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 2,
+    "target_contactable_items": 4,
+    "contactable_items": 2,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

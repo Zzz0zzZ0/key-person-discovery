@@ -1,0 +1,26 @@
+[
+  {
+    "kind": "candidate",
+    "full_name": "Eng. Boyan Dimitrov",
+    "matched_by": [
+      "email",
+      "phone"
+    ]
+  },
+  {
+    "kind": "candidate",
+    "full_name": "Eng. Plamen Nikolov",
+    "matched_by": [
+      "email",
+      "phone"
+    ]
+  },
+  {
+    "kind": "candidate",
+    "full_name": "Elza Kostadinova",
+    "matched_by": [
+      "email",
+      "phone"
+    ]
+  }
+]

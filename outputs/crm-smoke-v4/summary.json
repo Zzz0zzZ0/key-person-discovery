@@ -1,0 +1,38 @@
+{
+  "source": "twenty_crm_read_only",
+  "crm_writeback": false,
+  "pipeline_version": "0.2.0",
+  "search_policy": "anysearch_primary_searxng_fallback",
+  "companies": [
+    {
+      "name": "Braskort Abrasivos",
+      "search_results": 21,
+      "search_engine_warnings": 0,
+      "urls_crawled": 12,
+      "crawl_failures": 5,
+      "contact_signals": 20,
+      "candidates": 0,
+      "unassigned_contacts": 4
+    },
+    {
+      "name": "Harbor Castings Inc.",
+      "search_results": 27,
+      "search_engine_warnings": 0,
+      "urls_crawled": 13,
+      "crawl_failures": 6,
+      "contact_signals": 10,
+      "candidates": 0,
+      "unassigned_contacts": 2
+    },
+    {
+      "name": "Industrias Mineiras do Mondego S.A. (IMOSA®)",
+      "search_results": 26,
+      "search_engine_warnings": 0,
+      "urls_crawled": 15,
+      "crawl_failures": 1,
+      "contact_signals": 18,
+      "candidates": 0,
+      "unassigned_contacts": 5
+    }
+  ]
+}

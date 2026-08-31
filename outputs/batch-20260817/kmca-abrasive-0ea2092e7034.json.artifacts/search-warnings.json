@@ -1,0 +1,38 @@
+[
+  {
+    "query": "http://www.kmca-abrasives.co.kr",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "http://www.kmca-abrasives.co.kr/sitemap.xml: HTTP Error 404: Not Found"
+  },
+  {
+    "query": "\"KMCA Abrasive\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "\"KMCA Abrasive\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:kmca-abrasives.co.kr (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:kmca-abrasives.co.kr (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:kmca-abrasives.co.kr (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  }
+]

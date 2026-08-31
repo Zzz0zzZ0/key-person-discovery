@@ -1,0 +1,55 @@
+use_default_settings:
+  engines:
+    keep_only:
+      - bing
+      - baidu
+      - duckduckgo
+      - google cse
+      - naver
+      - qwant
+      - yandex
+
+engines:
+  - name: bing
+    disabled: false
+  - name: baidu
+    disabled: true
+  - name: duckduckgo
+    disabled: false
+  - name: google cse
+    disabled: false
+    network:
+      retries: 2
+  - name: naver
+    disabled: true
+  - name: qwant
+    disabled: false
+    network:
+      retries: 2
+  - name: yandex
+    disabled: true
+
+general:
+  debug: false
+  instance_name: Key Person Search
+
+search:
+  safe_search: 0
+  formats:
+    - html
+    - json
+
+outgoing:
+  request_timeout: 25.0
+  max_request_timeout: 45.0
+  extra_proxy_timeout: 10
+  proxies:
+    all://:
+      - http://host.docker.internal:12001
+
+server:
+  bind_address: 0.0.0.0
+  port: 8080
+  secret_key: change-me
+  limiter: false
+  image_proxy: false

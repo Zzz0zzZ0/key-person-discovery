@@ -1,0 +1,62 @@
+[
+  {
+    "channel": "email",
+    "value": "info@ind-ceramics.com",
+    "status": "observed",
+    "source_url": "https://iranindustrial.com/en/details/10235",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "d.m@iranindustrial.com",
+    "status": "observed",
+    "source_url": "https://iranindustrial.com/en/details/10235",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "enquiry@chemdmart.com",
+    "status": "observed",
+    "source_url": "https://chemdmart.com/company-profile/ardakan-industrial-ceramics-co",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+918910106540",
+    "status": "verified",
+    "source_url": "https://www.alcircle.com/directory/bauxite/detail/60465/ardakan-industrial-ceramics-solutions",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+918910106540",
+    "status": "valid_format",
+    "source_url": "https://www.alcircle.com/directory/bauxite/detail/60465/ardakan-industrial-ceramics-solutions",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/ruhollah-nasiri-a63001238",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/ruhollah-nasiri-a63001238"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/alex-afshar-42b786143",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/alex-afshar-42b786143"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/mrmojtaba-z-630679229",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/mrmojtaba-z-630679229"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/sepideh-yaghoob-aly-439625255",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/sepideh-yaghoob-aly-439625255"
+  }
+]

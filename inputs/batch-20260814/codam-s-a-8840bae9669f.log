@@ -1,0 +1,49 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://codamsa.com.ar                                                                                | ✓ | ⏱: 10.09s 
+[SCRAPE].. ◆ http://codamsa.com.ar                                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://codamsa.com.ar                                                                                | ✓ | ⏱: 12.11s 
+[FETCH]... ↓ https://codam.com.ar/en                                                                              | ✓ | ⏱: 7.85s 
+[SCRAPE].. ◆ https://codam.com.ar/en                                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://codam.com.ar/en                                                                              | ✓ | ⏱: 7.87s 
+[FETCH]... ↓ https://codam.com.ar/blog/                                                                           | ✓ | ⏱: 18.37s 
+[SCRAPE].. ◆ https://codam.com.ar/blog/                                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://codam.com.ar/blog/                                                                           | ✓ | ⏱: 19.89s 
+[FETCH]... ↓ https://codam.com.ar/blog/page/2/                                                                    | ✓ | ⏱: 18.49s 
+[SCRAPE].. ◆ https://codam.com.ar/blog/page/2/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://codam.com.ar/blog/page/2/                                                                    | ✓ | ⏱: 19.91s 
+[FETCH]... ↓ http://codam.com.ar                                                                                  | ✓ | ⏱: 18.03s 
+[SCRAPE].. ◆ http://codam.com.ar                                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://codam.com.ar                                                                                  | ✓ | ⏱: 20.06s 
+[FETCH]... ↓ https://codam.com.ar/en/contacto/                                                                    | ✓ | ⏱: 1.75s 
+[SCRAPE].. ◆ https://codam.com.ar/en/contacto/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://codam.com.ar/en/contacto/                                                                    | ✓ | ⏱: 1.77s 
+[FETCH]... ↓ https://codam.com.ar/en/2019/12/16/acido-cromico-cro3/                                               | ✓ | ⏱: 4.46s 
+[SCRAPE].. ◆ https://codam.com.ar/en/2019/12/16/acido-cromico-cro3/                                               | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://codam.com.ar/en/2019/12/16/acido-cromico-cro3/                                               | ✓ | ⏱: 4.48s 
+[FETCH]... ↓ https://codam.com.ar/tag/empresa/                                                                    | ✓ | ⏱: 4.22s 
+[SCRAPE].. ◆ https://codam.com.ar/tag/empresa/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://codam.com.ar/tag/empresa/                                                                    | ✓ | ⏱: 4.25s 
+[FETCH]... ↓ https://rocketreach.co/codam-sa-email-format_b44a3231fd13e511                                        | ✓ | ⏱: 6.58s 
+[SCRAPE].. ◆ https://rocketreach.co/codam-sa-email-format_b44a3231fd13e511                                        | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...format_b44a3231fd13e511  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/codam-sa-email-format_b44a3231fd13e511                                        | ✗ | ⏱: 6.59s 
+[FETCH]... ↓ https://www.bnamericas.com/en/company-profile/codam-sa                                               | ✓ | ⏱: 32.67s 
+[SCRAPE].. ◆ https://www.bnamericas.com/en/company-profile/codam-sa                                               | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.bnamericas.com/en/company-profile/codam-sa                                               | ✓ | ⏱: 34.38s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://codam.com.ar/registro-newsletter/                                                            | ✓ | ⏱: 17.98s 
+[SCRAPE].. ◆ https://codam.com.ar/registro-newsletter/                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://codam.com.ar/registro-newsletter/                                                            | ✓ | ⏱: 18.01s 
+[FETCH]... ↓ https://codam.com.ar/contacto/                                                                       | ✓ | ⏱: 18.01s 
+[SCRAPE].. ◆ https://codam.com.ar/contacto/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://codam.com.ar/contacto/                                                                       | ✓ | ⏱: 18.03s 
+[FETCH]... ↓ http://codam.com.ar/en/contacto/                                                                     | ✓ | ⏱: 18.31s 
+[SCRAPE].. ◆ http://codam.com.ar/en/contacto/                                                                     | ✓ | ⏱: 0.04s 
+[COMPLETE] ● http://codam.com.ar/en/contacto/                                                                     | ✓ | ⏱: 18.36s 
+[FETCH]... ↓ https://codam.com.ar/category/news/                                                                  | ✓ | ⏱: 18.07s 
+[SCRAPE].. ◆ https://codam.com.ar/category/news/                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://codam.com.ar/category/news/                                                                  | ✓ | ⏱: 18.10s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260814/codam-s-a-8840bae9669f.json

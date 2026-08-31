@@ -1,0 +1,68 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.dnb.com/business-directory/company-p...ystems_inc.c4dfad292cb4a2b47eae68a6bf868389.html  | ✓ | ⏱: 2.73s 
+[SCRAPE].. ◆ https://www.dnb.com/business-directory/company-p...ystems_inc.c4dfad292cb4a2b47eae68a6bf868389.html  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.dnb.com/business-directory/company-p...ystems_inc.c4dfad292cb4a2b47eae68a6bf868389.html  | ✓ | ⏱: 2.75s 
+[FETCH]... ↓ https://panjiva.com/Manus-Abrasive-Systems-Inc/2058386                                               | ✓ | ⏱: 3.38s 
+[SCRAPE].. ◆ https://panjiva.com/Manus-Abrasive-Systems-Inc/2058386                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://panjiva.com/Manus-Abrasive-Systems-Inc/2058386                                               | ✓ | ⏱: 3.40s 
+[FETCH]... ↓ https://www.manusabrasive.com/about                                                                  | ✓ | ⏱: 2.19s 
+[SCRAPE].. ◆ https://www.manusabrasive.com/about                                                                  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.manusabrasive.com/about                                                                  | ✓ | ⏱: 2.97s 
+[FETCH]... ↓ https://www.manusabrasive.com                                                                        | ✓ | ⏱: 3.49s 
+[SCRAPE].. ◆ https://www.manusabrasive.com                                                                        | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.manusabrasive.com                                                                        | ✓ | ⏱: 4.27s 
+[FETCH]... ↓ https://www.manusabrasive.com/careers                                                                | ✓ | ⏱: 1.39s 
+[SCRAPE].. ◆ https://www.manusabrasive.com/careers                                                                | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.manusabrasive.com/careers                                                                | ✓ | ⏱: 2.39s 
+[FETCH]... ↓ https://www.manusabrasive.com/contact-usffff1510                                                     | ✓ | ⏱: 0.81s 
+[SCRAPE].. ◆ https://www.manusabrasive.com/contact-usffff1510                                                     | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.manusabrasive.com/contact-usffff1510                                                     | ✓ | ⏱: 1.77s 
+[FETCH]... ↓ https://www.manusabrasive.com/news                                                                   | ✓ | ⏱: 0.57s 
+[SCRAPE].. ◆ https://www.manusabrasive.com/news                                                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.manusabrasive.com/news                                                                   | ✓ | ⏱: 1.58s 
+[FETCH]... ↓ https://www.manusabrasive.com/tech-data                                                              | ✓ | ⏱: 0.56s 
+[SCRAPE].. ◆ https://www.manusabrasive.com/tech-data                                                              | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.manusabrasive.com/tech-data                                                              | ✓ | ⏱: 1.54s 
+[FETCH]... ↓ https://www.volza.com/company-profile/manus-abrasive-systems-inc-3048588/                            | ✓ | ⏱: 1.30s 
+[SCRAPE].. ◆ https://www.volza.com/company-profile/manus-abrasive-systems-inc-3048588/                            | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.volza.com/c...ve-systems-inc-3048588/  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (9313 bytes) 
+[COMPLETE] ● https://www.volza.com/company-profile/manus-abrasive-systems-inc-3048588/                            | ✗ | ⏱: 2.19s 
+[FETCH]... ↓ https://www.signalhire.com/companies/manus-abrasive-systems-inc/email-format                         | ✓ | ⏱: 3.05s 
+[SCRAPE].. ◆ https://www.signalhire.com/companies/manus-abrasive-systems-inc/email-format                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.signalhire.com/companies/manus-abrasive-systems-inc/email-format                         | ✓ | ⏱: 3.07s 
+[FETCH]... ↓ https://www.salezshark.com/company/manus-abrasive-systems-inc                                        | ✓ | ⏱: 2.58s 
+[SCRAPE].. ◆ https://www.salezshark.com/company/manus-abrasive-systems-inc                                        | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.salezshark....us-abrasive-systems-inc  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements, script_heavy_shell (47151 bytes, 3 chars 
+visible) 
+[COMPLETE] ● https://www.salezshark.com/company/manus-abrasive-systems-inc                                        | ✗ | ⏱: 3.81s 
+[FETCH]... ↓ https://www.zoominfo.com/pic/manus-abrasive-systems-inc/72484559                                     | ✓ | ⏱: 0.81s 
+[SCRAPE].. ◆ https://www.zoominfo.com/pic/manus-abrasive-systems-inc/72484559                                     | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...ve-systems-inc/72484559  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/pic/manus-abrasive-systems-inc/72484559                                     | ✗ | ⏱: 1.51s 
+[FETCH]... ↓ https://www.zoominfo.com/c/manus-abrasive-systems-inc/72484559                                       | ✓ | ⏱: 0.94s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/manus-abrasive-systems-inc/72484559                                       | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...ve-systems-inc/72484559  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/c/manus-abrasive-systems-inc/72484559                                       | ✗ | ⏱: 1.65s 
+[FETCH]... ↓ https://www.tradesns.com/en/data/buyer/Canada/4600568/Manus Abrasive Systems Inc                     | ✓ | ⏱: 4.70s 
+[SCRAPE].. ◆ https://www.tradesns.com/en/data/buyer/Canada/4600568/Manus Abrasive Systems Inc                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.tradesns.com/en/data/buyer/Canada/4600568/Manus Abrasive Systems Inc                     | ✓ | ⏱: 4.88s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.manusabrasive.com/distributors                                                           | ✓ | ⏱: 2.73s 
+[SCRAPE].. ◆ https://www.manusabrasive.com/distributors                                                           | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.manusabrasive.com/distributors                                                           | ✓ | ⏱: 3.69s 
+[FETCH]... ↓ https://www.manusabrasive.com/gvs-respirators                                                        | ✓ | ⏱: 2.79s 
+[SCRAPE].. ◆ https://www.manusabrasive.com/gvs-respirators                                                        | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.manusabrasive.com/gvs-respirators                                                        | ✓ | ⏱: 3.72s 
+[FETCH]... ↓ https://www.manusabrasive.com/mega-blast-bulk-blast-machines                                         | ✓ | ⏱: 2.93s 
+[SCRAPE].. ◆ https://www.manusabrasive.com/mega-blast-bulk-blast-machines                                         | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.manusabrasive.com/mega-blast-bulk-blast-machines                                         | ✓ | ⏱: 3.77s 
+[FETCH]... ↓ https://www.manusabrasive.com/10x-kinetix                                                            | ✓ | ⏱: 3.13s 
+[SCRAPE].. ◆ https://www.manusabrasive.com/10x-kinetix                                                            | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.manusabrasive.com/10x-kinetix                                                            | ✓ | ⏱: 4.03s 
+[FETCH]... ↓ https://www.manusabrasive.com/nova-talk---advanced-in-helmet-communication                           | ✓ | ⏱: 0.74s 
+[SCRAPE].. ◆ https://www.manusabrasive.com/nova-talk---advanced-in-helmet-communication                           | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.manusabrasive.com/nova-talk---advanced-in-helmet-communication                           | ✓ | ⏱: 1.59s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/manus-abrasive-systems-inc-649215c6c616.json

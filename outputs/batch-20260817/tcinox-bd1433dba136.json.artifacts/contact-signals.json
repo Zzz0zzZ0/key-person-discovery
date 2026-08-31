@@ -1,0 +1,56 @@
+[
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/tcinox-s-a-de-c-v-a80a8761",
+    "status": "observed",
+    "source_url": "https://aeroleads.com/c/tcinox"
+  },
+  {
+    "channel": "email",
+    "value": "contato@tcinox.com.br",
+    "status": "observed",
+    "source_url": "https://tcinox.com.br/contato/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contato@tcinox.com.br",
+    "status": "observed",
+    "source_url": "https://tcinox.com.br",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contato@tcinox.com.br",
+    "status": "observed",
+    "source_url": "https://tcinox.com.br/empresa",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contato@tcinox.com.br",
+    "status": "observed",
+    "source_url": "https://tcinox.com.br/processos/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "vendas@tcinox.com.br",
+    "status": "observed",
+    "source_url": "https://www.facebook.com/Tcinox/"
+  },
+  {
+    "channel": "phone",
+    "value": "+553534357700",
+    "status": "valid_format",
+    "source_url": "https://www.facebook.com/Tcinox/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/celso-rosa-268b88100",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/celso-rosa-268b88100/"
+  }
+]

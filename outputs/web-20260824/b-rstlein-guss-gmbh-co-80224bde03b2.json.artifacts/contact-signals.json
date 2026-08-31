@@ -1,0 +1,27 @@
+[
+  {
+    "channel": "email",
+    "value": "feinguss@buerstlein-guss.de",
+    "status": "observed",
+    "source_url": "https://buerstlein-guss.de",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49637192710",
+    "status": "valid_format",
+    "source_url": "https://buerstlein-guss.de",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+496371927140",
+    "status": "valid_format",
+    "source_url": "https://buerstlein-guss.de",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

@@ -1,0 +1,128 @@
+{
+  "name": "REFKO Feuerfest GmbH",
+  "website": "http://test.de",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "003280e5-5d6a-472f-9412-4590021be768",
+  "crm_linkedin_url": "https://www.linkedin.com/company/refko-feuerfest-gmbh",
+  "crm_country": "德国",
+  "crm_updated_at": "2026-06-09T06:12:08.077808+00:00",
+  "crm_contact_count": 10,
+  "crm_contacts": [
+    {
+      "name": "Micael Mota Silva",
+      "email": null,
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/motasilva",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Florian Laux",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/florian-laux-525693231",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Herbert Hoenl",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/herbert-h%c3%b6nl-371b45159",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Paul Soler",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/solerpaul",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Herbert Hönl",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/herbert-hönl-371b45159",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Jürgen Bach",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/jürgen-bach-655284216",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Katharina Sarnow",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/katharina-sarnow-978181252",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+49 2623 2075",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Contact Person",
+      "email": "info@refko.de",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-15T06:56:22.514276+00:00",
+  "source": "twenty_postgresql_read_only"
+}

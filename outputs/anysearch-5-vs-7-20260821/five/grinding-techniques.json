@@ -1,0 +1,214 @@
+{
+  "company_name": "Grinding Techniques (Pty) Ltd",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info@grindtech.com",
+      "status": "observed",
+      "source_url": "http://www.grindtech.com/careers/technical-sales-representative-western-cape-3/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "hr@grindtech.com",
+      "status": "observed",
+      "source_url": "http://www.grindtech.com/careers/technical-sales-representative-western-cape-3/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+27112716400",
+      "status": "valid_format",
+      "source_url": "http://www.grindtech.com/careers/technical-sales-representative-western-cape-3/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+27123330977",
+      "status": "valid_format",
+      "source_url": "http://www.grindtech.com/careers/technical-sales-representative-western-cape-3/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+27317012882",
+      "status": "valid_format",
+      "source_url": "http://www.grindtech.com/careers/technical-sales-representative-western-cape-3/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+27414845128",
+      "status": "valid_format",
+      "source_url": "http://www.grindtech.com/careers/technical-sales-representative-western-cape-3/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+27215526840",
+      "status": "valid_format",
+      "source_url": "http://www.grindtech.com/careers/technical-sales-representative-western-cape-3/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "pta@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com/contact-us/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "dbn@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com/contact-us/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "pe@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com/contact-us/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "ct@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com/contact-us/",
+      "company_public": true,
+      "verification_status": "company_source"
+    }
+  ],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Stefan Meyer",
+      "current_title": "Management accountability in all Financial, Sales and Production activities",
+      "company_match": "probable",
+      "discovery_tier": "probable_current",
+      "influence_type": "technical_influencer",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/stefan-meyer-1957b822b",
+          "status": "probable",
+          "source_url": "https://za.linkedin.com/in/stefan-meyer-1957b822b"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://za.linkedin.com/in/stefan-meyer-1957b822b",
+          "quote": "Stefan Meyer - Managing Director at Grinding Techniques ... - LinkedIn Management accountability in all Financial, Sales and Production activities for Grinding Techniques (PTY) Ltd. Reporting to the Tyrolit Board of Directors ...",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true,
+      "validation_reasons": [
+        "search summary requires independent current-employment verification",
+        "contact ownership is not verified"
+      ]
+    },
+    {
+      "full_name": "Werner Brits",
+      "current_title": "",
+      "company_match": "uncertain",
+      "discovery_tier": "unverified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/werner-brits-04892a19a",
+          "status": "probable",
+          "source_url": "https://za.linkedin.com/in/werner-brits-04892a19a"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://za.linkedin.com/in/werner-brits-04892a19a",
+          "quote": "Werner Brits - Grinding Techniques (Pty) Ltd. | LinkedIn Experience: Grinding Techniques (Pty) Ltd. · Location: South Africa · 8 connections on LinkedIn. View Werner Brits' profile on LinkedIn, a professional community of 1 billion members.",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.35,
+      "review_required": true,
+      "validation_reasons": [
+        "target-company association is visible but current employment is unverified",
+        "contact ownership is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 108,
+    "search_engine_warnings": 9,
+    "urls_crawled": 20,
+    "crawl_failures": 0,
+    "contact_signals": 131,
+    "official_urls_discovered": 1,
+    "crm_website": "https://www.grindtech.com",
+    "official_website": "https://www.grindtech.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 3,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 3,
+    "pdf_pages_extracted": 28,
+    "pdf_failures": 0,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 5,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 2,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 50,
+    "contactable_items": 13,
+    "target_contact_methods": 50,
+    "contact_methods": 13,
+    "contact_target_met": false,
+    "broad_discovery": true,
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

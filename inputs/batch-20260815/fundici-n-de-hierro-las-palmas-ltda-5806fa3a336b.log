@@ -1,0 +1,11 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://fundiciondehierrolaspalmas.com.uy                                                            | ✓ | ⏱: 3.71s 
+[SCRAPE].. ◆ https://fundiciondehierrolaspalmas.com.uy                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://fundiciondehierrolaspalmas.com.uy                                                            | ✓ | ⏱: 5.16s 
+[FETCH]... ↓ https://fundiciondehierrolaspalmas.com.uy/author/adpauy25/                                           | ✓ | ⏱: 3.60s 
+[SCRAPE].. ◆ https://fundiciondehierrolaspalmas.com.uy/author/adpauy25/                                           | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://fundiciondehierrolaspalmas.com.uy/author/adpauy25/                                           | ✓ | ⏱: 5.00s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/fundici-n-de-hierro-las-palmas-ltda-5806fa3a336b.json

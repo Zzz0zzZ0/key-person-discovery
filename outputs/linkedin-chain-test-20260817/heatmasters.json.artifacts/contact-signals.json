@@ -1,0 +1,440 @@
+[
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/news/commissioning-of-a-gas-fired-furnace-in-saudi-arabia/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/news/commissioning-of-a-gas-fired-furnace-in-saudi-arabia/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/bez-kategorii/sign-up-for-our-newsletter/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/bez-kategorii/sign-up-for-our-newsletter/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/news/electrical-heat-treatment-furnace-delivered-to-a-foundry-in-europe/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/news/electrical-heat-treatment-furnace-delivered-to-a-foundry-in-europe/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/news/heat-treatment-services-and-hardness-testing-at-an-oil-refinery-in-germany/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/news/heat-treatment-services-and-hardness-testing-at-an-oil-refinery-in-germany/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/news/heatmasters-acquired-the-furnace-services-and-maintenance-business-of-sarlin-oy-ab/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/news/heatmasters-acquired-the-furnace-services-and-maintenance-business-of-sarlin-oy-ab/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/news/heatmasters-strengthens-its-industrial-and-heat-treatment-furnace-segment-by-acquiring-temptec-oy-ab/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/news/heatmasters-strengthens-its-industrial-and-heat-treatment-furnace-segment-by-acquiring-temptec-oy-ab/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/news/heat-treatment-works-at-the-kymijarvi-iii-bio-heating-plant-located-in-the-european-green-capital-2021/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/news/heat-treatment-works-at-the-kymijarvi-iii-bio-heating-plant-located-in-the-european-green-capital-2021/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/news/heat-treatment-services-at-the-montes-del-plata-mill-in-uruguay/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/news/heat-treatment-services-at-the-montes-del-plata-mill-in-uruguay/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/news/on-site-heat-treatment-of-rotary-kiln-at-the-gorazdze-cement-plant/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/news/on-site-heat-treatment-of-rotary-kiln-at-the-gorazdze-cement-plant/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/news/manufacturing-preheating-furnace/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/news/manufacturing-preheating-furnace/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/pl/bez-kategorii/newsletter-pl/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/pl/bez-kategorii/newsletter-pl/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/news/integration-of-modern-temperature-control-system-to-an-existing-heat-treatment-furnace/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/news/integration-of-modern-temperature-control-system-to-an-existing-heat-treatment-furnace/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/about-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/quality-management-system/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/quality-management-system/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/news/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "varkaus@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "turku@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "poland@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ants@heatmasters.ee",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358400956879",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207571343",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48515555010",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+37256245607",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/uncategorized/newsletter/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/uncategorized/newsletter/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/wp-content/uploads/2026/06/A002-Code-of-Conduct-ver.-1.4.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/wp-content/uploads/2026/06/A002-Code-of-Conduct-ver.-1.4.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@tav-vacuumfurnaces.com",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/wp-content/uploads/2024/02/TAV-VACUUM-FURNACES.pdf"
+  },
+  {
+    "channel": "phone",
+    "value": "+390363355711",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/wp-content/uploads/2024/02/TAV-VACUUM-FURNACES.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/heat-masters-7b3187133",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/heat-masters-7b3187133"
+  },
+  {
+    "channel": "email",
+    "value": "niklas.anttila@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://linkedin.com/in/niklasant"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/niklasant",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/niklasant"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/richard-bosch-80904b169",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/richard-bosch-80904b169"
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "probable",
+    "source_url": "https://heatmasters.net/privacy-notice/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/privacy-notice/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "probable",
+    "source_url": "https://heatmasters.net/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

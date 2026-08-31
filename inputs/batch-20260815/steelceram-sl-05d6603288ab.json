@@ -1,0 +1,64 @@
+{
+  "name": "Steelceram SL",
+  "website": "https://www.apceram.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "012a836f-7553-4e25-ab22-31e751f43a8d",
+  "crm_linkedin_url": "http://www.linkedin.com/company/apceram",
+  "crm_country": "Spain",
+  "crm_updated_at": "2026-07-27T10:53:14.862373+00:00",
+  "crm_contact_count": 3,
+  "crm_contacts": [
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+34 938 08 80 90",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Frans Garcia",
+      "email": "frans@steelceram.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/frans-garcia-6b443424b",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "comercial@steelceram.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T04:28:26.439795+00:00",
+  "source": "twenty_postgresql_read_only"
+}

@@ -1,0 +1,184 @@
+[
+  {
+    "channel": "email",
+    "value": "cement.blanco@cimsacementos.es",
+    "status": "observed",
+    "source_url": "https://cimsacementos.es/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34918270120",
+    "status": "valid_format",
+    "source_url": "https://cimsacementos.es/contacto/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34918270120",
+    "status": "valid_format",
+    "source_url": "https://cimsacementos.es/empresa/sobrecimsa/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+34918270120",
+    "status": "valid_format",
+    "source_url": "https://cimsacementos.es",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+34918270120",
+    "status": "valid_format",
+    "source_url": "https://cimsacementos.es/condiciones-de-uso/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34918270120",
+    "status": "valid_format",
+    "source_url": "https://cimsacementos.es/recursos-humanos/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@leadiq.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/%C3%A7imsa/5a1d8ac0240000240064e3b5/employee-directory",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@leadiq.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/%C3%A7imsa/5a1d8ac0240000240064e3b5/employee-directory",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "calidad.iberinform@iberinform.es",
+    "status": "observed",
+    "source_url": "https://cincodias.elpais.com/directorio-empresas/empresa/498981/cimsa-cementos-espana",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18553741199",
+    "status": "valid_format",
+    "source_url": "https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+14807453397",
+    "status": "valid_format",
+    "source_url": "https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+821090145918",
+    "status": "valid_format",
+    "source_url": "https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+862163806036",
+    "status": "valid_format",
+    "source_url": "https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+8613671737628",
+    "status": "valid_format",
+    "source_url": "https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+8675589517585",
+    "status": "valid_format",
+    "source_url": "https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+8613925258002",
+    "status": "valid_format",
+    "source_url": "https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34607876258",
+    "status": "valid_format",
+    "source_url": "https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@empresia.es",
+    "status": "observed",
+    "source_url": "https://www.empresia.es/empresa/cimsa-cementos-espana/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34954275068",
+    "status": "valid_format",
+    "source_url": "https://www.infoempresa.com/en-in/es/company/cimsa-cementos-espana-sa",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "etica@cimsacementos.es",
+    "status": "observed",
+    "source_url": "https://cimsacementos.es/wp-content/uploads/2023/11/01-Politica-Derechos-Humanos.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "denuncias.acoso@cimsacementos.es",
+    "status": "observed",
+    "source_url": "https://cimsacementos.es/wp-content/uploads/2024/02/I-PLAN-DE-IGUALDAD-Cimsa-Cementos-Espana.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "recursoshumanos@cimsacementos.es",
+    "status": "observed",
+    "source_url": "https://cimsacementos.es/wp-content/uploads/2024/02/I-PLAN-DE-IGUALDAD-Cimsa-Cementos-Espana.pdf"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/luis-sanz-cervera-8942a94",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/luis-sanz-cervera-8942a94"
+  }
+]

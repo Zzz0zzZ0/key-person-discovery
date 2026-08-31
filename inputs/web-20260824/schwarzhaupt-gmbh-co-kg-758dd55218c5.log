@@ -1,0 +1,32 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://www.schwarzhaupt.de/en/ueber.html                                                             | ✓ | ⏱: 2.04s 
+[SCRAPE].. ◆ http://www.schwarzhaupt.de/en/ueber.html                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://www.schwarzhaupt.de/en/ueber.html                                                             | ✓ | ⏱: 3.40s 
+[FETCH]... ↓ http://www.schwarzhaupt.de/en/datenschutz.html                                                       | ✓ | ⏱: 2.12s 
+[SCRAPE].. ◆ http://www.schwarzhaupt.de/en/datenschutz.html                                                       | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://www.schwarzhaupt.de/en/datenschutz.html                                                       | ✓ | ⏱: 3.41s 
+[FETCH]... ↓ http://www.schwarzhaupt.de                                                                           | ✓ | ⏱: 2.07s 
+[SCRAPE].. ◆ http://www.schwarzhaupt.de                                                                           | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://www.schwarzhaupt.de                                                                           | ✓ | ⏱: 3.65s 
+[FETCH]... ↓ http://www.schwarzhaupt.de/en/index.html                                                             | ✓ | ⏱: 2.18s 
+[SCRAPE].. ◆ http://www.schwarzhaupt.de/en/index.html                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://www.schwarzhaupt.de/en/index.html                                                             | ✓ | ⏱: 3.42s 
+[FETCH]... ↓ https://www.schwarzhaupt.de/en/index.html                                                            | ✓ | ⏱: 0.19s 
+[SCRAPE].. ◆ https://www.schwarzhaupt.de/en/index.html                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.schwarzhaupt.de/en/index.html                                                            | ✓ | ⏱: 0.93s 
+[FETCH]... ↓ https://www.schwarzhaupt.de/en/kontakt.html                                                          | ✓ | ⏱: 0.39s 
+[SCRAPE].. ◆ https://www.schwarzhaupt.de/en/kontakt.html                                                          | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.schwarzhaupt.de/en/kontakt.html                                                          | ✓ | ⏱: 1.12s 
+[FETCH]... ↓ https://www.schwarzhaupt.de/en/impressum.html                                                        | ✓ | ⏱: 0.39s 
+[SCRAPE].. ◆ https://www.schwarzhaupt.de/en/impressum.html                                                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.schwarzhaupt.de/en/impressum.html                                                        | ✓ | ⏱: 1.12s 
+[FETCH]... ↓ http://www.schwarzhaupt.de/index.html                                                                | ✓ | ⏱: 0.69s 
+[SCRAPE].. ◆ http://www.schwarzhaupt.de/index.html                                                                | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://www.schwarzhaupt.de/index.html                                                                | ✓ | ⏱: 1.86s 
+[FETCH]... ↓ https://www.schwarzhaupt.de/en/produkte.html                                                         | ✓ | ⏱: 0.52s 
+[SCRAPE].. ◆ https://www.schwarzhaupt.de/en/produkte.html                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.schwarzhaupt.de/en/produkte.html                                                         | ✓ | ⏱: 1.10s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260824/schwarzhaupt-gmbh-co-kg-758dd55218c5.json

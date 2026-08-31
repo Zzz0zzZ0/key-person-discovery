@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://dimex.pl",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "http://www.www.dimex.pl/sitemap.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.www.dimex.pl'. (_ssl.c:1016)>"
+  }
+]

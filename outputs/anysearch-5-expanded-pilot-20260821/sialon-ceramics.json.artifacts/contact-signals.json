@@ -1,0 +1,45 @@
+[
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+    "status": "observed",
+    "source_url": "https://sialon.com/online-meeting/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4535158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/online-meeting/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18337091399",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/online-meeting/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46317540790",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/online-meeting/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4635158085",
+    "status": "valid_format",
+    "source_url": "https://sialon.com/online-meeting/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

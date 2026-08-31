@@ -1,0 +1,626 @@
+[
+  {
+    "channel": "email",
+    "value": "export@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "didem.undul@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "export1@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "gamze.sabukazan@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ilenay.caliskan@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "southamerica@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+902626581434",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+905333313723",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+905330350916",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+905327358723",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+905332525577",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+61737166900",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+13468478287",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49711187780",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34943261040",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "export@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/"
+  },
+  {
+    "channel": "email",
+    "value": "didem.undul@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/"
+  },
+  {
+    "channel": "email",
+    "value": "canberk.kilic@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/"
+  },
+  {
+    "channel": "email",
+    "value": "export1@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/"
+  },
+  {
+    "channel": "email",
+    "value": "gamze.sabukazan@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/"
+  },
+  {
+    "channel": "email",
+    "value": "ilenay.caliskan@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/"
+  },
+  {
+    "channel": "email",
+    "value": "info@castleinternational.com.au",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/"
+  },
+  {
+    "channel": "email",
+    "value": "jstaack@staackllc.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/"
+  },
+  {
+    "channel": "email",
+    "value": "info@baeurle.de",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/"
+  },
+  {
+    "channel": "email",
+    "value": "marrieta@euskosteel.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/"
+  },
+  {
+    "channel": "phone",
+    "value": "+902626581434",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+905333313723",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+905305559665",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+905330350916",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+905327358723",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+905332525577",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+61737166900",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+13468478287",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+49711187780",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+34943261040",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team-test/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com"
+  },
+  {
+    "channel": "phone",
+    "value": "+902626581434",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "export@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/about-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+902626581434",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "export@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "didem.undul@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "export1@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "gamze.sabukazan@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ilenay.caliskan@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "southamerica@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+902626581434",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+905333313723",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+905330350916",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+905327358723",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+905332525577",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+61737166900",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+13468478287",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+491724207673",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34943261040",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/teams/nick-halen/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@gmail.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/teams/nick-halen/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+902626581434",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/teams/nick-halen/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "export@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/en/our-team/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+902626581434",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-team/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/teams/courtney-henry/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@gmail.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/teams/courtney-henry/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+902626581434",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/teams/courtney-henry/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "eg.sample@xyz.com",
+    "status": "observed",
+    "source_url": "https://www.tradekey.com/company/CEL-MER-STEEL-COMPANY-1845982.html",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contactus@tradekey.com",
+    "status": "observed",
+    "source_url": "https://www.tradekey.com/company/CEL-MER-STEEL-COMPANY-1845982.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+12092272270",
+    "status": "valid_format",
+    "source_url": "https://www.tradekey.com/company/CEL-MER-STEEL-COMPANY-1845982.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18886529307",
+    "status": "valid_format",
+    "source_url": "https://www.tradekey.com/company/CEL-MER-STEEL-COMPANY-1845982.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/wp-content/uploads/2026/01/CE-ISO14046-2025-Rapor-TR.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "ik@celmercelik.com",
+    "status": "observed",
+    "source_url": "https://celmercelik.com/wp-content/uploads/2024/07/tedarikci-kvkk.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "export@celmercelik.com",
+    "status": "probable",
+    "source_url": "https://celmercelik.com/en/about-us",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+902626581434",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/about-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "export@celmercelik.com",
+    "status": "probable",
+    "source_url": "https://celmercelik.com/en/our-team",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+902626581434",
+    "status": "valid_format",
+    "source_url": "https://celmercelik.com/en/our-team",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@castleinternational.com.au",
+    "status": "probable",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jstaack@staackllc.com",
+    "status": "probable",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@baeurle.de",
+    "status": "probable",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "marrieta@euskosteel.com",
+    "status": "probable",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "africa@celmercelik.com",
+    "status": "probable",
+    "source_url": "https://celmercelik.com/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@castleinternational.com.au",
+    "status": "probable",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jstaack@staackllc.com",
+    "status": "probable",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "h.yilmaz@sonne-stahl.de",
+    "status": "probable",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "marrieta@euskosteel.com",
+    "status": "probable",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "africa@celmercelik.com",
+    "status": "probable",
+    "source_url": "https://celmercelik.com/en/our-international-sales-team/",
+    "company_public": true
+  }
+]

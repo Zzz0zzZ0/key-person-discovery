@@ -1,0 +1,8 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://buerstlein-guss.de                                                                           | ✓ | ⏱: 3.24s 
+[SCRAPE].. ◆ https://buerstlein-guss.de                                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://buerstlein-guss.de                                                                           | ✓ | ⏱: 5.06s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260824/b-rstlein-guss-gmbh-co-80224bde03b2.json

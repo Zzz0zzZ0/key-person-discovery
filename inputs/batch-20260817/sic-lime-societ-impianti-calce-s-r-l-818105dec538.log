@@ -1,0 +1,61 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://sic-lime.com/fr/news-fr/articolo-1/                                                          | ✓ | ⏱: 2.70s 
+[SCRAPE].. ◆ https://sic-lime.com/fr/news-fr/articolo-1/                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sic-lime.com/fr/news-fr/articolo-1/                                                          | ✓ | ⏱: 3.78s 
+[FETCH]... ↓ https://sic-lime.com/it/news/articolo-1/                                                             | ✓ | ⏱: 2.76s 
+[SCRAPE].. ◆ https://sic-lime.com/it/news/articolo-1/                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sic-lime.com/it/news/articolo-1/                                                             | ✓ | ⏱: 3.50s 
+[FETCH]... ↓ https://sic-lime.com/fr/news-fr/articolo-2/                                                          | ✓ | ⏱: 2.61s 
+[SCRAPE].. ◆ https://sic-lime.com/fr/news-fr/articolo-2/                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sic-lime.com/fr/news-fr/articolo-2/                                                          | ✓ | ⏱: 3.51s 
+[FETCH]... ↓ https://sic-lime.com/it/news/articolo-2/                                                             | ✓ | ⏱: 2.58s 
+[SCRAPE].. ◆ https://sic-lime.com/it/news/articolo-2/                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sic-lime.com/it/news/articolo-2/                                                             | ✓ | ⏱: 3.53s 
+[FETCH]... ↓ https://sic-lime.com/it/news/articolo-3/                                                             | ✓ | ⏱: 0.56s 
+[SCRAPE].. ◆ https://sic-lime.com/it/news/articolo-3/                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sic-lime.com/it/news/articolo-3/                                                             | ✓ | ⏱: 0.58s 
+[FETCH]... ↓ https://sic-lime.com/it/news/articolo-5/                                                             | ✓ | ⏱: 0.67s 
+[SCRAPE].. ◆ https://sic-lime.com/it/news/articolo-5/                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sic-lime.com/it/news/articolo-5/                                                             | ✓ | ⏱: 0.70s 
+[FETCH]... ↓ https://sic-lime.com/it/news/articolo-6/                                                             | ✓ | ⏱: 0.69s 
+[SCRAPE].. ◆ https://sic-lime.com/it/news/articolo-6/                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sic-lime.com/it/news/articolo-6/                                                             | ✓ | ⏱: 0.71s 
+[FETCH]... ↓ https://sic-lime.com/it/news/articolo-4/                                                             | ✓ | ⏱: 0.71s 
+[SCRAPE].. ◆ https://sic-lime.com/it/news/articolo-4/                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sic-lime.com/it/news/articolo-4/                                                             | ✓ | ⏱: 0.73s 
+[FETCH]... ↓ https://sic-lime.com/news-en/articolo-1/                                                             | ✓ | ⏱: 0.56s 
+[SCRAPE].. ◆ https://sic-lime.com/news-en/articolo-1/                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sic-lime.com/news-en/articolo-1/                                                             | ✓ | ⏱: 0.58s 
+[FETCH]... ↓ https://sic-lime.com/news-en/articolo-2/                                                             | ✓ | ⏱: 0.74s 
+[SCRAPE].. ◆ https://sic-lime.com/news-en/articolo-2/                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sic-lime.com/news-en/articolo-2/                                                             | ✓ | ⏱: 0.76s 
+[FETCH]... ↓ https://sic-lime.com/the-company/history/                                                            | ✓ | ⏱: 0.58s 
+[SCRAPE].. ◆ https://sic-lime.com/the-company/history/                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sic-lime.com/the-company/history/                                                            | ✓ | ⏱: 0.60s 
+[FETCH]... ↓ https://sic-lime.com/the-company/sic-nel-mondo/                                                      | ✓ | ⏱: 1.27s 
+[SCRAPE].. ◆ https://sic-lime.com/the-company/sic-nel-mondo/                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sic-lime.com/the-company/sic-nel-mondo/                                                      | ✓ | ⏱: 1.29s 
+[FETCH]... ↓ https://www.sic-lime.com                                                                             | ✓ | ⏱: 5.35s 
+[SCRAPE].. ◆ https://www.sic-lime.com                                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.sic-lime.com                                                                             | ✓ | ⏱: 6.58s 
+[INIT].... → Crawl4AI 0.9.2 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://sic-lime.com/fr/category/news-fr/                                                            | ✓ | ⏱: 3.29s 
+[SCRAPE].. ◆ https://sic-lime.com/fr/category/news-fr/                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sic-lime.com/fr/category/news-fr/                                                            | ✓ | ⏱: 3.31s 
+[FETCH]... ↓ https://sic-lime.com/it/category/news/                                                               | ✓ | ⏱: 2.99s 
+[SCRAPE].. ◆ https://sic-lime.com/it/category/news/                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sic-lime.com/it/category/news/                                                               | ✓ | ⏱: 3.02s 
+[FETCH]... ↓ https://sic-lime.com/fr/contacts/                                                                    | ✓ | ⏱: 3.00s 
+[SCRAPE].. ◆ https://sic-lime.com/fr/contacts/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sic-lime.com/fr/contacts/                                                                    | ✓ | ⏱: 3.03s 
+[FETCH]... ↓ https://sic-lime.com/fr/technologies/machines-et-equipements/                                        | ✓ | ⏱: 3.02s 
+[SCRAPE].. ◆ https://sic-lime.com/fr/technologies/machines-et-equipements/                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sic-lime.com/fr/technologies/machines-et-equipements/                                        | ✓ | ⏱: 3.05s 
+[FETCH]... ↓ https://sic-lime.com/the-company/                                                                    | ✓ | ⏱: 0.58s 
+[SCRAPE].. ◆ https://sic-lime.com/the-company/                                                                    | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://sic-lime.com/the-company/                                                                    | ✓ | ⏱: 0.60s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260817/sic-lime-societ-impianti-calce-s-r-l-818105dec538.json

@@ -1,0 +1,24 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://carborundum.technology/impressum/?lang=en                                                    | ✓ | ⏱: 3.33s 
+[SCRAPE].. ◆ https://carborundum.technology/impressum/?lang=en                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://carborundum.technology/impressum/?lang=en                                                    | ✓ | ⏱: 5.23s 
+[FETCH]... ↓ https://carborundum.technology/kontakt/?lang=en                                                      | ✓ | ⏱: 3.35s 
+[SCRAPE].. ◆ https://carborundum.technology/kontakt/?lang=en                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://carborundum.technology/kontakt/?lang=en                                                      | ✓ | ⏱: 5.25s 
+[FETCH]... ↓ https://carborundum.technology/?lang=en                                                              | ✓ | ⏱: 3.24s 
+[SCRAPE].. ◆ https://carborundum.technology/?lang=en                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://carborundum.technology/?lang=en                                                              | ✓ | ⏱: 5.27s 
+[FETCH]... ↓ https://carborundum.technology                                                                       | ✓ | ⏱: 3.65s 
+[SCRAPE].. ◆ https://carborundum.technology                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://carborundum.technology                                                                       | ✓ | ⏱: 5.67s 
+[FETCH]... ↓ https://www.zoominfo.com/c/carborundum-schleifmittelfabrik-gmbh/447005462                            | ✓ | ⏱: 0.45s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/carborundum-schleifmittelfabrik-gmbh/447005462                            | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...elfabrik-gmbh/447005462  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.zoominfo.com/c/carborundum-schleifmittelfabrik-gmbh/447005462                            | ✗ | ⏱: 1.12s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.zoominfo.com/c/carborundum-schleifmittelfabrik-gmbh/447005462                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.zoominfo.com/c/carborundum-schleifmittelfabrik-gmbh/447005462                            | ✓ | ⏱: 0.00s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260824/carborundum-schleifmittelwerk-gmbh-893579389bb5.json

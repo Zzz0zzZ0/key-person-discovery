@@ -1,0 +1,162 @@
+{
+  "company_name": "Cobre Las Cruces",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "flast@cobrelascruces.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "jdoe@cobrelascruces.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "first@cobrelascruces.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "john@cobrelascruces.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "first.last@cobrelascruces.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "john.doe@cobrelascruces.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "first.middle@cobrelascruces.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "john.michael@cobrelascruces.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "first@cobrelascruces.comfirst.last",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "support@leadiq.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sales@leadiq.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@fqml.com",
+      "status": "observed",
+      "source_url": "https://www.first-quantum.com/operations/cobre-las-cruces/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "james.devas@fqml.com",
+      "status": "observed",
+      "source_url": "https://www.first-quantum.com/operations/cobre-las-cruces/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+442072916630",
+      "status": "valid_format",
+      "source_url": "https://www.first-quantum.com/operations/cobre-las-cruces/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "validation_rejections": [
+    {
+      "full_name": "Pedro Soler Alcantara",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Carlos Cabello Castañeda",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Jonathan Gomez",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Natalia Moreno",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 35,
+    "search_engine_warnings": 1,
+    "urls_crawled": 24,
+    "crawl_failures": 11,
+    "contact_signals": 18,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 1,
+    "pdf_documents_processed": 1,
+    "pdf_documents_extracted": 1,
+    "pdf_pages_extracted": 6,
+    "pdf_failures": 1,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 4,
+    "crm_contact_count": 1,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 14,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

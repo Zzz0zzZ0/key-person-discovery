@@ -1,0 +1,656 @@
+[
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/etiqueta-producto/andamio-team",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/etiqueta-producto/andamio-team",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/etiqueta-producto/andamio-team",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/etiqueta-producto/andamio-team",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/about",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/about",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/about",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/about",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/contacto",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/contacto",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/contacto",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/contacto",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/newsletter",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/newsletter",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/newsletter",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/newsletter",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/marca/kaise",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/marca/kaise",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/marca/kaise",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/marca/kaise",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/orden-ministerial-sobre-marcas-viales",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/orden-ministerial-sobre-marcas-viales",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/orden-ministerial-sobre-marcas-viales",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/orden-ministerial-sobre-marcas-viales",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/marca/winnteck",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/marca/winnteck",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/marca/winnteck",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/marca/winnteck",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/producto/generador-8000w-angliru-s",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/producto/generador-8000w-angliru-s",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/producto/generador-8000w-angliru-s",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/producto/generador-8000w-angliru-s",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/producto/andamio-multifuncion-team",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/producto/andamio-multifuncion-team",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/producto/andamio-multifuncion-team",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/producto/andamio-multifuncion-team",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/producto/generador-de-vapor-kgvai9000-con-aspiracion",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/producto/generador-de-vapor-kgvai9000-con-aspiracion",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/producto/generador-de-vapor-kgvai9000-con-aspiracion",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/producto/generador-de-vapor-kgvai9000-con-aspiracion",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/producto/generador-de-vapor-kgvi6000",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/producto/generador-de-vapor-kgvi6000",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/producto/generador-de-vapor-kgvi6000",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/producto/generador-de-vapor-kgvi6000",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/producto/generador-ozono-krdg-o3-225p-15-programable",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/producto/generador-ozono-krdg-o3-225p-15-programable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/producto/generador-ozono-krdg-o3-225p-15-programable",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/producto/generador-ozono-krdg-o3-225p-15-programable",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/producto/juego-2-redes-para-porterias",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/producto/juego-2-redes-para-porterias",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/producto/juego-2-redes-para-porterias",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/producto/juego-2-redes-para-porterias",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/producto/nebulizador-krd-ap14-5e-electrico-portatil",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/producto/nebulizador-krd-ap14-5e-electrico-portatil",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/producto/nebulizador-krd-ap14-5e-electrico-portatil",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/producto/nebulizador-krd-ap14-5e-electrico-portatil",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/shop/page/109",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/shop/page/109",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/shop/page/109",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/shop/page/109",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/reembolso_devoluciones",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/reembolso_devoluciones",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/reembolso_devoluciones",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/reembolso_devoluciones",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/sobre-nosotros",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/sobre-nosotros",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/sobre-nosotros",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/sobre-nosotros",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://www.amasuin.com/productos/herramienta-antimagn%C3%A9tica/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://www.amasuin.com/la-empresa/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/contact-v2",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/contact-v2",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/contact-v2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/contact-v2",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "david@amasuin.com",
+    "status": "observed",
+    "source_url": "https://amasuin.es/etiqueta-producto/andamio-multifuncion-team",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/amasuin",
+    "status": "observed",
+    "source_url": "https://amasuin.es/etiqueta-producto/andamio-multifuncion-team",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34936435797",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/etiqueta-producto/andamio-multifuncion-team",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34678745474",
+    "status": "valid_format",
+    "source_url": "https://amasuin.es/etiqueta-producto/andamio-multifuncion-team",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

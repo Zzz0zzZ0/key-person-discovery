@@ -1,0 +1,120 @@
+[
+  {
+    "channel": "email",
+    "value": "info@sie-industrial.co.uk",
+    "status": "observed",
+    "source_url": "https://sieindustrial.co.uk/case-studies/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+441914165127",
+    "status": "valid_format",
+    "source_url": "https://sieindustrial.co.uk/case-studies/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@sie-industrial.co.uk",
+    "status": "observed",
+    "source_url": "https://sieindustrial.co.uk/company/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+441914165127",
+    "status": "valid_format",
+    "source_url": "https://sieindustrial.co.uk/company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@sie-industrial.co.uk",
+    "status": "observed",
+    "source_url": "https://sieindustrial.co.uk",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+441914165127",
+    "status": "valid_format",
+    "source_url": "https://sieindustrial.co.uk",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@sieindustrial.co.uk",
+    "status": "observed",
+    "source_url": "https://sieindustrial.co.uk/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "energicoast@nof.co.uk",
+    "status": "observed",
+    "source_url": "https://energicoast.co.uk/supply-chain-directory/sie-industrial-services-ltd/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "gareth@sieindustrial.co.uk",
+    "status": "observed",
+    "source_url": "https://energicoast.co.uk/supply-chain-directory/sie-industrial-services-ltd/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+441913846464",
+    "status": "valid_format",
+    "source_url": "https://energicoast.co.uk/supply-chain-directory/sie-industrial-services-ltd/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+441914165127",
+    "status": "valid_format",
+    "source_url": "https://www.processregister.com/SIE_Industrial_Ltd/Supplier/sid230585.htm",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+441914153876",
+    "status": "valid_format",
+    "source_url": "https://www.processregister.com/SIE_Industrial_Ltd/Supplier/sid230585.htm",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://uk.linkedin.com/in/paul-bowen-01722488",
+    "status": "probable",
+    "source_url": "https://uk.linkedin.com/in/paul-bowen-01722488"
+  },
+  {
+    "channel": "email",
+    "value": "info@sie-industrial.co.uk",
+    "status": "probable",
+    "source_url": "https://sieindustrial.co.uk/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+441914165127",
+    "status": "valid_format",
+    "source_url": "https://sieindustrial.co.uk/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

@@ -1,0 +1,424 @@
+[
+  {
+    "channel": "email",
+    "value": "info@keramischekerne.de",
+    "status": "observed",
+    "source_url": "https://www.keramischekerne.de",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479720",
+    "status": "valid_format",
+    "source_url": "https://www.keramischekerne.de",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479719",
+    "status": "valid_format",
+    "source_url": "https://www.keramischekerne.de",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@keramischekerne.de",
+    "status": "observed",
+    "source_url": "https://www.keramischekerne.de/barrierefreiheitserklaerung/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "poststelle@bfbmb.bwl.de",
+    "status": "observed",
+    "source_url": "https://www.keramischekerne.de/barrierefreiheitserklaerung/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479720",
+    "status": "valid_format",
+    "source_url": "https://www.keramischekerne.de/barrierefreiheitserklaerung/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497112793360",
+    "status": "valid_format",
+    "source_url": "https://www.keramischekerne.de/barrierefreiheitserklaerung/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479719",
+    "status": "valid_format",
+    "source_url": "https://www.keramischekerne.de/barrierefreiheitserklaerung/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@keramischekerne.de",
+    "status": "observed",
+    "source_url": "https://www.keramischekerne.de/datenschutz/"
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479720",
+    "status": "valid_format",
+    "source_url": "https://www.keramischekerne.de/datenschutz/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479719",
+    "status": "valid_format",
+    "source_url": "https://www.keramischekerne.de/datenschutz/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@keramischekerne.de",
+    "status": "observed",
+    "source_url": "http://keramischekerne.de/Frankreich/startseite.htm"
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479720",
+    "status": "valid_format",
+    "source_url": "http://keramischekerne.de/Frankreich/startseite.htm",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479719",
+    "status": "valid_format",
+    "source_url": "http://keramischekerne.de/Frankreich/startseite.htm",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@keramischekerne.de",
+    "status": "observed",
+    "source_url": "https://www.keramischekerne.de/impressum/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479720",
+    "status": "valid_format",
+    "source_url": "https://www.keramischekerne.de/impressum/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479719",
+    "status": "valid_format",
+    "source_url": "https://www.keramischekerne.de/impressum/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@keramischekerne.de",
+    "status": "observed",
+    "source_url": "https://www.11880.com/branchenbuch/herbertingen/180702231B102081494/schwarz-praezisionskeramik.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479720",
+    "status": "valid_format",
+    "source_url": "https://www.11880.com/branchenbuch/herbertingen/180702231B102081494/schwarz-praezisionskeramik.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@keramischekerne.de",
+    "status": "observed",
+    "source_url": "https://www.keramischekerne.de/impressum/index.php",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479720",
+    "status": "valid_format",
+    "source_url": "https://www.keramischekerne.de/impressum/index.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479719",
+    "status": "valid_format",
+    "source_url": "https://www.keramischekerne.de/impressum/index.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@keramischekerne.de",
+    "status": "observed",
+    "source_url": "https://www.keramischekerne.de/indexen.php",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479720",
+    "status": "valid_format",
+    "source_url": "https://www.keramischekerne.de/indexen.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479719",
+    "status": "valid_format",
+    "source_url": "https://www.keramischekerne.de/indexen.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@keramischekerne.de",
+    "status": "observed",
+    "source_url": "https://www.keramischekerne.de/unternehmen/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479720",
+    "status": "valid_format",
+    "source_url": "https://www.keramischekerne.de/unternehmen/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479719",
+    "status": "valid_format",
+    "source_url": "https://www.keramischekerne.de/unternehmen/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "julieboyce@eicf.org",
+    "status": "observed",
+    "source_url": "https://eicf.org/schwarz-przisionskeramik-becomes-eicf-new-member/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+441564743077",
+    "status": "valid_format",
+    "source_url": "https://eicf.org/schwarz-przisionskeramik-becomes-eicf-new-member/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479719",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49758692020",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497586920222",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975865880",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49758658860",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975861303",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975861304",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497586331",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497586332",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975862479720",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497586918555",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497586918562",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4975869590",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497586959575",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4973715156",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49737144177",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497371936430",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4973719364329",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497371129596",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4973711296096",
+    "status": "valid_format",
+    "source_url": "https://www.vergleiche24.de/stadt/herbertingen/profil/schwarz-praezisionskeramik/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

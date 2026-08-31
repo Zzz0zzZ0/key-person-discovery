@@ -1,0 +1,182 @@
+{
+  "name": "Rubin Trading AD",
+  "website": "https://rubin-glass.eu",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "015ee8fc-d6df-4dbe-949b-47f6d6d42f92",
+  "crm_linkedin_url": null,
+  "crm_country": "Bulgaria",
+  "crm_updated_at": "2026-07-27T07:56:01.12613+00:00",
+  "crm_contact_count": 14,
+  "crm_contacts": [
+    {
+      "name": "Aleksandra Atanasova",
+      "email": null,
+      "additional_emails": [
+        "a.atanasova@rubin-glass.bg"
+      ],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Mihael Dimitrov",
+      "email": null,
+      "additional_emails": [
+        "mihael.dimitrov@rubin-glass.bg"
+      ],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Rubin Glass Factory",
+      "email": null,
+      "additional_emails": [
+        "sales@rubin-glass.bg"
+      ],
+      "phone": "+359 875 308 166\n+359 875 308 169\n+359 878 743 903",
+      "additional_phones": null,
+      "linkedin": "",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Elena Gigova",
+      "email": null,
+      "additional_emails": [
+        "e.gigova@rubin-glass.bg"
+      ],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Mirela Krachunova",
+      "email": null,
+      "additional_emails": [
+        "m.krachunova@rubin-glass.bg"
+      ],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Rubin Trading JSC",
+      "email": null,
+      "additional_emails": [],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "https://bg.linkedin.com/company/rubin-trading-jsc",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Lyudmila Tsekova",
+      "email": null,
+      "additional_emails": [
+        "l.tsekova@rubin-glass.bg"
+      ],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Ognyan Ralchev",
+      "email": null,
+      "additional_emails": [],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/ognyan-ralchev-23657a62",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Mariyana Urkova",
+      "email": null,
+      "additional_emails": [
+        "m.urkova@rubin-glass.bg"
+      ],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Ivan Chalakov",
+      "email": null,
+      "additional_emails": [],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/ivan-chalakov-98baa183",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Venera Rusolova",
+      "email": null,
+      "additional_emails": [],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/venera-rusolova-ab0bab2b4",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Velislava Papurkova",
+      "email": null,
+      "additional_emails": [],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/velislava-papurkova-3a3192205",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Antoaneta Vasileva",
+      "email": null,
+      "additional_emails": [
+        "a.vasileva@rubin-glass.bg"
+      ],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Simona Goranova",
+      "email": null,
+      "additional_emails": [
+        "s.goranova@rubin-glass.bg"
+      ],
+      "phone": "",
+      "additional_phones": null,
+      "linkedin": "",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-17T02:38:50.909875+00:00",
+  "source": "twenty_postgresql_read_only"
+}

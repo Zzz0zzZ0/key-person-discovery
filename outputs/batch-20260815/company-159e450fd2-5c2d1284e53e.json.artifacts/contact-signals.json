@@ -1,0 +1,32 @@
+[
+  {
+    "channel": "phone",
+    "value": "+6638065648",
+    "status": "valid_format",
+    "source_url": "https://www.mahamitr.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@mahamitr.com",
+    "status": "observed",
+    "source_url": "https://www.facebook.com/mahamitr/posts/-%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97-%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3-%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%99%E0%B8%88%E0%B8%B4%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B8%88%E0%B8%B3%E0%B8%81%E0%B8%B1%E0%B8%94-%E0%B8%82%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B9%83%E0%B8%88-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5-%E0%B9%80/1162221855910888/"
+  },
+  {
+    "channel": "phone",
+    "value": "+66970697572",
+    "status": "valid_format",
+    "source_url": "https://www.facebook.com/mahamitr/posts/-%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97-%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3-%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%99%E0%B8%88%E0%B8%B4%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B8%88%E0%B8%B3%E0%B8%81%E0%B8%B1%E0%B8%94-%E0%B8%82%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B9%83%E0%B8%88-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5-%E0%B9%80/1162221855910888/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+6638065648",
+    "status": "valid_format",
+    "source_url": "https://www.mahamitr.com/?/65128d3b3b75050012ef273e/?/65138fb153502700135c67e1",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

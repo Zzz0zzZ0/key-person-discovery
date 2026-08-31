@@ -1,0 +1,30 @@
+[
+  {
+    "kind": "candidate",
+    "full_name": "Siobhán Duffy",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "candidate",
+    "full_name": "Erica Leathers",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "candidate",
+    "full_name": "Richard Lawson",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "channel": "email",
+    "value": "sales@invictawatch.com",
+    "status": "observed",
+    "source_url": "https://staging2.invictawatch.com/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jobs@invictawatch.com",
+    "status": "observed",
+    "source_url": "https://staging2.invictawatch.com/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "invicta@iwscwatchrepair.com",
+    "status": "observed",
+    "source_url": "https://staging2.invictawatch.com/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "help@invictastores.com",
+    "status": "observed",
+    "source_url": "https://invictastores.com/pages/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "invicta@iwscwatchrepair.com",
+    "status": "observed",
+    "source_url": "https://invicta.pissedconsumer.com/customer-service.html",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@invictawatch.com",
+    "status": "observed",
+    "source_url": "https://invicta.pissedconsumer.com/customer-service.html",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jobs@invictawatch.com",
+    "status": "observed",
+    "source_url": "https://invicta.pissedconsumer.com/customer-service.html",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@invictawatch.com",
+    "status": "observed",
+    "source_url": "https://invicta.pissedconsumer.com/customer-service.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+19549214222",
+    "status": "valid_format",
+    "source_url": "https://invicta.pissedconsumer.com/customer-service.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+19549212508",
+    "status": "valid_format",
+    "source_url": "https://invicta.pissedconsumer.com/customer-service.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@invicta-attachments.co.uk",
+    "status": "observed",
+    "source_url": "https://invicta-attachments.co.uk/a-day-in-the-life-of-our-technical-manager/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33620423860",
+    "status": "valid_format",
+    "source_url": "https://www.invicta.fr/en/press-lounge",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "rgpd@invictagroup.zendesk.com",
+    "status": "observed",
+    "source_url": "https://www.invicta.fr/en/privacy-policy",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@invictacap.com",
+    "status": "observed",
+    "source_url": "https://www.invictacap.com/sourcing-support.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+902122444826",
+    "status": "valid_format",
+    "source_url": "https://www.invictacap.com/sourcing-support.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@invictawatch.com",
+    "status": "observed",
+    "source_url": "https://www.invictawatch.com/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jobs@invictawatch.com",
+    "status": "observed",
+    "source_url": "https://www.invictawatch.com/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "invicta@iwscwatchrepair.com",
+    "status": "observed",
+    "source_url": "https://www.invictawatch.com/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "support@leadiq.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/invicta-solutions-group/5e8a197b03157faf17013442/employee-directory",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@leadiq.com",
+    "status": "observed",
+    "source_url": "https://leadiq.com/c/invicta-solutions-group/5e8a197b03157faf17013442/employee-directory",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "accueil@invicta-group.fr",
+    "status": "observed",
+    "source_url": "https://www.eurobrico.com/foto/pdf_ftp/000405143_ST_1724154824116_ecodesign-inserto-a-legna-invicta-650t.pdf"
+  },
+  {
+    "channel": "phone",
+    "value": "+33324277171",
+    "status": "valid_format",
+    "source_url": "https://www.eurobrico.com/foto/pdf_ftp/000405143_ST_1724154824116_ecodesign-inserto-a-legna-invicta-650t.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "accueil@invicta-group.fr",
+    "status": "observed",
+    "source_url": "https://www.invicta.fr/wp-content/uploads/2025/05/MIRA-ETANCHE-8-Wi-Fi-SDC_ED2022C_ENG.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33324277171",
+    "status": "valid_format",
+    "source_url": "https://www.invicta.fr/wp-content/uploads/2025/05/MIRA-ETANCHE-8-Wi-Fi-SDC_ED2022C_ENG.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "accueil@invicta-group.fr",
+    "status": "observed",
+    "source_url": "https://www.invicta.fr/wp-content/uploads/2024/12/NOLA-STYLE-ETANCHE-8-Wi-Fi_ED2022C_FRA.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33324277171",
+    "status": "valid_format",
+    "source_url": "https://www.invicta.fr/wp-content/uploads/2024/12/NOLA-STYLE-ETANCHE-8-Wi-Fi_ED2022C_FRA.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/jared-joubert-923065a2",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/jared-joubert-923065a2"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://gt.linkedin.com/in/invicta-invicta-a36a2775",
+    "status": "probable",
+    "source_url": "https://gt.linkedin.com/in/invicta-invicta-a36a2775"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/invicta-ecuador-863b60103",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/invicta-ecuador-863b60103"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/carlosequintana85",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/andrea-gomez-b6b61451"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/andrea-gomez-b6b61451",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/andrea-gomez-b6b61451"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/invicta-pte-ltd-2797831a5",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/invicta-pte-ltd-2797831a5"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/grupo-invicta-18a078371",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/grupo-invicta-18a078371"
+  },
+  {
+    "channel": "email",
+    "value": "accueil@invicta-group.fr",
+    "status": "probable",
+    "source_url": "https://www.invicta.fr/wp-content/uploads/2024/08/LODI-ETANCHE-6-Wi-Fi-SDC_ED2022C_FRA.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33324277171",
+    "status": "valid_format",
+    "source_url": "https://www.invicta.fr/wp-content/uploads/2024/08/LODI-ETANCHE-6-Wi-Fi-SDC_ED2022C_FRA.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "s2h50200@gmail.com",
+    "status": "probable",
+    "source_url": "https://www.invicta.fr/fr/store/installateur/s2h/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contact@evrardetfils.com",
+    "status": "probable",
+    "source_url": "https://www.invicta.fr/fr/store/installateur/evrard-et-fils/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contact@invictashop-pontivy.frwebsite",
+    "status": "probable",
+    "source_url": "https://www.invicta.fr/fr/store/invicta-shop/invicta-shop-56-pontivy-flamme-du-golfe/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sav.invicta.rhone@gmail.com",
+    "status": "probable",
+    "source_url": "https://www.invicta.fr/fr/store/station-technique/iso-chauff-confort-certiflam-2/",
+    "company_public": true
+  }
+]

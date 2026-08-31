@@ -1,0 +1,829 @@
+[
+  {
+    "channel": "email",
+    "value": "a.szkuta@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/koks/en/products/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "a.buchta@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/koks/en/products/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "w.kubik@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/koks/en/products/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "n.kubik@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/koks/en/products/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "grafit@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/koks/en/products/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48605432439",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/koks/en/products/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48881026257",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/koks/en/products/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48603929301",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/koks/en/products/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48605422432",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/koks/en/products/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kupicha@dimex.pl",
+    "status": "observed",
+    "source_url": "http://dimex.pl/plytki/en/contact-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "fura@dimex.pl",
+    "status": "observed",
+    "source_url": "http://dimex.pl/plytki/en/contact-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "giglok@dimex.pl",
+    "status": "observed",
+    "source_url": "http://dimex.pl/plytki/en/contact-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "dimex@dimex.pl",
+    "status": "observed",
+    "source_url": "http://dimex.pl/plytki/en/contact-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ksiegowosc@dimex.pl",
+    "status": "observed",
+    "source_url": "http://dimex.pl/plytki/en/contact-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tch@dimex.pl",
+    "status": "observed",
+    "source_url": "http://dimex.pl/plytki/en/contact-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "m.szkuta@dimex.pl",
+    "status": "observed",
+    "source_url": "http://dimex.pl/plytki/en/contact-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "solik@dimex.pl",
+    "status": "observed",
+    "source_url": "http://dimex.pl/plytki/en/contact-details/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48601312090",
+    "status": "valid_format",
+    "source_url": "http://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48603312060",
+    "status": "valid_format",
+    "source_url": "http://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48601651653",
+    "status": "valid_format",
+    "source_url": "http://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564356",
+    "status": "valid_format",
+    "source_url": "http://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564372",
+    "status": "valid_format",
+    "source_url": "http://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564340",
+    "status": "valid_format",
+    "source_url": "http://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48605422432",
+    "status": "valid_format",
+    "source_url": "http://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48605249357",
+    "status": "valid_format",
+    "source_url": "http://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48693620807",
+    "status": "valid_format",
+    "source_url": "http://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "a.stanek@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/company-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "transport@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/company-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ksiegowosc@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/company-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tch@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/company-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "m.szkuta@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/company-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "solik@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/company-details/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48532081835",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/company-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564356",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/company-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564372",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/company-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564340",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/company-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48605422432",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/company-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48605249357",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/company-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48693620807",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/company-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "transport@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/contact-us2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ksiegowosc@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/contact-us2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tch@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/contact-us2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "m.szkuta@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/contact-us2/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "solik@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/contact-us2/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564356",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/contact-us2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564372",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/contact-us2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564340",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/contact-us2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48605422432",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/contact-us2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48605249357",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/contact-us2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48693620807",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/kontenery-morskie/en/contact-us2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "m.ogierman@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/spedycja/en/company-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "t.ziomek@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/spedycja/en/company-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "s.swadzba@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/spedycja/en/company-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "transport@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/spedycja/en/company-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ksiegowosc@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/spedycja/en/company-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tch@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/spedycja/en/company-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "m.szkuta@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/spedycja/en/company-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "solik@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/spedycja/en/company-details/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48506227936",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/spedycja/en/company-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48539093779",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/spedycja/en/company-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48539092745",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/spedycja/en/company-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564356",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/spedycja/en/company-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564372",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/spedycja/en/company-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564340",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/spedycja/en/company-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48605422432",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/spedycja/en/company-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48605249357",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/spedycja/en/company-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48693620807",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/spedycja/en/company-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "a.szkuta@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "w.kubik@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "a.buchta@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "grafit@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "dimex@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "koks@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ksiegowosc@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tch@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "m.szkuta@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "solik@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48605432439",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48603929301",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48881026257",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48605422432",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564356",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564372",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564340",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48605249357",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48693620807",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/koks/en/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kupicha@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/plytki/en/contact-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "fura@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/plytki/en/contact-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "giglok@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/plytki/en/contact-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "dimex@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/plytki/en/contact-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ksiegowosc@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/plytki/en/contact-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tch@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/plytki/en/contact-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "m.szkuta@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/plytki/en/contact-details/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "solik@dimex.pl",
+    "status": "observed",
+    "source_url": "https://dimex.pl/plytki/en/contact-details/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48601312090",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48603312060",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48601651653",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564356",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564372",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48322564340",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48605422432",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48605249357",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48693620807",
+    "status": "valid_format",
+    "source_url": "https://dimex.pl/plytki/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

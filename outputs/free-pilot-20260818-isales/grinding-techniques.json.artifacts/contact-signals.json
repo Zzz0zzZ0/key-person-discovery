@@ -1,0 +1,274 @@
+[
+  {
+    "channel": "email",
+    "value": "info@grindtech.com",
+    "status": "observed",
+    "source_url": "https://www.grindtech.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hr@grindtech.com",
+    "status": "observed",
+    "source_url": "https://www.grindtech.com",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112716400",
+    "status": "valid_format",
+    "source_url": "https://www.grindtech.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27123330977",
+    "status": "valid_format",
+    "source_url": "https://www.grindtech.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27317012882",
+    "status": "valid_format",
+    "source_url": "https://www.grindtech.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27414845128",
+    "status": "valid_format",
+    "source_url": "https://www.grindtech.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27215526840",
+    "status": "valid_format",
+    "source_url": "https://www.grindtech.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@grindtech.com",
+    "status": "observed",
+    "source_url": "https://www.grindtech.com/about-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hr@grindtech.com",
+    "status": "observed",
+    "source_url": "https://www.grindtech.com/about-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112716400",
+    "status": "valid_format",
+    "source_url": "https://www.grindtech.com/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27123330977",
+    "status": "valid_format",
+    "source_url": "https://www.grindtech.com/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27317012882",
+    "status": "valid_format",
+    "source_url": "https://www.grindtech.com/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27414845128",
+    "status": "valid_format",
+    "source_url": "https://www.grindtech.com/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27215526840",
+    "status": "valid_format",
+    "source_url": "https://www.grindtech.com/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@grindtech.com",
+    "status": "observed",
+    "source_url": "https://www.grindtech.com/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hr@grindtech.com",
+    "status": "observed",
+    "source_url": "https://www.grindtech.com/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "pta@grindtech.com",
+    "status": "observed",
+    "source_url": "https://www.grindtech.com/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "dbn@grindtech.com",
+    "status": "observed",
+    "source_url": "https://www.grindtech.com/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "pe@grindtech.com",
+    "status": "observed",
+    "source_url": "https://www.grindtech.com/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ct@grindtech.com",
+    "status": "observed",
+    "source_url": "https://www.grindtech.com/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112716400",
+    "status": "valid_format",
+    "source_url": "https://www.grindtech.com/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27123330977",
+    "status": "valid_format",
+    "source_url": "https://www.grindtech.com/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27317012882",
+    "status": "valid_format",
+    "source_url": "https://www.grindtech.com/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27414845128",
+    "status": "valid_format",
+    "source_url": "https://www.grindtech.com/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27215526840",
+    "status": "valid_format",
+    "source_url": "https://www.grindtech.com/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@grindtech.com",
+    "status": "observed",
+    "source_url": "http://www.grindtech.com/wp-content/uploads/2026/06/Superflex_Knife_making_Product_Range.pdf"
+  },
+  {
+    "channel": "phone",
+    "value": "+27112716400",
+    "status": "valid_format",
+    "source_url": "http://www.grindtech.com/wp-content/uploads/2026/06/Superflex_Knife_making_Product_Range.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/mark-francisco-1b6802155",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/mark-francisco-1b6802155"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/stefan-meyer-1957b822b",
+    "status": "probable",
+    "source_url": "https://za.linkedin.com/in/stefan-meyer-1957b822b"
+  },
+  {
+    "channel": "email",
+    "value": "info@grindtech.com",
+    "status": "probable",
+    "source_url": "http://www.grindtech.com/news",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112716400",
+    "status": "valid_format",
+    "source_url": "http://www.grindtech.com/news",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112716400",
+    "status": "valid_format",
+    "source_url": "http://www.grindtech.com/tyrolit-group",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@grindtech.com",
+    "status": "probable",
+    "source_url": "http://www.grindtech.com/privacy-policy/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112716400",
+    "status": "valid_format",
+    "source_url": "http://www.grindtech.com/privacy-policy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

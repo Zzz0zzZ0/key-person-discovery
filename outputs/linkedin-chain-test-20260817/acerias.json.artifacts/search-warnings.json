@@ -1,0 +1,32 @@
+[
+  {
+    "query": "https://www.aceriasprocometal.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.aceriasprocometal.com/sitemap.xml: HTTP Error 404: Not Found"
+  },
+  {
+    "query": "\"Acerias ProcoMetal S.A.S.\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "\"Acerias ProcoMetal S.A.S.\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "too many requests"
+  },
+  {
+    "query": "site:aceriasprocometal.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:aceriasprocometal.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  }
+]

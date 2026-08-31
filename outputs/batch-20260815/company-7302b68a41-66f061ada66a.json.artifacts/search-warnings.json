@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://www.koyo-sha.co.jp",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.koyo-sha.co.jp/sitemap.xml: HTTP Error 404: Not Found"
+  }
+]

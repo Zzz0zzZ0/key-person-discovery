@@ -1,0 +1,101 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[ANTIBOT]. ℹ https://covia.com                                  | Error: Proxy direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://covia.com/
+Call log:
+  - navigating to "https://covia.com/", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://covia.com                                  | Error: Unexpected error in _crawl_web at line 778 in _crawl_web 
+(.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://covia.com/
+Call log:
+  - navigating to "https://covia.com/", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its 
+[FETCH]... ↓ https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format                                     | ✓ | ⏱: 1.86s 
+[SCRAPE].. ◆ https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format                                     | ✓ | ⏱: 2.93s 
+[FETCH]... ↓ https://rocketreach.co/covia-email-format_b455179bfc9127e1                                           | ✓ | ⏱: 1.10s 
+[SCRAPE].. ◆ https://rocketreach.co/covia-email-format_b455179bfc9127e1                                           | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...format_b455179bfc9127e1  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/covia-email-format_b455179bfc9127e1                                           | ✗ | ⏱: 1.11s 
+[FETCH]... ↓ https://en.wikipedia.org/wiki/Covia                                                                  | ✓ | ⏱: 1.13s 
+[SCRAPE].. ◆ https://en.wikipedia.org/wiki/Covia                                                                  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://en.wikipedia.org/wiki/Covia                                                                  | ✓ | ⏱: 3.17s 
+[FETCH]... ↓ https://rocketreach.co/covia-email-format_b4571b73fca7b315                                           | ✓ | ⏱: 0.56s 
+[SCRAPE].. ◆ https://rocketreach.co/covia-email-format_b4571b73fca7b315                                           | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...format_b4571b73fca7b315  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/covia-email-format_b4571b73fca7b315                                           | ✗ | ⏱: 0.56s 
+[FETCH]... ↓ https://rocketreach.co/covia-management_b455179bfc9127e1                                             | ✓ | ⏱: 0.40s 
+[SCRAPE].. ◆ https://rocketreach.co/covia-management_b455179bfc9127e1                                             | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...gement_b455179bfc9127e1  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/covia-management_b455179bfc9127e1                                             | ✗ | ⏱: 0.41s 
+[FETCH]... ↓ https://mailmo.io/email-patterns/email-address-format-of-covia-                                      | ✓ | ⏱: 4.48s 
+[SCRAPE].. ◆ https://mailmo.io/email-patterns/email-address-format-of-covia-                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mailmo.io/email-patterns/email-address-format-of-covia-                                      | ✓ | ⏱: 5.89s 
+[FETCH]... ↓ https://www.bloomberg.com/profile/company/3908380Z:US                                                | ✓ | ⏱: 0.87s 
+[SCRAPE].. ◆ https://www.bloomberg.com/profile/company/3908380Z:US                                                | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.bloomberg.c...ile/company/3908380Z:US  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.bloomberg.com/profile/company/3908380Z:US                                                | ✗ | ⏱: 2.88s 
+[FETCH]... ↓ https://www.coviacorp.com/careers/                                                                   | ✓ | ⏱: 1.55s 
+[SCRAPE].. ◆ https://www.coviacorp.com/careers/                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.coviacorp.com/careers/                                                                   | ✓ | ⏱: 1.57s 
+[FETCH]... ↓ https://www.coviacorp.com/about-us/leadership                                                        | ✓ | ⏱: 1.74s 
+[SCRAPE].. ◆ https://www.coviacorp.com/about-us/leadership                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.coviacorp.com/about-us/leadership                                                        | ✓ | ⏱: 1.77s 
+[FETCH]... ↓ https://www.coviacorp.com/about-us/board-of-managers                                                 | ✓ | ⏱: 2.47s 
+[SCRAPE].. ◆ https://www.coviacorp.com/about-us/board-of-managers                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.coviacorp.com/about-us/board-of-managers                                                 | ✓ | ⏱: 3.99s 
+[FETCH]... ↓ https://www.coviacorp.com/                                                                           | ✓ | ⏱: 2.49s 
+[SCRAPE].. ◆ https://www.coviacorp.com/                                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.coviacorp.com/                                                                           | ✓ | ⏱: 4.19s 
+[FETCH]... ↓ https://www.coviacorp.com/contact/                                                                   | ✓ | ⏱: 0.57s 
+[SCRAPE].. ◆ https://www.coviacorp.com/contact/                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.coviacorp.com/contact/                                                                   | ✓ | ⏱: 0.59s 
+[FETCH]... ↓ https://www.coviacorp.com/corporate-responsibility/documents/supplier-code-of-conduct/               | ✓ | ⏱: 0.51s 
+[SCRAPE].. ◆ https://www.coviacorp.com/corporate-responsibility/documents/supplier-code-of-conduct/               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.coviacorp.com/corporate-responsibility/documents/supplier-code-of-conduct/               | ✓ | ⏱: 0.54s 
+[FETCH]... ↓ https://www.coviacorp.com/news-releases/covia-na...asiotta-as-president-and-chief-executive-officer  | ✓ | ⏱: 0.81s 
+[SCRAPE].. ◆ https://www.coviacorp.com/news-releases/covia-na...asiotta-as-president-and-chief-executive-officer  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.coviacorp.com/news-releases/covia-na...asiotta-as-president-and-chief-executive-officer  | ✓ | ⏱: 0.83s 
+[FETCH]... ↓ https://www.coviacorp.com/insights/people                                                            | ✓ | ⏱: 0.83s 
+[SCRAPE].. ◆ https://www.coviacorp.com/insights/people                                                            | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.coviacorp.com/insights/people                                                            | ✓ | ⏱: 0.86s 
+[FETCH]... ↓ https://www.neverbounce.com/company/covia/451251748                                                  | ✓ | ⏱: 1.18s 
+[SCRAPE].. ◆ https://www.neverbounce.com/company/covia/451251748                                                  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.neverbounce...company/covia/451251748  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.neverbounce.com/company/covia/451251748                                                  | ✗ | ⏱: 2.23s 
+[FETCH]... ↓ https://www.indeed.com/q-covia-jobs.html                                                             | ✓ | ⏱: 3.35s 
+[SCRAPE].. ◆ https://www.indeed.com/q-covia-jobs.html                                                             | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.indeed.com/q-covia-jobs.html                                                             | ✓ | ⏱: 3.41s 
+[FETCH]... ↓ https://www.facebook.com/CoviaCorp/                                                                  | ✓ | ⏱: 2.26s 
+[SCRAPE].. ◆ https://www.facebook.com/CoviaCorp/                                                                  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.facebook.com/CoviaCorp/                                                                  | ✓ | ⏱: 4.28s 
+[FETCH]... ↓ https://www.glassdoor.com/Jobs/Covia-Corporation-Jobs-E2224351.htm                                   | ✓ | ⏱: 2.68s 
+[SCRAPE].. ◆ https://www.glassdoor.com/Jobs/Covia-Corporation-Jobs-E2224351.htm                                   | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.glassdoor.c...ation-Jobs-E2224351.htm  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements, script_heavy_shell (10306 bytes, 0 chars 
+visible) 
+[COMPLETE] ● https://www.glassdoor.com/Jobs/Covia-Corporation-Jobs-E2224351.htm                                   | ✗ | ⏱: 4.19s 
+[FETCH]... ↓ https://www.theladders.com/company/coviaholdingscorporation-jobs                                     | ✓ | ⏱: 1.54s 
+[SCRAPE].. ◆ https://www.theladders.com/company/coviaholdingscorporation-jobs                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.theladders.com/company/coviaholdingscorporation-jobs                                     | ✓ | ⏱: 2.53s 
+[FETCH]... ↓ https://www.zoominfo.com/pic/covia-holdings-llc/451251748                                            | ✓ | ⏱: 0.85s 
+[SCRAPE].. ◆ https://www.zoominfo.com/pic/covia-holdings-llc/451251748                                            | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...-holdings-llc/451251748  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/pic/covia-holdings-llc/451251748                                            | ✗ | ⏱: 1.73s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/covia-45a8063845bd.json

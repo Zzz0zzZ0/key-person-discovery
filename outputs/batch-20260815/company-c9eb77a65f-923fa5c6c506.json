@@ -1,0 +1,65 @@
+{
+  "company_name": "한주라이트메탈(주)",
+  "candidates": [
+    {
+      "full_name": "이용진",
+      "current_title": "대표이사 (Representative Director / CEO)",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 10,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://hanjoolightmetal.com/eng/about/greeting.htm",
+          "quote": "I am YONG JIN LEE, the representative director of the company.",
+          "supports": "CEO of Hanjoo Light Metal Co., Ltd."
+        },
+        {
+          "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A9%94%ED%83%88",
+          "quote": "핵심 인물 이용진 (대표이사)",
+          "supports": "Confirmed as Representative Director (CEO) on Wikipedia entry for 한주라이트메탈 주식회사"
+        },
+        {
+          "source_url": "https://hanjoolightmetal.com/about/greeting.htm",
+          "quote": "한주라이트메탈(주) 대표 이용진",
+          "supports": "Korean page confirms same CEO identity"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 24,
+    "search_engine_warnings": 1,
+    "urls_crawled": 18,
+    "crawl_failures": 1,
+    "contact_signals": 3,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 4,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 1,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "company_name": "Ardakan Industrial Ceramics",
+  "candidates": [],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Asi Borhani",
+      "current_title": "",
+      "company_match": "uncertain",
+      "discovery_tier": "unverified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/asi-borhani-8a97b2128",
+          "status": "probable",
+          "source_url": "https://ir.linkedin.com/in/asi-borhani-8a97b2128"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://ir.linkedin.com/in/asi-borhani-8a97b2128",
+          "quote": "Asi Borhani‏ - | ‏Ardakan Industrial Ceramics‏ LinkedIn Ardakan Industrial Ceramics. Iran University of Science and Technology. گزارش کردن این نمایه.",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.35,
+      "review_required": true,
+      "validation_reasons": [
+        "target-company association is visible but current employment is unverified",
+        "contact ownership is not verified"
+      ]
+    },
+    {
+      "full_name": "Alex Afshar",
+      "current_title": "",
+      "company_match": "uncertain",
+      "discovery_tier": "unverified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/alex-afshar-42b786143",
+          "status": "probable",
+          "source_url": "https://ir.linkedin.com/in/alex-afshar-42b786143"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://ir.linkedin.com/in/alex-afshar-42b786143",
+          "quote": "‏Alex Afshar‏ - | ‏Ardakan Industrial Ceramics‏ LinkedIn تجربه: ‏Ardakan Industrial Ceramics‏ · مکان: ‏Iran‏. نمایه ‏Alex Afshar‏ ‏‏ را در LinkedIn یک جامعه حرفه ای از ۱ میلیارد عضو مشاهده کنید.",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.35,
+      "review_required": true,
+      "validation_reasons": [
+        "target-company association is visible but current employment is unverified",
+        "contact ownership is not verified"
+      ]
+    },
+    {
+      "full_name": "Sahra Ranjbar",
+      "current_title": "",
+      "company_match": "uncertain",
+      "discovery_tier": "unverified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/sahra-ranjbar-522b9a81",
+          "status": "probable",
+          "source_url": "https://ir.linkedin.com/in/sahra-ranjbar-522b9a81"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://ir.linkedin.com/in/sahra-ranjbar-522b9a81",
+          "quote": "Sahra Ranjbar‏ - | ‏Ardakan Industrial Ceramics‏ LinkedIn Qatar-Iran Trade Mission 6-7 March 2023 Tehran,Iran, Hotel Espinas Palace #qatar #iran #business #refractory #steelindustry #steelmaking #ceramics…",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.35,
+      "review_required": true,
+      "validation_reasons": [
+        "target-company association is visible but current employment is unverified",
+        "contact ownership is not verified"
+      ]
+    },
+    {
+      "full_name": "Erfan Ahmadimaram",
+      "current_title": "",
+      "company_match": "uncertain",
+      "discovery_tier": "unverified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/erfan-ahmadimaram-63b208379",
+          "status": "probable",
+          "source_url": "https://ir.linkedin.com/in/erfan-ahmadimaram-63b208379"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://ir.linkedin.com/in/erfan-ahmadimaram-63b208379",
+          "quote": "‏Erfan Ahmadimaram‏ - | ‏Ardakan industrial ceramics‏ LinkedIn تجربه: ‏Ardakan industrial ceramics‏ · تحصیلات: ‏University of Tehran‏ · مکان: ‏Karaj‏ · ‏5‏ رابطه ‏ها ‏در LinkedIn. نمایه ‏Erfan Ahmadimaram‏ ‏‏ را در LinkedIn یک جامعه حرفه ای از ۱ میلیارد عضو مشاهده کنید.",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.35,
+      "review_required": true,
+      "validation_reasons": [
+        "target-company association is visible but current employment is unverified",
+        "contact ownership is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Fatemeh Vatankhah",
+      "matched_by": [
+        "linkedin",
+        "name"
+      ]
+    },
+    {
+      "kind": "candidate",
+      "full_name": "Sepideh Yaghoob Aly",
+      "matched_by": [
+        "linkedin"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 2,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 7,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 92,
+    "search_engine_warnings": 11,
+    "urls_crawled": 8,
+    "crawl_failures": 3,
+    "contact_signals": 2,
+    "official_urls_discovered": 1,
+    "crm_website": "http://www.aic.ir",
+    "official_website": "http://www.aic.ir",
+    "website_recovered": false,
+    "pdf_documents_discovered": 5,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 1,
+    "pdf_pages_extracted": 1,
+    "pdf_failures": 2,
+    "search_evidence_pages": 2,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 4,
+    "crm_contact_count": 6,
+    "crm_duplicates_removed": 2,
+    "target_contactable_items": 1,
+    "contactable_items": 4,
+    "target_contact_methods": 1,
+    "contact_methods": 4,
+    "contact_target_met": true,
+    "broad_discovery": true,
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

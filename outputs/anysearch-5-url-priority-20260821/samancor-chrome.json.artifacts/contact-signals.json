@@ -1,0 +1,234 @@
+[
+  {
+    "channel": "email",
+    "value": "sales@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "gpsda@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "webmaster@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "khuphuka@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451000",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "bridget.vonholdt@bcw-global.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/statement-samancor-chrome-limited/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27826100650",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/statement-samancor-chrome-limited/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27114808680",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/statement-samancor-chrome-limited/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "maretha.steyn@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2025/11/2511-PAIA-Manual_20251117-final.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "vanecia.batohi@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2025/11/2511-PAIA-Manual_20251117-final.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ntombi.makwela@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2025/11/2511-PAIA-Manual_20251117-final.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "enquiries@inforegulator.org.za",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2025/11/2511-PAIA-Manual_20251117-final.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info.office@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2025/11/2511-PAIA-Manual_20251117-final.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451000",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2025/11/2511-PAIA-Manual_20251117-final.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451200",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2025/11/2511-PAIA-Manual_20251117-final.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451031",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2025/11/2511-PAIA-Manual_20251117-final.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451206",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2025/11/2511-PAIA-Manual_20251117-final.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451160",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2025/11/2511-PAIA-Manual_20251117-final.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27100235200",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2025/11/2511-PAIA-Manual_20251117-final.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27800017160",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2025/11/2511-PAIA-Manual_20251117-final.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kyle.forsyth@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sorrel.bolam-geel@samancorcr.com",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "paia@sahrc.org.za",
+    "status": "observed",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451000",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451200",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451130",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27112451058",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27114848300",
+    "status": "valid_format",
+    "source_url": "https://samancorcr.com/wp-content/uploads/2023/02/PAIA-Manual-final-2023.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/farhana-rahaman-9b3b61a",
+    "status": "probable",
+    "source_url": "https://za.linkedin.com/in/farhana-rahaman-9b3b61a"
+  }
+]

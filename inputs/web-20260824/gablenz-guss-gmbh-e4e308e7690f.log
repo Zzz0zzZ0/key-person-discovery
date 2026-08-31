@@ -1,0 +1,39 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://gablenz-guss.de/                                                                             | ✓ | ⏱: 9.29s 
+[SCRAPE].. ◆ https://gablenz-guss.de/                                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://gablenz-guss.de/                                                                             | ✓ | ⏱: 11.32s 
+[FETCH]... ↓ http://gablenz-guss.de                                                                               | ✓ | ⏱: 10.47s 
+[SCRAPE].. ◆ http://gablenz-guss.de                                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://gablenz-guss.de                                                                               | ✓ | ⏱: 12.40s 
+[FETCH]... ↓ https://gablenz-guss.de/kompetenzen/                                                                 | ✓ | ⏱: 9.19s 
+[SCRAPE].. ◆ https://gablenz-guss.de/kompetenzen/                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://gablenz-guss.de/kompetenzen/                                                                 | ✓ | ⏱: 11.22s 
+[FETCH]... ↓ https://gablenz-guss.de/impressum/                                                                   | ✓ | ⏱: 9.22s 
+[SCRAPE].. ◆ https://gablenz-guss.de/impressum/                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://gablenz-guss.de/impressum/                                                                   | ✓ | ⏱: 11.24s 
+[FETCH]... ↓ https://rocketreach.co/gablenz-guss-gmbh-profile_b6e9ab6ec6c40f8c                                    | ✓ | ⏱: 0.52s 
+[SCRAPE].. ◆ https://rocketreach.co/gablenz-guss-gmbh-profile_b6e9ab6ec6c40f8c                                    | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...rofile_b6e9ab6ec6c40f8c  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/gablenz-guss-gmbh-profile_b6e9ab6ec6c40f8c                                    | ✗ | ⏱: 1.22s 
+[FETCH]... ↓ https://www.dnb.com/business-directory/company-p..._guss_gmbh.82d77e8758b42dc8a5fa94703d0fc345.html  | ✓ | ⏱: 0.53s 
+[SCRAPE].. ◆ https://www.dnb.com/business-directory/company-p..._guss_gmbh.82d77e8758b42dc8a5fa94703d0fc345.html  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.dnb.com/bus...c8a5fa94703d0fc345.html  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.dnb.com/business-directory/company-p..._guss_gmbh.82d77e8758b42dc8a5fa94703d0fc345.html  | ✗ | ⏱: 1.14s 
+[FETCH]... ↓ https://www.crunchbase.com/organization/gablenz-cast                                                 | ✓ | ⏱: 0.42s 
+[SCRAPE].. ◆ https://www.crunchbase.com/organization/gablenz-cast                                                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.crunchbase....ganization/gablenz-cast  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.crunchbase.com/organization/gablenz-cast                                                 | ✗ | ⏱: 1.17s 
+[FETCH]... ↓ https://gablenz-guss.de/unternehmen/kontakt/                                                         | ✓ | ⏱: 4.09s 
+[SCRAPE].. ◆ https://gablenz-guss.de/unternehmen/kontakt/                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://gablenz-guss.de/unternehmen/kontakt/                                                         | ✓ | ⏱: 4.11s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rocketreach.co/gablenz-guss-gmbh-profile_b6e9ab6ec6c40f8c                                    | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://rocketreach.co/gablenz-guss-gmbh-profile_b6e9ab6ec6c40f8c                                    | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://www.crunchbase.com/organization/gablenz-cast                                                 | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.crunchbase.com/organization/gablenz-cast                                                 | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://www.dnb.com/business-directory/company-p..._guss_gmbh.82d77e8758b42dc8a5fa94703d0fc345.html  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.dnb.com/business-directory/company-p..._guss_gmbh.82d77e8758b42dc8a5fa94703d0fc345.html  | ✓ | ⏱: 0.00s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260824/gablenz-guss-gmbh-e4e308e7690f.json

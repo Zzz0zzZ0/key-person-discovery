@@ -1,0 +1,217 @@
+[
+  {
+    "channel": "email",
+    "value": "info@carborundum.technology",
+    "status": "observed",
+    "source_url": "https://carborundum.technology/impressum/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49202373280",
+    "status": "valid_format",
+    "source_url": "https://carborundum.technology/impressum/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920237328400",
+    "status": "valid_format",
+    "source_url": "https://carborundum.technology/impressum/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920237328444",
+    "status": "valid_format",
+    "source_url": "https://carborundum.technology/impressum/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@carborundum.technology",
+    "status": "observed",
+    "source_url": "https://carborundum.technology/kontakt/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49202373280",
+    "status": "valid_format",
+    "source_url": "https://carborundum.technology/kontakt/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920237328400",
+    "status": "valid_format",
+    "source_url": "https://carborundum.technology/kontakt/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920237328444",
+    "status": "valid_format",
+    "source_url": "https://carborundum.technology/kontakt/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@carborundum.technology",
+    "status": "observed",
+    "source_url": "https://carborundum.technology/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49202373280",
+    "status": "valid_format",
+    "source_url": "https://carborundum.technology/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920237328400",
+    "status": "valid_format",
+    "source_url": "https://carborundum.technology/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920237328444",
+    "status": "valid_format",
+    "source_url": "https://carborundum.technology/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@carborundum.technology",
+    "status": "observed",
+    "source_url": "https://carborundum.technology",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49202373280",
+    "status": "valid_format",
+    "source_url": "https://carborundum.technology",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920237328400",
+    "status": "valid_format",
+    "source_url": "https://carborundum.technology",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920237328444",
+    "status": "valid_format",
+    "source_url": "https://carborundum.technology",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49717199791640",
+    "status": "valid_format",
+    "source_url": "https://www.carborundum.technology/wp-content/uploads/2024_03_18_Zertifikat_Carborundum_QM_e.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49717199791699",
+    "status": "valid_format",
+    "source_url": "https://www.carborundum.technology/wp-content/uploads/2024_03_18_Zertifikat_Carborundum_QM_e.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49717199791640",
+    "status": "valid_format",
+    "source_url": "https://www.carborundum.technology/wp-content/uploads/2024_03_18_Zertifikat_Carborundum_QM_d.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49717199791699",
+    "status": "valid_format",
+    "source_url": "https://www.carborundum.technology/wp-content/uploads/2024_03_18_Zertifikat_Carborundum_QM_d.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49717199791640",
+    "status": "valid_format",
+    "source_url": "https://carborundum.technology/wp-content/uploads/2024_03_18_Zertifikat_Carborundum_QM_e.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49717199791699",
+    "status": "valid_format",
+    "source_url": "https://carborundum.technology/wp-content/uploads/2024_03_18_Zertifikat_Carborundum_QM_e.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@carborundum.technology",
+    "status": "probable",
+    "source_url": "https://carborundum.technology/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920237328400",
+    "status": "valid_format",
+    "source_url": "https://carborundum.technology/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4920237328444",
+    "status": "valid_format",
+    "source_url": "https://carborundum.technology/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

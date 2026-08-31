@@ -1,0 +1,45 @@
+[
+  {
+    "channel": "email",
+    "value": "stefan.kothe@panariagroup.de",
+    "status": "observed",
+    "source_url": "https://www.panariagroup.de/news/girls-boys-day-kerateam-2024",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "manuela.scholten@panariagroup.de",
+    "status": "observed",
+    "source_url": "https://www.panariagroup.de/sites/default/files/panariagroup/karriere/Senior-Einkauf-2024-Panariagroup-Deutschland.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "investor.relations@norddeutsche-steingut.de",
+    "status": "observed",
+    "source_url": "https://www.panariagroup.de/sites/default/files/downloads/corporate-news-norddeutsche_steingut-q3-2020.pdf"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/christian-blanke-08b711170",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/christian-blanke-08b711170"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/katja-butgereit-68136723",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/katja-butgereit-68136723"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/patrick-hitzschke-4aa683127",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/patrick-hitzschke-4aa683127"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/levon-hayrapetyan-2b6bbb324",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/levon-hayrapetyan-2b6bbb324"
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "benchmark": "AnySearch query-limit comparison",
+  "company": "Refrasil",
+  "input_snapshot": "inputs/batch-20260815/refrasil-144663494d54.json",
+  "controls": {
+    "max_urls": 30,
+    "customs_search_enabled": false,
+    "sequential_runs": true,
+    "query_limits": [1, 2, 3, 4]
+  },
+  "runs": [
+    {
+      "query_limit": 1,
+      "anysearch_queries": 1,
+      "search_results": 40,
+      "named_people": 0,
+      "contactable_people": 0,
+      "personal_channels": 0,
+      "public_channels_raw": 3,
+      "contactable_items_raw": 3,
+      "quality_adjusted_channels": 1,
+      "search_engine_warnings": 21,
+      "pdf_documents_extracted": 0
+    },
+    {
+      "query_limit": 2,
+      "anysearch_queries": 2,
+      "search_results": 40,
+      "named_people": 3,
+      "contactable_people": 0,
+      "personal_channels": 0,
+      "public_channels_raw": 3,
+      "contactable_items_raw": 3,
+      "quality_adjusted_channels": 1,
+      "search_engine_warnings": 19,
+      "pdf_documents_extracted": 0
+    },
+    {
+      "query_limit": 3,
+      "anysearch_queries": 3,
+      "search_results": 40,
+      "named_people": 4,
+      "contactable_people": 3,
+      "personal_channels": 3,
+      "public_channels_raw": 0,
+      "contactable_items_raw": 3,
+      "quality_adjusted_channels": 3,
+      "search_engine_warnings": 12,
+      "pdf_documents_extracted": 3,
+      "channel_quality": {
+        "official_phone": 1,
+        "probable_linkedin": 1,
+        "guessed_email": 1
+      }
+    },
+    {
+      "query_limit": 4,
+      "anysearch_queries": 4,
+      "search_results": 37,
+      "named_people": 4,
+      "contactable_people": 1,
+      "personal_channels": 1,
+      "public_channels_raw": 3,
+      "contactable_items_raw": 4,
+      "quality_adjusted_channels": 2,
+      "search_engine_warnings": 13,
+      "pdf_documents_extracted": 0
+    }
+  ],
+  "manual_quality_review": {
+    "valid_directory_phone": "+420602563838",
+    "directory_footer_false_positives": [
+      "info@epoptavka.cz",
+      "+420251510908"
+    ],
+    "stale_named_person_warning": "One query-limit-3 candidate relies on a 2016 annual report and should not be treated as current without newer evidence."
+  },
+  "conclusion": {
+    "recommended_default_query_limit": 3,
+    "reason": "The third LinkedIn-focused query produced the highest number of contactable named people. The fourth contact-focused query added no quality-adjusted gain and displaced higher-value PDF and official evidence within the fixed URL budget.",
+    "caveat": "This is one company and one run per limit; it is directional rather than statistically conclusive."
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "company_name": "IMF Group S.p.A.",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+33444446040",
+      "status": "valid_format",
+      "source_url": "https://www.imf-i.com/legal-notice/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+8613998630286",
+      "status": "valid_format",
+      "source_url": "https://www.imf-i.com/fr/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+33477594423",
+      "status": "valid_format",
+      "source_url": "https://www.imf-i.com/fr/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+61299052759",
+      "status": "valid_format",
+      "source_url": "https://www.imf-i.com/fr/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+97444447747",
+      "status": "valid_format",
+      "source_url": "https://www.imf-i.com/fr/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+442089527711",
+      "status": "valid_format",
+      "source_url": "https://www.imf-i.com/fr/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+34934201204",
+      "status": "valid_format",
+      "source_url": "https://www.imf-i.com/fr/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+82325715670",
+      "status": "valid_format",
+      "source_url": "https://www.imf-i.com/fr/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+6563466689",
+      "status": "valid_format",
+      "source_url": "https://www.imf-i.com/fr/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48509226802",
+      "status": "valid_format",
+      "source_url": "https://www.imf-i.com/fr/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Thomas Legendre",
+      "current_title": "Director of Publication",
+      "company_match": "uncertain",
+      "influence_type": "decision_maker",
+      "influence_score": 5,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+33134271616",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.imf-i.com/legal-notice/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.imf-i.com/legal-notice/",
+          "quote": "Director of Publication\nThomas Legendre",
+          "supports": "Named on the IMF International legal notice page as Director of Publication; company address 15 Avenue des Cures, 95580 Andilly, France"
+        }
+      ],
+      "confidence": 0.2,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Bryce McNally",
+      "current_title": "Managing Director",
+      "company_match": "uncertain",
+      "influence_type": "decision_maker",
+      "influence_score": 7,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/bryce-mcnally-99473bba",
+          "status": "probable",
+          "source_url": "https://nz.linkedin.com/in/bryce-mcnally-99473bba"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://nz.linkedin.com/in/bryce-mcnally-99473bba",
+          "quote": "Bryce McNally - Managing Director at IMF Group Limited",
+          "supports": "Search excerpt names Bryce McNally as Managing Director at IMF Group Limited; the New Zealand entity name IMF Group Limited differs from IMF Group S.p.A. and may be unrelated"
+        }
+      ],
+      "confidence": 0.15,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "validation_rejections": [
+    {
+      "full_name": "Thomas Legendre",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Bryce McNally",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 43,
+    "search_engine_warnings": 3,
+    "urls_crawled": 7,
+    "crawl_failures": 0,
+    "contact_signals": 15,
+    "official_urls_discovered": 1,
+    "crm_website": "https://imf-group.com",
+    "official_website": "https://www.imf-i.com",
+    "website_recovered": true,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 2,
+    "unverified_candidates": 2,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 10,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

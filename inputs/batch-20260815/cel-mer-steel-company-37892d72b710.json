@@ -1,0 +1,154 @@
+{
+  "name": "CEL-MER STEEL COMPANY",
+  "website": "https://celmercelik.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "016cd331-09fa-494a-8e97-d58cba0f3f99",
+  "crm_linkedin_url": "https://www.linkedin.com/company/celmersteel/",
+  "crm_country": null,
+  "crm_updated_at": "2026-07-29T05:06:00.478646+00:00",
+  "crm_contact_count": 13,
+  "crm_contacts": [
+    {
+      "name": "Exhibitions Cell",
+      "email": "gamze.sabukazan@celmercelik.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Official",
+      "email": "southamerica@celmercelik.com.team",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Official",
+      "email": "export@celmercelik.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "CEL-MER Steel",
+      "email": "didem.undul@celmercelik.com.team",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Official",
+      "email": "africa@celmercelik.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Official",
+      "email": "info@celmercelik.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Official",
+      "email": "africa@celmercelik.com.team",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Official",
+      "email": "export1@celmercelik.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Official",
+      "email": "southamerica@celmercelik.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Didem Undul",
+      "email": "didem.undul@celmercelik.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Ilenay Caliskan",
+      "email": "ilenay.caliskan@celmercelik.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "CEL-MER Steel",
+      "email": "gamze.sabukazan@celmercelik.com.team",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Official",
+      "email": "export1@celmercelik.com.team",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-15T04:49:31.184243+00:00",
+  "source": "twenty_postgresql_read_only"
+}

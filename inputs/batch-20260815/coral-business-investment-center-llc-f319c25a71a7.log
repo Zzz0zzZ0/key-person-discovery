@@ -1,0 +1,99 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://coral-bic.com/about-us/                                                                      | ✓ | ⏱: 3.51s 
+[SCRAPE].. ◆ https://coral-bic.com/about-us/                                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://coral-bic.com/about-us/                                                                      | ✓ | ⏱: 4.29s 
+[FETCH]... ↓ https://coral-bic.com/company-overview/                                                              | ✓ | ⏱: 3.25s 
+[SCRAPE].. ◆ https://coral-bic.com/company-overview/                                                              | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://coral-bic.com/company-overview/                                                              | ✓ | ⏱: 4.33s 
+[FETCH]... ↓ https://coral-bic.com                                                                                | ✓ | ⏱: 2.60s 
+[SCRAPE].. ◆ https://coral-bic.com                                                                                | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://coral-bic.com                                                                                | ✓ | ⏱: 4.63s 
+[FETCH]... ↓ https://coral-bic.com/about/                                                                         | ✓ | ⏱: 3.61s 
+[SCRAPE].. ◆ https://coral-bic.com/about/                                                                         | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://coral-bic.com/about/                                                                         | ✓ | ⏱: 4.38s 
+[FETCH]... ↓ https://coral-bic.com/contact-us/                                                                    | ✓ | ⏱: 0.91s 
+[SCRAPE].. ◆ https://coral-bic.com/contact-us/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://coral-bic.com/contact-us/                                                                    | ✓ | ⏱: 0.93s 
+[FETCH]... ↓ https://coral-bic.com/news-1/                                                                        | ✓ | ⏱: 1.16s 
+[SCRAPE].. ◆ https://coral-bic.com/news-1/                                                                        | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://coral-bic.com/news-1/                                                                        | ✓ | ⏱: 1.19s 
+[FETCH]... ↓ https://coral-bic.com/news-2/                                                                        | ✓ | ⏱: 1.38s 
+[SCRAPE].. ◆ https://coral-bic.com/news-2/                                                                        | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://coral-bic.com/news-2/                                                                        | ✓ | ⏱: 1.42s 
+[FETCH]... ↓ https://coral-bic.com/news-3/                                                                        | ✓ | ⏱: 1.13s 
+[SCRAPE].. ◆ https://coral-bic.com/news-3/                                                                        | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://coral-bic.com/news-3/                                                                        | ✓ | ⏱: 1.16s 
+[FETCH]... ↓ https://coral-bic.com/contact/                                                                       | ✓ | ⏱: 1.99s 
+[SCRAPE].. ◆ https://coral-bic.com/contact/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://coral-bic.com/contact/                                                                       | ✓ | ⏱: 2.01s 
+[FETCH]... ↓ https://coral-bic.com/news-4/                                                                        | ✓ | ⏱: 1.14s 
+[SCRAPE].. ◆ https://coral-bic.com/news-4/                                                                        | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://coral-bic.com/news-4/                                                                        | ✓ | ⏱: 1.17s 
+[FETCH]... ↓ https://coral-bic.com/news-5/                                                                        | ✓ | ⏱: 1.12s 
+[SCRAPE].. ◆ https://coral-bic.com/news-5/                                                                        | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://coral-bic.com/news-5/                                                                        | ✓ | ⏱: 1.15s 
+[FETCH]... ↓ https://coral-bic.com/news/                                                                          | ✓ | ⏱: 1.03s 
+[SCRAPE].. ◆ https://coral-bic.com/news/                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://coral-bic.com/news/                                                                          | ✓ | ⏱: 1.05s 
+[FETCH]... ↓ https://coral-bic.com/product/bs-520lp-contact-adhesive-laminated-plastic/                           | ✓ | ⏱: 0.92s 
+[SCRAPE].. ◆ https://coral-bic.com/product/bs-520lp-contact-adhesive-laminated-plastic/                           | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://coral-bic.com/product/bs-520lp-contact-adhesive-laminated-plastic/                           | ✓ | ⏱: 0.94s 
+[FETCH]... ↓ https://coral-bic.com/product/bs-520hs-contact-adhesive-high-solid/                                  | ✓ | ⏱: 1.29s 
+[SCRAPE].. ◆ https://coral-bic.com/product/bs-520hs-contact-adhesive-high-solid/                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://coral-bic.com/product/bs-520hs-contact-adhesive-high-solid/                                  | ✓ | ⏱: 1.32s 
+[FETCH]... ↓ https://coral-bic.com/product/bs-520-contact-adhesive/                                               | ✓ | ⏱: 1.57s 
+[SCRAPE].. ◆ https://coral-bic.com/product/bs-520-contact-adhesive/                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://coral-bic.com/product/bs-520-contact-adhesive/                                               | ✓ | ⏱: 1.60s 
+[FETCH]... ↓ https://coral-bic.com/product/bs-520lt-contact-adhesive-long-tack/                                   | ✓ | ⏱: 0.73s 
+[SCRAPE].. ◆ https://coral-bic.com/product/bs-520lt-contact-adhesive-long-tack/                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://coral-bic.com/product/bs-520lt-contact-adhesive-long-tack/                                   | ✓ | ⏱: 0.75s 
+[FETCH]... ↓ https://coral-bic.com/product/bs-523-sprayable-contact-adhesive/                                     | ✓ | ⏱: 0.69s 
+[SCRAPE].. ◆ https://coral-bic.com/product/bs-523-sprayable-contact-adhesive/                                     | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://coral-bic.com/product/bs-523-sprayable-contact-adhesive/                                     | ✓ | ⏱: 0.73s 
+[FETCH]... ↓ https://coral-bic.com/product/bs-524hs-sprayable-contact-adhesive/                                   | ✓ | ⏱: 0.71s 
+[SCRAPE].. ◆ https://coral-bic.com/product/bs-524hs-sprayable-contact-adhesive/                                   | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://coral-bic.com/product/bs-524hs-sprayable-contact-adhesive/                                   | ✓ | ⏱: 0.75s 
+[FETCH]... ↓ https://coral-bic.com/product/bs-8125-contact-adhesive/                                              | ✓ | ⏱: 0.72s 
+[SCRAPE].. ◆ https://coral-bic.com/product/bs-8125-contact-adhesive/                                              | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://coral-bic.com/product/bs-8125-contact-adhesive/                                              | ✓ | ⏱: 0.74s 
+[FETCH]... ↓ https://coral-bic.com/product/bs-525-sprayable-contact-adhesive-heat-resistant/                      | ✓ | ⏱: 1.24s 
+[SCRAPE].. ◆ https://coral-bic.com/product/bs-525-sprayable-contact-adhesive-heat-resistant/                      | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://coral-bic.com/product/bs-525-sprayable-contact-adhesive-heat-resistant/                      | ✓ | ⏱: 1.27s 
+[FETCH]... ↓ https://coral-bic.com/product/co-contact-cleaner/                                                    | ✓ | ⏱: 0.73s 
+[SCRAPE].. ◆ https://coral-bic.com/product/co-contact-cleaner/                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://coral-bic.com/product/co-contact-cleaner/                                                    | ✓ | ⏱: 0.76s 
+[FETCH]... ↓ https://coral-bic.com/product/power-contact-cleaner/                                                 | ✓ | ⏱: 1.15s 
+[SCRAPE].. ◆ https://coral-bic.com/product/power-contact-cleaner/                                                 | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://coral-bic.com/product/power-contact-cleaner/                                                 | ✓ | ⏱: 1.18s 
+[FETCH]... ↓ https://coral-bic.com/team-member/                                                                   | ✓ | ⏱: 1.14s 
+[SCRAPE].. ◆ https://coral-bic.com/team-member/                                                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://coral-bic.com/team-member/                                                                   | ✓ | ⏱: 1.17s 
+[FETCH]... ↓ https://dcciinfo.com/co/coral-business-investment-center-llc-oman/429682                             | ✓ | ⏱: 2.24s 
+[SCRAPE].. ◆ https://dcciinfo.com/co/coral-business-investment-center-llc-oman/429682                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://dcciinfo.com/co/coral-business-investment-center-llc-oman/429682                             | ✓ | ⏱: 3.52s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://coral-bic.com/wp-content/uploads/2024/01/BS-520-Contact-Adhesive.png                         | ✓ | ⏱: 1.07s 
+[SCRAPE].. ◆ https://coral-bic.com/wp-content/uploads/2024/01/BS-520-Contact-Adhesive.png                         | ✓ | ⏱: 0.00s 
+[ERROR]... × https://coral-bic.com/w...20-Contact-Adhesive.png  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (514 bytes, 0 chars visible) 
+[COMPLETE] ● https://coral-bic.com/wp-content/uploads/2024/01/BS-520-Contact-Adhesive.png                         | ✗ | ⏱: 1.08s 
+[FETCH]... ↓ https://coral-bic.com/wp-content/uploads/2024/01/BS-520-Contact-Adhesive-600x600.png                 | ✓ | ⏱: 1.08s 
+[SCRAPE].. ◆ https://coral-bic.com/wp-content/uploads/2024/01/BS-520-Contact-Adhesive-600x600.png                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://coral-bic.com/w...ct-Adhesive-600x600.png  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (514 bytes, 0 chars visible) 
+[COMPLETE] ● https://coral-bic.com/wp-content/uploads/2024/01/BS-520-Contact-Adhesive-600x600.png                 | ✗ | ⏱: 1.09s 
+[FETCH]... ↓ https://coral-bic.com/wp-content/uploads/2024/01/BS-523-Sprayable-Contact-Adhesive.png               | ✓ | ⏱: 0.62s 
+[SCRAPE].. ◆ https://coral-bic.com/wp-content/uploads/2024/01/BS-523-Sprayable-Contact-Adhesive.png               | ✓ | ⏱: 0.00s 
+[ERROR]... × https://coral-bic.com/w...le-Contact-Adhesive.png  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (534 bytes, 0 chars visible) 
+[COMPLETE] ● https://coral-bic.com/wp-content/uploads/2024/01/BS-523-Sprayable-Contact-Adhesive.png               | ✗ | ⏱: 0.63s 
+[FETCH]... ↓ https://coral-bic.com/product-category/bossil/contact-adhesive/                                      | ✓ | ⏱: 3.69s 
+[SCRAPE].. ◆ https://coral-bic.com/product-category/bossil/contact-adhesive/                                      | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://coral-bic.com/product-category/bossil/contact-adhesive/                                      | ✓ | ⏱: 3.72s 
+[FETCH]... ↓ https://coral-bic.com/product/bs-523-sprayable-contact-adhesive/<br />
+<b>Deprecated</b>:  ltrim\(\  | ✓ | ⏱: 3.53s 
+[SCRAPE].. ◆ https://coral-bic.com/product/bs-523-sprayable-contact-adhesive/<br />
+<b>Deprecated</b>:  ltrim\(\  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://coral-bic.com/product/bs-523-sprayable-contact-adhesive/<br />
+<b>Deprecated</b>:  ltrim\(\  | ✓ | ⏱: 3.55s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/coral-business-investment-center-llc-f319c25a71a7.json

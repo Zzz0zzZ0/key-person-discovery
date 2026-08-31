@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://duedal.ch",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://duedal.ch/sitemap.xml: <urlopen error _ssl.c:999: The handshake operation timed out>"
+  }
+]

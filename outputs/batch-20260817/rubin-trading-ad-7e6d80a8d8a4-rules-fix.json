@@ -1,0 +1,289 @@
+{
+  "company_name": "Rubin Trading AD",
+  "candidates": [
+    {
+      "full_name": "Plamen Baykov",
+      "current_title": "Sales Director",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "p.baykov@rubin-glass.bg",
+          "status": "observed",
+          "source_url": "https://rubin-glass.eu/contact-us/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+359876700336",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://rubin-glass.eu/contact-us/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://rubin-glass.eu/contact-us/",
+          "quote": "Plamen Baykov Sales Director Rubin Glass Factory",
+          "supports": "current_title and company at Rubin Glass Factory"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "c.custura@rubin-glass.bg",
+      "status": "observed",
+      "source_url": "https://rubin-glass.eu",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "i.ilieva@rubin-glass.bg",
+      "status": "observed",
+      "source_url": "https://rubin-glass.eu",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "a.tonchev@rubin-glass.bg",
+      "status": "observed",
+      "source_url": "https://rubin-glass.eu",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+359879540690",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+359879540686",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+359879540741",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+359879013746",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+359879540730",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+359879540794",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+359887074656",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+359878746932",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+359889470511",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+359875308166",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+359875308169",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+359878743903",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+359875308162",
+      "status": "valid_format",
+      "source_url": "https://rubin-glass.eu",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 9,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 7,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 34,
+    "search_engine_warnings": 0,
+    "urls_crawled": 16,
+    "crawl_failures": 1,
+    "contact_signals": 190,
+    "official_urls_discovered": 5,
+    "crm_website": "https://rubin-glass.eu",
+    "official_website": "https://rubin-glass.eu",
+    "website_recovered": false,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 14,
+    "crm_duplicates_removed": 9,
+    "target_contactable_items": 1,
+    "contactable_items": 17,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  },
+  "reprocessed_from": "rubin-trading-ad-7e6d80a8d8a4.json",
+  "reprocessed_at": "2026-08-17T03:31:19.432415+00:00",
+  "reprocess_reason": "apply 2026-08-17 official identity, public-source, and email cleanup rules"
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "query": "http://www.aic.ir",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "http://www.aic.ir/sitemap.xml: HTTP Error 404: Not Found"
+  },
+  {
+    "query": "site:aic.ir (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:aic.ir (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "too many requests"
+  },
+  {
+    "query": "site:aic.ir (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:aic.ir filetype:pdf",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:aic.ir filetype:pdf",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:aic.ir filetype:pdf",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  }
+]

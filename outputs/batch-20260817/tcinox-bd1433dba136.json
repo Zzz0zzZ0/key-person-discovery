@@ -1,0 +1,141 @@
+{
+  "company_name": "TCINOX",
+  "candidates": [
+    {
+      "full_name": "Celso Rosa",
+      "current_title": "Gerente de Produção",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/celso-rosa-268b88100",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/celso-rosa-268b88100/"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/celso-rosa-268b88100/",
+          "quote": "Gerente de produção na TCInox Indústria e Comércio LTDA. Mais de 20 anos de experiência na fabricação de aços (Inoxidáveis austeníticos, martensíticos, duplex, super duplex, carbono e super ligas) em processos de fundição estática (pep-set, shell molding e cerâmica) e fundição por centrifugação",
+          "supports": "current_title"
+        }
+      ],
+      "confidence": 0.82,
+      "review_required": true
+    },
+    {
+      "full_name": "Marcos Delfino",
+      "current_title": "Diretor de Operações",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://aeroleads.com/c/tcinox",
+          "quote": "M Marcos Delfino Diretor Operaçôes E",
+          "supports": "current_title"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    },
+    {
+      "full_name": "Denise Rolim Delfino",
+      "current_title": "Sócio-Administrador",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 70,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://empresas.credithub.com.br/consulta-gratis/TCINOX-INDUSTRIA-E-COMERCIO-LTDA-09554582000122",
+          "quote": "DENISE ROLIM DELFINO | Sócio-Administrador",
+          "supports": "current_title and company_match"
+        }
+      ],
+      "confidence": 0.72,
+      "review_required": true
+    },
+    {
+      "full_name": "Nayara Christina Delfino Possagnolo",
+      "current_title": "Sócio-Administrador",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 70,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://empresas.credithub.com.br/consulta-gratis/TCINOX-INDUSTRIA-E-COMERCIO-LTDA-09554582000122",
+          "quote": "NAYARA CHRISTINA DELFINO POSSAGNOLO | Sócio-Administrador",
+          "supports": "current_title and company_match"
+        }
+      ],
+      "confidence": 0.72,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "contato@tcinox.com.br",
+      "status": "observed",
+      "source_url": "https://tcinox.com.br/contato/",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 39,
+    "search_engine_warnings": 5,
+    "urls_crawled": 15,
+    "crawl_failures": 2,
+    "contact_signals": 8,
+    "official_urls_discovered": 4,
+    "crm_website": "https://tcinox.com.br",
+    "official_website": "https://tcinox.com.br",
+    "website_recovered": false,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 2,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

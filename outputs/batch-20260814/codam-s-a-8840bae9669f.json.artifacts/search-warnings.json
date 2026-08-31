@@ -1,0 +1,44 @@
+[
+  {
+    "query": "http://codam.com.ar",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://codam.com.ar/sitemap-posttype-post.2026.xml: The read operation timed out"
+  },
+  {
+    "query": "\"Codam S.A.\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for '\"Codam S.A.\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")': <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "\"Codam S.A.\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "searxng",
+    "reason": "All active SearXNG engines failed for '\"Codam S.A.\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")': bing: HTTP connection error, duckduckgo: HTTP connection error, google cse: timeout, qwant: CAPTCHA"
+  },
+  {
+    "query": "site:linkedin.com/in \"Codam S.A.\"",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for 'site:linkedin.com/in \"Codam S.A.\"': Remote end closed connection without response"
+  },
+  {
+    "query": "site:linkedin.com/in \"Codam S.A.\"",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:linkedin.com/in \"Codam S.A.\"",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "too many requests"
+  },
+  {
+    "query": "site:linkedin.com/in \"Codam S.A.\"",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  }
+]

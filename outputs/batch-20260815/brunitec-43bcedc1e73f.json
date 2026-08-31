@@ -1,0 +1,75 @@
+{
+  "company_name": "Brunitec",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "whatsapp",
+      "value": "+5511972044991",
+      "status": "verified",
+      "source_url": "https://www.brunitec.com.br",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+5511972044991",
+      "status": "valid_format",
+      "source_url": "https://www.brunitec.com.br",
+      "whatsapp_status": "verified",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+551140289944",
+      "status": "valid_format",
+      "source_url": "https://www.brunitec.com.br/en/home-en",
+      "whatsapp_status": "unknown",
+      "evidence_status": "probable",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 2,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 23,
+    "search_engine_warnings": 1,
+    "urls_crawled": 9,
+    "crawl_failures": 7,
+    "contact_signals": 11,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 6,
+    "crm_duplicates_removed": 2,
+    "target_contactable_items": 1,
+    "contactable_items": 2,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

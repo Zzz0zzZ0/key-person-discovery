@@ -1,0 +1,123 @@
+{
+  "company_name": "SIE Industrial LTD",
+  "candidates": [
+    {
+      "full_name": "Paul Bowen",
+      "current_title": "Chairman",
+      "company_match": "probable",
+      "influence_type": "decision_maker",
+      "influence_score": 9,
+      "linkedin": [
+        {
+          "value": "https://uk.linkedin.com/in/paul-bowen-01722488",
+          "status": "probable",
+          "source_url": "https://uk.linkedin.com/in/paul-bowen-01722488"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://uk.linkedin.com/in/paul-bowen-01722488",
+          "quote": "Chairman at SIE Industrial LTD",
+          "supports": "search_excerpt ties name to current role at exact target company; LinkedIn URL probable"
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info@sieindustrial.co.uk",
+      "status": "observed",
+      "source_url": "https://sieindustrial.co.uk/contact/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "energicoast@nof.co.uk",
+      "status": "observed",
+      "source_url": "https://energicoast.co.uk/supply-chain-directory/sie-industrial-services-ltd/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+441913846464",
+      "status": "valid_format",
+      "source_url": "https://energicoast.co.uk/supply-chain-directory/sie-industrial-services-ltd/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+441914153876",
+      "status": "valid_format",
+      "source_url": "https://www.processregister.com/SIE_Industrial_Ltd/Supplier/sid230585.htm",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Gareth Bowen",
+      "matched_by": [
+        "name"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 4,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 24,
+    "search_engine_warnings": 0,
+    "urls_crawled": 9,
+    "crawl_failures": 1,
+    "contact_signals": 15,
+    "official_urls_discovered": 3,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 2,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 5,
+    "crm_duplicates_removed": 4,
+    "target_contactable_items": 1,
+    "contactable_items": 5,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

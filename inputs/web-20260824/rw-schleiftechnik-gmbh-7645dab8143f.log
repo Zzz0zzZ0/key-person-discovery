@@ -1,0 +1,37 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rwschleiftechnik.de/21889.html                                                               | ✓ | ⏱: 3.64s 
+[SCRAPE].. ◆ https://rwschleiftechnik.de/21889.html                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://rwschleiftechnik.de/21889.html                                                               | ✓ | ⏱: 4.25s 
+[FETCH]... ↓ https://rwschleiftechnik.de/19701/21071.html                                                         | ✓ | ⏱: 3.75s 
+[SCRAPE].. ◆ https://rwschleiftechnik.de/19701/21071.html                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://rwschleiftechnik.de/19701/21071.html                                                         | ✓ | ⏱: 4.39s 
+[FETCH]... ↓ https://rwschleiftechnik.de/13761.html                                                               | ✓ | ⏱: 4.51s 
+[SCRAPE].. ◆ https://rwschleiftechnik.de/13761.html                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://rwschleiftechnik.de/13761.html                                                               | ✓ | ⏱: 5.13s 
+[FETCH]... ↓ https://rwschleiftechnik.de                                                                          | ✓ | ⏱: 4.81s 
+[SCRAPE].. ◆ https://rwschleiftechnik.de                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://rwschleiftechnik.de                                                                          | ✓ | ⏱: 5.43s 
+[FETCH]... ↓ https://www.dnb.com/business-directory/company-p...chnik_gmbh.1bb3f22816d28dcfcf21223b2e0de2a4.html  | ✓ | ⏱: 0.50s 
+[SCRAPE].. ◆ https://www.dnb.com/business-directory/company-p...chnik_gmbh.1bb3f22816d28dcfcf21223b2e0de2a4.html  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.dnb.com/bus...cfcf21223b2e0de2a4.html  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.dnb.com/business-directory/company-p...chnik_gmbh.1bb3f22816d28dcfcf21223b2e0de2a4.html  | ✗ | ⏱: 1.75s 
+[FETCH]... ↓ https://www.rwschleiftechnik.de/18841.html                                                           | ✓ | ⏱: 3.42s 
+[SCRAPE].. ◆ https://www.rwschleiftechnik.de/18841.html                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.rwschleiftechnik.de/18841.html                                                           | ✓ | ⏱: 4.09s 
+[FETCH]... ↓ https://www.rwschleiftechnik.de/                                                                     | ✓ | ⏱: 5.26s 
+[SCRAPE].. ◆ https://www.rwschleiftechnik.de/                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.rwschleiftechnik.de/                                                                     | ✓ | ⏱: 6.38s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.dnb.com/business-directory/company-p...chnik_gmbh.1bb3f22816d28dcfcf21223b2e0de2a4.html  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.dnb.com/business-directory/company-p...chnik_gmbh.1bb3f22816d28dcfcf21223b2e0de2a4.html  | ✓ | ⏱: 0.00s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.rwschleiftechnik.de/Sportive/img/company_name.gif                                        | ✓ | ⏱: 1.09s 
+[SCRAPE].. ◆ https://www.rwschleiftechnik.de/Sportive/img/company_name.gif                                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.rwschleiftechnik.de/Sportive/img/company_name.gif                                        | ✓ | ⏱: 1.10s 
+[FETCH]... ↓ https://rwschleiftechnik.de/Sportive/img/company_name.gif                                            | ✓ | ⏱: 1.10s 
+[SCRAPE].. ◆ https://rwschleiftechnik.de/Sportive/img/company_name.gif                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://rwschleiftechnik.de/Sportive/img/company_name.gif                                            | ✓ | ⏱: 1.10s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260824/rw-schleiftechnik-gmbh-7645dab8143f.json

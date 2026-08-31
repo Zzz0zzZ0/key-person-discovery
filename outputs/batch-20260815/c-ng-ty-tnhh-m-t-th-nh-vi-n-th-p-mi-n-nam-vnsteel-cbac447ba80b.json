@@ -1,0 +1,64 @@
+{
+  "company_name": "Công ty TNHH Một Thành Viên Thép Miền Nam - VNSTEEL",
+  "candidates": [
+    {
+      "full_name": "Hồ Văn Ích Em",
+      "current_title": "Trưởng phòng KTĐT (Kỹ thuật Đầu tư)",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://baodauthau.vn/cong-ty-tnhh-mot-thanh-vien-thep-mien-nam-vnsteel-thong-bao-post158898.html",
+          "quote": "Người liên hệ: Hồ Văn Ích Em - Trưởng phòng KTĐT. Điện thoại: 0913.858.349.",
+          "supports": "Named contact person for the port leasing bid, with direct phone and official company email domain (@thepmiennam.com.vn appears in same document)"
+        }
+      ],
+      "confidence": 0.72,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 8,
+    "anysearch_queries": 2,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 40,
+    "search_engine_warnings": 19,
+    "urls_crawled": 15,
+    "crawl_failures": 0,
+    "contact_signals": 0,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 0,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

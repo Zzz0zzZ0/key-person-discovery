@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://www.invicta.fr",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.invicta.fr/sitemap.xml: HTTP Error 403: Forbidden"
+  }
+]

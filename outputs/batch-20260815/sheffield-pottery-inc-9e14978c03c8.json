@@ -1,0 +1,151 @@
+{
+  "company_name": "Sheffield Pottery Inc.",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "first@sheffield-pottery.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/sheffield-pottery/5a1dac372300005c00a16890/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "flast@sheffield-pottery.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/sheffield-pottery/5a1dac372300005c00a16890/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "jdoe@sheffield-pottery.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/sheffield-pottery/5a1dac372300005c00a16890/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "firlast@sheffield-pottery.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/sheffield-pottery/5a1dac372300005c00a16890/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "johdoe@sheffield-pottery.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/sheffield-pottery/5a1dac372300005c00a16890/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "flast@sheffield-pottery.comfirlast",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/sheffield-pottery/5a1dac372300005c00a16890/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "support@leadiq.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/sheffield-pottery/5a1dac372300005c00a16890/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sales@leadiq.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/sheffield-pottery/5a1dac372300005c00a16890/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+18553741199",
+      "status": "valid_format",
+      "source_url": "https://www.importgenius.com/peru/suppliers/sheffield-pottery-inc",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "technical@maycocolors.com",
+      "status": "observed",
+      "source_url": "https://www.maycocolors.com/distributors/sheffield-pottery-inc/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@maycocolors.com",
+      "status": "observed",
+      "source_url": "https://www.maycocolors.com/distributors/sheffield-pottery-inc/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "schools@sheffield-pottery.com",
+      "status": "observed",
+      "source_url": "https://www.sheffield-pottery.com/pages/ceramics-supplies-for-school-bids-and-contract-pricing",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "John Cowen",
+      "matched_by": [
+        "name"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 4,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 26,
+    "search_engine_warnings": 0,
+    "urls_crawled": 20,
+    "crawl_failures": 6,
+    "contact_signals": 24,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 6,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 12,
+    "crm_duplicates_removed": 4,
+    "target_contactable_items": 1,
+    "contactable_items": 12,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://fusium.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://fusium.com/sitemap.xml: <urlopen error _ssl.c:999: The handshake operation timed out>"
+  }
+]

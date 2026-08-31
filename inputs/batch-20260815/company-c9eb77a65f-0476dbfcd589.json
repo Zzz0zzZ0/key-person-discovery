@@ -1,0 +1,74 @@
+{
+  "name": "한주라이트메탈(주)",
+  "website": "https://hanjoolightmetal.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "001a7c0f-a187-4e9c-b61e-dcc4c770a5eb",
+  "crm_linkedin_url": "http://www.linkedin.com/company/hanjoo-metal",
+  "crm_country": "韩国",
+  "crm_updated_at": "2026-07-28T10:07:32.323615+00:00",
+  "crm_contact_count": 4,
+  "crm_contacts": [
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+82 52-231-1001",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Tae Min Han",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/tae-min-han-779b75a8/",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Ken Lee",
+      "email": "yjlee@hanjoometal.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/ken-yongjin-lee-70714831",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Sang Chae",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/sang-chae-85916a31",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-15T06:53:51.891362+00:00",
+  "source": "twenty_postgresql_read_only"
+}

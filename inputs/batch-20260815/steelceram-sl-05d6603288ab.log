@@ -1,0 +1,63 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://apceram.com/en/industria_alambre.html                                                        | ✓ | ⏱: 8.35s 
+[SCRAPE].. ◆ https://apceram.com/en/industria_alambre.html                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://apceram.com/en/industria_alambre.html                                                        | ✓ | ⏱: 10.37s 
+[FETCH]... ↓ https://apceram.com/en/politica_calidad.html                                                         | ✓ | ⏱: 8.37s 
+[SCRAPE].. ◆ https://apceram.com/en/politica_calidad.html                                                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://apceram.com/en/politica_calidad.html                                                         | ✓ | ⏱: 10.38s 
+[FETCH]... ↓ https://apceram.com/en/alta_temperatura.html                                                         | ✓ | ⏱: 8.71s 
+[SCRAPE].. ◆ https://apceram.com/en/alta_temperatura.html                                                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://apceram.com/en/alta_temperatura.html                                                         | ✓ | ⏱: 10.72s 
+[FETCH]... ↓ https://apceram.com/en/carburo_silicio.html                                                          | ✓ | ⏱: 8.37s 
+[SCRAPE].. ◆ https://apceram.com/en/carburo_silicio.html                                                          | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://apceram.com/en/carburo_silicio.html                                                          | ✓ | ⏱: 10.39s 
+[FETCH]... ↓ https://rocketreach.co/steelceram-sl-profile_b7c2b774c1815aca                                        | ✓ | ⏱: 1.08s 
+[SCRAPE].. ◆ https://rocketreach.co/steelceram-sl-profile_b7c2b774c1815aca                                        | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...rofile_b7c2b774c1815aca  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/steelceram-sl-profile_b7c2b774c1815aca                                        | ✗ | ⏱: 1.09s 
+[FETCH]... ↓ https://www.apceram.com/en/contacto_ubicacion.html                                                   | ✓ | ⏱: 4.83s 
+[SCRAPE].. ◆ https://www.apceram.com/en/contacto_ubicacion.html                                                   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.apceram.com/en/contacto_ubicacion.html                                                   | ✓ | ⏱: 6.85s 
+[FETCH]... ↓ https://www.apceram.com/en/empleo.html                                                               | ✓ | ⏱: 4.84s 
+[SCRAPE].. ◆ https://www.apceram.com/en/empleo.html                                                               | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.apceram.com/en/empleo.html                                                               | ✓ | ⏱: 6.85s 
+[FETCH]... ↓ https://www.apceram.com/en/materiales.html                                                           | ✓ | ⏱: 3.90s 
+[SCRAPE].. ◆ https://www.apceram.com/en/materiales.html                                                           | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.apceram.com/en/materiales.html                                                           | ✓ | ⏱: 5.91s 
+[FETCH]... ↓ https://www.apceram.com                                                                              | ✓ | ⏱: 4.99s 
+[SCRAPE].. ◆ https://www.apceram.com                                                                              | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.apceram.com                                                                              | ✓ | ⏱: 7.02s 
+[FETCH]... ↓ https://www.apceram.com/en/servicios.html                                                            | ✓ | ⏱: 0.55s 
+[SCRAPE].. ◆ https://www.apceram.com/en/servicios.html                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.apceram.com/en/servicios.html                                                            | ✓ | ⏱: 2.56s 
+[FETCH]... ↓ https://www.apceram.com/en/soldadura.html                                                            | ✓ | ⏱: 0.82s 
+[SCRAPE].. ◆ https://www.apceram.com/en/soldadura.html                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.apceram.com/en/soldadura.html                                                            | ✓ | ⏱: 2.83s 
+[FETCH]... ↓ https://www.datoscif.es/empresa/steelceram-sl                                                        | ✓ | ⏱: 3.13s 
+[SCRAPE].. ◆ https://www.datoscif.es/empresa/steelceram-sl                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.datoscif.es/empresa/steelceram-sl                                                        | ✓ | ⏱: 4.11s 
+[FETCH]... ↓ https://www.empresascif.com/empresa/steelceram-sl/                                                   | ✓ | ⏱: 2.92s 
+[SCRAPE].. ◆ https://www.empresascif.com/empresa/steelceram-sl/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.empresascif.com/empresa/steelceram-sl/                                                   | ✓ | ⏱: 4.62s 
+[FETCH]... ↓ https://www.zoominfo.com/c/steelceram-sl/446219680                                                   | ✓ | ⏱: 0.91s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/steelceram-sl/446219680                                                   | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.com/c/steelceram-sl/446219680 | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/c/steelceram-sl/446219680                                                   | ✗ | ⏱: 1.50s 
+[FETCH]... ↓ https://www.infoempresa.com/en-in/es/company/steelceram-sl                                           | ✓ | ⏱: 3.29s 
+[SCRAPE].. ◆ https://www.infoempresa.com/en-in/es/company/steelceram-sl                                           | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.infoempresa.com/en-in/es/company/steelceram-sl                                           | ✓ | ⏱: 3.33s 
+[FETCH]... ↓ https://www.steelceram.com/en/                                                                       | ✓ | ⏱: 5.09s 
+[SCRAPE].. ◆ https://www.steelceram.com/en/                                                                       | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.steelceram.com/en/                                                                       | ✓ | ⏱: 7.12s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://apceram.com/en/contacto_ubicacion.html                                                       | ✓ | ⏱: 1.84s 
+[SCRAPE].. ◆ https://apceram.com/en/contacto_ubicacion.html                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://apceram.com/en/contacto_ubicacion.html                                                       | ✓ | ⏱: 3.86s 
+[FETCH]... ↓ https://www.apceram.com/es/contacto_ubicacion.html                                                   | ✓ | ⏱: 1.85s 
+[SCRAPE].. ◆ https://www.apceram.com/es/contacto_ubicacion.html                                                   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.apceram.com/es/contacto_ubicacion.html                                                   | ✓ | ⏱: 3.87s 
+Rotated text discovered. Output will be incomplete.
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/steelceram-sl-05d6603288ab.json

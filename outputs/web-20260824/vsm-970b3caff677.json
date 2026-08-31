@@ -1,0 +1,778 @@
+{
+  "company_name": "VSM",
+  "candidates": [
+    {
+      "full_name": "Sarah Peter",
+      "current_title": "Pressekontakt",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "sarah.peter@vsmabrasives.com",
+          "status": "observed",
+          "source_url": "https://www.vsmabrasives.com/de/service/news/familienzuwachs-bei-vsm-zwei-neue-actirox-fiberscheiben-erweitern-das-sortiment"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+495113526334",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.vsmabrasives.com/de/service/news/familienzuwachs-bei-vsm-zwei-neue-actirox-fiberscheiben-erweitern-das-sortiment"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.vsmabrasives.com/de/service/news/familienzuwachs-bei-vsm-zwei-neue-actirox-fiberscheiben-erweitern-das-sortiment",
+          "quote": "Sarah Peter, Pressekontakt, T +49 511 3526 334, sarah.peter@vsmabrasives.com",
+          "supports": "Named press contact with direct contact details on VSM news page"
+        }
+      ],
+      "confidence": 0.9,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "sales@vsmabrasives-apac.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/service/news/familienzuwachs-bei-vsm-zwei-neue-actirox-fiberscheiben-erweitern-das-sortiment",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+6625137441",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/service/news/familienzuwachs-bei-vsm-zwei-neue-actirox-fiberscheiben-erweitern-das-sortiment",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+6625122948",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/service/news/familienzuwachs-bei-vsm-zwei-neue-actirox-fiberscheiben-erweitern-das-sortiment",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "rene.vogt@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "michael.arndt@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "jonas.bittner@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "guenter.haag@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "rainer.kellermann@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "andreas.mueller@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "joachim.pauk@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "stefan.stratmann@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "stefan.weimar@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "ralf.zakoschek@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "lutz.bernert@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "lukas.krawczyk@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "kuno.reiter@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "matthias.wiemann@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "liv.bente@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "jennifer.dettmar@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "felix.eckes@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "svenja.rudolph@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "mareike.schubert@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "mario.wenzel@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "jens.wienert@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+495113526511",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+491713398557",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+491713398555",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+491724183255",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+491752236871",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+491733840447",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+491733840443",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+4915228888068",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+491752978004",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+491713398559",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+491721730871",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+4915256869906",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+491713398561",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+491621369809",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+495113526249",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+4951135269249",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+495113526226",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+4951135269226",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+495113526253",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+4951135269253",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+495113526235",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+4951135269235",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+495113526252",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+4951135269252",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+495113526239",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+4951135269239",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+495113526264",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+4951135269264",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "info@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/en/information-about-data-protection",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "datenschutzbeauftragter@vsmabrasives.com",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/en/information-about-data-protection",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "poststelle@lfd.niedersachsen.de",
+      "status": "observed",
+      "source_url": "https://www.vsmabrasives.com/en/information-about-data-protection",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+4951135260",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/en/information-about-data-protection",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+4954239599320",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/en/information-about-data-protection",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+495111204500",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/en/information-about-data-protection",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+495113521315",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/en/information-about-data-protection",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+33141510300",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/files/inhalte/brochures/VSM-METAL-brochure-EN.pdf",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    },
+    {
+      "channel": "phone",
+      "value": "+495113526478",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/files/inhalte/brochures/VSM-METAL-brochure-EN.pdf",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    },
+    {
+      "channel": "phone",
+      "value": "+420277015300",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/files/inhalte/brochures/VSM-METAL-brochure-EN.pdf",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    },
+    {
+      "channel": "phone",
+      "value": "+441908310207",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/files/inhalte/brochures/VSM-METAL-brochure-EN.pdf",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    },
+    {
+      "channel": "phone",
+      "value": "+3624519223",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/files/inhalte/brochures/VSM-METAL-brochure-EN.pdf",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    },
+    {
+      "channel": "phone",
+      "value": "+48618970480",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/files/inhalte/brochures/VSM-METAL-brochure-EN.pdf",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    },
+    {
+      "channel": "phone",
+      "value": "+46730777032",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/files/inhalte/brochures/VSM-METAL-brochure-EN.pdf",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    },
+    {
+      "channel": "phone",
+      "value": "+34936973411",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/files/inhalte/brochures/VSM-METAL-brochure-EN.pdf",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    },
+    {
+      "channel": "phone",
+      "value": "+41448052828",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/files/inhalte/brochures/VSM-METAL-brochure-EN.pdf",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    },
+    {
+      "channel": "phone",
+      "value": "+902165910617",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/files/inhalte/brochures/VSM-METAL-brochure-EN.pdf",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    },
+    {
+      "channel": "phone",
+      "value": "+902165910701",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/files/inhalte/brochures/VSM-METAL-brochure-EN.pdf",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    },
+    {
+      "channel": "phone",
+      "value": "+862159762011",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/files/inhalte/brochures/VSM-METAL-brochure-EN.pdf",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    },
+    {
+      "channel": "phone",
+      "value": "+16362727432",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/files/inhalte/brochures/VSM-METAL-brochure-EN.pdf",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    },
+    {
+      "channel": "phone",
+      "value": "+573176416748",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/files/inhalte/brochures/VSM-METAL-brochure-EN.pdf",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    },
+    {
+      "channel": "phone",
+      "value": "+19058270005",
+      "status": "valid_format",
+      "source_url": "https://www.vsmabrasives.com/files/inhalte/brochures/VSM-METAL-brochure-EN.pdf",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 7,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 35,
+    "search_engine_warnings": 2,
+    "urls_crawled": 20,
+    "crawl_failures": 0,
+    "contact_signals": 136,
+    "official_urls_discovered": 20,
+    "crm_website": "https://www.vsmabrasives.com/en/company",
+    "official_website": "https://www.vsmabrasives.com/en/company",
+    "website_recovered": false,
+    "pdf_documents_discovered": 3,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 27,
+    "pdf_failures": 1,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": null,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 1,
+    "contactable_items": 75,
+    "target_contact_methods": 1,
+    "contact_methods": 76,
+    "contact_target_met": true,
+    "broad_discovery": false,
+    "topeasy_import": {},
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

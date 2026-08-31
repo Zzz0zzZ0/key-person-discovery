@@ -1,0 +1,116 @@
+[
+  {
+    "query": "https://www.thepmiennam.com.vn",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.thepmiennam.com.vn/sitemap.xml: HTTP Error 404: Not Found"
+  },
+  {
+    "query": "site:linkedin.com/in \"Công ty TNHH Một Thành Viên Thép Miền Nam - VNSTEEL\"",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: access denied"
+  },
+  {
+    "query": "site:linkedin.com/in \"Công ty TNHH Một Thành Viên Thép Miền Nam - VNSTEEL\"",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "too many requests"
+  },
+  {
+    "query": "site:linkedin.com/in \"Công ty TNHH Một Thành Viên Thép Miền Nam - VNSTEEL\"",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Công ty TNHH Một Thành Viên Thép Miền Nam - VNSTEEL\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: access denied"
+  },
+  {
+    "query": "\"Công ty TNHH Một Thành Viên Thép Miền Nam - VNSTEEL\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "\"Công ty TNHH Một Thành Viên Thép Miền Nam - VNSTEEL\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:thepmiennam.com.vn (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: access denied"
+  },
+  {
+    "query": "site:thepmiennam.com.vn (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:thepmiennam.com.vn (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:thepmiennam.com.vn filetype:pdf",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: access denied"
+  },
+  {
+    "query": "site:thepmiennam.com.vn filetype:pdf",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:thepmiennam.com.vn filetype:pdf",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Công ty TNHH Một Thành Viên Thép Miền Nam - VNSTEEL\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: access denied"
+  },
+  {
+    "query": "\"Công ty TNHH Một Thành Viên Thép Miền Nam - VNSTEEL\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "\"Công ty TNHH Một Thành Viên Thép Miền Nam - VNSTEEL\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:thepmiennam.com.vn (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "Suspended: access denied"
+  },
+  {
+    "query": "site:thepmiennam.com.vn (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:thepmiennam.com.vn (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  }
+]

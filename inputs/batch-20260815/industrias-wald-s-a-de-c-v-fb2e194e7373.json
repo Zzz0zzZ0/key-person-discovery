@@ -1,0 +1,55 @@
+{
+  "name": "Industrias WALD S.A DE C.V",
+  "website": "https://wald.com.mx",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00f3bcb1-55e7-443b-a37e-d86a343f893c",
+  "crm_linkedin_url": "https://www.linkedin.com/company/industriaswald/",
+  "crm_country": "墨西哥",
+  "crm_updated_at": "2026-07-29T05:05:59.832236+00:00",
+  "crm_contact_count": 2,
+  "crm_contacts": [
+    {
+      "name": " Official Email",
+      "email": "industrias@wald.com.mx",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Luis Fernando Álvarez Contreras",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://linkedin.com/in/luis-fernando-álvarez-contreras-7a72a9208",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T03:59:38.233357+00:00",
+  "source": "twenty_postgresql_read_only"
+}

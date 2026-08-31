@@ -1,0 +1,62 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://adamas.com/                                                                                  | ✓ | ⏱: 2.77s 
+[SCRAPE].. ◆ https://adamas.com/                                                                                  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://adamas.com/                                                                                  | ✓ | ⏱: 3.82s 
+[FETCH]... ↓ https://adamas.ru                                                                                    | ✓ | ⏱: 3.23s 
+[SCRAPE].. ◆ https://adamas.ru                                                                                    | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://adamas.ru                                                                                    | ✓ | ⏱: 4.35s 
+[FETCH]... ↓ https://adamas.ru/about/about-company/                                                               | ✓ | ⏱: 3.23s 
+[SCRAPE].. ◆ https://adamas.ru/about/about-company/                                                               | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://adamas.ru/about/about-company/                                                               | ✓ | ⏱: 3.97s 
+[FETCH]... ↓ https://adamas.ru/about/                                                                             | ✓ | ⏱: 3.23s 
+[SCRAPE].. ◆ https://adamas.ru/about/                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://adamas.ru/about/                                                                             | ✓ | ⏱: 3.97s 
+[FETCH]... ↓ https://adamas.ru/about/career/                                                                      | ✓ | ⏱: 0.71s 
+[SCRAPE].. ◆ https://adamas.ru/about/career/                                                                      | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://adamas.ru/about/career/                                                                      | ✓ | ⏱: 0.71s 
+[FETCH]... ↓ https://adamas.ru/about/contacts/                                                                    | ✓ | ⏱: 0.62s 
+[SCRAPE].. ◆ https://adamas.ru/about/contacts/                                                                    | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://adamas.ru/about/contacts/                                                                    | ✓ | ⏱: 0.62s 
+[FETCH]... ↓ https://adamas.ru/about/olympic/                                                                     | ✓ | ⏱: 0.68s 
+[SCRAPE].. ◆ https://adamas.ru/about/olympic/                                                                     | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://adamas.ru/about/olympic/                                                                     | ✓ | ⏱: 0.69s 
+[FETCH]... ↓ https://adamas.ru/about/olympic/medals/                                                              | ✓ | ⏱: 0.68s 
+[SCRAPE].. ◆ https://adamas.ru/about/olympic/medals/                                                              | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://adamas.ru/about/olympic/medals/                                                              | ✓ | ⏱: 0.69s 
+[FETCH]... ↓ https://adamas.ru/about/olympic/official-supplier/                                                   | ✓ | ⏱: 0.66s 
+[SCRAPE].. ◆ https://adamas.ru/about/olympic/official-supplier/                                                   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://adamas.ru/about/olympic/official-supplier/                                                   | ✓ | ⏱: 0.66s 
+[FETCH]... ↓ https://adamas.ru/about/production/                                                                  | ✓ | ⏱: 0.63s 
+[SCRAPE].. ◆ https://adamas.ru/about/production/                                                                  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://adamas.ru/about/production/                                                                  | ✓ | ⏱: 0.63s 
+[FETCH]... ↓ https://companium.ru/id/1211800010751-adamas                                                         | ✓ | ⏱: 2.23s 
+[SCRAPE].. ◆ https://companium.ru/id/1211800010751-adamas                                                         | ✓ | ⏱: 0.00s 
+[ERROR]... × https://companium.ru/id/1211800010751-adamas       | Error: Blocked by anti-bot protection: HTTP 429 Too Many Requests 
+[COMPLETE] ● https://companium.ru/id/1211800010751-adamas                                                         | ✗ | ⏱: 3.55s 
+[FETCH]... ↓ https://www.zoominfo.com/c/adamas-corporate-solutions-pty-ltd/919143                                 | ✓ | ⏱: 1.00s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/adamas-corporate-solutions-pty-ltd/919143                                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...olutions-pty-ltd/919143  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/c/adamas-corporate-solutions-pty-ltd/919143                                 | ✗ | ⏱: 1.62s 
+[FETCH]... ↓ https://krasnodar.ruspravochnik.com/company/adamas                                                   | ✓ | ⏱: 6.62s 
+[SCRAPE].. ◆ https://krasnodar.ruspravochnik.com/company/adamas                                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://krasnodar.ruspravochnik.com/company/adamas                                                   | ✓ | ⏱: 8.65s 
+[FETCH]... ↓ https://companies.rbc.ru/id/1027804919097-ooo-adamas/                                                | ✓ | ⏱: 8.65s 
+[SCRAPE].. ◆ https://companies.rbc.ru/id/1027804919097-ooo-adamas/                                                | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://companies.rbc.ru/id/1027804919097-ooo-adamas/                                                | ✓ | ⏱: 9.82s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://adamas.ru/eng/about/                                                                         | ✓ | ⏱: 3.01s 
+[SCRAPE].. ◆ https://adamas.ru/eng/about/                                                                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://adamas.ru/eng/about/                                                                         | ✓ | ⏱: 3.02s 
+[FETCH]... ↓ https://adamas.ru/bjm/                                                                               | ✓ | ⏱: 3.27s 
+[SCRAPE].. ◆ https://adamas.ru/bjm/                                                                               | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://adamas.ru/bjm/                                                                               | ✓ | ⏱: 3.27s 
+[FETCH]... ↓ https://adamas.ru/catalog/rings/A1-1958-17-02                                                        | ✓ | ⏱: 3.51s 
+[SCRAPE].. ◆ https://adamas.ru/catalog/rings/A1-1958-17-02                                                        | ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://adamas.ru/catalog/rings/A1-1958-17-02                                                        | ✓ | ⏱: 3.59s 
+[FETCH]... ↓ https://adamas.ru/catalog/rings/14042085-01-A517DCH-421                                              | ✓ | ⏱: 3.59s 
+[SCRAPE].. ◆ https://adamas.ru/catalog/rings/14042085-01-A517DCH-421                                              | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://adamas.ru/catalog/rings/14042085-01-A517DCH-421                                              | ✓ | ⏱: 3.64s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/adamas-c5bb9b3d0a32.json

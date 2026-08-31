@@ -1,0 +1,460 @@
+[
+  {
+    "channel": "email",
+    "value": "contato@thorabrasivos.com.br",
+    "status": "observed",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=17",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/thor-abrasivos-511b84180/",
+    "status": "observed",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=17",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5511984381334",
+    "status": "verified",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=17",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381334",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=17",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551123046299",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=17",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381344",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=17",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contato@thorabrasivos.com.br",
+    "status": "observed",
+    "source_url": "https://thorabrasivos.com.br/contato.php",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/thor-abrasivos-511b84180/",
+    "status": "observed",
+    "source_url": "https://thorabrasivos.com.br/contato.php",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5511984381334",
+    "status": "verified",
+    "source_url": "https://thorabrasivos.com.br/contato.php",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381334",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/contato.php",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551123046299",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/contato.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381344",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/contato.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contato@thorabrasivos.com.br",
+    "status": "observed",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=16",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/thor-abrasivos-511b84180/",
+    "status": "observed",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=16",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5511984381334",
+    "status": "verified",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=16",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381334",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=16",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551123046299",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=16",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381344",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=16",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contato@thorabrasivos.com.br",
+    "status": "observed",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=27",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/thor-abrasivos-511b84180/",
+    "status": "observed",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=27",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5511984381334",
+    "status": "verified",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=27",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381334",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=27",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551123046299",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=27",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381344",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=27",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contato@thorabrasivos.com.br",
+    "status": "observed",
+    "source_url": "https://thorabrasivos.com.br/sobre-nos.php",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/thor-abrasivos-511b84180/",
+    "status": "observed",
+    "source_url": "https://thorabrasivos.com.br/sobre-nos.php",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5511984381334",
+    "status": "verified",
+    "source_url": "https://thorabrasivos.com.br/sobre-nos.php",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381334",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/sobre-nos.php",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551123046299",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/sobre-nos.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381344",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/sobre-nos.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contato@thorabrasivos.com.br",
+    "status": "observed",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=28",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/thor-abrasivos-511b84180/",
+    "status": "observed",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=28",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5511984381334",
+    "status": "verified",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=28",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381334",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=28",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551123046299",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=28",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381344",
+    "status": "valid_format",
+    "source_url": "https://thorabrasivos.com.br/produto-detalhe.php?id=28",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contato@thorabrasivos.com.br",
+    "status": "observed",
+    "source_url": "https://portalnacionaldaindustria.com.br/empresas/thor-abrasivos",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5551993768376",
+    "status": "verified",
+    "source_url": "https://portalnacionaldaindustria.com.br/empresas/thor-abrasivos",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5551993768376",
+    "status": "valid_format",
+    "source_url": "https://portalnacionaldaindustria.com.br/empresas/thor-abrasivos",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contato@thorabrasivos.com.br",
+    "status": "observed",
+    "source_url": "https://www.thorabrasivos.com.br/contato.php",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/thor-abrasivos-511b84180/",
+    "status": "observed",
+    "source_url": "https://www.thorabrasivos.com.br/contato.php",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5511984381334",
+    "status": "verified",
+    "source_url": "https://www.thorabrasivos.com.br/contato.php",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381334",
+    "status": "valid_format",
+    "source_url": "https://www.thorabrasivos.com.br/contato.php",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551123046299",
+    "status": "valid_format",
+    "source_url": "https://www.thorabrasivos.com.br/contato.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381344",
+    "status": "valid_format",
+    "source_url": "https://www.thorabrasivos.com.br/contato.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contato@thorabrasivos.com.br",
+    "status": "observed",
+    "source_url": "https://www.thorabrasivos.com.br",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/thor-abrasivos-511b84180/",
+    "status": "observed",
+    "source_url": "https://www.thorabrasivos.com.br",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5511984381334",
+    "status": "verified",
+    "source_url": "https://www.thorabrasivos.com.br",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381334",
+    "status": "valid_format",
+    "source_url": "https://www.thorabrasivos.com.br",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551123046299",
+    "status": "valid_format",
+    "source_url": "https://www.thorabrasivos.com.br",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381344",
+    "status": "valid_format",
+    "source_url": "https://www.thorabrasivos.com.br",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contato@thorabrasivos.com.br",
+    "status": "observed",
+    "source_url": "https://www.thorabrasivos.com.br/sobre-nos.php",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/thor-abrasivos-511b84180/",
+    "status": "observed",
+    "source_url": "https://www.thorabrasivos.com.br/sobre-nos.php",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5511984381334",
+    "status": "verified",
+    "source_url": "https://www.thorabrasivos.com.br/sobre-nos.php",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381334",
+    "status": "valid_format",
+    "source_url": "https://www.thorabrasivos.com.br/sobre-nos.php",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551123046299",
+    "status": "valid_format",
+    "source_url": "https://www.thorabrasivos.com.br/sobre-nos.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511984381344",
+    "status": "valid_format",
+    "source_url": "https://www.thorabrasivos.com.br/sobre-nos.php",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/rafael-fernandes-machado-24b17b92",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/rafael-fernandes-machado-24b17b92"
+  },
+  {
+    "channel": "email",
+    "value": "contato@thorabrasivos.com.br",
+    "status": "probable",
+    "source_url": "https://www.thorabrasivos.com.br/",
+    "company_public": true
+  }
+]

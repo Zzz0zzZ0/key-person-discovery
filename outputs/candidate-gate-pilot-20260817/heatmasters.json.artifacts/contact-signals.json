@@ -1,0 +1,360 @@
+[
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "varkaus@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "turku@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "poland@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ants@heatmasters.ee",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358400956879",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207571343",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48515555010",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+37256245607",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/blog/what-is-normalizing-in-steel-heat-treatment/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/blog/what-is-normalizing-in-steel-heat-treatment/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/blog/what-is-annealing-in-heat-treatment-purpose-benefits-and-industrial-applications/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/blog/what-is-annealing-in-heat-treatment-purpose-benefits-and-industrial-applications/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/uncategorized/what-is-on-site-heat-treatment/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/uncategorized/what-is-on-site-heat-treatment/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/about-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/news/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/quality-management-system/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/quality-management-system/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/uncategorized/newsletter/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/uncategorized/newsletter/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/blog/what-is-normalizing-in-steel-heat-treatment/heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "varkaus@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/blog/what-is-normalizing-in-steel-heat-treatment/heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "turku@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/blog/what-is-normalizing-in-steel-heat-treatment/heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "poland@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/blog/what-is-normalizing-in-steel-heat-treatment/heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ants@heatmasters.ee",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/blog/what-is-normalizing-in-steel-heat-treatment/heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/blog/what-is-normalizing-in-steel-heat-treatment/heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358400956879",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/blog/what-is-normalizing-in-steel-heat-treatment/heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207571343",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/blog/what-is-normalizing-in-steel-heat-treatment/heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48515555010",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/blog/what-is-normalizing-in-steel-heat-treatment/heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+37256245607",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/blog/what-is-normalizing-in-steel-heat-treatment/heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "invoice23162686@kollektor.fi",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/heatmasters.net/how-to-invoice-heatmasters/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "customercare@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/heatmasters.net/how-to-invoice-heatmasters/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/contact-us/heatmasters.net/how-to-invoice-heatmasters/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/contact-us/heatmasters.net/how-to-invoice-heatmasters/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@tav-vacuumfurnaces.com",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/wp-content/uploads/2024/02/TAV-VACUUM-FURNACES.pdf"
+  },
+  {
+    "channel": "phone",
+    "value": "+390363355711",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/wp-content/uploads/2024/02/TAV-VACUUM-FURNACES.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/wp-content/uploads/2026/06/A002-Code-of-Conduct-ver.-1.4.pdf"
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/wp-content/uploads/2026/06/A002-Code-of-Conduct-ver.-1.4.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "niklas.anttila@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://linkedin.com/in/niklasant"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/niklasant",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/niklasant"
+  }
+]

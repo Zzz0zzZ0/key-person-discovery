@@ -1,0 +1,60 @@
+[
+  {
+    "channel": "email",
+    "value": "sales@preciseceramic.com",
+    "status": "observed",
+    "source_url": "https://advancedceramics.home.blog/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@preciseceramic.com",
+    "status": "observed",
+    "source_url": "https://preciseceramic.com/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@preciseceramic.com",
+    "status": "observed",
+    "source_url": "https://www.preciseceramic.com/contact-us.html",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@preciseceramic.com",
+    "status": "observed",
+    "source_url": "https://www.preciseceramic.com/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "acm@samaterials.com",
+    "status": "observed",
+    "source_url": "https://www.pissedconsumer.com/company/advanced-ceramic-materials/customer-service.html",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@preciseceramic.com",
+    "status": "observed",
+    "source_url": "https://www.pissedconsumer.com/company/advanced-ceramic-materials/customer-service.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+19498126690",
+    "status": "valid_format",
+    "source_url": "https://www.pissedconsumer.com/company/advanced-ceramic-materials/customer-service.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@van-cera.com",
+    "status": "observed",
+    "source_url": "https://www.van-cera.com/top-10-advanced-ceramics-manufacturers-and-suppliers-in-the-world/",
+    "company_public": true
+  }
+]

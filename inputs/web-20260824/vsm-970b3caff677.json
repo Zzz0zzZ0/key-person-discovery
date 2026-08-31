@@ -1,0 +1,37 @@
+{
+  "name": "VSM",
+  "website": "https://www.vsmabrasives.com/en/company",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": null,
+  "crm_linkedin_url": null,
+  "crm_country": null,
+  "crm_updated_at": null,
+  "crm_contact_count": null,
+  "crm_contacts": [],
+  "target_contact_count": 1,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-24T01:48:56.361048+00:00",
+  "source": "manual"
+}

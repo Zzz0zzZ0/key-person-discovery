@@ -1,0 +1,149 @@
+{
+  "company_name": "SCHOTT",
+  "candidates": [
+    {
+      "full_name": "Andrea Frenzel",
+      "current_title": "Management Board Member / CFO",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+498718260",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.schott.com/en-gb/about-us/company/regions-and-locations/landshut"
+        },
+        {
+          "value": "+49364128889222",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.schott.com/en-gb/about-us/company/regions-and-locations/landshut"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.schott.com/en-gb/about-us/company/management/andrea-frenzel",
+          "quote": "Management Board Member",
+          "supports": "Current Management Board member of SCHOTT AG, confirmed on official company management page"
+        },
+        {
+          "source_url": "https://www.schott.com/en-gb/about-us/company/regions-and-locations/landshut",
+          "quote": "+49 8718 260",
+          "supports": "SCHOTT AG headquarters phone (Landshut), confirming company switchboard for executive contact routing"
+        },
+        {
+          "source_url": "https://www.schott.com/en-gb/about-us/company/regions-and-locations/landshut",
+          "quote": "+49 3641 2888 9222",
+          "supports": "SCHOTT AG secondary switchboard (Landshut), alternative company contact number"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+912240947000",
+      "status": "valid_format",
+      "source_url": "https://www.schott.com/en-gb/about-us/company/regions-and-locations/mumbai",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+19148312200",
+      "status": "valid_format",
+      "source_url": "https://www.schott.com/en-gb/about-us/company/regions-and-locations/rye-brook-ny",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+862133678000",
+      "status": "valid_format",
+      "source_url": "https://www.schott.com/en-gb/about-us/company/regions-and-locations/shanghai",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+862133678080",
+      "status": "valid_format",
+      "source_url": "https://www.schott.com/en-gb/about-us/company/regions-and-locations/shanghai",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+8651268095989",
+      "status": "valid_format",
+      "source_url": "https://www.schott.com/en-gb/about-us/company/regions-and-locations/suzhou",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+33387231011",
+      "status": "valid_format",
+      "source_url": "https://www.schott.com/en-gb/about-us/company/regions-and-locations/troisfontaines",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info.datenschutz@schott.com",
+      "status": "probable",
+      "source_url": "https://www.schott.com/en-gb/supplier-gdpr-info",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+443300021340",
+      "status": "valid_format",
+      "source_url": "https://www.schott.com/en-gb/careers-inquiry",
+      "whatsapp_status": "unknown",
+      "evidence_status": "probable",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 30,
+    "search_engine_warnings": 0,
+    "urls_crawled": 20,
+    "crawl_failures": 0,
+    "contact_signals": 31,
+    "official_urls_discovered": 20,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 2,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 5,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 1,
+    "contactable_items": 9,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

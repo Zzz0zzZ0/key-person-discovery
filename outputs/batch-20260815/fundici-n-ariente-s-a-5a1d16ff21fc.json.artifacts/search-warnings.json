@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://www.fundicionariente.com.ar",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.fundicionariente.com.ar/sitemap.xml: HTTP Error 404: Not Found"
+  }
+]

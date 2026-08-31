@@ -1,0 +1,38 @@
+[
+  {
+    "channel": "phone",
+    "value": "+5517996654056",
+    "status": "valid_format",
+    "source_url": "https://www.hidroveda.ind.br/contato",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5517996789493",
+    "status": "valid_format",
+    "source_url": "https://www.hidroveda.ind.br/contato",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551732017500",
+    "status": "valid_format",
+    "source_url": "https://www.hidroveda.ind.br/contato",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551732017501",
+    "status": "valid_format",
+    "source_url": "https://www.hidroveda.ind.br/contato",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

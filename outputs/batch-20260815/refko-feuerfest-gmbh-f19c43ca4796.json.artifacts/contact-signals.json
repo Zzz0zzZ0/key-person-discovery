@@ -1,0 +1,91 @@
+[
+  {
+    "channel": "email",
+    "value": "info@refko.de",
+    "status": "observed",
+    "source_url": "https://www.refko.de/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926232075",
+    "status": "valid_format",
+    "source_url": "https://www.refko.de/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://fr.linkedin.com/in/motasilva?trk=org-employees",
+    "status": "observed",
+    "source_url": "https://tt.linkedin.com/company/refko-feuerfest-gmbh",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://de.linkedin.com/in/florian-laux-525693231?trk=org-employees",
+    "status": "observed",
+    "source_url": "https://tt.linkedin.com/company/refko-feuerfest-gmbh",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://de.linkedin.com/in/peter-weirich-a81855231?trk=org-employees",
+    "status": "observed",
+    "source_url": "https://tt.linkedin.com/company/refko-feuerfest-gmbh",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://de.linkedin.com/in/lukas-m%C3%B6hring-8a4085389?trk=org-employees",
+    "status": "observed",
+    "source_url": "https://tt.linkedin.com/company/refko-feuerfest-gmbh",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://kr.linkedin.com/in/jinwook-kim-bb7497255?trk=organization_guest_main-feed-card_feed-actor-image",
+    "status": "observed",
+    "source_url": "https://tt.linkedin.com/company/refko-feuerfest-gmbh",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://kr.linkedin.com/in/jinwook-kim-bb7497255?trk=organization_guest_main-feed-card_feed-actor-name",
+    "status": "observed",
+    "source_url": "https://tt.linkedin.com/company/refko-feuerfest-gmbh",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4923262075",
+    "status": "valid_format",
+    "source_url": "https://malaysia.ahk.de/en/members/members-directory/refko-feuerfest-gmbh",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refko.de",
+    "status": "observed",
+    "source_url": "https://www.refko.de/en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4926232075",
+    "status": "valid_format",
+    "source_url": "https://www.refko.de/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/florian-laux-525693231",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/florian-laux-525693231"
+  }
+]

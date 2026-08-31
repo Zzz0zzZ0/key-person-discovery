@@ -1,0 +1,55 @@
+{
+  "name": "Ri-Flex Abrasives S.R.L.",
+  "website": "https://riflex.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00f2772a-7fe7-4494-b14a-6fb2f29f0627",
+  "crm_linkedin_url": "http://www.linkedin.com/company/ri---flex-abrasives-s.r.l.",
+  "crm_country": "意大利",
+  "crm_updated_at": "2026-07-28T10:08:09.119323+00:00",
+  "crm_contact_count": 2,
+  "crm_contacts": [
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+39 059 782712",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Andrea Grazi",
+      "email": "andrea.grazi@tiscali.it",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/andrea-grazi-b31963160",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T03:58:01.881073+00:00",
+  "source": "twenty_postgresql_read_only"
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "channel": "phone",
+    "value": "+18553741199",
+    "status": "valid_format",
+    "source_url": "https://fr.importgenius.com/suppliers/garion-international-ltd",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+14807453397",
+    "status": "valid_format",
+    "source_url": "https://fr.importgenius.com/suppliers/garion-international-ltd",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+18553741199",
+    "status": "valid_format",
+    "source_url": "https://www.importgenius.com/importers/garion-international-ltd",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+82515133980",
+    "status": "valid_format",
+    "source_url": "https://www.listofcompaniesin.com/Garion_International_Ltd_Company_2611815.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+82515151534",
+    "status": "valid_format",
+    "source_url": "https://www.listofcompaniesin.com/Garion_International_Ltd_Company_2611815.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+18337527161",
+    "status": "valid_format",
+    "source_url": "https://www.go4worldbusiness.com/member/view/921780/garion-international-ltd-.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+16469128384",
+    "status": "valid_format",
+    "source_url": "https://www.go4worldbusiness.com/member/view/921780/garion-international-ltd-.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+911141507600",
+    "status": "valid_format",
+    "source_url": "https://www.go4worldbusiness.com/member/view/921780/garion-international-ltd-.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+918929800770",
+    "status": "valid_format",
+    "source_url": "https://www.go4worldbusiness.com/member/view/921780/garion-international-ltd-.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "contactus@exporthub.com",
+    "status": "observed",
+    "source_url": "https://www.exporthub.com/garion-international-co-ltd-1619011/"
+  },
+  {
+    "channel": "phone",
+    "value": "+12143067737",
+    "status": "valid_format",
+    "source_url": "https://www.exporthub.com/garion-international-co-ltd-1619011/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+82515133980",
+    "status": "valid_format",
+    "source_url": "https://garion.en.ec21.com/company_contact_info.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+82515133980",
+    "status": "valid_format",
+    "source_url": "https://garion.en.ec21.com/company_info.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

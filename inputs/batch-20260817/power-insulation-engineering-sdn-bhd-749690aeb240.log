@@ -1,0 +1,51 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://powerinsulationengineering.com                                                               | ✓ | ⏱: 1.63s 
+[SCRAPE].. ◆ https://powerinsulationengineering.com                                                               | ✓ | ⏱: 0.00s 
+[ERROR]... × https://powerinsulationengineering.com             | Error: Blocked by anti-bot protection: Structural: no_content_elements on small page (123 bytes, 84 chars visible) 
+[COMPLETE] ● https://powerinsulationengineering.com                                                               | ✗ | ⏱: 3.64s 
+[FETCH]... ↓ https://powerinsulationengineering.com/contact-us/                                                   | ✓ | ⏱: 1.48s 
+[SCRAPE].. ◆ https://powerinsulationengineering.com/contact-us/                                                   | ✓ | ⏱: 0.00s 
+[ERROR]... × https://powerinsulationengineering.com/contact-us/ | Error: Blocked by anti-bot protection: Structural: no_content_elements on small page (123 bytes, 84 chars visible) 
+[COMPLETE] ● https://powerinsulationengineering.com/contact-us/                                                   | ✗ | ⏱: 3.49s 
+[FETCH]... ↓ https://powerinsulationengineering.com/our-services/                                                 | ✓ | ⏱: 1.49s 
+[SCRAPE].. ◆ https://powerinsulationengineering.com/our-services/                                                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://powerinsulation...ering.com/our-services/  | Error: Blocked by anti-bot protection: Structural: no_content_elements on small page (123 bytes, 84 chars visible) 
+[COMPLETE] ● https://powerinsulationengineering.com/our-services/                                                 | ✗ | ⏱: 3.49s 
+[FETCH]... ↓ https://my79712-pie-power-insulation-engineering-sdn-bhd.contact.page/contact-details                | ✓ | ⏱: 2.13s 
+[SCRAPE].. ◆ https://my79712-pie-power-insulation-engineering-sdn-bhd.contact.page/contact-details                | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://my79712-pie-power-insulation-engineering-sdn-bhd.contact.page/contact-details                | ✓ | ⏱: 4.14s 
+[FETCH]... ↓ https://www.trademo.com/buyers/hscode/253010/97                                                      | ✓ | ⏱: 1.37s 
+[SCRAPE].. ◆ https://www.trademo.com/buyers/hscode/253010/97                                                      | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.trademo.com/buyers/hscode/253010/97    | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (10367 bytes) 
+[COMPLETE] ● https://www.trademo.com/buyers/hscode/253010/97                                                      | ✗ | ⏱: 1.38s 
+[FETCH]... ↓ https://www.trademo.com/companies/power-insulation-engineering-sdn-bh/33083409                       | ✓ | ⏱: 0.95s 
+[SCRAPE].. ◆ https://www.trademo.com/companies/power-insulation-engineering-sdn-bh/33083409                       | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.trademo.com...neering-sdn-bh/33083409  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (10308 bytes) 
+[COMPLETE] ● https://www.trademo.com/companies/power-insulation-engineering-sdn-bh/33083409                       | ✗ | ⏱: 0.96s 
+[FETCH]... ↓ https://powerinsulationengineering.com/product-sourcing/                                             | ✓ | ⏱: 0.67s 
+[SCRAPE].. ◆ https://powerinsulationengineering.com/product-sourcing/                                             | ✓ | ⏱: 0.00s 
+[ERROR]... × https://powerinsulation...g.com/product-sourcing/  | Error: Blocked by anti-bot protection: Structural: no_content_elements on small page (123 bytes, 84 chars visible) 
+[COMPLETE] ● https://powerinsulationengineering.com/product-sourcing/                                             | ✗ | ⏱: 2.68s 
+[FETCH]... ↓ https://powerinsulationengineering.com/ultra-large-fiber-laser-cutting-services/                     | ✓ | ⏱: 0.76s 
+[SCRAPE].. ◆ https://powerinsulationengineering.com/ultra-large-fiber-laser-cutting-services/                     | ✓ | ⏱: 0.00s 
+[ERROR]... × https://powerinsulation...laser-cutting-services/  | Error: Blocked by anti-bot protection: Structural: no_content_elements on small page (123 bytes, 84 chars visible) 
+[COMPLETE] ● https://powerinsulationengineering.com/ultra-large-fiber-laser-cutting-services/                     | ✗ | ⏱: 2.77s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://powerinsulationengineering.com                                                               | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://powerinsulationengineering.com                                                               | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://powerinsulationengineering.com/product-sourcing/                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://powerinsulationengineering.com/product-sourcing/                                             | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://powerinsulationengineering.com/our-services/                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://powerinsulationengineering.com/our-services/                                                 | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://powerinsulationengineering.com/contact-us/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://powerinsulationengineering.com/contact-us/                                                   | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://powerinsulationengineering.com/ultra-large-fiber-laser-cutting-services/                     | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://powerinsulationengineering.com/ultra-large-fiber-laser-cutting-services/                     | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://www.trademo.com/buyers/hscode/253010/97                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.trademo.com/buyers/hscode/253010/97                                                      | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.trademo.com/companies/power-insulation-engineering-sdn-bh/33083409                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.trademo.com/companies/power-insulation-engineering-sdn-bh/33083409                       | ✓ | ⏱: 0.01s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260817/power-insulation-engineering-sdn-bhd-749690aeb240.json

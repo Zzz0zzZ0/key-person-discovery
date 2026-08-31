@@ -1,0 +1,127 @@
+{
+  "company_name": "Belco Industries, Inc",
+  "candidates": [
+    {
+      "full_name": "Brian Sparks",
+      "current_title": "Project Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 75,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "bsparks@belcoind.com",
+          "status": "observed",
+          "source_url": "https://www.belcoind.com/careers/"
+        }
+      ],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.belcoind.com/careers/",
+          "quote": "To Apply: Please contact Brian Sparks at bsparks@belcoind.com",
+          "supports": "Project Manager job posting lists Brian Sparks as the contact person"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    },
+    {
+      "full_name": "Justin Swanson",
+      "current_title": "Mechanical Engineer",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "jswanson@belcoind.com",
+          "status": "observed",
+          "source_url": "https://www.belcoind.com/careers/"
+        }
+      ],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.belcoind.com/careers/",
+          "quote": "To Apply: Please contact Justin Swanson at jswanson@belcoind.com",
+          "supports": "Mechanical Engineer job posting lists Justin Swanson as the contact person"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+16167940410",
+      "status": "valid_format",
+      "source_url": "https://www.belcoind.com/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sales@limitlesspurchasing.com",
+      "status": "observed",
+      "source_url": "https://www.limitlesspurchasing.com/nsn/manufacturer/belco-industries-inc/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+17147054780",
+      "status": "valid_format",
+      "source_url": "https://www.limitlesspurchasing.com/nsn/manufacturer/belco-industries-inc/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "ckohn@belcoind.com",
+      "status": "observed",
+      "source_url": "https://www.ccaiweb.com/member/belcoindustries",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 40,
+    "search_engine_warnings": 1,
+    "urls_crawled": 30,
+    "crawl_failures": 13,
+    "contact_signals": 37,
+    "official_urls_discovered": 7,
+    "pdf_documents_discovered": 1,
+    "pdf_documents_processed": 1,
+    "pdf_documents_extracted": 1,
+    "pdf_pages_extracted": 1,
+    "pdf_failures": 0,
+    "search_evidence_pages": 2,
+    "contact_evidence_pages": 3,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 1,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 4,
+    "contactable_items": 6,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

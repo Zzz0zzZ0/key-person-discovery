@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://malleable.co.za",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://malleable.co.za/sitemap.xml: <urlopen error _ssl.c:999: The handshake operation timed out>"
+  }
+]

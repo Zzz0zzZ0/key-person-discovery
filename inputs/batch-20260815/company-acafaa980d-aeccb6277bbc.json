@@ -1,0 +1,55 @@
+{
+  "name": "ИХБ МЕТАЛ КАСТИНГС АД",
+  "website": "https://ihbmetalcastings.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "0104ef73-89ab-4f15-8328-ba930c9408a1",
+  "crm_linkedin_url": null,
+  "crm_country": "Bulgaria",
+  "crm_updated_at": "2026-07-27T10:53:14.862373+00:00",
+  "crm_contact_count": 2,
+  "crm_contacts": [
+    {
+      "name": "Official Email",
+      "email": "office@ihbmetalcastings.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+359 2 836 4402",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "fetched_at": "2026-08-15T04:03:01.030279+00:00",
+  "source": "twenty_postgresql_read_only"
+}

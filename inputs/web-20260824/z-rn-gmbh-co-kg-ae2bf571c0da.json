@@ -1,0 +1,56 @@
+{
+  "name": "ZÜRN GmbH & Co. KG",
+  "website": "https://zuern.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "84352378-ce7b-42b6-bdc2-de30ebc1aa96",
+  "crm_linkedin_url": "https://www.linkedin.com/company/zuern-com",
+  "crm_country": null,
+  "crm_updated_at": "2026-08-19T07:21:42.718068+00:00",
+  "crm_contact_count": 2,
+  "crm_contacts": [
+    {
+      "name": "Contact",
+      "email": null,
+      "additional_emails": null,
+      "phone": "892123960",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Contact",
+      "email": "kontakt@zuern.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-24T03:35:36.028690+00:00",
+  "source": "twenty_postgresql_read_only"
+}

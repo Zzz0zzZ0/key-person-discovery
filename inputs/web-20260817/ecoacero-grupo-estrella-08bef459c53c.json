@@ -1,0 +1,37 @@
+{
+  "name": "ECOACERO (Grupo Estrella)",
+  "website": "https://aceroestrella.com.do",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "0005c70a-b263-4477-b4ce-2b140fd600c0",
+  "crm_linkedin_url": null,
+  "crm_country": "多米尼加共和国",
+  "crm_updated_at": "2026-08-16T02:25:50.839571+00:00",
+  "crm_contact_count": 0,
+  "crm_contacts": [],
+  "target_contact_count": 4,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-17T02:08:39.968668+00:00",
+  "source": "twenty_postgresql_read_only"
+}

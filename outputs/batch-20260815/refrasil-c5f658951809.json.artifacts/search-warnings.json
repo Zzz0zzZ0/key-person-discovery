@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://www.refrasil.cz",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.refrasil.cz/sitemap.rss: syntax error: line 1, column 0"
+  }
+]

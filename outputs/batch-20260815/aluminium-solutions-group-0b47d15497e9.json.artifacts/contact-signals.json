@@ -1,0 +1,95 @@
+[
+  {
+    "channel": "email",
+    "value": "webadmin@alusolutionsgroup.com",
+    "status": "observed",
+    "source_url": "https://alusolutionsgroup.com/en/cookie-policy-eu/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "webadmin@alusolutionsgroup.com",
+    "status": "observed",
+    "source_url": "https://alusolutionsgroup.com/en/legal-notice/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contact@ovh.com",
+    "status": "observed",
+    "source_url": "https://alusolutionsgroup.com/en/legal-notice/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "webadmin@alusolutionsgroup.com",
+    "status": "observed",
+    "source_url": "https://alusolutionsgroup.com/es/informacion-juridica/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contact@ovh.com",
+    "status": "observed",
+    "source_url": "https://alusolutionsgroup.com/es/informacion-juridica/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "webadmin@alusolutionsgroup.com",
+    "status": "observed",
+    "source_url": "https://alusolutionsgroup.com/mentions-legales/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contact@ovh.com",
+    "status": "observed",
+    "source_url": "https://alusolutionsgroup.com/mentions-legales/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "pro-opengate@prosek.com",
+    "status": "observed",
+    "source_url": "https://opengatecapital.com/news/aluminium-solutions-group-sas-appoints-edouard-guinotte-as-president-and-chief-executive-officer",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "achaffin@opengatecapital.com",
+    "status": "observed",
+    "source_url": "https://opengatecapital.com/news/aluminium-solutions-group-sas-appoints-edouard-guinotte-as-president-and-chief-executive-officer",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jadams@opengatecapital.com",
+    "status": "observed",
+    "source_url": "https://opengatecapital.com/news/aluminium-solutions-group-sas-appoints-edouard-guinotte-as-president-and-chief-executive-officer",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+13104327000",
+    "status": "valid_format",
+    "source_url": "https://opengatecapital.com/news/aluminium-solutions-group-sas-appoints-edouard-guinotte-as-president-and-chief-executive-officer",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contact@aluminium.fr",
+    "status": "observed",
+    "source_url": "https://www.aluminium.fr/en/gouvernance",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contactcontact@ovh.comtel",
+    "status": "probable",
+    "source_url": "https://alusolutionsgroup.com/en/legal-notice/",
+    "company_public": true
+  }
+]

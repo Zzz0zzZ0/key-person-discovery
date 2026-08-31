@@ -1,0 +1,147 @@
+{
+  "company_name": "Schwarzhaupt GmbH & Co. KG",
+  "candidates": [
+    {
+      "full_name": "Philipp Hermann Brinker",
+      "current_title": "Geschäftsführender Gesellschafter (Managing Partner)",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+49235190760",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.schwarzhaupt.de/en/impressum.html"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.schwarzhaupt.de/en/impressum.html",
+          "quote": "Geschäftsführender Gesellschafter: Philipp Hermann Brinker",
+          "supports": "Named managing partner, legally responsible for content under §55 RStV"
+        },
+        {
+          "source_url": "http://www.schwarzhaupt.de/en/ueber.html",
+          "quote": "Philipp Brinker, Executive Partner, [Download vCard]",
+          "supports": "Executive partner with downloadable vCard on company about page"
+        }
+      ],
+      "confidence": 0.92,
+      "review_required": true,
+      "crm_existing_match": [
+        "email"
+      ]
+    },
+    {
+      "full_name": "Corinna Sibylle Schiemenz",
+      "current_title": "Geschäftsführende Gesellschafterin (Managing Partner)",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+49235190760",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.schwarzhaupt.de/en/impressum.html"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.schwarzhaupt.de/en/impressum.html",
+          "quote": "Geschäftsführende Gesellschafterin: Corinna Sibylle Schiemenz",
+          "supports": "Named managing partner on legal imprint"
+        },
+        {
+          "source_url": "http://www.schwarzhaupt.de/en/ueber.html",
+          "quote": "Corinna Schiemenz, Managing Partner, [Download vCard]",
+          "supports": "Managing partner with downloadable vCard on company about page"
+        }
+      ],
+      "confidence": 0.92,
+      "review_required": true,
+      "crm_existing_match": [
+        "email"
+      ]
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "mail@daro.de",
+      "status": "observed",
+      "source_url": "https://www.schwarzhaupt.de/en/impressum.html",
+      "company_public": true,
+      "verification_status": "company_source"
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Philipp Hermann Brinker",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "candidate",
+      "full_name": "Corinna Sibylle Schiemenz",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 2,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 45,
+    "search_engine_warnings": 6,
+    "urls_crawled": 9,
+    "crawl_failures": 0,
+    "contact_signals": 7,
+    "official_urls_discovered": 1,
+    "crm_website": "https://schwarzhaupt.de",
+    "official_website": "http://www.schwarzhaupt.de",
+    "website_recovered": true,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 3,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 2,
+    "crm_duplicates_removed": 2,
+    "target_contactable_items": 4,
+    "contactable_items": 3,
+    "target_contact_methods": 4,
+    "contact_methods": 2,
+    "contact_target_met": false,
+    "broad_discovery": false,
+    "topeasy_import": {},
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

@@ -1,0 +1,221 @@
+[
+  {
+    "channel": "email",
+    "value": "administracion@baredessa.com.ar",
+    "status": "observed",
+    "source_url": "https://baredessa.com.ar/web/en/aboutus",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+542304666500",
+    "status": "valid_format",
+    "source_url": "https://baredessa.com.ar/web/en/aboutus",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "administracion@baredessa.com.ar",
+    "status": "observed",
+    "source_url": "http://baredessa.com.ar",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+542304666500",
+    "status": "valid_format",
+    "source_url": "http://baredessa.com.ar",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "administracion@baredessa.com.ar",
+    "status": "observed",
+    "source_url": "https://baredessa.com.ar/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+542304666500",
+    "status": "valid_format",
+    "source_url": "https://baredessa.com.ar/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "administracion@baredessa.com.ar",
+    "status": "observed",
+    "source_url": "http://baredessa.com.ar/web/en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+542304666500",
+    "status": "valid_format",
+    "source_url": "http://baredessa.com.ar/web/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "administracion@baredessa.com.ar",
+    "status": "observed",
+    "source_url": "https://baredessa.com.ar/web/en/contact",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+542304666500",
+    "status": "valid_format",
+    "source_url": "https://baredessa.com.ar/web/en/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ad..@baredessa.com.ar",
+    "status": "observed",
+    "source_url": "https://www.aihitdata.com/company/00541CB7/baredes/contacts",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+542304666500",
+    "status": "valid_format",
+    "source_url": "https://www.aihitdata.com/company/00541CB7/baredes/contacts",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "administracion@baredessa.com.ar",
+    "status": "observed",
+    "source_url": "https://baredessa.com.ar/web/en/markets",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+542304666500",
+    "status": "valid_format",
+    "source_url": "https://baredessa.com.ar/web/en/markets",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "administracion@baredessa.com.ar",
+    "status": "observed",
+    "source_url": "https://baredessa.com.ar/web/en/technology",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+542304666500",
+    "status": "valid_format",
+    "source_url": "https://baredessa.com.ar/web/en/technology",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@eximpedia.app",
+    "status": "observed",
+    "source_url": "https://www.eximpedia.app/companies/baredes-sa/69432880",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6597252405",
+    "status": "valid_format",
+    "source_url": "https://www.eximpedia.app/companies/baredes-sa/69432880",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "michael.chen@innovatex.com",
+    "status": "observed",
+    "source_url": "https://www.marketinsidedata.com/en/company/baredes-sa/48568e6c4ae37267d9b5cbdcec1fae1a",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/michaelchen",
+    "status": "observed",
+    "source_url": "https://www.marketinsidedata.com/en/company/baredes-sa/48568e6c4ae37267d9b5cbdcec1fae1a",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/example",
+    "status": "observed",
+    "source_url": "https://www.marketinsidedata.com/en/company/baredes-sa/48568e6c4ae37267d9b5cbdcec1fae1a",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "administracion@baredessa.com.ar",
+    "status": "observed",
+    "source_url": "http://baredessa.com.ar/web/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+542304666500",
+    "status": "valid_format",
+    "source_url": "http://baredessa.com.ar/web/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "administracion@baredessa.com.ar",
+    "status": "observed",
+    "source_url": "http://baredessa.com.ar/web/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+542304666500",
+    "status": "valid_format",
+    "source_url": "http://baredessa.com.ar/web/contacto/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "administracion@baredessa.com.ar",
+    "status": "observed",
+    "source_url": "http://baredessa.com.ar/web/en/aboutus/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+542304666500",
+    "status": "valid_format",
+    "source_url": "http://baredessa.com.ar/web/en/aboutus/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/fernando-baredes-42915711",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/fernando-baredes-42915711"
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "channel": "email",
+    "value": "comercial@coexbrasil.com.br",
+    "status": "observed",
+    "source_url": "https://coexbrasil.com.br/parceiros/stay-fundicao/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5511944551273",
+    "status": "verified",
+    "source_url": "https://coexbrasil.com.br/parceiros/stay-fundicao/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5511944551273",
+    "status": "valid_format",
+    "source_url": "https://coexbrasil.com.br/parceiros/stay-fundicao/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551120849494",
+    "status": "valid_format",
+    "source_url": "http://www.fundstay.com.br",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "fundstay@fundstay.com.br",
+    "status": "observed",
+    "source_url": "https://www.fundstay.com.br/contato/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551120849494",
+    "status": "valid_format",
+    "source_url": "https://www.fundstay.com.br/contato/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551120849494",
+    "status": "valid_format",
+    "source_url": "https://www.fundstay.com.br/en/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "fundstay@fundstay.com.br",
+    "status": "observed",
+    "source_url": "https://www.fundstay.com.br/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551120849494",
+    "status": "valid_format",
+    "source_url": "https://www.fundstay.com.br/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551120849494",
+    "status": "valid_format",
+    "source_url": "https://www.fundstay.com.br/en/certificates/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551120849494",
+    "status": "valid_format",
+    "source_url": "https://www.fundstay.com.br/en/quality-policy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551120849494",
+    "status": "valid_format",
+    "source_url": "https://www.fundstay.com.br/en/sustainability/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551120849494",
+    "status": "valid_format",
+    "source_url": "https://www.fundstay.com.br/es/mantenimiento/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551120849494",
+    "status": "valid_format",
+    "source_url": "https://www.fundstay.com.br/servicos/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551120849494",
+    "status": "valid_format",
+    "source_url": "https://www.fundstay.com.br/en/the-company/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "fundstay@fundstay.com.br",
+    "status": "observed",
+    "source_url": "https://www.fundstay.com.br/es/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+551120849494",
+    "status": "valid_format",
+    "source_url": "https://www.fundstay.com.br/es/contacto/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/walker-baptista-da-concei%C3%A7%C3%A3o-6951a165",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/walker-baptista-da-concei%C3%A7%C3%A3o-6951a165"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/pedro-milton-3550407a",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/pedro-milton-3550407a"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/decio-cavalheiri-20013531",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/decio-cavalheiri-20013531"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/marcio-greg%C3%B3rio-865ab2122",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/marcio-greg%C3%B3rio-865ab2122"
+  }
+]

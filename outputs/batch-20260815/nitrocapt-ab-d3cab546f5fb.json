@@ -1,0 +1,172 @@
+{
+  "company_name": "NitroCapt AB",
+  "candidates": [
+    {
+      "full_name": "Gustaf Forsberg",
+      "current_title": "Founder & CEO",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://nitrocapt.com/about/management/",
+          "quote": "Gustaf Forsberg, Founder & CEO",
+          "supports": "current role at NitroCapt"
+        },
+        {
+          "source_url": "https://foodplanetprize.org/initiatives/nitrocapt-how-a-swedish-startup-is-harnessing-the-power-of-lightning-to-revolutionize-agriculture",
+          "quote": "\"See where the tubes are coming out like a flower around the reactor?\" said Gustaf Forsberg, the Swedish physicist-turned-startup-founder",
+          "supports": "active leadership at NitroCapt"
+        },
+        {
+          "source_url": "https://nitrocapt.com",
+          "quote": "_Gustaf Forsberg, CEO, presents NitroCapt_",
+          "supports": "current CEO role"
+        }
+      ],
+      "confidence": 0.92,
+      "review_required": true
+    },
+    {
+      "full_name": "Björn Lindh",
+      "current_title": "Head of Strategy & Vice CEO",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "bjorn.lindh@nitrocapt.com",
+          "status": "observed",
+          "source_url": "https://nitrocapt.com/press/"
+        }
+      ],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://nitrocapt.com/about/management/",
+          "quote": "Björn Lindh, Head of strategy & vice CEO",
+          "supports": "current management role at NitroCapt"
+        },
+        {
+          "source_url": "https://nitrocapt.com/about-2/management-2-2/",
+          "quote": "Björn Lindh, Head of strategy & vice CEO, Is serial entrepreneur in cleantech technology companies",
+          "supports": "current role and seniority"
+        },
+        {
+          "source_url": "https://foodplanetprize.org/initiatives/nitrocapt-how-a-swedish-startup-is-harnessing-the-power-of-lightning-to-revolutionize-agriculture",
+          "quote": "\"No one believes this will be possible,\" says Björn Lindh, NitroCapt's strategy director.",
+          "supports": "current role at NitroCapt as strategy director"
+        },
+        {
+          "source_url": "https://nitrocapt.com/press/",
+          "quote": "contact: bjorn.lindh@nitrocapt.com",
+          "supports": "public business email"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Robin Toss",
+      "current_title": "COO",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://nitrocapt.com/about/management/",
+          "quote": "Robin Toss, COO, Has extensive experience in operational efficiency of running and developing businesses",
+          "supports": "current COO role at NitroCapt"
+        },
+        {
+          "source_url": "https://nitrocapt.com/about-2/management-2-2/",
+          "quote": "Robin Toss, COO, Gained experience in operational efficiency through 20+ years at McDonald's",
+          "supports": "current management role"
+        }
+      ],
+      "confidence": 0.9,
+      "review_required": true
+    },
+    {
+      "full_name": "Johanna Dahl",
+      "current_title": "Head of People and Culture",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 30,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "johanna.dahl@nitrocapt.com",
+          "status": "observed",
+          "source_url": "https://careers.nitrocapt.com/connect"
+        }
+      ],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://careers.nitrocapt.com/people/1935644-johanna-dahl",
+          "quote": "Johanna Dahl, Head of People and Culture – HR",
+          "supports": "current HR leadership role at NitroCapt"
+        },
+        {
+          "source_url": "https://nitrocapt.com/about/management/",
+          "quote": "Johanna Dahl, Head of People and Culture, Is responsible for human ressources at NitroCapt",
+          "supports": "current management role at NitroCapt"
+        },
+        {
+          "source_url": "https://careers.nitrocapt.com/connect",
+          "quote": "Nitrocapt johanna.dahl@nitrocapt.com",
+          "supports": "public contact email on careers page"
+        }
+      ],
+      "confidence": 0.92,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "sluholding@slu.se",
+      "status": "observed",
+      "source_url": "https://sluholding.se/en/2025/04/04/nitrocapt-launches-swedens-first-domestic-production-of-mineral-nitrogen-fertilizer-in-almost-two-decades",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 40,
+    "search_engine_warnings": 0,
+    "urls_crawled": 30,
+    "crawl_failures": 9,
+    "contact_signals": 8,
+    "official_urls_discovered": 16,
+    "pdf_documents_discovered": 1,
+    "pdf_documents_processed": 1,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 1,
+    "search_evidence_pages": 5,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 3,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

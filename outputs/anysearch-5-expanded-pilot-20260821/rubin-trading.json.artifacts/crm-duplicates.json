@@ -1,0 +1,68 @@
+[
+  {
+    "kind": "candidate",
+    "full_name": "Elena Gigova",
+    "matched_by": [
+      "email",
+      "name"
+    ]
+  },
+  {
+    "kind": "candidate",
+    "full_name": "Lyudmila Tsekova",
+    "matched_by": [
+      "email",
+      "name"
+    ]
+  },
+  {
+    "kind": "candidate",
+    "full_name": "Aleksandra Atanasova",
+    "matched_by": [
+      "email",
+      "name"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  },
+  {
+    "kind": "unassigned_contact",
+    "channel": "email",
+    "matched_by": [
+      "email"
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://mmm-int.co.uk",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://mmm-int.co.uk/groupon.php?sitemap.xml: HTTP Error 404: Not Found"
+  }
+]

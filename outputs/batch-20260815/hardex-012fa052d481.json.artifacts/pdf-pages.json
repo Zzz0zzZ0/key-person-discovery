@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://www.hardex.fr/sites/default/files/temis-news-hardex_0.pdf",
+    "markdown": "",
+    "error": "HTTP Error 404: Not Found",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  }
+]

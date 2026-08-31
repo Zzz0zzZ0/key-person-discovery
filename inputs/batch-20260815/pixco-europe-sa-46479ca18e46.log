@@ -1,0 +1,21 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rocketreach.co/pilar-urrestarazu-email_50481430                                              | ✓ | ⏱: 1.08s 
+[SCRAPE].. ◆ https://rocketreach.co/pilar-urrestarazu-email_50481430                                              | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...estarazu-email_50481430  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/pilar-urrestarazu-email_50481430                                              | ✗ | ⏱: 1.09s 
+[FETCH]... ↓ https://prospeo.io/c/pixco-europe-revenue                                                            | ✓ | ⏱: 1.91s 
+[SCRAPE].. ◆ https://prospeo.io/c/pixco-europe-revenue                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://prospeo.io/c/pixco-europe-revenue                                                            | ✓ | ⏱: 3.09s 
+[FETCH]... ↓ https://pixcoeurope.com/                                                                             | ✓ | ⏱: 3.09s 
+[SCRAPE].. ◆ https://pixcoeurope.com/                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://pixcoeurope.com/                                                                             | ✓ | ⏱: 4.14s 
+[FETCH]... ↓ https://www.pixcoeurope.com                                                                          | ✓ | ⏱: 2.24s 
+[SCRAPE].. ◆ https://www.pixcoeurope.com                                                                          | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.pixcoeurope.com                                                                          | ✓ | ⏱: 2.92s 
+[FETCH]... ↓ https://www.local.ch/en/d/lugano/6900/business-consultancy/pixco-europe-sa-e1jGULcY81JX8af4dlP-HQ    | ✓ | ⏱: 3.30s 
+[SCRAPE].. ◆ https://www.local.ch/en/d/lugano/6900/business-consultancy/pixco-europe-sa-e1jGULcY81JX8af4dlP-HQ    | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.local.ch/en/d/lugano/6900/business-consultancy/pixco-europe-sa-e1jGULcY81JX8af4dlP-HQ    | ✓ | ⏱: 4.57s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/pixco-europe-sa-46479ca18e46.json

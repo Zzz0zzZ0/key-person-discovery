@@ -1,0 +1,109 @@
+{
+  "company_name": "ADAMAS (АДАМАС)",
+  "candidates": [
+    {
+      "full_name": "Адам Муцаев",
+      "current_title": "Генеральный директор",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [
+        {
+          "value": "https://linkedin.com/in/%D0%B0%D0%B4%D0%B0%D0%BC-%D0%BC%D1%83%D1%86%D0%B0%D0%B5%D0%B2-7547a8103",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/%D0%B0%D0%B4%D0%B0%D0%BC-%D0%BC%D1%83%D1%86%D0%B0%D0%B5%D0%B2-7547a8103"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/%D0%B0%D0%B4%D0%B0%D0%BC-%D0%BC%D1%83%D1%86%D0%B0%D0%B5%D0%B2-7547a8103",
+          "quote": "Генеральный Директор – АДАМАС (Current) Department: General Management • Level: C-Level",
+          "supports": "current CEO role at exact target company"
+        }
+      ],
+      "confidence": 0.7,
+      "review_required": true
+    },
+    {
+      "full_name": "Всеволод Герасимов",
+      "current_title": "Менеджер по работе с сетями",
+      "company_match": "probable",
+      "influence_type": "decision_maker",
+      "influence_score": 60,
+      "linkedin": [
+        {
+          "value": "https://linkedin.com/in/%D0%B2%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B4-%D0%B3%D0%B5%D1%80%D0%B0%D1%81%D0%B8%D0%BC%D0%BE%D0%B2-009ba478",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/%D0%B2%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B4-%D0%B3%D0%B5%D1%80%D0%B0%D1%81%D0%B8%D0%BC%D0%BE%D0%B2-009ba478"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/%D0%B2%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B4-%D0%B3%D0%B5%D1%80%D0%B0%D1%81%D0%B8%D0%BC%D0%BE%D0%B2-009ba478",
+          "quote": "Менеджер по работе с сетями (Adamas capital jewellery factory)",
+          "supports": "current manager role at Adamas capital jewellery factory — related party to target company"
+        }
+      ],
+      "confidence": 0.4,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "arenda@adamas.ru",
+      "status": "probable",
+      "source_url": "https://adamas.ru/about/contacts/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "job@adamas.ru",
+      "status": "probable",
+      "source_url": "https://adamas.ru/about/contacts/",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 26,
+    "search_engine_warnings": 0,
+    "urls_crawled": 19,
+    "crawl_failures": 3,
+    "contact_signals": 9,
+    "official_urls_discovered": 9,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 3,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 4,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 1,
+    "contactable_items": 4,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

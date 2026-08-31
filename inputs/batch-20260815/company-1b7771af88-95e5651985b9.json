@@ -1,0 +1,136 @@
+{
+  "name": "АТ \"Нікопольський завод феросплавів\"",
+  "website": "https://www.nzf.com.ua",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00a23f2b-f8e0-4cf1-a1e9-6d3172ca8197",
+  "crm_linkedin_url": "http://www.linkedin.com/company/nikopol-ferroalloy-plant-pjsc",
+  "crm_country": "乌克兰",
+  "crm_updated_at": "2026-07-28T10:08:24.027306+00:00",
+  "crm_contact_count": 11,
+  "crm_contacts": [
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+380 5666 30816",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "ksv@nzf.com.ua",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "salaschenko.nzf@gmail.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "yudin.snab@nzf.com.ua",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "01@nzf.com.ua",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "sales@nzf.com.ua",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "melnik@nzf.com.ua",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Vitalii Bezsonov",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/vitalii-bezsonov-ba294b102",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Lyudmila Orlova",
+      "email": "l_orlova@nzf.com.ua",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/%d0%bb%d1%8e%d0%b4%d0%bc%d0%b8%d0%bb%d0%b0-%d0%be%d1%80%d0%bb%d0%be%d0%b2%d0%b0-80846bab",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "osit@nzf.com.ua",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "salaschenko.snab@nzf.com.ua",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-15T03:08:16.110731+00:00",
+  "source": "twenty_postgresql_read_only"
+}

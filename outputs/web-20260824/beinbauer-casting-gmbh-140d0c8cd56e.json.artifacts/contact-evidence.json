@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.beinbauer-group.de/kontakt/",
+    "markdown": "Kontakt\nfreuen wir uns über Ihre Kontaktaufnahme. Gerne können Sie uns auch telefonisch. Beinbauer Casting GmbH. Ostendamm 23, 58239 Schwerte Tel. +49 2304 105-0.",
+    "error": "",
+    "provider": "anysearch",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.beinbauer-group.de/en/contact/",
+    "markdown": "Contact - BEINBAUER GROUP\nContact If you have any further questions about the Beinbauer Group or our service portfolio, we look forward to hearing from you. You can also contact us by phone. Beinbauer Casting GmbH Ostendamm 23, 58239 Schwerte Tel. +49 2304 105-0 Beinbauer Machining GmbH & Co. KG Passauer Straße 9, 94124 Büchlberg Tel. +49 8505 9003-0",
+    "error": "",
+    "provider": "searxng",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  }
+]

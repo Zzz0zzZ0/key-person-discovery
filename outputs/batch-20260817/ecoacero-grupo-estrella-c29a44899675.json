@@ -1,0 +1,130 @@
+{
+  "company_name": "ECOACERO (Grupo Estrella)",
+  "candidates": [
+    {
+      "full_name": "Sergio Fueyo Álvarez",
+      "current_title": "Secretario General",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 5,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "ecoacero@ecoacero.com",
+          "status": "observed",
+          "source_url": "https://ecoacero.com/contacto/"
+        }
+      ],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://ecoacero.com/contacto/",
+          "quote": "Secretario General Sergio Fueyo Álvarez ecoacero@ecoacero.com",
+          "supports": "Named Secretary General of ECOACERO Spain with listed contact email"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "comunicaespana@arcelormittal.com",
+      "status": "observed",
+      "source_url": "https://ecoacero.com/contacto/privacy-cookies-police-politica-de-privacidad/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "proteccion.datos@arcelormittal.com",
+      "status": "observed",
+      "source_url": "https://ecoacero.com/contacto/privacy-cookies-police-politica-de-privacidad/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@ecoacero.com",
+      "status": "observed",
+      "source_url": "https://ecoacero.com/contacto/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "comunicaciones@estrella.com.do",
+      "status": "observed",
+      "source_url": "https://estrella.com.do/empresas/ecoacero/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "ecoaceroslf@gmail.com",
+      "status": "observed",
+      "source_url": "https://ecoacero.wixsite.com/ecoacero/sobre-nosotros",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+34822040656",
+      "status": "valid_format",
+      "source_url": "https://ecoacero.wixsite.com/ecoacero/sobre-nosotros",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+34620444100",
+      "status": "valid_format",
+      "source_url": "https://ecoacero.wixsite.com/ecoacero/sobre-nosotros",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 43,
+    "search_engine_warnings": 4,
+    "urls_crawled": 16,
+    "crawl_failures": 2,
+    "contact_signals": 10,
+    "official_urls_discovered": 5,
+    "crm_website": "https://aceroestrella.com.do",
+    "official_website": "https://ecoacero.com",
+    "website_recovered": true,
+    "pdf_documents_discovered": 6,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 40,
+    "pdf_failures": 1,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 8,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

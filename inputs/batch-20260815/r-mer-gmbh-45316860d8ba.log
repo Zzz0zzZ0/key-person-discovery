@@ -1,0 +1,47 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://de.openprocurements.com/supplier/romer-gmbh/                                                 | ✓ | ⏱: 2.22s 
+[SCRAPE].. ◆ https://de.openprocurements.com/supplier/romer-gmbh/                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://de.openprocurements.com/supplier/romer-gmbh/                                                 | ✓ | ⏱: 2.24s 
+[FETCH]... ↓ https://directory.cosuno.com/de/germany/companies/ingenieurburo-romer-gmbh-908953                    | ✓ | ⏱: 5.04s 
+[SCRAPE].. ◆ https://directory.cosuno.com/de/germany/companies/ingenieurburo-romer-gmbh-908953                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://directory.cosuno.com/de/germany/companies/ingenieurburo-romer-gmbh-908953                    | ✓ | ⏱: 6.16s 
+[FETCH]... ↓ https://giessereibedarf-roemer.com/datenschutzerklaerung/                                            | ✓ | ⏱: 4.29s 
+[SCRAPE].. ◆ https://giessereibedarf-roemer.com/datenschutzerklaerung/                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://giessereibedarf-roemer.com/datenschutzerklaerung/                                            | ✓ | ⏱: 4.31s 
+[FETCH]... ↓ https://giessereibedarf-roemer.com/                                                                  | ✓ | ⏱: 5.10s 
+[SCRAPE].. ◆ https://giessereibedarf-roemer.com/                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://giessereibedarf-roemer.com/                                                                  | ✓ | ⏱: 6.46s 
+[FETCH]... ↓ http://giessereibedarf-roemer.com                                                                    | ✓ | ⏱: 4.58s 
+[SCRAPE].. ◆ http://giessereibedarf-roemer.com                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://giessereibedarf-roemer.com                                                                    | ✓ | ⏱: 6.59s 
+[FETCH]... ↓ https://giessereibedarf-roemer.com/impressum/                                                        | ✓ | ⏱: 0.69s 
+[SCRAPE].. ◆ https://giessereibedarf-roemer.com/impressum/                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://giessereibedarf-roemer.com/impressum/                                                        | ✓ | ⏱: 0.71s 
+[FETCH]... ↓ https://rocketreach.co/michael-romer-email_3574433                                                   | ✓ | ⏱: 0.98s 
+[SCRAPE].. ◆ https://rocketreach.co/michael-romer-email_3574433                                                   | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/michael-romer-email_3574433 | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/michael-romer-email_3574433                                                   | ✗ | ⏱: 0.99s 
+[FETCH]... ↓ https://rocketreach.co/alexander-romer-email_134901469                                               | ✓ | ⏱: 1.23s 
+[SCRAPE].. ◆ https://rocketreach.co/alexander-romer-email_134901469                                               | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...r-romer-email_134901469  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/alexander-romer-email_134901469                                               | ✗ | ⏱: 1.23s 
+[FETCH]... ↓ https://rocketreach.co/stephan-romer-email_33655700                                                  | ✓ | ⏱: 1.02s 
+[SCRAPE].. ◆ https://rocketreach.co/stephan-romer-email_33655700                                                  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...an-romer-email_33655700  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/stephan-romer-email_33655700                                                  | ✗ | ⏱: 1.03s 
+[FETCH]... ↓ https://giessereibedarf-roemer.com/kontakt                                                           | ✓ | ⏱: 4.73s 
+[SCRAPE].. ◆ https://giessereibedarf-roemer.com/kontakt                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://giessereibedarf-roemer.com/kontakt                                                           | ✓ | ⏱: 4.75s 
+[FETCH]... ↓ https://www.northdata.com/Römer GmbH, Haßmersheim/Amtsgericht Mannheim HRB 441317                    | ✓ | ⏱: 2.63s 
+[SCRAPE].. ◆ https://www.northdata.com/Römer GmbH, Haßmersheim/Amtsgericht Mannheim HRB 441317                    | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.northdata.com/Römer GmbH, Haßmersheim/Amtsgericht Mannheim HRB 441317                    | ✓ | ⏱: 2.67s 
+[FETCH]... ↓ https://www.creditsafe.com/business-index/de-de/company/friedrich-romer-gmbh-de01337216              | ✓ | ⏱: 4.41s 
+[SCRAPE].. ◆ https://www.creditsafe.com/business-index/de-de/company/friedrich-romer-gmbh-de01337216              | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.creditsafe.com/business-index/de-de/company/friedrich-romer-gmbh-de01337216              | ✓ | ⏱: 5.33s 
+[FETCH]... ↓ https://www.webvalid.de/company/Römer+GmbH,+Haßmersheim/HRB+441317                                   | ✓ | ⏱: 3.50s 
+[SCRAPE].. ◆ https://www.webvalid.de/company/Römer+GmbH,+Haßmersheim/HRB+441317                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.webvalid.de/company/Römer+GmbH,+Haßmersheim/HRB+441317                                   | ✓ | ⏱: 5.12s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/r-mer-gmbh-45316860d8ba.json

@@ -1,0 +1,29 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://sieindustrial.co.uk/case-studies/                                                            | ✓ | ⏱: 2.82s 
+[SCRAPE].. ◆ https://sieindustrial.co.uk/case-studies/                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sieindustrial.co.uk/case-studies/                                                            | ✓ | ⏱: 4.60s 
+[FETCH]... ↓ https://sieindustrial.co.uk/company/                                                                 | ✓ | ⏱: 2.83s 
+[SCRAPE].. ◆ https://sieindustrial.co.uk/company/                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sieindustrial.co.uk/company/                                                                 | ✓ | ⏱: 4.61s 
+[FETCH]... ↓ https://sieindustrial.co.uk                                                                          | ✓ | ⏱: 2.86s 
+[SCRAPE].. ◆ https://sieindustrial.co.uk                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sieindustrial.co.uk                                                                          | ✓ | ⏱: 4.88s 
+[FETCH]... ↓ https://sieindustrial.co.uk/contact/                                                                 | ✓ | ⏱: 1.46s 
+[SCRAPE].. ◆ https://sieindustrial.co.uk/contact/                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sieindustrial.co.uk/contact/                                                                 | ✓ | ⏱: 1.48s 
+[FETCH]... ↓ https://www.facebook.com/SIE-Industrial-384375226184/                                                | ✓ | ⏱: 2.22s 
+[SCRAPE].. ◆ https://www.facebook.com/SIE-Industrial-384375226184/                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.facebook.com/SIE-Industrial-384375226184/                                                | ✓ | ⏱: 4.26s 
+[FETCH]... ↓ https://www.facebook.com/SIE.Industrial.Ltd/                                                         | ✓ | ⏱: 2.30s 
+[SCRAPE].. ◆ https://www.facebook.com/SIE.Industrial.Ltd/                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.facebook.com/SIE.Industrial.Ltd/                                                         | ✓ | ⏱: 4.33s 
+[FETCH]... ↓ https://energicoast.co.uk/supply-chain-directory/sie-industrial-services-ltd/                        | ✓ | ⏱: 7.77s 
+[SCRAPE].. ◆ https://energicoast.co.uk/supply-chain-directory/sie-industrial-services-ltd/                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://energicoast.co.uk/supply-chain-directory/sie-industrial-services-ltd/                        | ✓ | ⏱: 9.39s 
+[FETCH]... ↓ https://www.processregister.com/SIE_Industrial_Ltd/Supplier/sid230585.htm                            | ✓ | ⏱: 1.89s 
+[SCRAPE].. ◆ https://www.processregister.com/SIE_Industrial_Ltd/Supplier/sid230585.htm                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.processregister.com/SIE_Industrial_Ltd/Supplier/sid230585.htm                            | ✓ | ⏱: 3.14s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/sie-industrial-ltd-ef1bdb5aa9a1.json

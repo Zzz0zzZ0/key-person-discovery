@@ -1,0 +1,28 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://aceriasprocometal.com                                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://aceriasprocometal.com                                                                         | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ http://www.aceriasprocometal.com/contactenos.php                                                     | ✓ | ⏱: 0.02s 
+[COMPLETE] ● http://www.aceriasprocometal.com/contactenos.php                                                     | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ http://www.aceriasprocometal.com/cotizacion.php                                                      | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://www.aceriasprocometal.com/cotizacion.php                                                      | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://www.emis.com/php/company-profile/CO/Acerias_Procometal_SAS_en_1180345.html                   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.emis.com/php/company-profile/CO/Acerias_Procometal_SAS_en_1180345.html                   | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ http://aceriasprocometal.com/trayectoria.html                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://aceriasprocometal.com/trayectoria.html                                                        | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://aceriasprocometal.com/                                                                       | ✓ | ⏱: 3.05s 
+[SCRAPE].. ◆ https://aceriasprocometal.com/                                                                       | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://aceriasprocometal.com/                                                                       | ✓ | ⏱: 4.52s 
+[FETCH]... ↓ https://aceriasprocometal.com/medios.html                                                            | ✓ | ⏱: 3.16s 
+[SCRAPE].. ◆ https://aceriasprocometal.com/medios.html                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://aceriasprocometal.com/medios.html                                                            | ✓ | ⏱: 4.52s 
+[INIT].... → Crawl4AI 0.9.2 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://aceriasprocometal.com/contactenos.php                                                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://aceriasprocometal.com/contactenos.php                                                         | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://aceriasprocometal.com/contactenos.php                                                        | ✓ | ⏱: 1.97s 
+[SCRAPE].. ◆ https://aceriasprocometal.com/contactenos.php                                                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://aceriasprocometal.com/contactenos.php                                                        | ✓ | ⏱: 2.89s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260817/acerias-procometal-s-a-s-cbe47b3885b7.json

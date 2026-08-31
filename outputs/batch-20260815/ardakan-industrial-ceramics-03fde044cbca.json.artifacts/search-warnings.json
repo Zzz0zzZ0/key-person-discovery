@@ -1,0 +1,8 @@
+[
+  {
+    "query": "http://www.aic.ir",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "http://www.aic.ir/sitemap.xml: HTTP Error 404: Not Found"
+  }
+]

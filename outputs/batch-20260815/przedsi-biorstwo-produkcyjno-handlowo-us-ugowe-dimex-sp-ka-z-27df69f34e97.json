@@ -1,0 +1,393 @@
+{
+  "company_name": "Przedsiębiorstwo Produkcyjno-Handlowo-Usługowe \"DIMEX\" Spółka z ograniczoną odpowiedzialnością",
+  "candidates": [
+    {
+      "full_name": "Arkadiusz Szkuta",
+      "current_title": "Chairman of the Board",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 0.95,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "a.szkuta@dimex.pl",
+          "status": "observed",
+          "source_url": "https://dimex.pl/koks/en/contact-us/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+48605432439",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://dimex.pl/koks/en/contact-us/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://dimex.pl/koks/en/contact-us/",
+          "quote": "Arkadiusz Szkuta, Chairman of the Board, +48 605 432 439, a.szkuta@dimex.pl",
+          "supports": "Chairman of the Board at DIMEX"
+        },
+        {
+          "source_url": "https://dimex.pl/koks/en/products/",
+          "quote": "Arkadiusz Szkuta - Director / Authorized Clerk - +48 605 432 439 - a.szkuta@dimex.pl",
+          "supports": "Director and authorized signatory for DIMEX"
+        }
+      ],
+      "confidence": 0.9,
+      "review_required": true
+    },
+    {
+      "full_name": "Wojciech Kubik",
+      "current_title": "General Trade Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 0.9,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "w.kubik@dimex.pl",
+          "status": "observed",
+          "source_url": "https://dimex.pl/koks/en/contact-us/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+48603929301",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://dimex.pl/koks/en/contact-us/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://dimex.pl/koks/en/contact-us/",
+          "quote": "Wojciech Kubik, General Trade Manager, +48 603 929 301, w.kubik@dimex.pl",
+          "supports": "General Trade Manager at DIMEX for coke, coal, and anthracite products"
+        },
+        {
+          "source_url": "https://dimex.pl/koks/en/products/",
+          "quote": "Wojciech Kubik - General Trade Manager - +48 603 929 301 - w.kubik@dimex.pl",
+          "supports": "General Trade Manager handling industrial/heating coke and coal product lines"
+        }
+      ],
+      "confidence": 0.9,
+      "review_required": true
+    },
+    {
+      "full_name": "Rafał Kupicha",
+      "current_title": "General Trade Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 0.85,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "kupicha@dimex.pl",
+          "status": "observed",
+          "source_url": "https://dimex.pl/plytki/en/contact-details/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+48601312090",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://dimex.pl/plytki/en/contact-details/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://dimex.pl/plytki/en/contact-details/",
+          "quote": "Rafał Kupicha, General Trade Manager, +48 601 312 090, kupicha@dimex.pl",
+          "supports": "General Trade Manager at DIMEX ceramic tiles division; Ceramics is a listed industry"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Tomasz Chamera",
+      "current_title": "Trade Specialist",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 0.8,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "grafit@dimex.pl",
+          "status": "observed",
+          "source_url": "https://dimex.pl/koks/en/products/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+48605422432",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://dimex.pl/koks/en/contact-us/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://dimex.pl/koks/en/products/",
+          "quote": "Tomasz Chamera - Trade Specialist - +48 605 422 432 - grafit@dimex.pl",
+          "supports": "Trade Specialist for Graphite products; graphite is used in refractory applications and is listed in DIMEX product range"
+        },
+        {
+          "source_url": "https://dimex.pl/koks/en/contact-us/",
+          "quote": "Tomasz Chamera, Trade Specialist, +48 605 422 432, grafit@dimex.pl",
+          "supports": "Trade Specialist confirmed for graphite products at DIMEX"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "a.buchta@dimex.pl",
+      "status": "observed",
+      "source_url": "https://dimex.pl/koks/en/products/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "n.kubik@dimex.pl",
+      "status": "observed",
+      "source_url": "https://dimex.pl/koks/en/products/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48881026257",
+      "status": "valid_format",
+      "source_url": "https://dimex.pl/koks/en/products/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "fura@dimex.pl",
+      "status": "observed",
+      "source_url": "http://dimex.pl/plytki/en/contact-details/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "giglok@dimex.pl",
+      "status": "observed",
+      "source_url": "http://dimex.pl/plytki/en/contact-details/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "dimex@dimex.pl",
+      "status": "observed",
+      "source_url": "http://dimex.pl/plytki/en/contact-details/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "ksiegowosc@dimex.pl",
+      "status": "observed",
+      "source_url": "http://dimex.pl/plytki/en/contact-details/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "tch@dimex.pl",
+      "status": "observed",
+      "source_url": "http://dimex.pl/plytki/en/contact-details/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "m.szkuta@dimex.pl",
+      "status": "observed",
+      "source_url": "http://dimex.pl/plytki/en/contact-details/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "solik@dimex.pl",
+      "status": "observed",
+      "source_url": "http://dimex.pl/plytki/en/contact-details/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48603312060",
+      "status": "valid_format",
+      "source_url": "http://dimex.pl/plytki/en/contact-details/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48601651653",
+      "status": "valid_format",
+      "source_url": "http://dimex.pl/plytki/en/contact-details/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48322564356",
+      "status": "valid_format",
+      "source_url": "http://dimex.pl/plytki/en/contact-details/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48322564372",
+      "status": "valid_format",
+      "source_url": "http://dimex.pl/plytki/en/contact-details/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48322564340",
+      "status": "valid_format",
+      "source_url": "http://dimex.pl/plytki/en/contact-details/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48605249357",
+      "status": "valid_format",
+      "source_url": "http://dimex.pl/plytki/en/contact-details/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48693620807",
+      "status": "valid_format",
+      "source_url": "http://dimex.pl/plytki/en/contact-details/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "a.stanek@dimex.pl",
+      "status": "observed",
+      "source_url": "https://dimex.pl/kontenery-morskie/en/company-details/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "transport@dimex.pl",
+      "status": "observed",
+      "source_url": "https://dimex.pl/kontenery-morskie/en/company-details/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48532081835",
+      "status": "valid_format",
+      "source_url": "https://dimex.pl/kontenery-morskie/en/company-details/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "m.ogierman@dimex.pl",
+      "status": "observed",
+      "source_url": "https://dimex.pl/spedycja/en/company-details/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "t.ziomek@dimex.pl",
+      "status": "observed",
+      "source_url": "https://dimex.pl/spedycja/en/company-details/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "s.swadzba@dimex.pl",
+      "status": "observed",
+      "source_url": "https://dimex.pl/spedycja/en/company-details/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48506227936",
+      "status": "valid_format",
+      "source_url": "https://dimex.pl/spedycja/en/company-details/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48539093779",
+      "status": "valid_format",
+      "source_url": "https://dimex.pl/spedycja/en/company-details/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+48539092745",
+      "status": "valid_format",
+      "source_url": "https://dimex.pl/spedycja/en/company-details/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "koks@dimex.pl",
+      "status": "observed",
+      "source_url": "https://dimex.pl/koks/en/contact-us/",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 34,
+    "search_engine_warnings": 1,
+    "urls_crawled": 12,
+    "crawl_failures": 2,
+    "contact_signals": 103,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 3,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 3,
+    "pdf_pages_extracted": 3,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 31,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

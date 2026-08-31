@@ -1,0 +1,132 @@
+[
+  {
+    "channel": "phone",
+    "value": "+390113819358",
+    "status": "valid_format",
+    "source_url": "https://www.glassonweb.com/directory/leoma-diamant-srl",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@leomadiamant.it",
+    "status": "observed",
+    "source_url": "https://www.leomadiamant.it/en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390113819358",
+    "status": "valid_format",
+    "source_url": "https://www.leomadiamant.it/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@leomadiamant.it",
+    "status": "observed",
+    "source_url": "https://www.leomadiamant.it/en/diamond-cutters-for-industrial-applications/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390113819358",
+    "status": "valid_format",
+    "source_url": "https://www.leomadiamant.it/en/diamond-cutters-for-industrial-applications/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@leomadiamant.it",
+    "status": "observed",
+    "source_url": "https://www.leomadiamant.it/en/contatti/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390113819358",
+    "status": "valid_format",
+    "source_url": "https://www.leomadiamant.it/en/contatti/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390113819425",
+    "status": "valid_format",
+    "source_url": "https://www.leomadiamant.it/en/contatti/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@leomadiamant.itleoma",
+    "status": "observed",
+    "source_url": "https://www.leomadiamant.it/wp-content/uploads/2018/01/LEOMA-DIAMANT-Molette-diamantate-sagomate.pdf"
+  },
+  {
+    "channel": "email",
+    "value": "info@leomadiamant.it",
+    "status": "observed",
+    "source_url": "https://www.leomadiamant.it/wp-content/uploads/2018/01/LEOMA-DIAMANT-Molette-diamantate-sagomate.pdf"
+  },
+  {
+    "channel": "phone",
+    "value": "+390113819358",
+    "status": "valid_format",
+    "source_url": "https://www.leomadiamant.it/wp-content/uploads/2018/01/LEOMA-DIAMANT-Molette-diamantate-sagomate.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@leomadiamant.it",
+    "status": "observed",
+    "source_url": "http://www.leomadiamant.it/wp-content/uploads/2018/01/LEOMA-DIAMANT-Platorelli.pdf"
+  },
+  {
+    "channel": "phone",
+    "value": "+390113819358",
+    "status": "valid_format",
+    "source_url": "http://www.leomadiamant.it/wp-content/uploads/2018/01/LEOMA-DIAMANT-Platorelli.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@leomadiamant.it",
+    "status": "observed",
+    "source_url": "https://www.leomadiamant.it/wp-content/uploads/2018/01/LEOMA-DIAMANT-Dischi-Speciali.pdf"
+  },
+  {
+    "channel": "phone",
+    "value": "+390113819358",
+    "status": "valid_format",
+    "source_url": "https://www.leomadiamant.it/wp-content/uploads/2018/01/LEOMA-DIAMANT-Dischi-Speciali.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@leomadiamant.it",
+    "status": "probable",
+    "source_url": "https://www.leomadiamant.it/en/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390113819358",
+    "status": "valid_format",
+    "source_url": "https://www.leomadiamant.it/en/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

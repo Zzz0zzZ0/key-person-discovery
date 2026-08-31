@@ -1,0 +1,186 @@
+{
+  "name": "Thermoheat B.V.",
+  "website": "https://www.thermoheat.nl",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00bdb190-ca0b-49d3-873c-211c912cd381",
+  "crm_linkedin_url": "https://www.linkedin.com/company/thermoheat-bv",
+  "crm_country": "Netherlands / Portugal",
+  "crm_updated_at": "2026-07-27T10:53:14.862373+00:00",
+  "crm_contact_count": 16,
+  "crm_contacts": [
+    {
+      "name": " Sandra Veerman",
+      "email": "s.veerman@thermoheat.nl",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/sandra-veerman-272345bb",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Xavier Tobé",
+      "email": "x.tobe@thermoheat.nl",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/xaviertobé",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "info@thermoheat.pt",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Paul Sneekes",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/paul-sneekes-59465022",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Hein Hogchem",
+      "email": "hein_hogchem@hotmail.com",
+      "additional_emails": [
+        "heinhogchem@gmail.com",
+        "h.hogchem@thermoheat.nl"
+      ],
+      "phone": "+31 183 569 115, +31 6 43554465",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/heinhogchem",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "info@thermoheat.nl",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Samuel Guerrero",
+      "email": "samuelguerrero_48@hotmail.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/samuel-guerrero-4018b96",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Jan Pomp",
+      "email": "j.pomp@thermoheat.nl",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/jan-pomp-aa332aa4",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Jamie Rowe",
+      "email": "jamierowe@gmail.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/jamie-killion-rowe-4b7790176",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+351 21 099 3809",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Hélio Rodrigues",
+      "email": "heliorodrigues@gmail.com",
+      "additional_emails": [
+        "h.rodrigues@thermoheat.nl"
+      ],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/hélio-rodrigues-a73396140",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Michel Van Hesik",
+      "email": "m.vanhesik@thermoheat.nl",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/michel-van-hesik-16a004192",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Alma van Gelder",
+      "email": "a.vangelder@thermoheat.nl",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/alma-van-gelder-1365b228",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Richard Tobe",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+31 6 55183800",
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/richard-tob%c3%a9-11b77325",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Fabienne Tobe",
+      "email": "f.tobe@thermoheat.nl",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/fabi%c3%abnne-tob%c3%a9-2b9411110",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Nick Vaes",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/nick-vaes-932a17111/",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-15T03:22:41.534299+00:00",
+  "source": "twenty_postgresql_read_only"
+}

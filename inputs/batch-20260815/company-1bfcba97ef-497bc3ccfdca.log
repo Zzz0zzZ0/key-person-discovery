@@ -1,0 +1,46 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://asahial.co.jp                                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp                                                                                | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://asahial.co.jp/recruit/people/                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/recruit/people/                                                                | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://asahial.co.jp/management/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/management/                                                                    | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://asahial.co.jp/contact/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/contact/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://asahial.co.jp/company/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/company/                                                                       | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://asahial.co.jp/news/企業版ふるさと納税について-2/                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/news/企業版ふるさと納税について-2/                                                          | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://asahial.co.jp/news/令和6年能登半島地震の被害に対する支援について/                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/news/令和6年能登半島地震の被害に対する支援について/                                                  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://asahial.co.jp/news/企業版ふるさと納税について/                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/news/企業版ふるさと納税について/                                                            | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://asahial.co.jp/news/                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/news/                                                                          | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://asahial.co.jp/recruit/about/business/                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/recruit/about/business/                                                        | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://asahial.co.jp/recruit/about/merit/                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/recruit/about/merit/                                                           | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://asahial.co.jp/recruit/about/feature/                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/recruit/about/feature/                                                         | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://asahial.co.jp/recruit/about/                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/recruit/about/                                                                 | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://asahial.co.jp/recruit/about/weakness/                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/recruit/about/weakness/                                                        | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://asahial.co.jp/recruit/about/message/                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/recruit/about/message/                                                         | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://asahial.co.jp/recruit/about/seeking                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/recruit/about/seeking                                                          | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://asahial.co.jp/recruit/about/news                                                             | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://asahial.co.jp/recruit/about/news                                                             | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://asahial.co.jp/recruit/people-post/takami/                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/recruit/people-post/takami/                                                    | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://asahial.co.jp/recruit/people-post/kishimoto/                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/recruit/people-post/kishimoto/                                                 | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://asahial.co.jp/recruit/people-post/fujioka/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://asahial.co.jp/recruit/people-post/fujioka/                                                   | ✓ | ⏱: 0.01s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/company-1bfcba97ef-497bc3ccfdca.json

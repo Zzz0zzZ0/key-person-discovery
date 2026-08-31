@@ -1,0 +1,64 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://m-m-mining-international-ltd.ltds.uk/                                                        | ✓ | ⏱: 2.91s 
+[SCRAPE].. ◆ https://m-m-mining-international-ltd.ltds.uk/                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://m-m-mining-international-ltd.ltds.uk/                                                        | ✓ | ⏱: 4.14s 
+[FETCH]... ↓ https://mmm-int.co.uk/company/                                                                       | ✓ | ⏱: 2.42s 
+[SCRAPE].. ◆ https://mmm-int.co.uk/company/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mmm-int.co.uk/company/                                                                       | ✓ | ⏱: 4.44s 
+[FETCH]... ↓ https://mmm-int.co.uk/about-us/                                                                      | ✓ | ⏱: 2.98s 
+[SCRAPE].. ◆ https://mmm-int.co.uk/about-us/                                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mmm-int.co.uk/about-us/                                                                      | ✓ | ⏱: 4.46s 
+[FETCH]... ↓ https://mmm-int.co.uk                                                                                | ✓ | ⏱: 3.02s 
+[SCRAPE].. ◆ https://mmm-int.co.uk                                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mmm-int.co.uk                                                                                | ✓ | ⏱: 4.77s 
+[FETCH]... ↓ https://mmm-int.co.uk/contact-us/                                                                    | ✓ | ⏱: 1.10s 
+[SCRAPE].. ◆ https://mmm-int.co.uk/contact-us/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mmm-int.co.uk/contact-us/                                                                    | ✓ | ⏱: 1.12s 
+[FETCH]... ↓ https://mmm-int.co.uk/gold-ore/                                                                      | ✓ | ⏱: 1.01s 
+[SCRAPE].. ◆ https://mmm-int.co.uk/gold-ore/                                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mmm-int.co.uk/gold-ore/                                                                      | ✓ | ⏱: 1.03s 
+[FETCH]... ↓ https://mmm-int.co.uk/cookie-policy                                                                  | ✓ | ⏱: 1.34s 
+[SCRAPE].. ◆ https://mmm-int.co.uk/cookie-policy                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mmm-int.co.uk/cookie-policy                                                                  | ✓ | ⏱: 1.35s 
+[FETCH]... ↓ https://mmm-int.co.uk/marble/                                                                        | ✓ | ⏱: 0.84s 
+[SCRAPE].. ◆ https://mmm-int.co.uk/marble/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mmm-int.co.uk/marble/                                                                        | ✓ | ⏱: 0.86s 
+[FETCH]... ↓ https://mmm-int.co.uk/important-legal-notice                                                         | ✓ | ⏱: 1.33s 
+[SCRAPE].. ◆ https://mmm-int.co.uk/important-legal-notice                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mmm-int.co.uk/important-legal-notice                                                         | ✓ | ⏱: 1.35s 
+[FETCH]... ↓ https://mmm-int.co.uk/nickel-ore/                                                                    | ✓ | ⏱: 0.87s 
+[SCRAPE].. ◆ https://mmm-int.co.uk/nickel-ore/                                                                    | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://mmm-int.co.uk/nickel-ore/                                                                    | ✓ | ⏱: 0.90s 
+[FETCH]... ↓ https://mmm-int.co.uk/our-team/                                                                      | ✓ | ⏱: 1.18s 
+[SCRAPE].. ◆ https://mmm-int.co.uk/our-team/                                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mmm-int.co.uk/our-team/                                                                      | ✓ | ⏱: 1.20s 
+[FETCH]... ↓ https://mmm-int.co.uk/privacy-policy                                                                 | ✓ | ⏱: 1.38s 
+[SCRAPE].. ◆ https://mmm-int.co.uk/privacy-policy                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mmm-int.co.uk/privacy-policy                                                                 | ✓ | ⏱: 1.40s 
+[FETCH]... ↓ https://mmm-int.co.uk/refunds-returns-or-shipping-policy                                             | ✓ | ⏱: 1.29s 
+[SCRAPE].. ◆ https://mmm-int.co.uk/refunds-returns-or-shipping-policy                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mmm-int.co.uk/refunds-returns-or-shipping-policy                                             | ✓ | ⏱: 1.32s 
+[FETCH]... ↓ https://mmm-int.co.uk/terms-conditions                                                               | ✓ | ⏱: 1.28s 
+[SCRAPE].. ◆ https://mmm-int.co.uk/terms-conditions                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mmm-int.co.uk/terms-conditions                                                               | ✓ | ⏱: 1.30s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://mmm-int.co.uk/wp-content/uploads/2025/06/team-v2-img1-1-1.jpg                                | ✓ | ⏱: 0.94s 
+[SCRAPE].. ◆ https://mmm-int.co.uk/wp-content/uploads/2025/06/team-v2-img1-1-1.jpg                                | ✓ | ⏱: 0.00s 
+[ERROR]... × https://mmm-int.co.uk/w...06/team-v2-img1-1-1.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (484 bytes, 0 chars visible) 
+[COMPLETE] ● https://mmm-int.co.uk/wp-content/uploads/2025/06/team-v2-img1-1-1.jpg                                | ✗ | ⏱: 0.94s 
+[FETCH]... ↓ https://mmm-int.co.uk/wp-content/uploads/2025/06/team-v2-img1-4.jpg                                  | ✓ | ⏱: 0.83s 
+[SCRAPE].. ◆ https://mmm-int.co.uk/wp-content/uploads/2025/06/team-v2-img1-4.jpg                                  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://mmm-int.co.uk/w...5/06/team-v2-img1-4.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (480 bytes, 0 chars visible) 
+[COMPLETE] ● https://mmm-int.co.uk/wp-content/uploads/2025/06/team-v2-img1-4.jpg                                  | ✗ | ⏱: 0.84s 
+[FETCH]... ↓ https://mmm-int.co.uk/wp-content/uploads/2025/06/team-v2-img1-3-1.jpg                                | ✓ | ⏱: 0.89s 
+[SCRAPE].. ◆ https://mmm-int.co.uk/wp-content/uploads/2025/06/team-v2-img1-3-1.jpg                                | ✓ | ⏱: 0.00s 
+[ERROR]... × https://mmm-int.co.uk/w...06/team-v2-img1-3-1.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (484 bytes, 0 chars visible) 
+[COMPLETE] ● https://mmm-int.co.uk/wp-content/uploads/2025/06/team-v2-img1-3-1.jpg                                | ✗ | ⏱: 0.90s 
+[FETCH]... ↓ https://mmm-int.co.uk/wp-content/uploads/2025/06/team-v2-img1-2-1.jpg                                | ✓ | ⏱: 0.92s 
+[SCRAPE].. ◆ https://mmm-int.co.uk/wp-content/uploads/2025/06/team-v2-img1-2-1.jpg                                | ✓ | ⏱: 0.00s 
+[ERROR]... × https://mmm-int.co.uk/w...06/team-v2-img1-2-1.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (484 bytes, 0 chars visible) 
+[COMPLETE] ● https://mmm-int.co.uk/wp-content/uploads/2025/06/team-v2-img1-2-1.jpg                                | ✗ | ⏱: 0.93s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/m-m-mining-international-ltd-498309aa06fe.json

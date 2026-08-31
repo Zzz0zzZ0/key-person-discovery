@@ -1,0 +1,55 @@
+[
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/antonio-de-la-rosa-rodr%C3%ADguez-936996272",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/antonio-de-la-rosa-rodr%C3%ADguez-936996272"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/saeidkamalpour",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/saeidkamalpour"
+  },
+  {
+    "channel": "email",
+    "value": "web.soportetecnico@acerinox.com",
+    "status": "probable",
+    "source_url": "https://www.acerinox.com/en/contacto",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34913985100",
+    "status": "valid_format",
+    "source_url": "https://www.acerinox.com/en/contacto",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34913985100",
+    "status": "valid_format",
+    "source_url": "https://www.acerinox.com/en/acerinox/fabricas/acerinox-sa",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "accionistas@acerinox.com",
+    "status": "probable",
+    "source_url": "https://www.acerinox.com/en/accionistas-e-inversores/kit-del-inversor/atencion-al-accionista/index.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34913985264",
+    "status": "valid_format",
+    "source_url": "https://www.acerinox.com/en/accionistas-e-inversores/kit-del-inversor/atencion-al-accionista/index.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "channel": "phone",
+    "value": "+33134271616",
+    "status": "valid_format",
+    "source_url": "https://www.imf-i.com/legal-notice/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33444446040",
+    "status": "valid_format",
+    "source_url": "https://www.imf-i.com/legal-notice/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33134271616",
+    "status": "valid_format",
+    "source_url": "https://www.imf-i.com/privacy-policy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33134271616",
+    "status": "valid_format",
+    "source_url": "https://www.imf-i.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+8613998630286",
+    "status": "valid_format",
+    "source_url": "https://www.imf-i.com/fr/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33477594423",
+    "status": "valid_format",
+    "source_url": "https://www.imf-i.com/fr/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+33134271616",
+    "status": "valid_format",
+    "source_url": "https://www.imf-i.com/fr/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+61299052759",
+    "status": "valid_format",
+    "source_url": "https://www.imf-i.com/fr/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+97444447747",
+    "status": "valid_format",
+    "source_url": "https://www.imf-i.com/fr/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+442089527711",
+    "status": "valid_format",
+    "source_url": "https://www.imf-i.com/fr/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34934201204",
+    "status": "valid_format",
+    "source_url": "https://www.imf-i.com/fr/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+82325715670",
+    "status": "valid_format",
+    "source_url": "https://www.imf-i.com/fr/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6563466689",
+    "status": "valid_format",
+    "source_url": "https://www.imf-i.com/fr/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48509226802",
+    "status": "valid_format",
+    "source_url": "https://www.imf-i.com/fr/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/bryce-mcnally-99473bba",
+    "status": "probable",
+    "source_url": "https://nz.linkedin.com/in/bryce-mcnally-99473bba"
+  }
+]

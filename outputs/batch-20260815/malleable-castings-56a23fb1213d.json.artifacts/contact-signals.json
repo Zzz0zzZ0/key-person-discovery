@@ -1,0 +1,300 @@
+[
+  {
+    "channel": "phone",
+    "value": "+27114630489",
+    "status": "valid_format",
+    "source_url": "https://castingssa.com/malleable-castings-boosts-foundry-efficiencies-with-new-automation-and-additional-equipment/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "foundry@global.co.za",
+    "status": "observed",
+    "source_url": "https://malleable.co.za",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118221503",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118222501",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@malleable.co.za",
+    "status": "observed",
+    "source_url": "https://malleable.co.za/contact-us",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "foundry@global.co.za",
+    "status": "observed",
+    "source_url": "https://malleable.co.za/contact-us",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118221503",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za/contact-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118222501",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za/contact-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "foundry@global.co.za",
+    "status": "observed",
+    "source_url": "https://malleable.co.za/about-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118221503",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118222501",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "foundry@global.co.za",
+    "status": "observed",
+    "source_url": "https://malleable.co.za/specifications/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118221503",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za/specifications/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118222501",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za/specifications/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "foundry@global.co.za",
+    "status": "observed",
+    "source_url": "https://malleable.co.za/product-portfolio/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118221503",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za/product-portfolio/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118222501",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za/product-portfolio/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "foundry@global.co.za",
+    "status": "observed",
+    "source_url": "https://malleable.co.za/services",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118221503",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za/services",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118222501",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za/services",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "foundry@global.co.za",
+    "status": "observed",
+    "source_url": "https://malleable.co.za/mining",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118221503",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za/mining",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118222501",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za/mining",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "foundry@global.co.za",
+    "status": "observed",
+    "source_url": "https://malleable.co.za/takclamp/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118221503",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za/takclamp/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118222501",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za/takclamp/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "bmcpltd@gmail.com",
+    "status": "observed",
+    "source_url": "https://mycorporateinfo.com/business/bangalore-malleable-castings-private-limited",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ownleasing@gmail.com",
+    "status": "observed",
+    "source_url": "https://www.tofler.in/shah-malleable-castings-limited/company/U74999MH1963PLC012663",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "support@tofler.in",
+    "status": "observed",
+    "source_url": "https://www.tofler.in/shah-malleable-castings-limited/company/U74999MH1963PLC012663",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118221503",
+    "status": "valid_format",
+    "source_url": "https://metalworkingnews.info/50th-anniversary-highlights-malleable-castings-progress-achievements/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27114630489",
+    "status": "valid_format",
+    "source_url": "https://metalworkingnews.info/50th-anniversary-highlights-malleable-castings-progress-achievements/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/donovan-van-niekerk-870a911a2",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/donovan-van-niekerk-870a911a2"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/paul-swart-65606b1b1",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/paul-swart-65606b1b1"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/lizelle-lay-29312627",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/lizelle-lay-29312627"
+  },
+  {
+    "channel": "email",
+    "value": "info@malleable.co.za",
+    "status": "probable",
+    "source_url": "https://malleable.co.za/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118221503",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+27118222501",
+    "status": "valid_format",
+    "source_url": "https://malleable.co.za/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

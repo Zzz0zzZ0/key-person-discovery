@@ -1,0 +1,349 @@
+[
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/oplata/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/oplata/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/oplata/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/oplata/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/oplata/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/oplata/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/oplata/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/oplata/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/staff/tatyana-pleshakova/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/staff/tatyana-pleshakova/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ok@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/staff/tatyana-pleshakova/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/staff/tatyana-pleshakova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/staff/tatyana-pleshakova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/staff/tatyana-pleshakova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/staff/tatyana-pleshakova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/staff/tatyana-pleshakova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/staff/tatyana-pleshakova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/gallery/proizvedennaya-produktsiya/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/gallery/proizvedennaya-produktsiya/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/gallery/proizvedennaya-produktsiya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/gallery/proizvedennaya-produktsiya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/gallery/proizvedennaya-produktsiya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/gallery/proizvedennaya-produktsiya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/gallery/proizvedennaya-produktsiya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/gallery/proizvedennaya-produktsiya/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/requisites/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "zakaz@soezgroup.ru",
+    "status": "observed",
+    "source_url": "https://www.soezgroup.ru/company/requisites/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79270010168",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/requisites/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230346",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/requisites/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79277453061",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/requisites/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230453",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/requisites/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+78469230460",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/requisites/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+79277419940",
+    "status": "valid_format",
+    "source_url": "https://www.soezgroup.ru/company/requisites/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

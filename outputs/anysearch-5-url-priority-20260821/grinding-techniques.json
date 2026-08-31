@@ -1,0 +1,273 @@
+{
+  "company_name": "Grinding Techniques (Pty) Ltd",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+27123330977",
+      "status": "valid_format",
+      "source_url": "https://www.grindtech.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+27317012882",
+      "status": "valid_format",
+      "source_url": "https://www.grindtech.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+27414845128",
+      "status": "valid_format",
+      "source_url": "https://www.grindtech.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+27215526840",
+      "status": "valid_format",
+      "source_url": "https://www.grindtech.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "pta@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com/contact-us/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "dbn@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com/contact-us/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "pe@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com/contact-us/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "email",
+      "value": "ct@grindtech.com",
+      "status": "observed",
+      "source_url": "https://www.grindtech.com/contact-us/",
+      "company_public": true,
+      "verification_status": "company_source"
+    }
+  ],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Thembinkosi Mabena",
+      "current_title": "Author / Marketing (title not explicitly stated on source)",
+      "company_match": "uncertain",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "info@grindtech.com",
+          "status": "observed",
+          "source_url": "https://www.grindtech.com/news/complete-your-toolroom-superflex-bench-grinding-wheels/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+27112716400",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.grindtech.com/news/complete-your-toolroom-superflex-bench-grinding-wheels/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.grindtech.com/news/complete-your-toolroom-superflex-bench-grinding-wheels/",
+          "quote": "Written by Thembinkosi Mabena",
+          "supports": "Author attribution on blog article about Superflex Bench Grinding Wheels; employment at Grinding Techniques implied by site context."
+        }
+      ],
+      "confidence": 0.2,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ],
+      "discovery_tier": "unverified"
+    },
+    {
+      "full_name": "Nicolene Breitenbach",
+      "current_title": "Author (title not explicitly stated on source)",
+      "company_match": "uncertain",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "info@grindtech.com",
+          "status": "observed",
+          "source_url": "https://www.grindtech.com/news/superflex-join-the-evolution/"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+27112716400",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.grindtech.com/news/superflex-join-the-evolution/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.grindtech.com/news/superflex-join-the-evolution/",
+          "quote": "Written by Nicolene Breitenbach",
+          "supports": "Author attribution on blog article about Superflex Evolution range; employment at Grinding Techniques implied by site context."
+        }
+      ],
+      "confidence": 0.2,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ],
+      "discovery_tier": "unverified"
+    },
+    {
+      "full_name": "Stefan Meyer",
+      "current_title": "Management accountability in all Financial, Sales and Production activities",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/stefan-meyer-1957b822b",
+          "status": "probable",
+          "source_url": "https://za.linkedin.com/in/stefan-meyer-1957b822b"
+        }
+      ],
+      "emails": [
+        {
+          "value": "info@grindtech.com",
+          "status": "probable",
+          "source_url": "https://www.grindtech.com/"
+        },
+        {
+          "value": "hr@grindtech.com",
+          "status": "observed",
+          "source_url": "https://www.grindtech.com",
+          "verification_status": "company_source"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+27112716400",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.grindtech.com/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://za.linkedin.com/in/stefan-meyer-1957b822b",
+          "quote": "Stefan Meyer – South Africa | LinkedIn profile observed via search signal",
+          "supports": "LinkedIn profile found via search signal; employer not independently verified against Grinding Techniques but SA abrasives industry match is plausible."
+        },
+        {
+          "source_url": "https://www.grindtech.com/",
+          "quote": "info@grindtech.com | hr@grindtech.com | Tel: +27 11 271 6400",
+          "supports": "Company switchboard contact; used as inferred contact method for probable Stefan Meyer."
+        }
+      ],
+      "confidence": 0.3,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ],
+      "discovery_tier": "probable_current"
+    }
+  ],
+  "validation_rejections": [
+    {
+      "full_name": "Thembinkosi Mabena",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Nicolene Breitenbach",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Stefan Meyer",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 107,
+    "search_engine_warnings": 15,
+    "urls_crawled": 20,
+    "crawl_failures": 0,
+    "contact_signals": 131,
+    "official_urls_discovered": 1,
+    "crm_website": "https://www.grindtech.com",
+    "official_website": "https://www.grindtech.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 4,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 3,
+    "pdf_pages_extracted": 35,
+    "pdf_failures": 0,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 2,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 3,
+    "unverified_candidates": 3,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 50,
+    "contactable_items": 11,
+    "target_contact_methods": 50,
+    "contact_methods": 12,
+    "contact_target_met": false,
+    "broad_discovery": true,
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

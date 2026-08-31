@@ -1,0 +1,221 @@
+[
+  {
+    "channel": "email",
+    "value": "comercial@steelceram.com",
+    "status": "observed",
+    "source_url": "https://apceram.com/en/politica_calidad.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+34938088090",
+    "status": "valid_format",
+    "source_url": "https://apceram.com/en/politica_calidad.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "comercial@steelceram.com",
+    "status": "observed",
+    "source_url": "https://apceram.com/en/industria_alambre.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+34938088090",
+    "status": "valid_format",
+    "source_url": "https://apceram.com/en/industria_alambre.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "comercial@steelceram.com",
+    "status": "observed",
+    "source_url": "https://apceram.com/en/alta_temperatura.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+34938088090",
+    "status": "valid_format",
+    "source_url": "https://apceram.com/en/alta_temperatura.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "comercial@steelceram.com",
+    "status": "observed",
+    "source_url": "https://apceram.com/en/carburo_silicio.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+34938088090",
+    "status": "valid_format",
+    "source_url": "https://apceram.com/en/carburo_silicio.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "comercial@steelceram.com",
+    "status": "observed",
+    "source_url": "https://www.apceram.com/en/contacto_ubicacion.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+34938088090",
+    "status": "valid_format",
+    "source_url": "https://www.apceram.com/en/contacto_ubicacion.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "comercial@steelceram.com",
+    "status": "observed",
+    "source_url": "https://www.apceram.com/en/empleo.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+34972581070",
+    "status": "valid_format",
+    "source_url": "https://www.apceram.com/en/empleo.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+34938088090",
+    "status": "valid_format",
+    "source_url": "https://www.apceram.com/en/empleo.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "comercial@steelceram.com",
+    "status": "observed",
+    "source_url": "https://www.apceram.com/en/materiales.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+34938088090",
+    "status": "valid_format",
+    "source_url": "https://www.apceram.com/en/materiales.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "comercial@steelceram.com",
+    "status": "observed",
+    "source_url": "https://www.apceram.com",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34938088090",
+    "status": "valid_format",
+    "source_url": "https://www.apceram.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@steelceram.com",
+    "status": "observed",
+    "source_url": "https://www.apceram.com/en/servicios.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+34938088090",
+    "status": "valid_format",
+    "source_url": "https://www.apceram.com/en/servicios.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "comercial@steelceram.com",
+    "status": "observed",
+    "source_url": "https://www.apceram.com/en/soldadura.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+34938088090",
+    "status": "valid_format",
+    "source_url": "https://www.apceram.com/en/soldadura.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "innovacion@blove.es",
+    "status": "observed",
+    "source_url": "https://www.empresascif.com/empresa/steelceram-sl/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34634856280",
+    "status": "valid_format",
+    "source_url": "https://www.empresascif.com/empresa/steelceram-sl/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34938045262",
+    "status": "valid_format",
+    "source_url": "https://www.infoempresa.com/en-in/es/company/steelceram-sl",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@steelceram.com",
+    "status": "observed",
+    "source_url": "https://www.steelceram.com/en/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34938088090",
+    "status": "valid_format",
+    "source_url": "https://www.steelceram.com/en/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@steelceram.com",
+    "status": "observed",
+    "source_url": "https://apceram.com/en/contacto_ubicacion.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+34938088090",
+    "status": "valid_format",
+    "source_url": "https://apceram.com/en/contacto_ubicacion.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "comercial@steelceram.com",
+    "status": "observed",
+    "source_url": "https://www.apceram.com/es/contacto_ubicacion.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+34938088090",
+    "status": "valid_format",
+    "source_url": "https://www.apceram.com/es/contacto_ubicacion.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

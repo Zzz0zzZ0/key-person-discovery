@@ -1,0 +1,85 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://careers.nitrocapt.com/connect                                                                | ✓ | ⏱: 2.66s 
+[SCRAPE].. ◆ https://careers.nitrocapt.com/connect                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://careers.nitrocapt.com/connect                                                                | ✓ | ⏱: 4.69s 
+[FETCH]... ↓ https://careers.nitrocapt.com/people/1935644-johanna-dahl                                            | ✓ | ⏱: 2.55s 
+[SCRAPE].. ◆ https://careers.nitrocapt.com/people/1935644-johanna-dahl                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://careers.nitrocapt.com/people/1935644-johanna-dahl                                            | ✓ | ⏱: 4.57s 
+[FETCH]... ↓ https://foodplanetprize.org/initiatives/nitrocap...-power-of-lightning-to-revolutionize-agriculture  | ✓ | ⏱: 4.87s 
+[SCRAPE].. ◆ https://foodplanetprize.org/initiatives/nitrocap...-power-of-lightning-to-revolutionize-agriculture  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://foodplanetprize.org/initiatives/nitrocap...-power-of-lightning-to-revolutionize-agriculture  | ✓ | ⏱: 6.90s 
+[FETCH]... ↓ https://nitrocapt.com                                                                                | ✓ | ⏱: 12.20s 
+[SCRAPE].. ◆ https://nitrocapt.com                                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://nitrocapt.com                                                                                | ✓ | ⏱: 13.77s 
+[FETCH]... ↓ https://nitrocapt.com/about-2/sustainability-3/                                                      | ✓ | ⏱: 6.86s 
+[SCRAPE].. ◆ https://nitrocapt.com/about-2/sustainability-3/                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://nitrocapt.com/about-2/sustainability-3/                                                      | ✓ | ⏱: 6.88s 
+[FETCH]... ↓ https://nitrocapt.com/about-2/management-2-2/                                                        | ✓ | ⏱: 8.70s 
+[SCRAPE].. ◆ https://nitrocapt.com/about-2/management-2-2/                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://nitrocapt.com/about-2/management-2-2/                                                        | ✓ | ⏱: 8.72s 
+[FETCH]... ↓ https://nitrocapt.com/about-2/                                                                       | ✓ | ⏱: 9.11s 
+[SCRAPE].. ◆ https://nitrocapt.com/about-2/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://nitrocapt.com/about-2/                                                                       | ✓ | ⏱: 9.13s 
+[FETCH]... ↓ https://nitrocapt.com/about/gender-equality-plan-gep/                                                | ✓ | ⏱: 3.19s 
+[SCRAPE].. ◆ https://nitrocapt.com/about/gender-equality-plan-gep/                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://nitrocapt.com/about/gender-equality-plan-gep/                                                | ✓ | ⏱: 3.22s 
+[FETCH]... ↓ https://nitrocapt.com/about/management/                                                              | ✓ | ⏱: 3.37s 
+[SCRAPE].. ◆ https://nitrocapt.com/about/management/                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://nitrocapt.com/about/management/                                                              | ✓ | ⏱: 3.39s 
+[FETCH]... ↓ https://nitrocapt.com/about/board-of-directors/                                                      | ✓ | ⏱: 4.84s 
+[SCRAPE].. ◆ https://nitrocapt.com/about/board-of-directors/                                                      | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://nitrocapt.com/about/board-of-directors/                                                      | ✓ | ⏱: 4.88s 
+[FETCH]... ↓ https://nitrocapt.com/about/                                                                         | ✓ | ⏱: 5.21s 
+[SCRAPE].. ◆ https://nitrocapt.com/about/                                                                         | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://nitrocapt.com/about/                                                                         | ✓ | ⏱: 5.24s 
+[FETCH]... ↓ https://nitrocapt.com/about/sustainability/                                                          | ✓ | ⏱: 3.08s 
+[SCRAPE].. ◆ https://nitrocapt.com/about/sustainability/                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://nitrocapt.com/about/sustainability/                                                          | ✓ | ⏱: 3.11s 
+[FETCH]... ↓ https://nitrocapt.com/category/news/                                                                 | ✓ | ⏱: 2.73s 
+[SCRAPE].. ◆ https://nitrocapt.com/category/news/                                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://nitrocapt.com/category/news/                                                                 | ✓ | ⏱: 2.75s 
+[FETCH]... ↓ https://nitrocapt.com/contact/                                                                       | ✓ | ⏱: 2.67s 
+[SCRAPE].. ◆ https://nitrocapt.com/contact/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://nitrocapt.com/contact/                                                                       | ✓ | ⏱: 2.69s 
+[FETCH]... ↓ https://nitrocapt.com/johanna-dahl-head-of-people-and-culture/                                       | ✓ | ⏱: 2.53s 
+[SCRAPE].. ◆ https://nitrocapt.com/johanna-dahl-head-of-people-and-culture/                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://nitrocapt.com/johanna-dahl-head-of-people-and-culture/                                       | ✓ | ⏱: 2.55s 
+[FETCH]... ↓ https://nitrocapt.com/wp-content/uploads/2024/09/Rapid-Team-Growth.jpg                               | ✓ | ⏱: 2.17s 
+[SCRAPE].. ◆ https://nitrocapt.com/wp-content/uploads/2024/09/Rapid-Team-Growth.jpg                               | ✓ | ⏱: 0.00s 
+[ERROR]... × https://nitrocapt.com/w...9/Rapid-Team-Growth.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (486 bytes, 0 chars visible) 
+[COMPLETE] ● https://nitrocapt.com/wp-content/uploads/2024/09/Rapid-Team-Growth.jpg                               | ✗ | ⏱: 2.19s 
+[FETCH]... ↓ https://nitrocapt.com/news/                                                                          | ✓ | ⏱: 3.84s 
+[SCRAPE].. ◆ https://nitrocapt.com/news/                                                                          | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://nitrocapt.com/news/                                                                          | ✓ | ⏱: 3.89s 
+[FETCH]... ↓ https://nitrocapt.com/nitrocapt-experiencing-rapid-team-growth/                                      | ✓ | ⏱: 3.61s 
+[SCRAPE].. ◆ https://nitrocapt.com/nitrocapt-experiencing-rapid-team-growth/                                      | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://nitrocapt.com/nitrocapt-experiencing-rapid-team-growth/                                      | ✓ | ⏱: 3.66s 
+[FETCH]... ↓ https://nitrocapt.com/wp-content/uploads/2023/08/Announcement-New-to-the-team-2.png                  | ✓ | ⏱: 6.07s 
+[SCRAPE].. ◆ https://nitrocapt.com/wp-content/uploads/2023/08/Announcement-New-to-the-team-2.png                  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://nitrocapt.com/w...t-New-to-the-team-2.png  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (532 bytes, 0 chars visible) 
+[COMPLETE] ● https://nitrocapt.com/wp-content/uploads/2023/08/Announcement-New-to-the-team-2.png                  | ✗ | ⏱: 6.08s 
+[FETCH]... ↓ https://theorg.com/org/nitrocapt                                                                     | ✓ | ⏱: 4.10s 
+[SCRAPE].. ◆ https://theorg.com/org/nitrocapt                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://theorg.com/org/nitrocapt                                                                     | ✓ | ⏱: 4.13s 
+[FETCH]... ↓ https://theorg.com/org/nitrocapt/org-chart/ola-johansson                                             | ✓ | ⏱: 3.38s 
+[SCRAPE].. ◆ https://theorg.com/org/nitrocapt/org-chart/ola-johansson                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://theorg.com/org/nitrocapt/org-chart/ola-johansson                                             | ✓ | ⏱: 3.40s 
+[FETCH]... ↓ https://sluholding.se/en/2025/04/04/nitrocapt-la...ineral-nitrogen-fertilizer-in-almost-two-decades  | ✓ | ⏱: 5.77s 
+[SCRAPE].. ◆ https://sluholding.se/en/2025/04/04/nitrocapt-la...ineral-nitrogen-fertilizer-in-almost-two-decades  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://sluholding.se/en/2025/04/04/nitrocapt-la...ineral-nitrogen-fertilizer-in-almost-two-decades  | ✓ | ⏱: 7.79s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.crunchbase.com/organization/nitrocapt                                                    | ✓ | ⏱: 1.43s 
+[SCRAPE].. ◆ https://www.crunchbase.com/organization/nitrocapt                                                    | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.crunchbase.com/organization/nitrocapt  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.crunchbase.com/organization/nitrocapt                                                    | ✗ | ⏱: 1.44s 
+[FETCH]... ↓ https://nitrocapt.com/wp-content/uploads/2024/09/Rapid-Team-Growth-768x432.jpg                       | ✓ | ⏱: 1.62s 
+[SCRAPE].. ◆ https://nitrocapt.com/wp-content/uploads/2024/09/Rapid-Team-Growth-768x432.jpg                       | ✓ | ⏱: 0.00s 
+[ERROR]... × https://nitrocapt.com/w...Team-Growth-768x432.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (502 bytes, 0 chars visible) 
+[COMPLETE] ● https://nitrocapt.com/wp-content/uploads/2024/09/Rapid-Team-Growth-768x432.jpg                       | ✗ | ⏱: 1.62s 
+[FETCH]... ↓ https://nitrocapt.com/press/                                                                         | ✓ | ⏱: 11.26s 
+[SCRAPE].. ◆ https://nitrocapt.com/press/                                                                         | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://nitrocapt.com/press/                                                                         | ✓ | ⏱: 11.29s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/nitrocapt-ab-d3cab546f5fb.json

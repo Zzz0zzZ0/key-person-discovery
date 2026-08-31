@@ -1,0 +1,258 @@
+[
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/pt-pt/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "varkaus@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/pt-pt/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "turku@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/pt-pt/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "poland@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/pt-pt/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ants@heatmasters.ee",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/pt-pt/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/pt-pt/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358400956879",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/pt-pt/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207571343",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/pt-pt/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48515555010",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/pt-pt/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+37256245607",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/pt-pt/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/uk/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "varkaus@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/uk/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "turku@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/uk/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "poland@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/uk/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ants@heatmasters.ee",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/uk/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/uk/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358400956879",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/uk/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207571343",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/uk/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48515555010",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/uk/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+37256245607",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/uk/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "invoice23162686@kollektor.fi",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/pt-pt/contact-us/heatmasters.net/how-to-invoice-heatmasters/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "customercare@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/pt-pt/contact-us/heatmasters.net/how-to-invoice-heatmasters/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/pt-pt/contact-us/heatmasters.net/how-to-invoice-heatmasters/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+358207181310",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/pt-pt/contact-us/heatmasters.net/how-to-invoice-heatmasters/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/wp-content/uploads/2024/09/Heatmasters-Furnaces.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@heatmasters.net",
+    "status": "observed",
+    "source_url": "https://heatmasters.net/wp-content/uploads/2022/08/Heatmasters-Furnaces.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/lasse-laakso-a2b434169",
+    "status": "probable",
+    "source_url": "https://fi.linkedin.com/in/lasse-laakso-a2b434169"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/larry-fisher-59921abb",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/larry-fisher-59921abb"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/ryan-rech-2a3554b4",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/ryan-rech-2a3554b4"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/tim-dowd26",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/tim-dowd26"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/joe-slusarz-5413a913",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/joe-slusarz-5413a913"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/mark-blount",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/mark-blount"
+  },
+  {
+    "channel": "email",
+    "value": "poland@heatmasters.net",
+    "status": "probable",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48515555010",
+    "status": "valid_format",
+    "source_url": "https://heatmasters.net/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

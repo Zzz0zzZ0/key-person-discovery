@@ -1,0 +1,118 @@
+{
+  "company_name": "HARDEX",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+33384319540",
+      "status": "valid_format",
+      "source_url": "https://www.hardex.fr/contact-2/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@example.com",
+      "status": "observed",
+      "source_url": "https://www.hardex.fr/contact/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sales@hardex.ca",
+      "status": "observed",
+      "source_url": "https://www.hardex.com/copy-of-sales-kit-1",
+      "company_public": true
+    },
+    {
+      "channel": "whatsapp",
+      "value": "+16729995892",
+      "status": "verified",
+      "source_url": "https://www.hardex.com/copy-of-sales-kit-1",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+16729995892",
+      "status": "valid_format",
+      "source_url": "https://www.hardex.com/copy-of-sales-kit-1",
+      "whatsapp_status": "verified",
+      "company_public": true
+    },
+    {
+      "channel": "whatsapp",
+      "value": "+16729999558",
+      "status": "verified",
+      "source_url": "https://www.hardex.com/copy-of-sales-kit-1",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+16729999558",
+      "status": "valid_format",
+      "source_url": "https://www.hardex.com/copy-of-sales-kit-1",
+      "whatsapp_status": "verified",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@hardex.fr",
+      "status": "observed",
+      "source_url": "https://www.hardex.fr/en/contact-3/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "m.stemmer@groupe-imi.fr",
+      "status": "observed",
+      "source_url": "https://www.hardex.fr/informations-legales/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "m.stemmer@groupe-imi.frle",
+      "status": "probable",
+      "source_url": "https://www.hardex.fr/informations-legales/",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 32,
+    "search_engine_warnings": 0,
+    "urls_crawled": 20,
+    "crawl_failures": 5,
+    "contact_signals": 23,
+    "official_urls_discovered": 8,
+    "pdf_documents_discovered": 1,
+    "pdf_documents_processed": 1,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 1,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 2,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 1,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 4,
+    "contactable_items": 8,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

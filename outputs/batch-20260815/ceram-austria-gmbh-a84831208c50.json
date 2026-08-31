@@ -1,0 +1,179 @@
+{
+  "company_name": "Ceram Austria GmbH",
+  "candidates": [
+    {
+      "full_name": "DI Christian Kögl",
+      "current_title": "Owner / Managing Director",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.ceram-austria.com/en/company/",
+          "quote": "Since April 2022, our company has been back in Austrian hands. The new owner, DI Christian Kögl, not only renamed the company Ceram Austria GmbH, but also made numerous investments to ensure the continued existence and growth of our traditional company.",
+          "supports": "Verified as current owner of Ceram Austria GmbH since 2022"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "office@ceram-austria.com",
+      "status": "observed",
+      "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "noel.rosha@ceram-usa.com",
+      "status": "observed",
+      "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "yc.lee@ceram-korea.com",
+      "status": "observed",
+      "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "ym.kim@ceram-korea.com",
+      "status": "observed",
+      "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "ceram@suht.net",
+      "status": "observed",
+      "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "john.cochran@ceram-usa.com",
+      "status": "observed",
+      "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "greg.holscher@ceram-usa.com",
+      "status": "observed",
+      "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "jared.koliha@ceram-usa.com",
+      "status": "observed",
+      "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "travis.burger@ceram-usa.com",
+      "status": "observed",
+      "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sam.eskilson@ceram-usa.com",
+      "status": "observed",
+      "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+19132399896",
+      "status": "valid_format",
+      "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+82226445423",
+      "status": "valid_format",
+      "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+861084865205",
+      "status": "valid_format",
+      "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+442920886500",
+      "status": "valid_format",
+      "source_url": "https://www.creditsafe.com/business-index/en-gb/company/ceram-austria-gmbh-at04826152",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+3264677949",
+      "status": "valid_format",
+      "source_url": "https://www.creditsafe.com/business-index/nb-no/company/megaceram-be00355033",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 23,
+    "search_engine_warnings": 0,
+    "urls_crawled": 20,
+    "crawl_failures": 1,
+    "contact_signals": 46,
+    "official_urls_discovered": 4,
+    "pdf_documents_discovered": 10,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 1,
+    "pdf_pages_extracted": 3,
+    "pdf_failures": 2,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 3,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 4,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 1,
+    "contactable_items": 15,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

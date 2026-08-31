@@ -1,0 +1,8 @@
+[
+  {
+    "query": "http://baredessa.com.ar",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "http://baredessa.com.ar/sitemap.xml: HTTP Error 404: Not Found"
+  }
+]

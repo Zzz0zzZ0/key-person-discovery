@@ -1,0 +1,42 @@
+[
+  {
+    "channel": "email",
+    "value": "connect@equipurina.ca",
+    "status": "observed",
+    "source_url": "https://agripurina.ca/about/purina-connect/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+2304654224",
+    "status": "valid_format",
+    "source_url": "https://www.yelo.mu/company/5795/purina",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/keith-harris-pe-02510955",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/keith-harris-pe-02510955"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/kevin-preslier",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/kevin-preslier"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/rogerio-castro-30a57821",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/rogerio-castro-30a57821"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/paulina-espinosa-serratos-aa2aa22b",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/paulina-espinosa-serratos-aa2aa22b"
+  }
+]

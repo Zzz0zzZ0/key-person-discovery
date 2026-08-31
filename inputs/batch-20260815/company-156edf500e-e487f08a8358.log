@@ -1,0 +1,67 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.vinita.co.jp/news/detail/emd/                                                            | ✓ | ⏱: 8.50s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/news/detail/emd/                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/news/detail/emd/                                                            | ✓ | ⏱: 9.33s 
+[FETCH]... ↓ https://www.vinita.co.jp/news/detail/care_01/                                                        | ✓ | ⏱: 7.81s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/news/detail/care_01/                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/news/detail/care_01/                                                        | ✓ | ⏱: 9.34s 
+[FETCH]... ↓ https://www.vinita.co.jp/news/detail/care_02/                                                        | ✓ | ⏱: 8.56s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/news/detail/care_02/                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/news/detail/care_02/                                                        | ✓ | ⏱: 9.36s 
+[FETCH]... ↓ https://www.vinita.co.jp/news/detail/fooma_2023/                                                     | ✓ | ⏱: 1.09s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/news/detail/fooma_2023/                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/news/detail/fooma_2023/                                                     | ✓ | ⏱: 1.11s 
+[FETCH]... ↓ https://www.vinita.co.jp/news/detail/mono_2023/                                                      | ✓ | ⏱: 0.93s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/news/detail/mono_2023/                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/news/detail/mono_2023/                                                      | ✓ | ⏱: 0.95s 
+[FETCH]... ↓ https://www.vinita.co.jp/news/detail/ligna2023/                                                      | ✓ | ⏱: 1.52s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/news/detail/ligna2023/                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/news/detail/ligna2023/                                                      | ✓ | ⏱: 1.55s 
+[FETCH]... ↓ https://www.vinita.co.jp/news/detail/news20230118/                                                   | ✓ | ⏱: 0.93s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/news/detail/news20230118/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/news/detail/news20230118/                                                   | ✓ | ⏱: 0.95s 
+[FETCH]... ↓ https://www.vinita.co.jp/news/detail/news20230711/                                                   | ✓ | ⏱: 0.94s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/news/detail/news20230711/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/news/detail/news20230711/                                                   | ✓ | ⏱: 0.96s 
+[FETCH]... ↓ https://www.vinita.co.jp/news/detail/news20230810/                                                   | ✓ | ⏱: 0.82s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/news/detail/news20230810/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/news/detail/news20230810/                                                   | ✓ | ⏱: 0.84s 
+[FETCH]... ↓ https://www.vinita.co.jp/news/detail/news20230908/                                                   | ✓ | ⏱: 0.92s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/news/detail/news20230908/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/news/detail/news20230908/                                                   | ✓ | ⏱: 0.94s 
+[FETCH]... ↓ https://www.vinita.co.jp/news/detail/news_0520/                                                      | ✓ | ⏱: 0.67s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/news/detail/news_0520/                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/news/detail/news_0520/                                                      | ✓ | ⏱: 0.69s 
+[FETCH]... ↓ https://www.vinita.co.jp/news/detail/news_0803/                                                      | ✓ | ⏱: 0.74s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/news/detail/news_0803/                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/news/detail/news_0803/                                                      | ✓ | ⏱: 0.76s 
+[FETCH]... ↓ https://www.vinita.co.jp/news/detail/tento_2023/                                                     | ✓ | ⏱: 0.88s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/news/detail/tento_2023/                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/news/detail/tento_2023/                                                     | ✓ | ⏱: 0.90s 
+[FETCH]... ↓ https://www.vinita.co.jp/news/detail/tokyo_0417/                                                     | ✓ | ⏱: 0.83s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/news/detail/tokyo_0417/                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/news/detail/tokyo_0417/                                                     | ✓ | ⏱: 0.86s 
+[FETCH]... ↓ https://www.vinita.co.jp                                                                             | ✓ | ⏱: 15.96s 
+[SCRAPE].. ◆ https://www.vinita.co.jp                                                                             | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.vinita.co.jp                                                                             | ✓ | ⏱: 18.00s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.vinita.co.jp/assets/images/nav_about_img_01.jpg                                          | ✓ | ⏱: 1.14s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/assets/images/nav_about_img_01.jpg                                          | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.vinita.co.j...es/nav_about_img_01.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (474 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.vinita.co.jp/assets/images/nav_about_img_01.jpg                                          | ✗ | ⏱: 1.15s 
+[FETCH]... ↓ https://www.vinita.co.jp/about/                                                                      | ✓ | ⏱: 5.48s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/about/                                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/about/                                                                      | ✓ | ⏱: 5.51s 
+[FETCH]... ↓ https://www.vinita.co.jp/contact/                                                                    | ✓ | ⏱: 5.21s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/contact/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/contact/                                                                    | ✓ | ⏱: 5.24s 
+[FETCH]... ↓ https://www.vinita.co.jp/about/hayawakari/                                                           | ✓ | ⏱: 5.22s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/about/hayawakari/                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/about/hayawakari/                                                           | ✓ | ⏱: 5.26s 
+[FETCH]... ↓ https://www.vinita.co.jp/news/                                                                       | ✓ | ⏱: 4.10s 
+[SCRAPE].. ◆ https://www.vinita.co.jp/news/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vinita.co.jp/news/                                                                       | ✓ | ⏱: 4.12s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/company-156edf500e-e487f08a8358.json

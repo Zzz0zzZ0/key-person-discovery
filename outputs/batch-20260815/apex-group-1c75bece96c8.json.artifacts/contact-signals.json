@@ -1,0 +1,280 @@
+[
+  {
+    "channel": "phone",
+    "value": "+31703004242",
+    "status": "valid_format",
+    "source_url": "https://www.apexgroup.eu/company-profile/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420541424830",
+    "status": "valid_format",
+    "source_url": "https://www.apexgroup.eu/company-profile/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@apexgroup.eu",
+    "status": "observed",
+    "source_url": "https://www.apexgroup.eu/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "infopl@apexgroup.eu",
+    "status": "observed",
+    "source_url": "https://www.apexgroup.eu/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "inforo@apexgroup.eu",
+    "status": "observed",
+    "source_url": "https://www.apexgroup.eu/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "infocz@apexgroup.eu",
+    "status": "observed",
+    "source_url": "https://www.apexgroup.eu/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31703004242",
+    "status": "valid_format",
+    "source_url": "https://www.apexgroup.eu/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "services@myjobmag.co.za",
+    "status": "observed",
+    "source_url": "https://www.myjobmag.co.za/job/senior-tax-manager-apex-group",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "patrick.cummins@apexfs.com",
+    "status": "observed",
+    "source_url": "https://www.guernseyfinance.com/business-directory/a/apex-group",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "lauren.whiteside@apexfunds.co.uk",
+    "status": "observed",
+    "source_url": "https://www.guernseyfinance.com/business-directory/a/apex-group",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "mark.symmons@apexfs.com",
+    "status": "observed",
+    "source_url": "https://www.guernseyfinance.com/business-directory/a/apex-group",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+442035303664",
+    "status": "valid_format",
+    "source_url": "https://www.guernseyfinance.com/business-directory/a/apex-group",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+441481720071",
+    "status": "valid_format",
+    "source_url": "https://www.guernseyfinance.com/business-directory/a/apex-group",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "alice.read@apexgroup.com",
+    "status": "observed",
+    "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "joshua.farrow@apexgroup.com",
+    "status": "observed",
+    "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "paul.horton@apexfs.com",
+    "status": "observed",
+    "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "katie.baxter@apexgroup.com",
+    "status": "observed",
+    "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jonty.strachan@apexgroup.com",
+    "status": "observed",
+    "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+442045490700",
+    "status": "valid_format",
+    "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+442045490727",
+    "status": "valid_format",
+    "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+442045490811",
+    "status": "valid_format",
+    "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+442045490809",
+    "status": "valid_format",
+    "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+442045490694",
+    "status": "valid_format",
+    "source_url": "https://www.jerseyfinance.com/ifc/business-directory/apex-group",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://uk.linkedin.com/in/angie-walker-12190210",
+    "status": "probable",
+    "source_url": "https://uk.linkedin.com/in/angie-walker-12190210"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/sanjayvatsa",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/sanjayvatsa"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://in.linkedin.com/in/akshay-thakurdesai-b316a04",
+    "status": "probable",
+    "source_url": "https://in.linkedin.com/in/akshay-thakurdesai-b316a04"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/mercadeo-apex-group-705b32319",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/mercadeo-apex-group-705b32319"
+  },
+  {
+    "channel": "email",
+    "value": "info@apexgroup.eu",
+    "status": "probable",
+    "source_url": "https://old.apexgroup.eu/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "infopl@apexgroup.eu",
+    "status": "probable",
+    "source_url": "https://old.apexgroup.eu/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "inforo@apexgroup.eu",
+    "status": "probable",
+    "source_url": "https://old.apexgroup.eu/contact",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "infocz@apexgroup.eu",
+    "status": "probable",
+    "source_url": "https://old.apexgroup.eu/contact",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+31703004242",
+    "status": "valid_format",
+    "source_url": "https://old.apexgroup.eu/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48323815050",
+    "status": "valid_format",
+    "source_url": "https://old.apexgroup.eu/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+40268548349",
+    "status": "valid_format",
+    "source_url": "https://old.apexgroup.eu/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420541424830",
+    "status": "valid_format",
+    "source_url": "https://old.apexgroup.eu/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+420516777230",
+    "status": "valid_format",
+    "source_url": "https://old.apexgroup.eu/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

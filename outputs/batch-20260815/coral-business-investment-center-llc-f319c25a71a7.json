@@ -1,0 +1,99 @@
+{
+  "company_name": "Coral Business & Investment Center LLC",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info@coral-bic.com",
+      "status": "observed",
+      "source_url": "https://coral-bic.com/about-us/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+96891112577",
+      "status": "valid_format",
+      "source_url": "https://coral-bic.com/about-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+96890947810",
+      "status": "valid_format",
+      "source_url": "https://coral-bic.com/about-us/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+13077760608",
+      "status": "valid_format",
+      "source_url": "https://coral-bic.com/company-overview/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "support@example.com",
+      "status": "observed",
+      "source_url": "https://coral-bic.com/contact/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "contact@example.com",
+      "status": "observed",
+      "source_url": "https://coral-bic.com/contact/",
+      "company_public": true
+    },
+    {
+      "channel": "whatsapp",
+      "value": "+971505705176",
+      "status": "verified",
+      "source_url": "https://dcciinfo.com/co/coral-business-investment-center-llc-oman/429682",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+971505705176",
+      "status": "valid_format",
+      "source_url": "https://dcciinfo.com/co/coral-business-investment-center-llc-oman/429682",
+      "whatsapp_status": "verified",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 40,
+    "search_engine_warnings": 0,
+    "urls_crawled": 30,
+    "crawl_failures": 4,
+    "contact_signals": 83,
+    "official_urls_discovered": 23,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 7,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

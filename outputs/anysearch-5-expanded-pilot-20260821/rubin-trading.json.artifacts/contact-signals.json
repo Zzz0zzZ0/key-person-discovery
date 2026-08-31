@@ -1,0 +1,398 @@
+[
+  {
+    "channel": "email",
+    "value": "sales@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/careers/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308166",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/careers/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308169",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/careers/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359878743903",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/careers/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308162",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/careers/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/legal/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308166",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/legal/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308169",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/legal/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359878743903",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/legal/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308162",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/legal/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/rubin-glass-product-catalog/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308166",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/rubin-glass-product-catalog/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308169",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/rubin-glass-product-catalog/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359878743903",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/rubin-glass-product-catalog/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308162",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/rubin-glass-product-catalog/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/desgin-glass-center/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308166",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/desgin-glass-center/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308169",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/desgin-glass-center/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359878743903",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/desgin-glass-center/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308162",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/desgin-glass-center/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "e.gigova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "p.baykov@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "l.tsekova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "m.urkova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "a.atanasova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "c.custura@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "a.vasileva@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "mihael.dimitrov@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "s.goranova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "m.krachunova@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "i.ilieva@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "a.tonchev@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540686",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359876700336",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540690",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540741",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359879013746",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540730",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359879540794",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359887074656",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359878746932",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359889470511",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308166",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308169",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359878743903",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+359875308162",
+    "status": "valid_format",
+    "source_url": "https://rubin-glass.eu/elena-gigova/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "moulddesign@rubin-glass.bg",
+    "status": "observed",
+    "source_url": "https://rubin-glass.eu/wp-content/uploads/rubin-TD/1294003TD.pdf",
+    "company_public": true
+  }
+]

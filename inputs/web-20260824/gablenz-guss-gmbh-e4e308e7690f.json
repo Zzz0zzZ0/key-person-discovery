@@ -1,0 +1,47 @@
+{
+  "name": "Gablenz Guss GmbH",
+  "website": "https://gablenz-guss.de",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "d19f5304-3865-4ebf-8388-f8a738029d6a",
+  "crm_linkedin_url": null,
+  "crm_country": null,
+  "crm_updated_at": "2026-08-19T07:18:05.211458+00:00",
+  "crm_contact_count": 1,
+  "crm_contacts": [
+    {
+      "name": "Contact",
+      "email": null,
+      "additional_emails": null,
+      "phone": "724470350",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-24T03:32:44.599608+00:00",
+  "source": "twenty_postgresql_read_only"
+}

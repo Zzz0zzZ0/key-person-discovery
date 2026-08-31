@@ -1,0 +1,124 @@
+{
+  "company_name": "Sialon Ceramics",
+  "candidates": [
+    {
+      "full_name": "Nico van Dongen",
+      "current_title": "Technical Ceramics Specialist",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+          "status": "observed",
+          "source_url": "https://sialon.com/online-meeting/"
+        }
+      ],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+4535158085",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://sialon.com/online-meeting/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://sialon.com/online-meeting/",
+          "quote": "Technical Ceramics for the molten non-ferrous industry since 1986 | 40 years of excellence 1986-2026",
+          "supports": "Nico van Dongen is the contact shown on the company's online meeting/scheduling page, establishing direct company association"
+        },
+        {
+          "source_url": "https://sialon.com/online-meeting/",
+          "quote": "https://www.linkedin.com/in/nico-van-dongen-3a6466165/",
+          "supports": "Company-linked LinkedIn profile for Nico van Dongen, shown alongside company switchboard contact details"
+        }
+      ],
+      "confidence": 0.88,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Nico V",
+      "current_title": "Sales & Product Development for Sialon and Sintered Silicon Carbide Ceramics",
+      "company_match": "probable",
+      "discovery_tier": "unverified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/nico-v-3a6466165",
+          "status": "probable",
+          "source_url": "https://uk.linkedin.com/in/nico-v-3a6466165"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://uk.linkedin.com/in/nico-v-3a6466165",
+          "quote": "Nico V. - Ultrasonic Degassing & Grain Refinement Specialist Nico V. Ultrasonic Degassing & Grain Refinement Specialist | Sales & Product Development for Sialon and Sintered Silicon Carbide Ceramics at Sialon Ceramics ApS ...",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true,
+      "validation_reasons": [
+        "search summary requires independent current-employment verification",
+        "contact ownership is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 103,
+    "search_engine_warnings": 19,
+    "urls_crawled": 12,
+    "crawl_failures": 4,
+    "contact_signals": 5,
+    "official_urls_discovered": 3,
+    "crm_website": "https://sialon.com",
+    "official_website": "https://sialon.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 4,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 8,
+    "pdf_failures": 1,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 1,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 2,
+    "target_contact_methods": 4,
+    "contact_methods": 3,
+    "contact_target_met": false,
+    "broad_discovery": true,
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

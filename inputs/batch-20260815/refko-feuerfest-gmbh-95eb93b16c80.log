@@ -1,0 +1,45 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://test.de                                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://test.de                                                                                       | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.refko.de/                                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refko.de/                                                                                | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.test.de/                                                                                 | ✓ | ⏱: 3.99s 
+[SCRAPE].. ◆ https://www.test.de/                                                                                 | ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.test.de/                                                                                 | ✓ | ⏱: 4.07s 
+[FETCH]... ↓ https://order.firmenkontor24.com/details/640711/REFKO-Feuerfest-GmbH                                 | ✓ | ⏱: 4.07s 
+[SCRAPE].. ◆ https://order.firmenkontor24.com/details/640711/REFKO-Feuerfest-GmbH                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://order.firmenkontor24.com/details/640711/REFKO-Feuerfest-GmbH                                 | ✓ | ⏱: 5.29s 
+[FETCH]... ↓ https://www.test.de/news/Bluetooth-Lautsprecher-...iede-bei-Akkulaufzeit-und-Regenschutz-6330095-0/  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.test.de/news/Bluetooth-Lautsprecher-...iede-bei-Akkulaufzeit-und-Regenschutz-6330095-0/  | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://www.test.de/Fernseher-im-Test-1629201-5335754/                                               | ✓ | ⏱: 1.26s 
+[SCRAPE].. ◆ https://www.test.de/Fernseher-im-Test-1629201-5335754/                                               | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.test.de/Fernseher-im-Test-1629201-5335754/                                               | ✓ | ⏱: 1.30s 
+[FETCH]... ↓ https://www.test.de/sitemap/news                                                                     | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.test.de/sitemap/news                                                                     | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://www.refko.de/en/contact/                                                                     | ✓ | ⏱: 5.92s 
+[SCRAPE].. ◆ https://www.refko.de/en/contact/                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refko.de/en/contact/                                                                     | ✓ | ⏱: 5.94s 
+[FETCH]... ↓ https://www.refko.de/en/                                                                             | ✓ | ⏱: 5.94s 
+[SCRAPE].. ◆ https://www.refko.de/en/                                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refko.de/en/                                                                             | ✓ | ⏱: 5.96s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.test.de/aboutus/                                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.test.de/aboutus/                                                                         | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.test.de/news/Bankschliessfach-Vergle...de-bei-Kosten-und-Versicherungsschutz-6329625-0/  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.test.de/news/Bankschliessfach-Vergle...de-bei-Kosten-und-Versicherungsschutz-6329625-0/  | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://www.test.de/news/Stiftung-Warentest-test...alten-UV-Schutz-Versprechen-nicht-ein-6319893-0/  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.test.de/news/Stiftung-Warentest-test...alten-UV-Schutz-Versprechen-nicht-ein-6319893-0/  | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://www.test.de/newsletter/                                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.test.de/newsletter/                                                                      | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.test.de/news/Wassersparende-Duschkoe...ea-Modell-schlaegt-130-Euro-Duschkopf-6329495-0/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.test.de/news/Wassersparende-Duschkoe...ea-Modell-schlaegt-130-Euro-Duschkopf-6329495-0/  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.test.de/news/                                                                            | ✓ | ⏱: 3.15s 
+[SCRAPE].. ◆ https://www.test.de/news/                                                                            | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.test.de/news/                                                                            | ✓ | ⏱: 3.21s 
+[FETCH]... ↓ https://www.test.de/news/Volumen-Shampoos-im-Tes...eben-von-15-Volumen-Shampoos-sind-gut-6328273-0/  | ✓ | ⏱: 3.33s 
+[SCRAPE].. ◆ https://www.test.de/news/Volumen-Shampoos-im-Tes...eben-von-15-Volumen-Shampoos-sind-gut-6328273-0/  | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.test.de/news/Volumen-Shampoos-im-Tes...eben-von-15-Volumen-Shampoos-sind-gut-6328273-0/  | ✓ | ⏱: 3.40s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/refko-feuerfest-gmbh-95eb93b16c80.json

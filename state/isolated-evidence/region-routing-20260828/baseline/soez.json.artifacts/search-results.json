@@ -1,0 +1,802 @@
+[
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" official website",
+    "title": "WhatsApp Web",
+    "url": "https://web.whatsapp.com/",
+    "snippet": "Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with …",
+    "provider": "searxng",
+    "rank": 1,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:14.319407+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" official website",
+    "title": "WhatsApp | Безпечні, надійні й конфіденційні повідомлення та …",
+    "url": "https://www.whatsapp.com/?lang=uk",
+    "snippet": "Використовуйте WhatsApp Messenger для спілкування з друзями й родиною. WhatsApp – це безкоштовний і простий додаток …",
+    "provider": "searxng",
+    "rank": 2,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:14.319407+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" official website",
+    "title": "WhatsApp | Mesaje și apeluri private, gratuite, securizate și de încredere",
+    "url": "https://www.whatsapp.com/?lang=ro",
+    "snippet": "Folosește WhatsApp Messenger pentru a ține legătura cu prietenii și cu familia. WhatsApp este gratuit și oferă servicii de mesagerie …",
+    "provider": "searxng",
+    "rank": 3,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:14.319407+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" official website",
+    "title": "How to manually update WhatsApp | WhatsApp Help Center",
+    "url": "https://faq.whatsapp.com/5481509731946576",
+    "snippet": "We encourage you to always use the most up to date version of WhatsApp. The latest versions contain the newest features and bug …",
+    "provider": "searxng",
+    "rank": 4,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:14.319407+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" official website",
+    "title": "How to contact WhatsApp Support",
+    "url": "https://faq.whatsapp.com/1336994774516288",
+    "snippet": "No. WhatsApp no longer accepts support requests via email. Emails sent to support@support.whatsapp.com, …",
+    "provider": "searxng",
+    "rank": 5,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:14.319407+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" official website",
+    "title": "WhatsApp Web - Blog WhatsApp",
+    "url": "https://blog.whatsapp.com/whats-app-web?lang=id",
+    "snippet": "Jan 21, 2015 · WhatsApp Web Hari ini untuk pertama kalinya, jutaan orang seperti Anda akan memiliki kemampuan untuk …",
+    "provider": "searxng",
+    "rank": 6,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:14.319407+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" official website",
+    "title": "WhatsApp Web - Blog de WhatsApp",
+    "url": "https://blog.whatsapp.com/whats-app-web?lang=es",
+    "snippet": "WhatsApp Web Today, for the first time, millions of you will have the ability to use WhatsApp on your web browser. Our web client is …",
+    "provider": "searxng",
+    "rank": 7,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:14.319407+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" official website",
+    "title": "WhatsApp Web - Content Not Found",
+    "url": "https://web.whatsapp.com:5222/",
+    "snippet": "Sorry, this content isn't available right now.",
+    "provider": "searxng",
+    "rank": 8,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:14.319407+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" official website",
+    "title": "WhatsApp | Secure and Reliable Free Private Messaging and Calling",
+    "url": "https://test-web.whatsapp.com/",
+    "snippet": "Use WhatsApp Messenger to stay in touch with friends and family. WhatsApp is free and offers simple, secure, reliable messaging …",
+    "provider": "searxng",
+    "rank": 9,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:14.319407+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" official website",
+    "title": "WhatsApp | Bezpieczne, niezawodne i prywatne wiadomości oraz …",
+    "url": "https://www.whatsapp.com/?lang=pl",
+    "snippet": "Korzystaj z WhatsApp Messenger, aby pozostać w kontakcie ze znajomymi i z rodziną. WhatsApp to bezpłatna aplikacja na telefony …",
+    "provider": "searxng",
+    "rank": 10,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:14.319407+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (procurement OR purchasing OR sourcing OR buyer)",
+    "title": "Hana Bank",
+    "url": "https://biz.kebhana.com/index.jsp?pc",
+    "snippet": "기업인터넷뱅킹, 조회, 이체, 결재함,외환,수출입,B2B전자결제등 제공.",
+    "provider": "searxng",
+    "rank": 1,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.392060+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (procurement OR purchasing OR sourcing OR buyer)",
+    "title": "KEB Hana - 하나은행",
+    "url": "http://banking.kebhana.com/",
+    "snippet": "1 day ago · 브랜드사이트 하나네트워크 글로벌네트워크 하나은행 SNS 고객센터 1588-1111 / 1599-1111 고객센터 (해외) +82-42-520 …",
+    "provider": "searxng",
+    "rank": 2,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.392060+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (procurement OR purchasing OR sourcing OR buyer)",
+    "title": "하나은행",
+    "url": "https://www.hanabank.com/common/login.do",
+    "snippet": "방문 중인 사이트에서 설명을 제공하지 않습니다.",
+    "provider": "searxng",
+    "rank": 3,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.392060+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (procurement OR purchasing OR sourcing OR buyer)",
+    "title": "KEB하나은행",
+    "url": "https://www.kebhana.com/easyone_index_ko.html",
+    "snippet": "May 16, 2024 · ⓒ Hana Bank. All rights reserved.",
+    "provider": "searxng",
+    "rank": 4,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.392060+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (procurement OR purchasing OR sourcing OR buyer)",
+    "title": "하나에스크로 로그인 - KEB Hana Bank",
+    "url": "https://biz.kebhana.com/renew/esc/common/login.do",
+    "snippet": "하나은행 기업인터넷뱅킹 로그인으로 하나에스크로 서비스 이용이 가능합니다. ※ 가맹점 사업자는 프랜차이즈 전용 ID 로그인을 이용해 …",
+    "provider": "searxng",
+    "rank": 5,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.392060+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (procurement OR purchasing OR sourcing OR buyer)",
+    "title": "하나은행 기업뱅킹 - Hana Bank",
+    "url": "https://mbiz.hanabank.com/cont/untact/untact_info.jsp",
+    "snippet": "이체 수수료 면제는 비대면으로 가입한 원화 입출금계좌의 기업뱅킹 (인터넷/스마트폰뱅킹)을 통한 이체 거래시에만 적용됩니다. 계좌 …",
+    "provider": "searxng",
+    "rank": 6,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.392060+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (procurement OR purchasing OR sourcing OR buyer)",
+    "title": "하나 원큐 기업 < 스마트폰앱 < 하나은행",
+    "url": "https://kebhana.com/cont/smartapp/smartapp03/index.jsp",
+    "snippet": "※ 인터넷과 연결된 온라인 모드에서만 동작하고, 공인인증서 인증을 기반으로 모든 거래 정보는 암호화 되어 안전하게 전송됩니다. ※ …",
+    "provider": "searxng",
+    "rank": 7,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.392060+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (procurement OR purchasing OR sourcing OR buyer)",
+    "title": "하나은행",
+    "url": "https://www.hanabank.com/index.html",
+    "snippet": "Aug 19, 2026 · 자세히보기 놀이터 운동화 무료 세탁에 추가 5,000P까지! #마지막 세탁 쿠폰 이벤트 자세히보기 이벤트 미성년자를 위한 …",
+    "provider": "searxng",
+    "rank": 8,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.392060+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (procurement OR purchasing OR sourcing OR buyer)",
+    "title": "하나은행 기업 인터넷뱅킹 바로가기",
+    "url": "https://windowfile.tistory.com/674",
+    "snippet": "Aug 16, 2025 · 웹 브라우저 주소창에 입력하거나 즐겨찾기에 등록하면 빠르게 접근할 수 있고, 홈페이지 메인 화면에서 ‘기업금융’ → …",
+    "provider": "searxng",
+    "rank": 9,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.392060+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (procurement OR purchasing OR sourcing OR buyer)",
+    "title": "하나은행 기업 인터넷 뱅킹 바로가기| 쉽고 빠른 로그인 방법과 ...",
+    "url": "https://money.channel-lazymoney.com/2025/02/17/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EA%B8%B0%EC%97%85-%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%B1%85%ED%82%B9-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B8-%EB%A1%9C%EA%B7%B8/",
+    "snippet": "하나은행의 기업 인터넷 뱅킹 은 비즈니스 운영에 필요한 다양한 금융 서비스 를 쉽게 이용할 수 있는 편리한 플랫폼입니다. 로그인 절차는 …",
+    "provider": "searxng",
+    "rank": 10,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.392060+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "title": "anime.dmkt-sp.jp",
+    "url": "https://anime.dmkt-sp.jp/animestore/sch_pc?searchKey=%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9&vodTypeList=svod_tvod&sortKey=4",
+    "snippet": "詳細の表示を試みましたが、サイトのオーナーによって制限されているため表示できません。",
+    "provider": "searxng",
+    "rank": 1,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.676751+00:00"
+  },
+  {
+    "query": "site:linkedin.com/in \"Промышленная группа «СОЭЗ»\"",
+    "title": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps",
+    "url": "https://www.microsoft.com/en-us?msockid=11cf9c949f3a62b1208c8b579ea9636e",
+    "snippet": "Explore Microsoft products and services and support for your home or business. Shop Microsoft 365, Copilot, Teams, Xbox, …",
+    "provider": "searxng",
+    "rank": 1,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.936910+00:00"
+  },
+  {
+    "query": "site:linkedin.com/in \"Промышленная группа «СОЭЗ»\"",
+    "title": "Microsoft account | Sign In or Create Your Account Today – Microsoft",
+    "url": "https://account.microsoft.com/account",
+    "snippet": "A Microsoft account does not need a Microsoft email The email address used to sign into your Microsoft account can be from …",
+    "provider": "searxng",
+    "rank": 2,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.936910+00:00"
+  },
+  {
+    "query": "site:linkedin.com/in \"Промышленная группа «СОЭЗ»\"",
+    "title": "Sign in to your account",
+    "url": "https://myaccount.microsoft.com/",
+    "snippet": "Access and manage your Microsoft account, subscriptions, and settings all in one place.",
+    "provider": "searxng",
+    "rank": 3,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.936910+00:00"
+  },
+  {
+    "query": "site:linkedin.com/in \"Промышленная группа «СОЭЗ»\"",
+    "title": "My Account",
+    "url": "https://myaccount.microsoft.com/login",
+    "snippet": "Sign in to manage your Microsoft account and access free online services like Outlook, Word, Excel, and PowerPoint securely from …",
+    "provider": "searxng",
+    "rank": 4,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.936910+00:00"
+  },
+  {
+    "query": "site:linkedin.com/in \"Промышленная группа «СОЭЗ»\"",
+    "title": "Microsoft products, apps, and devices built to support you",
+    "url": "https://www.microsoft.com/en-us/microsoft-products-and-apps?msockid=11cf9c949f3a62b1208c8b579ea9636e",
+    "snippet": "Microsoft products, apps, and devices built to support you Stay on track, express your creativity, get your game on, and more—all …",
+    "provider": "searxng",
+    "rank": 5,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.936910+00:00"
+  },
+  {
+    "query": "site:linkedin.com/in \"Промышленная группа «СОЭЗ»\"",
+    "title": "Microsoft - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Microsoft",
+    "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company …",
+    "provider": "searxng",
+    "rank": 6,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.936910+00:00"
+  },
+  {
+    "query": "site:linkedin.com/in \"Промышленная группа «СОЭЗ»\"",
+    "title": "Home | Microsoft Careers",
+    "url": "https://careers.microsoft.com/",
+    "snippet": "Do what you love. Create the future you want. Explore the career options that Microsoft has to offer Stage.",
+    "provider": "searxng",
+    "rank": 7,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.936910+00:00"
+  },
+  {
+    "query": "site:linkedin.com/in \"Промышленная группа «СОЭЗ»\"",
+    "title": "Sign in - account.microsoft.com",
+    "url": "https://account.microsoft.com/account-checkup",
+    "snippet": "Sign in to check and manage your Microsoft account settings with the Account Checkup Wizard.",
+    "provider": "searxng",
+    "rank": 8,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.936910+00:00"
+  },
+  {
+    "query": "site:linkedin.com/in \"Промышленная группа «СОЭЗ»\"",
+    "title": "Create your Microsoft account",
+    "url": "https://signup.live.com/",
+    "snippet": "Create your Microsoft account to access various services and features.",
+    "provider": "searxng",
+    "rank": 9,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.936910+00:00"
+  },
+  {
+    "query": "site:linkedin.com/in \"Промышленная группа «СОЭЗ»\"",
+    "title": "Sign in to your account - admin.microsoft.com",
+    "url": "https://admin.microsoft.com/AdminPortal/Home",
+    "snippet": "Sign in to manage your Microsoft account and access all services securely.",
+    "provider": "searxng",
+    "rank": 10,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:16.936910+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "title": "Search settings - Google Maps",
+    "url": "https://maps.google.ch/preferences",
+    "snippet": "Content Manage the kinds of search results you see by setting preferences for personalization and explicit content",
+    "provider": "searxng",
+    "rank": 1,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.210761+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "title": "Transit – Google Maps",
+    "url": "https://maps.google.ch/landing/transit/index.html",
+    "snippet": "If you provide a transportation service that is open to the public, and operates with fixed schedules and routes, we welcome your …",
+    "provider": "searxng",
+    "rank": 2,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.210761+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "title": "Google Maps",
+    "url": "https://maps.google.ch/mapfiles/home3.html",
+    "snippet": "Explore places, get directions, and access real-time updates on traffic and public transportation with Google Maps.",
+    "provider": "searxng",
+    "rank": 3,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.210761+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "title": "Street View-Fotos stammen aus zwei verschiedenen Quellen",
+    "url": "https://maps.google.ch/intl/de_ch/streetview/explore/",
+    "snippet": "Hier erfährst du, was Street View ist, wo wir schon waren und wo unsere Fahrzeuge momentan unterwegs sind. Unser technisches …",
+    "provider": "searxng",
+    "rank": 4,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.210761+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "title": "Vulnerabilities – Application Security – Google",
+    "url": "https://maps.google.ch/intl/en/about/appsecurity/research/",
+    "snippet": "Home Learning Reward Programs Hall of Fame Research Vulnerabilities Conference Presentations Tools",
+    "provider": "searxng",
+    "rank": 5,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.210761+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "title": "How Google uses cookies – Privacy & Terms – Google",
+    "url": "https://maps.google.ch/intl/en/policies/technologies/types/",
+    "snippet": "How Google uses cookies This page describes the purposes for which Google uses cookies and similar technologies. It also explains …",
+    "provider": "searxng",
+    "rank": 6,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.210761+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "title": "Google Earth Outreach",
+    "url": "https://maps.google.ch/intl/it_ch/earth/outreach/",
+    "snippet": "Google Earth per il Sociale ti consente di produrre un cambiamento positivo per le persone e il pianeta grazie agli strumenti geografici.",
+    "provider": "searxng",
+    "rank": 7,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.210761+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "title": "Tools – Application Security – Google",
+    "url": "https://maps.google.ch/intl/pt-BR/about/appsecurity/tools/",
+    "snippet": "",
+    "provider": "searxng",
+    "rank": 8,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.210761+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "title": "Redirect Notice - Google Maps",
+    "url": "https://maps.google.ch/url?source=web&rct=j&url=%68%74%74%70%73%3A%2F%2F%73%70%6F%72%74%6E%65%74%38%38%2E%6C%69%76%65%2F%6C%61%70%61%6B%2D%6A%75%64%69%2D%6F%6E%6C%69%6E%65%2D%69%6E%64%6F%6E%65%73%69%61%2D%73%70%6F%72%74%6E%65%74%38%38%2F%23%6C%61%70%61%6B%2D%6A%75%64%69",
+    "snippet": "If you do not want to visit that page, you can return to the previous page.",
+    "provider": "searxng",
+    "rank": 9,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.210761+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "title": "Häufig gestellte Fragen – Business Photos – Google Maps",
+    "url": "https://maps.google.ch/help/maps/businessphotos/faq.html",
+    "snippet": "Über benutzerfreundliche HTML-Snippets oder Maps APIs können Sie zudem auf Ihrer eigenen Unternehmenswebsite eine …",
+    "provider": "searxng",
+    "rank": 10,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.210761+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (team OR management OR contact)",
+    "title": "Sign in to your account - teams.microsoft.com",
+    "url": "https://teams.microsoft.com/v2/?skipauthstrap=1",
+    "snippet": "Sign in to your Microsoft Teams account to collaborate, organize, and stay connected with your team.",
+    "provider": "searxng",
+    "rank": 1,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.486410+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (team OR management OR contact)",
+    "title": "Sign In | Microsoft Teams",
+    "url": "https://www.microsoft.com/en-us/microsoft-teams/log-in?msockid=27beef41d30460e93b8ff882d27f6130",
+    "snippet": "Microsoft Teams, the hub for team collaboration in Microsoft 365, integrates the people, content, and tools your team needs to be …",
+    "provider": "searxng",
+    "rank": 2,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.486410+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (team OR management OR contact)",
+    "title": "Sign in to your account",
+    "url": "https://teams.microsoft.com/",
+    "snippet": "",
+    "provider": "searxng",
+    "rank": 3,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.486410+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (team OR management OR contact)",
+    "title": "Đăng nhập | Microsoft Teams",
+    "url": "https://www.microsoft.com/vi-vn/microsoft-teams/log-in?msockid=27beef41d30460e93b8ff882d27f6130",
+    "snippet": "Microsoft Teams, hub dùng để cộng tác nhóm trong Microsoft 365, tích hợp mọi người, nội dung và công cụ mà nhóm cần để gắn kết …",
+    "provider": "searxng",
+    "rank": 4,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.486410+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (team OR management OR contact)",
+    "title": "Free Online Meetings & Video Calls | Microsoft Teams",
+    "url": "https://teams.live.com/free",
+    "snippet": "Start free Teams video calls instantly! Connect, collaborate, and communicate effortlessly. Enjoy features like video calls, chat, file …",
+    "provider": "searxng",
+    "rank": 5,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.486410+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (team OR management OR contact)",
+    "title": "Sign in to your Microsoft account",
+    "url": "https://teams.live.com/v2/?tenantId=9188040d-6c67-4c5b-b112-36a304b66dad",
+    "snippet": "Microsoft Teams is a collaboration platform for chat, meetings, and file sharing.",
+    "provider": "searxng",
+    "rank": 6,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.486410+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (team OR management OR contact)",
+    "title": "Microsoft Teams - Download and install on Windows | Microsoft Store",
+    "url": "https://apps.microsoft.com/detail/xp8bt8dw290mpq",
+    "snippet": "Whether you’re connecting with a colleague at work or brainstorming with your local volunteer organization, Microsoft Teams helps …",
+    "provider": "searxng",
+    "rank": 7,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.486410+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (team OR management OR contact)",
+    "title": "&TEAM Members Profile (Updated!) - Kpop Profiles",
+    "url": "https://kprofiles.com/and-team-members-profile/",
+    "snippet": "&TEAM (エンティーム / 앤팀) is the final 9 members of the audition program &Audition -The Howling-. They are a boy group under …",
+    "provider": "searxng",
+    "rank": 8,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.486410+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (team OR management OR contact)",
+    "title": "Sign In | Microsoft Teams",
+    "url": "https://www.microsoft.com/en-in/microsoft-teams/log-in?msockid=27beef41d30460e93b8ff882d27f6130",
+    "snippet": "Microsoft Teams, the hub for team collaboration in Microsoft 365, integrates the people, content, and tools your team needs to be …",
+    "provider": "searxng",
+    "rank": 9,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.486410+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru filetype:pdf",
+    "title": "【心得】【沉默之丘f】萬字劇情解析 神話傳說與科學考察",
+    "url": "https://forum.gamer.com.tw/C.php?bsn=1738&snA=6560",
+    "snippet": "Oct 1, 2025 · 從一開始劇情而言，咲子可能結婚了（受到雛子訂婚消息而草率結婚，畢竟遊戲內每個角色都有病偏激到這種程度也不是 …",
+    "provider": "searxng",
+    "rank": 1,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.761190+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru filetype:pdf",
+    "title": "《沉默之丘f 》全劇情懶人包：時間線、角色關係與結局",
+    "url": "https://ggameker.tw/pc-game/steam/silent-hill-f-story/",
+    "snippet": "Sep 26, 2025 · 本文以時間線梳理角色關係，對照四種結局與真結局意涵，補充裡世界意象、面具與藥物成癮緣由，快速釐清故事重點 …",
+    "provider": "searxng",
+    "rank": 2,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.761190+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru filetype:pdf",
+    "title": "【沉默之丘 f SILENT HILL f】劇情分析～兩個自我對抗的旅程 - 珍豬茶 …",
+    "url": "https://www.dcard.tw/@puchier/post/259919916",
+    "snippet": "Sep 28, 2025 · 下面就讓我帶你一起來梳理這一代的劇情與核心分析吧！ 【劇情大綱：】 . 深水雛子是住在戎之丘小鎮的普通高中女生 …",
+    "provider": "searxng",
+    "rank": 3,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.761190+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru filetype:pdf",
+    "title": "沉默之丘 f (Silent Hill f) 全結局解鎖攻略 | 娛樂計程車",
+    "url": "https://www.entertainment14.net/blog/post/111001683-%e6%b2%89%e9%bb%98%e4%b9%8b%e4%b8%98-f-silent-hill-f-%e5%85%a8%e7%b5%90%e5%b1%80%e8%a7%a3%e9%8e%96%e6%94%bb%e7%95%a5",
+    "snippet": "Sep 23, 2025 · 神聖之劍是貫穿整個流程的謎題，需要在前5次前往戎之丘時尋找關鍵物品並將其供奉在地藏像處。 淨化神聖之劍需要 …",
+    "provider": "searxng",
+    "rank": 4,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.761190+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru filetype:pdf",
+    "title": "[閒聊] 沉默之丘F劇情發展及結局解析 (劇透) - 看板 PlayStation - 批踢 …",
+    "url": "https://www.ptt.cc/bbs/PlayStation/M.1758705777.A.745.html",
+    "snippet": "Sep 24, 2025 · 在遊戲劇情中，最開始女主四人呈現年輕的狀態，但實際上已經20歲，只是在沉默之丘的 影響下呈現中學生的外表， …",
+    "provider": "searxng",
+    "rank": 5,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.761190+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru filetype:pdf",
+    "title": "沉默之丘 f (Silent Hill f) 劇情深度解析 - 娛樂計程車",
+    "url": "https://www.entertainment14.net/blog/post/111001866-%e6%b2%89%e9%bb%98%e4%b9%8b%e4%b8%98-f-silent-hill-f-%e5%8a%87%e6%83%85%e6%b7%b1%e5%ba%a6%e8%a7%a3%e6%9e%90",
+    "snippet": "Oct 2, 2025 · 本作主角，而且具有明顯的象徵意義，它象徵著所謂“自由”“自主”“有自我思想”的女性，她就像大地孩子，還記的這個地方 …",
+    "provider": "searxng",
+    "rank": 6,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.761190+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru filetype:pdf",
+    "title": "【心得】《沉默之丘f 》拼湊式劇情解析 (文多有雷) 真結局並不是第4 …",
+    "url": "https://forum.gamer.com.tw/C.php?bsn=1738&snA=6664",
+    "snippet": "Oct 28, 2025 · 沉默之丘f是我玩過劇情最撲朔迷離 又相當有內涵的一部佳作 今天就來聊聊 個人對於這款遊戲的劇情解析！ 若還沒有玩 …",
+    "provider": "searxng",
+    "rank": 7,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.761190+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru filetype:pdf",
+    "title": "沉默之丘 f 劇情和結局深度解析：台灣團隊打造的昭和恐怖新篇章",
+    "url": "https://neww.tw/silent-hill-f/",
+    "snippet": "《沉默之丘 f》是經典作品沉默之丘系列的外傳新篇，這次劇情深度探討「自我認同」與「內心恐懼」的心理恐怖。 從雛子與修、凛子 …",
+    "provider": "searxng",
+    "rank": 8,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.761190+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru filetype:pdf",
+    "title": "《沉默之丘f》劇情梳理與結局解讀 | steamXO 遊戲攻略情報網",
+    "url": "https://www.steamxo.com/2025/10/06/3661244",
+    "snippet": "Oct 6, 2025 · 江戶時代，遊戲內的狐仙家族看上了戎之丘這個香火聖地，決定在奪取這里的信仰，於是施展法術雷劈御神木，破壞了當 …",
+    "provider": "searxng",
+    "rank": 9,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.761190+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru filetype:pdf",
+    "title": "沉默之丘f - 維基百科，自由的百科全書",
+    "url": "https://zh.wikipedia.org/zh-tw/SILENT_HILL_f",
+    "snippet": "這也是自《沉默之丘3》後系列首次採用10多歲的少女作為遊戲主角。 作為沉默之丘系列時隔多年推出的全新長篇內容作品，本作被歸 …",
+    "provider": "searxng",
+    "rank": 10,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:17.761190+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "title": "카카오톡 PC버전 정식 다운로드 | 카카오",
+    "url": "https://www.kakaocorp.com/page/service/all",
+    "snippet": "카카오톡 PC버전과 Mac 버전을 공식 사이트에서 안전하게 다운로드하세요. 최신 정식 설치 파일을 무료로 내려받아 PC에서도 카카오톡 …",
+    "provider": "searxng",
+    "rank": 1,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.015990+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "title": "카카오톡 서비스 소개 | 카카오",
+    "url": "https://www.kakaocorp.com/page/service/service/KakaoTalk",
+    "snippet": "친구, 가족과 언제 어디서나 무료로 메시지와 음성·영상 통화를 즐기는 카카오톡. 오픈채팅, 톡채널 등 카카오톡의 다양한 기능을 소개합니다.",
+    "provider": "searxng",
+    "rank": 2,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.015990+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "title": "카카오톡 KakaoTalk - Google Play 앱",
+    "url": "https://play.google.com/store/apps/details?id=com.kakao.talk&hl=ko",
+    "snippet": "말풍선으로 볼 수 있는 통화 녹음 녹음 앱 없이 카카오톡에서 버튼 하나로 통화를 녹음하고, 카카오톡 대화처럼 말풍선으로 정리해 보여줘요. …",
+    "provider": "searxng",
+    "rank": 3,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.015990+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "title": "KakaoTalk",
+    "url": "https://talk-apps.kakao.com/scheme/kakaotalk",
+    "snippet": "Jun 15, 2026 · KakaoTalk Open Chat",
+    "provider": "searxng",
+    "rank": 4,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.015990+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "title": "카카오톡 - Windows에서 다운로드 및 설치 | Microsoft Store",
+    "url": "https://apps.microsoft.com/detail/xp9k178l5g0jq0?hl=ko-KR&gl=CG",
+    "snippet": "대한민국 대표 메신저 카카오톡 채팅은 물론 숏폼과 AI까지, 언제 어디서나 무료로 이용할 수 있는 메신저예요. 친구, 가족, 동료와의 …",
+    "provider": "searxng",
+    "rank": 5,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.015990+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "title": "KakaoTalk - 다운로드",
+    "url": "https://kakaotalk.softonic.kr/",
+    "snippet": "2 days ago · 카카오톡: 무료 통화 및 메시징 앱 카카오톡은 현재 Windows에서 사용할 수있는 인기있는 즉시 메시징 및 무료 통화 응용 …",
+    "provider": "searxng",
+    "rank": 6,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.015990+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "title": "카카오톡(KakaoTalk) 다운로드 PC버전 무료 설치",
+    "url": "https://itsoftpedia.com/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-kakaotalk-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-pc%EB%B2%84%EC%A0%84-%EB%AC%B4%EB%A3%8C-%EC%84%A4%EC%B9%98/",
+    "snippet": "Dec 17, 2025 · 업무 중에도 편리하게 메시지를 주고받고 싶지만 설치 방법이나 로그인 오류 때문에 막막하신 분들이 많습니다. 이 글에서는 …",
+    "provider": "searxng",
+    "rank": 7,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.015990+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "title": "카카오톡 다운로드",
+    "url": "https://kakaotalk.download/",
+    "snippet": "네, 걱정하지 않으셔도 됩니다! 저희 사이트에 포함된 카카오톡 PC버전 다운로드 링크는 카카오톡 공식 홈페이지의 서버와 직접 연결되는 …",
+    "provider": "searxng",
+    "rank": 8,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.015990+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "title": "카카오톡 PC버전 다운로드 설치 - KakaoTalk : 네이버 블로그",
+    "url": "https://blog.naver.com/planet56725/223949810882",
+    "snippet": "Jul 28, 2025 · 카카오톡 (KakaoTalk)은 무료 메시지 및 통화 기능을 제공하는 대표적인 커뮤니케이션 앱으로, 모바일과 PC버전 모두 …",
+    "provider": "searxng",
+    "rank": 9,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.015990+00:00"
+  },
+  {
+    "query": "\"Промышленная группа «СОЭЗ»\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "title": "KakaoTalk : Messenger - Apps on Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.kakao.talk&hl=en-US",
+    "snippet": "For Better Conversations. KakaoTalk – Korea’s no. 1 messenger KakaoTalk is more than just a free messenger. It brings you instant …",
+    "provider": "searxng",
+    "rank": 10,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.015990+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "title": "Gmail - Email from Google",
+    "url": "https://mail.google.com/mail/",
+    "snippet": "Gmail is email that's intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
+    "provider": "searxng",
+    "rank": 1,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.299778+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "title": "Gmail",
+    "url": "https://accounts.google.com/servicelogin?service=mail",
+    "snippet": "Gmail is email that’s intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
+    "provider": "searxng",
+    "rank": 2,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.299778+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "title": "Outlook",
+    "url": "https://outlook.office.com/mail/inbox",
+    "snippet": "Sign in to Outlook to access and manage your email efficiently.",
+    "provider": "searxng",
+    "rank": 3,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.299778+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "title": "Sign in - Google Accounts",
+    "url": "https://accounts.google.com/Login",
+    "snippet": "Not your computer? Use a private browsing window to sign in. Learn more about using Guest mode Next Create account",
+    "provider": "searxng",
+    "rank": 4,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.299778+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "title": "Đăng nhập vào Gmail - Máy tính - Gmail Trợ giúp",
+    "url": "https://support.google.com/mail/answer/8494?hl=vi&co=GENIE.Platform%3DDesktop",
+    "snippet": "Nhập email hoặc số điện thoại dùng cho Tài khoản Google của bạn và mật khẩu. Nếu thông tin đã được điền và bạn phải đăng nhập …",
+    "provider": "searxng",
+    "rank": 5,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.299778+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "title": "Sign in to your account",
+    "url": "https://outlook.office.com/owa/",
+    "snippet": "No account? Create one! Can’t access your account?",
+    "provider": "searxng",
+    "rank": 6,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.299778+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "title": "Yahoo Mail | Email with smart features and top-notch security",
+    "url": "https://mail.yahoo.com/",
+    "snippet": "Yahoo Mail: Your smarter, faster, free email solution. Organize your inbox, protect your privacy, and tackle tasks efficiently with AI …",
+    "provider": "searxng",
+    "rank": 7,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.299778+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "title": "Login - Sign in to Yahoo",
+    "url": "https://login.yahoo.com/",
+    "snippet": "Sign in to access the best in class Yahoo Mail, breaking local, national and global news, finance, sports, music, movies... You get …",
+    "provider": "searxng",
+    "rank": 8,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.299778+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "title": "iCloud Mail - Apple iCloud",
+    "url": "https://www.icloud.com/mail",
+    "snippet": "View and send mail from your iCloud email address on the web. Sign in or create a new account to get started.",
+    "provider": "searxng",
+    "rank": 9,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.299778+00:00"
+  },
+  {
+    "query": "site:soezgroup.ru (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "title": "Microsoft Outlook Personal Email and Calendar | Microsoft 365",
+    "url": "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=2382b864ee3263481128afa7ef4962f7",
+    "snippet": "Download free Microsoft Outlook email and calendar, plus Office Online apps like Word, Excel, and PowerPoint. Sign in to access …",
+    "provider": "searxng",
+    "rank": 10,
+    "source_type": "web",
+    "retrieved_at": "2026-08-28T03:34:18.299778+00:00"
+  }
+]

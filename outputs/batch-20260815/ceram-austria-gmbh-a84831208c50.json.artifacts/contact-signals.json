@@ -1,0 +1,352 @@
+[
+  {
+    "channel": "email",
+    "value": "office@ceram-austria.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "noel.rosha@ceram-usa.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "yc.lee@ceram-korea.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ym.kim@ceram-korea.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ceram@suht.net",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "john.cochran@ceram-usa.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "greg.holscher@ceram-usa.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jared.koliha@ceram-usa.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "travis.burger@ceram-usa.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sam.eskilson@ceram-usa.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+43346220000",
+    "status": "valid_format",
+    "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+19132399896",
+    "status": "valid_format",
+    "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+82226445423",
+    "status": "valid_format",
+    "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+861084865205",
+    "status": "valid_format",
+    "source_url": "https://www.ceram-austria.com/us/contact-references_us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+442920886500",
+    "status": "valid_format",
+    "source_url": "https://www.creditsafe.com/business-index/en-gb/company/ceram-austria-gmbh-at04826152",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+3264677949",
+    "status": "valid_format",
+    "source_url": "https://www.creditsafe.com/business-index/nb-no/company/megaceram-be00355033",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "noel.rosha@ceram-usa.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/en/scr-catalysts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "office@ceram-austria.com",
+    "status": "observed",
+    "source_url": "http://ceram-austria.com/us/contact-references_us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "noel.rosha@ceram-usa.com",
+    "status": "observed",
+    "source_url": "http://ceram-austria.com/us/contact-references_us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "yc.lee@ceram-korea.com",
+    "status": "observed",
+    "source_url": "http://ceram-austria.com/us/contact-references_us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ym.kim@ceram-korea.com",
+    "status": "observed",
+    "source_url": "http://ceram-austria.com/us/contact-references_us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ceram@suht.net",
+    "status": "observed",
+    "source_url": "http://ceram-austria.com/us/contact-references_us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "john.cochran@ceram-usa.com",
+    "status": "observed",
+    "source_url": "http://ceram-austria.com/us/contact-references_us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "greg.holscher@ceram-usa.com",
+    "status": "observed",
+    "source_url": "http://ceram-austria.com/us/contact-references_us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jared.koliha@ceram-usa.com",
+    "status": "observed",
+    "source_url": "http://ceram-austria.com/us/contact-references_us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "travis.burger@ceram-usa.com",
+    "status": "observed",
+    "source_url": "http://ceram-austria.com/us/contact-references_us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sam.eskilson@ceram-usa.com",
+    "status": "observed",
+    "source_url": "http://ceram-austria.com/us/contact-references_us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+43346220000",
+    "status": "valid_format",
+    "source_url": "http://ceram-austria.com/us/contact-references_us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+19132399896",
+    "status": "valid_format",
+    "source_url": "http://ceram-austria.com/us/contact-references_us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+82226445423",
+    "status": "valid_format",
+    "source_url": "http://ceram-austria.com/us/contact-references_us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+861084865205",
+    "status": "valid_format",
+    "source_url": "http://ceram-austria.com/us/contact-references_us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "office@ceram-austria.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "noel.rosha@ceram-usa.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "yc.lee@ceram-korea.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ym.kim@ceram-korea.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ceram@suht.net",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "john.cochran@ceram-usa.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "greg.holscher@ceram-usa.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "jared.koliha@ceram-usa.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "travis.burger@ceram-usa.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sam.eskilson@ceram-usa.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+43346220000",
+    "status": "valid_format",
+    "source_url": "https://www.ceram-austria.com/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+19132399896",
+    "status": "valid_format",
+    "source_url": "https://www.ceram-austria.com/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+82226445423",
+    "status": "valid_format",
+    "source_url": "https://www.ceram-austria.com/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+861084865205",
+    "status": "valid_format",
+    "source_url": "https://www.ceram-austria.com/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ceram-order@ceram-austria.com",
+    "status": "observed",
+    "source_url": "https://www.ceram-austria.com/wp-content/uploads/CERAM-RTO-design-form.pdf",
+    "company_public": true
+  }
+]

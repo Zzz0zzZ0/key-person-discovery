@@ -1,0 +1,56 @@
+{
+  "name": "SERVIFUND&MOL, S.L.",
+  "website": "https://servifundmol.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "0045c7e1-437e-494a-9d29-7c40df843277",
+  "crm_linkedin_url": "https://www.linkedin.com/company/servifund&mol-sl/",
+  "crm_country": "西班牙",
+  "crm_updated_at": "2026-07-28T09:21:36.40462+00:00",
+  "crm_contact_count": 2,
+  "crm_contacts": [
+    {
+      "name": " Official Email",
+      "email": "administracion@servifundmol.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+34 937 59 86 06",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-15T06:58:35.195753+00:00",
+  "source": "twenty_postgresql_read_only"
+}

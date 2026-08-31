@@ -1,0 +1,92 @@
+{
+  "name": "Ardakan Industrial Ceramics",
+  "website": "http://www.aic.ir",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "0147404f-8e57-44a5-bfb1-9ae7c50d3bb6",
+  "crm_linkedin_url": "http://www.linkedin.com/company/ardakan-industrial-ceramics",
+  "crm_country": "伊朗",
+  "crm_updated_at": "2026-07-29T06:42:11.583198+00:00",
+  "crm_contact_count": 6,
+  "crm_contacts": [
+    {
+      "name": " zohre momenzade",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/zohre-momenzade-27a236ab",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Fatima Hajali",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/fatima-hajali-537932237",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Mrmojtaba Z",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/mrmojtaba-z-630679229",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Sepideh Aly",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/sepideh-yaghoob-aly-439625255",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Ruhollah Nasiri",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/ruhollah-nasiri-a63001238",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Fatemeh Vatankhah",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/fatemeh-vatankhah-36106a70",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-17T02:35:19.657296+00:00",
+  "source": "twenty_postgresql_read_only"
+}

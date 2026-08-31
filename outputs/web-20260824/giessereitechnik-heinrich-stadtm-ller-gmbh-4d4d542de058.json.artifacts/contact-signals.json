@@ -1,0 +1,16 @@
+[
+  {
+    "channel": "email",
+    "value": "info@ceramcore-stadtmueller.com",
+    "status": "observed",
+    "source_url": "https://ceramcore-stadtmueller.com/en/kontakt-impressum/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@ceramcore-stadtmueller.com",
+    "status": "observed",
+    "source_url": "https://ceramcore-stadtmueller.com/kontakt-impressum/",
+    "company_public": true
+  }
+]

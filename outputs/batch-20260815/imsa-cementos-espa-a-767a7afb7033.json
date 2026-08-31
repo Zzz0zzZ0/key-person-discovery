@@ -1,0 +1,175 @@
+{
+  "company_name": "Çimsa Cementos España",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "cement.blanco@cimsacementos.es",
+      "status": "observed",
+      "source_url": "https://cimsacementos.es/contacto/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+34918270120",
+      "status": "valid_format",
+      "source_url": "https://cimsacementos.es/contacto/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "support@leadiq.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/%C3%A7imsa/5a1d8ac0240000240064e3b5/employee-directory",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sales@leadiq.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/%C3%A7imsa/5a1d8ac0240000240064e3b5/employee-directory",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "calidad.iberinform@iberinform.es",
+      "status": "observed",
+      "source_url": "https://cincodias.elpais.com/directorio-empresas/empresa/498981/cimsa-cementos-espana",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+18553741199",
+      "status": "valid_format",
+      "source_url": "https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+14807453397",
+      "status": "valid_format",
+      "source_url": "https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+821090145918",
+      "status": "valid_format",
+      "source_url": "https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+862163806036",
+      "status": "valid_format",
+      "source_url": "https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+8613671737628",
+      "status": "valid_format",
+      "source_url": "https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+8675589517585",
+      "status": "valid_format",
+      "source_url": "https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+8613925258002",
+      "status": "valid_format",
+      "source_url": "https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+34607876258",
+      "status": "valid_format",
+      "source_url": "https://www.importgenius.cn/suppliers/cimsa-cementos-espana-sau",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@empresia.es",
+      "status": "observed",
+      "source_url": "https://www.empresia.es/empresa/cimsa-cementos-espana/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+34954275068",
+      "status": "valid_format",
+      "source_url": "https://www.infoempresa.com/en-in/es/company/cimsa-cementos-espana-sa",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "validation_rejections": [
+    {
+      "full_name": "K.S.",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "O.Y.",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 32,
+    "search_engine_warnings": 0,
+    "urls_crawled": 17,
+    "crawl_failures": 4,
+    "contact_signals": 23,
+    "official_urls_discovered": 5,
+    "pdf_documents_discovered": 5,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 35,
+    "pdf_failures": 1,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 2,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 15,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

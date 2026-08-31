@@ -1,0 +1,119 @@
+{
+  "company_name": "Sialon Ceramics",
+  "candidates": [
+    {
+      "full_name": "Nico van Dongen",
+      "current_title": "Unknown (LinkedIn profile associated with company)",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 5,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/nico-van-dongen-3a6466165",
+          "status": "observed",
+          "source_url": "https://sialon.com"
+        }
+      ],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+4535158085",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://sialon.com"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://sialon.com",
+          "quote": "linkedin.com/in/nico-van-dongen-3a6466165",
+          "supports": "Social link on company homepage — name and profile associated with sialon.com across all pages"
+        },
+        {
+          "source_url": "https://sialon.com/privacy/",
+          "quote": "linkedin.com/in/nico-van-dongen-3a6466165",
+          "supports": "Linked to company across privacy, terms, contact, about-us pages"
+        },
+        {
+          "source_url": "https://sialon.com/about-us/",
+          "quote": "+(45) 35 15 8085 — Copenhagen office",
+          "supports": "Copenhagen phone on same page as Nico van Dongen LinkedIn link"
+        }
+      ],
+      "confidence": 0.45,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+18337091399",
+      "status": "valid_format",
+      "source_url": "https://sialon.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+46317540790",
+      "status": "valid_format",
+      "source_url": "https://sialon.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@sialon.com",
+      "status": "observed",
+      "source_url": "https://sialon.com/privacy/",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 11,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 51,
+    "search_engine_warnings": 10,
+    "urls_crawled": 20,
+    "crawl_failures": 0,
+    "contact_signals": 77,
+    "official_urls_discovered": 3,
+    "crm_website": "https://sialon.com",
+    "official_website": "https://sialon.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 4,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

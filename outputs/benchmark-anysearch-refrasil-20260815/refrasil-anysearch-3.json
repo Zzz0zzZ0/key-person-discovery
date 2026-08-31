@@ -1,0 +1,150 @@
+{
+  "company_name": "Refrasil",
+  "candidates": [
+    {
+      "full_name": "Ing. Tadeáš Franek",
+      "current_title": "Managing Director",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.refrasil.cz/wp-content/uploads/2017/06/VYROCNI_ZPRAVA_REFRASIL_2016.pdf",
+          "quote": "ředitel, REFRASIL, s.r.o. / Managing Director, REFRASIL, s.r.o.",
+          "supports": "Managing Director of Refrasil, s.r.o."
+        },
+        {
+          "source_url": "https://www.refrasil.cz/wp-content/uploads/2017/06/VYROCNI_ZPRAVA_REFRASIL_2016.pdf",
+          "quote": "Ing. Tadeáš Franek, Director Refrasil, s.r.o.",
+          "supports": "Current director of Refrasil, s.r.o."
+        }
+      ],
+      "confidence": 0.55,
+      "review_required": true
+    },
+    {
+      "full_name": "Ing. Libor Peterek",
+      "current_title": "Financial Director",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 65,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "libor.peterek@refrasil.cz",
+          "status": "guessed",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        }
+      ],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.refrasil.cz/english/contacts/",
+          "quote": "Financial Director: Ing. Libor Peterek",
+          "supports": "Financial Director listed on Refrasil contacts page"
+        },
+        {
+          "source_url": "https://www.refrasil.cz/wp-content/uploads/2017/06/VYROCNI_ZPRAVA_REFRASIL_2016.pdf",
+          "quote": "Ing. Libor Peterek, ekonomický zástupce ředitele, REFRASIL, s.r.o. / Manager, Economics Department, REFRASIL, s.r.o.",
+          "supports": "Economic representative / manager at Refrasil, s.r.o."
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true
+    },
+    {
+      "full_name": "Ing. Česlav Kantor",
+      "current_title": "Technical Director",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 60,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+420558533286",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://www.refrasil.cz/english/contacts/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://www.refrasil.cz/english/contacts/",
+          "quote": "Technical Director: Ing. Česlav Kantor tel.: +420 558 533 286 kantor@refrasil.cz",
+          "supports": "Technical Director listed on Refrasil contacts page with phone and email"
+        }
+      ],
+      "confidence": 0.7,
+      "review_required": true
+    },
+    {
+      "full_name": "Jindřich Spratek",
+      "current_title": "Zástupce pro vývoj a technologii (Representative for Development and Technology)",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 55,
+      "linkedin": [
+        {
+          "value": "https://linkedin.com/in/jind%C5%99ich-spratek-605a1583",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/jind%C5%99ich-spratek-605a1583"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/jind%C5%99ich-spratek-605a1583",
+          "quote": "Zástupce pro vývoj a technologii - REFRASIL, s.r.o. (Current) Sep 2023 - Present (2 years and 10 months) in Třinec, Moravskoslezský, Česko Department: Engineering and Technical • Level: Manager",
+          "supports": "Current role as Representative for Development and Technology at Refrasil since Sep 2023, Engineering and Technical department manager"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 8,
+    "anysearch_queries": 3,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 40,
+    "search_engine_warnings": 12,
+    "urls_crawled": 24,
+    "crawl_failures": 0,
+    "contact_signals": 3,
+    "official_urls_discovered": 24,
+    "pdf_documents_discovered": 3,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 3,
+    "pdf_pages_extracted": 59,
+    "pdf_failures": 1,
+    "search_evidence_pages": 2,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 1,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 3,
+    "contact_target_met": false,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

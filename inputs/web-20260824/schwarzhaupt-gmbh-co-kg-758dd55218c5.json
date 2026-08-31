@@ -1,0 +1,56 @@
+{
+  "name": "Schwarzhaupt GmbH & Co. KG",
+  "website": "https://schwarzhaupt.de",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "8b72df6b-0287-4b36-9922-259ab28283eb",
+  "crm_linkedin_url": null,
+  "crm_country": null,
+  "crm_updated_at": "2026-08-19T07:25:40.836165+00:00",
+  "crm_contact_count": 2,
+  "crm_contacts": [
+    {
+      "name": "Contact",
+      "email": null,
+      "additional_emails": null,
+      "phone": "235190760",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Contact",
+      "email": "post@schwarzhaupt.de",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-24T03:33:50.095992+00:00",
+  "source": "twenty_postgresql_read_only"
+}

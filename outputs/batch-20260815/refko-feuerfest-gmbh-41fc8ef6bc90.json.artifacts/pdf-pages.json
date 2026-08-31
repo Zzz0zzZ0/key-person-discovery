@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://www.test.de/filestore/5188854_buchvorschau.pdf",
+    "markdown": "",
+    "error": "HTTP Error 400: Bad Request",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  }
+]

@@ -1,0 +1,176 @@
+{
+  "company_name": "Metalúrgica Stay",
+  "candidates": [
+    {
+      "full_name": "Decio Cavalheiri",
+      "current_title": "Proprietário",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [
+        {
+          "value": "https://linkedin.com/in/decio-cavalheiri-20013531",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/decio-cavalheiri-20013531"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/decio-cavalheiri-20013531",
+          "quote": "Proprietário da Indústria Metalúrgica Stay Ltda, Fundador e Sócio Proprietário de uma das maiores indústrias brasileiras no ramo de Injeção de Alumínio sob pressão",
+          "supports": "Founder and owner, General Management, current role at exact company"
+        }
+      ],
+      "confidence": 0.92,
+      "review_required": true
+    },
+    {
+      "full_name": "Walker Baptista da Conceição",
+      "current_title": "Gerente Industrial",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [
+        {
+          "value": "https://linkedin.com/in/walker-baptista-da-concei%C3%A7%C3%A3o-6951a165",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/walker-baptista-da-concei%C3%A7%C3%A3o-6951a165"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/walker-baptista-da-concei%C3%A7%C3%A3o-6951a165",
+          "quote": "Gerente industrial - Indústria Metalúrgica Stay Ltda (Current) Feb 2026 - Present, Department: Operations",
+          "supports": "Current industrial manager, Operations department at exact company"
+        }
+      ],
+      "confidence": 0.88,
+      "review_required": true
+    },
+    {
+      "full_name": "Pedro Milton",
+      "current_title": "Gerente de Produção",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [
+        {
+          "value": "https://linkedin.com/in/pedro-milton-3550407a",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/pedro-milton-3550407a"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/pedro-milton-3550407a",
+          "quote": "Gerente de produção na Indústria Metalúrgica Stay Ltda (Current) Sep 2010 - Present, Department: Operations",
+          "supports": "Current production manager at exact company, 15+ years tenure"
+        }
+      ],
+      "confidence": 0.88,
+      "review_required": true
+    },
+    {
+      "full_name": "Marcio Gregorio",
+      "current_title": "Coordenador de Produção",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 60,
+      "linkedin": [
+        {
+          "value": "https://linkedin.com/in/marcio-greg%C3%B3rio-865ab2122",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/marcio-greg%C3%B3rio-865ab2122"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/marcio-greg%C3%B3rio-865ab2122",
+          "quote": "Coordenador de produção - Industria Metalúrgica Stay Ltda Jan 2013 - Jun 2025; also listed current Gerente de produção Feb 2025 - Present",
+          "supports": "Production coordinator and manager at exact company with Six Sigma expertise, ISO 9001, lean manufacturing"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "comercial@coexbrasil.com.br",
+      "status": "observed",
+      "source_url": "https://coexbrasil.com.br/parceiros/stay-fundicao/",
+      "company_public": true
+    },
+    {
+      "channel": "whatsapp",
+      "value": "+5511944551273",
+      "status": "verified",
+      "source_url": "https://coexbrasil.com.br/parceiros/stay-fundicao/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+5511944551273",
+      "status": "valid_format",
+      "source_url": "https://coexbrasil.com.br/parceiros/stay-fundicao/",
+      "whatsapp_status": "verified",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+551120849494",
+      "status": "valid_format",
+      "source_url": "http://www.fundstay.com.br",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 34,
+    "search_engine_warnings": 1,
+    "urls_crawled": 14,
+    "crawl_failures": 1,
+    "contact_signals": 21,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 4,
+    "contact_evidence_pages": 3,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 4,
+    "contactable_items": 7,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

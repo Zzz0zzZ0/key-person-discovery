@@ -1,0 +1,102 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/en-US/Default.aspx                                                    | ✓ | ⏱: 3.85s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/en-US/Default.aspx                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/en-US/Default.aspx                                                    | ✓ | ⏱: 5.88s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn                                                                       | ✓ | ⏱: 4.41s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn                                                                       | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.thepmiennam.com.vn                                                                       | ✓ | ⏱: 6.43s 
+[FETCH]... ↓ https://thepmiennam.com.vn/tin-tuc/tin-cong-ty/le-ngoc-rin-lao-dong-sinh-ra-sang-tao                 | ✓ | ⏱: 4.69s 
+[SCRAPE].. ◆ https://thepmiennam.com.vn/tin-tuc/tin-cong-ty/le-ngoc-rin-lao-dong-sinh-ra-sang-tao                 | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://thepmiennam.com.vn/tin-tuc/tin-cong-ty/le-ngoc-rin-lao-dong-sinh-ra-sang-tao                 | ✓ | ⏱: 6.74s 
+[FETCH]... ↓ https://baodauthau.vn/cong-ty-tnhh-mot-thanh-vien-thep-mien-nam-vnsteel-thong-bao-post158898.html    | ✓ | ⏱: 9.75s 
+[SCRAPE].. ◆ https://baodauthau.vn/cong-ty-tnhh-mot-thanh-vien-thep-mien-nam-vnsteel-thong-bao-post158898.html    | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://baodauthau.vn/cong-ty-tnhh-mot-thanh-vien-thep-mien-nam-vnsteel-thong-bao-post158898.html    | ✓ | ⏱: 11.73s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/en-US/general-introduction                                            | ✓ | ⏱: 7.21s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/en-US/general-introduction                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/en-US/general-introduction                                            | ✓ | ⏱: 9.23s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/thep-mien-nam--cong-bo-ban-lanh-daoo-moi--tri-an-lanh-dao-tien-nhiem  | ✓ | ⏱: 2.12s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/thep-mien-nam--cong-bo-ban-lanh-daoo-moi--tri-an-lanh-dao-tien-nhiem  | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/thep-mien-nam--cong-bo-ban-lanh-daoo-moi--tri-an-lanh-dao-tien-nhiem  | ✓ | ⏱: 4.17s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/en-US/internal                                                        | ✓ | ⏱: 7.05s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/en-US/internal                                                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/en-US/internal                                                        | ✓ | ⏱: 9.07s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/en-US/contact-us                                                      | ✓ | ⏱: 8.36s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/en-US/contact-us                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/en-US/contact-us                                                      | ✓ | ⏱: 10.38s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/tin-tuc/tin-cong-...hieu-quoc-gia-dong-hanh-phat-trien-cung-dat-nuoc  | ✓ | ⏱: 1.62s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/tin-tuc/tin-cong-...hieu-quoc-gia-dong-hanh-phat-trien-cung-dat-nuoc  | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/tin-tuc/tin-cong-...hieu-quoc-gia-dong-hanh-phat-trien-cung-dat-nuoc  | ✓ | ⏱: 3.67s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/tin-tuc/tin-cong-ty/sscv-tham-du-hoi-nghi-60-nam-nganh-duc--luyen-kim | ✓ | ⏱: 1.79s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/tin-tuc/tin-cong-ty/sscv-tham-du-hoi-nghi-60-nam-nganh-duc--luyen-kim | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/tin-tuc/tin-cong-ty/sscv-tham-du-hoi-nghi-60-nam-nganh-duc--luyen-kim | ✓ | ⏱: 3.83s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/tin-tuc/tin-cong-...i-mo-duong--ket-noi-gia-tri-dinh-huong-tuong-lai  | ✓ | ⏱: 2.33s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/tin-tuc/tin-cong-...i-mo-duong--ket-noi-gia-tri-dinh-huong-tuong-lai  | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/tin-tuc/tin-cong-...i-mo-duong--ket-noi-gia-tri-dinh-huong-tuong-lai  | ✓ | ⏱: 4.38s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/tin-tuc/tin-cong-...hinh-thuc-tro-lai-thi-truong-nha-trang-khanh-hoa  | ✓ | ⏱: 4.48s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/tin-tuc/tin-cong-...hinh-thuc-tro-lai-thi-truong-nha-trang-khanh-hoa  | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/tin-tuc/tin-cong-...hinh-thuc-tro-lai-thi-truong-nha-trang-khanh-hoa  | ✓ | ⏱: 6.53s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/tin-tuc/tin-tuc-n...-ky-luc-co-phieu-nganh-thep--nuoc-len-thuyen-len  | ✓ | ⏱: 2.01s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/tin-tuc/tin-tuc-n...-ky-luc-co-phieu-nganh-thep--nuoc-len-thuyen-len  | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/tin-tuc/tin-tuc-n...-ky-luc-co-phieu-nganh-thep--nuoc-len-thuyen-len  | ✓ | ⏱: 4.06s 
+[FETCH]... ↓ https://www.vnsteel.vn/don-vi-thanh-vien/cong-ty-tnhh-mtv-thep-mien-nam-vnsteel-5203.html            | ✓ | ⏱: 12.20s 
+[SCRAPE].. ◆ https://www.vnsteel.vn/don-vi-thanh-vien/cong-ty-tnhh-mtv-thep-mien-nam-vnsteel-5203.html            | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.vnsteel.vn/don-vi-thanh-vien/cong-ty-tnhh-mtv-thep-mien-nam-vnsteel-5203.html            | ✓ | ⏱: 14.23s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1-3-3.jpg                                        | ✓ | ⏱: 1.70s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1-3-3.jpg                                        | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.thepmiennam...tes/1/News/17/1-3-3.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (465 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1-3-3.jpg                                        | ✗ | ⏱: 3.71s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1-1-1.jpg                                        | ✓ | ⏱: 2.03s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1-1-1.jpg                                        | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.thepmiennam...tes/1/News/17/1-1-1.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (465 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1-1-1.jpg                                        | ✗ | ⏱: 4.04s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1-2-2.jpg                                        | ✓ | ⏱: 2.12s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1-2-2.jpg                                        | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.thepmiennam...tes/1/News/17/1-2-2.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (465 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1-2-2.jpg                                        | ✗ | ⏱: 4.13s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1-4-4.jpg                                        | ✓ | ⏱: 2.13s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1-4-4.jpg                                        | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.thepmiennam...tes/1/News/17/1-4-4.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (465 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1-4-4.jpg                                        | ✗ | ⏱: 4.13s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1.jpg                                            | ✓ | ⏱: 0.62s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1.jpg                                            | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.thepmiennam...a/Sites/1/News/17/1.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (457 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1.jpg                                            | ✗ | ⏱: 2.63s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/Data/Sites/1/News/17/699.415.png                                      | ✓ | ⏱: 0.83s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/Data/Sites/1/News/17/699.415.png                                      | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.thepmiennam...s/1/News/17/699.415.png  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (469 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.thepmiennam.com.vn/Data/Sites/1/News/17/699.415.png                                      | ✗ | ⏱: 2.84s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1gian-can-\(8\                                   | ✓ | ⏱: 1.64s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1gian-can-\(8\                                   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/Data/Sites/1/News/17/1gian-can-\(8\                                   | ✓ | ⏱: 3.66s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/en-US/contact-us/sign-up-for                                          | ✓ | ⏱: 2.42s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/en-US/contact-us/sign-up-for                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/en-US/contact-us/sign-up-for                                          | ✓ | ⏱: 4.44s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/en-US/internal/text-management-software                               | ✓ | ⏱: 1.01s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/en-US/internal/text-management-software                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/en-US/internal/text-management-software                               | ✓ | ⏱: 3.03s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/en-US/introduction/certification-of-quality-management-system         | ✓ | ⏱: 1.45s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/en-US/introduction/certification-of-quality-management-system         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/en-US/introduction/certification-of-quality-management-system         | ✓ | ⏱: 3.48s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/en-US/introduction/company-introductions-pictures-video               | ✓ | ⏱: 1.10s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/en-US/introduction/company-introductions-pictures-video               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/en-US/introduction/company-introductions-pictures-video               | ✓ | ⏱: 3.12s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/en-US/news                                                            | ✓ | ⏱: 1.83s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/en-US/news                                                            | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/en-US/news                                                            | ✓ | ⏱: 3.87s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/en-US/news/company-news                                               | ✓ | ⏱: 3.06s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/en-US/news/company-news                                               | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/en-US/news/company-news                                               | ✓ | ⏱: 5.11s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/en-US/news/picture-and-video                                          | ✓ | ⏱: 2.26s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/en-US/news/picture-and-video                                          | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/en-US/news/picture-and-video                                          | ✓ | ⏱: 4.30s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/en-US/news/recruitment                                                | ✓ | ⏱: 4.87s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/en-US/news/recruitment                                                | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/en-US/news/recruitment                                                | ✓ | ⏱: 6.92s 
+[FETCH]... ↓ https://www.thepmiennam.com.vn/en-US/news/steel-industry-news                                        | ✓ | ⏱: 5.04s 
+[SCRAPE].. ◆ https://www.thepmiennam.com.vn/en-US/news/steel-industry-news                                        | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.thepmiennam.com.vn/en-US/news/steel-industry-news                                        | ✓ | ⏱: 7.09s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/c-ng-ty-tnhh-m-t-th-nh-vi-n-th-p-mi-n-nam-vnsteel-8a67deeca2de.json

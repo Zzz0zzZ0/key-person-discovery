@@ -1,0 +1,50 @@
+[
+  {
+    "channel": "email",
+    "value": "info@altmann-casting.ch",
+    "status": "observed",
+    "source_url": "https://www.altmann-casting.ch/impressum",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+41323313355",
+    "status": "valid_format",
+    "source_url": "https://www.altmann-casting.ch/impressum",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@altmann-casting.ch",
+    "status": "observed",
+    "source_url": "https://www.altmann-casting.ch/kontakt",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+41323313355",
+    "status": "valid_format",
+    "source_url": "https://www.altmann-casting.ch/kontakt",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@altmann-casting.ch",
+    "status": "observed",
+    "source_url": "https://www.altmann-casting.ch",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+41323313355",
+    "status": "valid_format",
+    "source_url": "https://www.altmann-casting.ch",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

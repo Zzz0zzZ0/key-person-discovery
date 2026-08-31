@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.keramischekerne.de/download/download/pdf/flyer-SCHWARZ-Praezisionskeramik-de.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.keramischekerne.de/download/download/pdf/TUEV_ISO_9001_de.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  }
+]

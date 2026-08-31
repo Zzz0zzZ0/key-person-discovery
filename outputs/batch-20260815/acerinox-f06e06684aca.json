@@ -1,0 +1,118 @@
+{
+  "company_name": "ACERINOX",
+  "candidates": [
+    {
+      "full_name": "Antonio De la Rosa Rodríguez",
+      "current_title": "Gestor de compras / Purchasing Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [
+        {
+          "value": "https://linkedin.com/in/antonio-de-la-rosa-rodr%C3%ADguez-936996272",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/antonio-de-la-rosa-rodr%C3%ADguez-936996272"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://linkedin.com/in/antonio-de-la-rosa-rodr%C3%ADguez-936996272",
+          "quote": "Gestor de compras (Current) Jul 2015 - Present (11 years and 1 month) in Los Barrios, Andalucía, España. Department: Sales • Level: Manager",
+          "supports": "Current purchasing manager role at ACERINOX,S.A."
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    },
+    {
+      "full_name": "Saeid Kamalpour",
+      "current_title": "Innovation-Technical Engineer",
+      "company_match": "probable",
+      "influence_type": "technical_influencer",
+      "influence_score": 55,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/saeidkamalpour",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/saeidkamalpour"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/saeidkamalpour",
+          "quote": "Innovation-Technical Engineer- General Technical. North American Stainless, Acerinox Group. May 2022 - Present 4 years 3 months. United States",
+          "supports": "Current technical role at North American Stainless, part of the Acerinox Group. NAS is a subsidiary; company_match is probable rather than verified."
+        }
+      ],
+      "confidence": 0.55,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "web.soportetecnico@acerinox.com",
+      "status": "probable",
+      "source_url": "https://www.acerinox.com/en/contacto",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "accionistas@acerinox.com",
+      "status": "probable",
+      "source_url": "https://www.acerinox.com/en/accionistas-e-inversores/kit-del-inversor/atencion-al-accionista/index.html",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+34913985264",
+      "status": "valid_format",
+      "source_url": "https://www.acerinox.com/en/accionistas-e-inversores/kit-del-inversor/atencion-al-accionista/index.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "probable",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 30,
+    "search_engine_warnings": 2,
+    "urls_crawled": 18,
+    "crawl_failures": 1,
+    "contact_signals": 7,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 5,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 3,
+    "pdf_pages_extracted": 94,
+    "pdf_failures": 0,
+    "search_evidence_pages": 2,
+    "contact_evidence_pages": 3,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 4,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 1,
+    "contactable_items": 5,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

@@ -1,0 +1,18 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://koreamaterial.co.kr                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://koreamaterial.co.kr                                                                          | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://matchory.com/supplier/korea-material                                                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://matchory.com/supplier/korea-material                                                         | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://panjiva.com/Korea-Material-Co-Ltd/42216593                                                   | ✓ | ⏱: 3.65s 
+[SCRAPE].. ◆ https://panjiva.com/Korea-Material-Co-Ltd/42216593                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://panjiva.com/Korea-Material-Co-Ltd/42216593                                                   | ✓ | ⏱: 3.67s 
+[FETCH]... ↓ https://kor.soopage.com/company/KOREA-MATERIAL-SCIENTIFIC-CO-LTD_7Ul.html                            | ✓ | ⏱: 2.22s 
+[SCRAPE].. ◆ https://kor.soopage.com/company/KOREA-MATERIAL-SCIENTIFIC-CO-LTD_7Ul.html                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://kor.soopage.com/company/KOREA-MATERIAL-SCIENTIFIC-CO-LTD_7Ul.html                            | ✓ | ⏱: 3.93s 
+[FETCH]... ↓ https://es.importgenius.com/suppliers/korea-material-co-ltd-48-hanjeo                                | ✓ | ⏱: 3.79s 
+[SCRAPE].. ◆ https://es.importgenius.com/suppliers/korea-material-co-ltd-48-hanjeo                                | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://es.importgenius.com/suppliers/korea-material-co-ltd-48-hanjeo                                | ✓ | ⏱: 5.81s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/korea-material-co-ltd-becf893fd747.json

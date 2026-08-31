@@ -1,0 +1,65 @@
+{
+  "name": "J.D. Brackelsberg GmbH",
+  "website": "https://brackelsberg.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "1f42cd77-32b8-424b-8706-1f8260498a4e",
+  "crm_linkedin_url": null,
+  "crm_country": null,
+  "crm_updated_at": "2026-08-19T07:29:11.334076+00:00",
+  "crm_contact_count": 3,
+  "crm_contacts": [
+    {
+      "name": "Contact",
+      "email": "info@brackelsberg.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Contact",
+      "email": null,
+      "additional_emails": null,
+      "phone": "233398840",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": "Contact",
+      "email": null,
+      "additional_emails": null,
+      "phone": "2333988430",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 4,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-24T03:36:26.270272+00:00",
+  "source": "twenty_postgresql_read_only"
+}

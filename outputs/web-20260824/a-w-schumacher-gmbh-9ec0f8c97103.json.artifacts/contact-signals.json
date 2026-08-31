@@ -1,0 +1,119 @@
+[
+  {
+    "channel": "email",
+    "value": "info@aw-schumacher.de",
+    "status": "observed",
+    "source_url": "https://www.aw-schumacher.de/en/imprint/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49233398920",
+    "status": "valid_format",
+    "source_url": "https://www.aw-schumacher.de/en/imprint/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@aw-schumacher.de",
+    "status": "observed",
+    "source_url": "https://www.aw-schumacher.de/en/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49233398920",
+    "status": "valid_format",
+    "source_url": "https://www.aw-schumacher.de/en/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@aw-schumacher.de",
+    "status": "observed",
+    "source_url": "https://www.aw-schumacher.de/en/about-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49233398920",
+    "status": "valid_format",
+    "source_url": "https://www.aw-schumacher.de/en/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@aw-schumacher.de",
+    "status": "observed",
+    "source_url": "https://www.aw-schumacher.de",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49233398920",
+    "status": "valid_format",
+    "source_url": "https://www.aw-schumacher.de",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@aw-schumacher.de",
+    "status": "observed",
+    "source_url": "https://www.aw-schumacher.de/profil/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "schumacher@aw-schumacher.de",
+    "status": "observed",
+    "source_url": "https://www.aw-schumacher.de/profil/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "beckbauer@aw-schumacher.de",
+    "status": "observed",
+    "source_url": "https://www.aw-schumacher.de/profil/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "c.beckbauer@aw-schumacher.de",
+    "status": "observed",
+    "source_url": "https://www.aw-schumacher.de/profil/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49233398920",
+    "status": "valid_format",
+    "source_url": "https://www.aw-schumacher.de/profil/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@aw-schumacher.de",
+    "status": "observed",
+    "source_url": "https://www.aw-schumacher.de/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49233398920",
+    "status": "valid_format",
+    "source_url": "https://www.aw-schumacher.de/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

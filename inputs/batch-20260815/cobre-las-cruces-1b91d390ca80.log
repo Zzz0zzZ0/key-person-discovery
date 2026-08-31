@@ -1,0 +1,89 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rocketreach.co/cobre-las-cruces-first-quantum-minerals-email-format_b5eef39af42e776d         | ✓ | ⏱: 1.33s 
+[SCRAPE].. ◆ https://rocketreach.co/cobre-las-cruces-first-quantum-minerals-email-format_b5eef39af42e776d         | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...format_b5eef39af42e776d  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/cobre-las-cruces-first-quantum-minerals-email-format_b5eef39af42e776d         | ✗ | ⏱: 1.34s 
+[FETCH]... ↓ https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format                          | ✓ | ⏱: 1.97s 
+[SCRAPE].. ◆ https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://leadiq.com/c/cobre-las-cruces/5a1d91b4540000530076c574/email-format                          | ✓ | ⏱: 1.99s 
+[FETCH]... ↓ https://theorg.com/org/cobre-las-cruces-s-a/offices/hq                                               | ✓ | ⏱: 2.11s 
+[SCRAPE].. ◆ https://theorg.com/org/cobre-las-cruces-s-a/offices/hq                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://theorg.com/org/cobre-las-cruces-s-a/offices/hq                                               | ✓ | ⏱: 2.13s 
+[FETCH]... ↓ https://contactout.com/company/cobre-las-cruces-first-quantum-minerals-email-format-3733             | ✓ | ⏱: 1.11s 
+[SCRAPE].. ◆ https://contactout.com/company/cobre-las-cruces-first-quantum-minerals-email-format-3733             | ✓ | ⏱: 0.00s 
+[ERROR]... × https://contactout.com/...erals-email-format-3733  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://contactout.com/company/cobre-las-cruces-first-quantum-minerals-email-format-3733             | ✗ | ⏱: 2.15s 
+[FETCH]... ↓ https://www.astramining.eu/associates.php?lang=EN                                                    | ✓ | ⏱: 2.30s 
+[SCRAPE].. ◆ https://www.astramining.eu/associates.php?lang=EN                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.astramining.eu/associates.php?lang=EN                                                    | ✓ | ⏱: 4.09s 
+[FETCH]... ↓ https://www.astramining.eu/case-study.php?id=35                                                      | ✓ | ⏱: 2.45s 
+[SCRAPE].. ◆ https://www.astramining.eu/case-study.php?id=35                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.astramining.eu/case-study.php?id=35                                                      | ✓ | ⏱: 3.90s 
+[FETCH]... ↓ https://www.astramining.eu/see-associate.php?id_associate=2&lang=EN                                  | ✓ | ⏱: 2.29s 
+[SCRAPE].. ◆ https://www.astramining.eu/see-associate.php?id_associate=2&lang=EN                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.astramining.eu/see-associate.php?id_associate=2&lang=EN                                  | ✓ | ⏱: 3.94s 
+[FETCH]... ↓ https://www.astramining.eu/see-mine.php?id_mina=15&lang=EN                                           | ✓ | ⏱: 2.22s 
+[SCRAPE].. ◆ https://www.astramining.eu/see-mine.php?id_mina=15&lang=EN                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.astramining.eu/see-mine.php?id_mina=15&lang=EN                                           | ✓ | ⏱: 4.21s 
+[FETCH]... ↓ https://www.astramining.eu/see-mine.php?id_mina=31&lang=EN                                           | ✓ | ⏱: 1.32s 
+[SCRAPE].. ◆ https://www.astramining.eu/see-mine.php?id_mina=31&lang=EN                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.astramining.eu/see-mine.php?id_mina=31&lang=EN                                           | ✓ | ⏱: 1.33s 
+[FETCH]... ↓ https://www.astramining.eu/see-mine.php?id_mina=52&lang=EN                                           | ✓ | ⏱: 1.30s 
+[SCRAPE].. ◆ https://www.astramining.eu/see-mine.php?id_mina=52&lang=EN                                           | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.astramining....php?id_mina=52&lang=EN  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.astramining.eu/see-mine.php?id_mina=52&lang=EN                                           | ✗ | ⏱: 1.30s 
+[FETCH]... ↓ https://www.astramining.eu/see-mine.php?lang=EN&id_mina=35                                           | ✓ | ⏱: 0.84s 
+[SCRAPE].. ◆ https://www.astramining.eu/see-mine.php?lang=EN&id_mina=35                                           | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.astramining....php?lang=EN&id_mina=35  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.astramining.eu/see-mine.php?lang=EN&id_mina=35                                           | ✗ | ⏱: 0.84s 
+[FETCH]... ↓ https://www.astramining.eu/see-mine.php?id_mina=60&lang=EN                                           | ✓ | ⏱: 1.43s 
+[SCRAPE].. ◆ https://www.astramining.eu/see-mine.php?id_mina=60&lang=EN                                           | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.astramining....php?id_mina=60&lang=EN  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.astramining.eu/see-mine.php?id_mina=60&lang=EN                                           | ✗ | ⏱: 1.44s 
+[FETCH]... ↓ https://www.astramining.eu/see-mine_es.php?lang=ES&id_mina=202                                       | ✓ | ⏱: 0.87s 
+[SCRAPE].. ◆ https://www.astramining.eu/see-mine_es.php?lang=ES&id_mina=202                                       | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.astramining...php?lang=ES&id_mina=202  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.astramining.eu/see-mine_es.php?lang=ES&id_mina=202                                       | ✗ | ⏱: 0.88s 
+[FETCH]... ↓ https://www.astramining.eu/see-partner.php?id_partner=1                                              | ✓ | ⏱: 0.80s 
+[SCRAPE].. ◆ https://www.astramining.eu/see-partner.php?id_partner=1                                              | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.astramining...artner.php?id_partner=1  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.astramining.eu/see-partner.php?id_partner=1                                              | ✗ | ⏱: 0.81s 
+[FETCH]... ↓ https://www.astramining.eu/see-partner_pl.php?id_partner=12&lang=PL                                  | ✓ | ⏱: 0.77s 
+[SCRAPE].. ◆ https://www.astramining.eu/see-partner_pl.php?id_partner=12&lang=PL                                  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.astramining...p?id_partner=12&lang=PL  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.astramining.eu/see-partner_pl.php?id_partner=12&lang=PL                                  | ✗ | ⏱: 0.77s 
+[FETCH]... ↓ https://www.astramining.eu/see-partner.php?id_partner=2                                              | ✓ | ⏱: 1.05s 
+[SCRAPE].. ◆ https://www.astramining.eu/see-partner.php?id_partner=2                                              | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.astramining...artner.php?id_partner=2  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.astramining.eu/see-partner.php?id_partner=2                                              | ✗ | ⏱: 1.05s 
+[FETCH]... ↓ https://www.dnb.com/business-directory/company-p..._cruces_sa.1bc6b29758922bc1530221af60923e98.html  | ✓ | ⏱: 2.49s 
+[SCRAPE].. ◆ https://www.dnb.com/business-directory/company-p..._cruces_sa.1bc6b29758922bc1530221af60923e98.html  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.dnb.com/business-directory/company-p..._cruces_sa.1bc6b29758922bc1530221af60923e98.html  | ✓ | ⏱: 2.51s 
+[FETCH]... ↓ https://www.first-quantum.com/news/first-quantum-minerals-announces-sale-of-cobre-las-cruces/        | ✓ | ⏱: 3.26s 
+[SCRAPE].. ◆ https://www.first-quantum.com/news/first-quantum-minerals-announces-sale-of-cobre-las-cruces/        | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.first-quantum.com/news/first-quantum-minerals-announces-sale-of-cobre-las-cruces/        | ✓ | ⏱: 5.29s 
+[FETCH]... ↓ https://www.first-quantum.com/operations/cobre-las-cruces/                                           | ✓ | ⏱: 2.92s 
+[SCRAPE].. ◆ https://www.first-quantum.com/operations/cobre-las-cruces/                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.first-quantum.com/operations/cobre-las-cruces/                                           | ✓ | ⏱: 4.94s 
+[FETCH]... ↓ https://www.legal500.com/gc-powerlist/iberia-teams-2017/cobre-las-cruces/                            | ✓ | ⏱: 4.24s 
+[SCRAPE].. ◆ https://www.legal500.com/gc-powerlist/iberia-teams-2017/cobre-las-cruces/                            | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.legal500.com/gc-powerlist/iberia-teams-2017/cobre-las-cruces/                            | ✓ | ⏱: 5.28s 
+[FETCH]... ↓ https://www.einforma.com/informacion-empresa/cobre-cruces                                            | ✓ | ⏱: 7.77s 
+[SCRAPE].. ◆ https://www.einforma.com/informacion-empresa/cobre-cruces                                            | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.einforma.com/informacion-empresa/cobre-cruces                                            | ✓ | ⏱: 8.41s 
+[FETCH]... ↓ https://www.salezshark.com/company/cobre-las-cruces-first-quantum-minerals                           | ✓ | ⏱: 2.92s 
+[SCRAPE].. ◆ https://www.salezshark.com/company/cobre-las-cruces-first-quantum-minerals                           | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.salezshark....-first-quantum-minerals  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements, script_heavy_shell (47151 bytes, 3 chars 
+visible) 
+[COMPLETE] ● https://www.salezshark.com/company/cobre-las-cruces-first-quantum-minerals                           | ✗ | ⏱: 2.92s 
+[FETCH]... ↓ https://www.northdata.com/Cobre Las Cruces SA, Gerena/NIF A28814135                                  | ✓ | ⏱: 3.49s 
+[SCRAPE].. ◆ https://www.northdata.com/Cobre Las Cruces SA, Gerena/NIF A28814135                                  | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.northdata.com/Cobre Las Cruces SA, Gerena/NIF A28814135                                  | ✓ | ⏱: 3.54s 
+[FETCH]... ↓ https://www.zoominfo.com/pic/cobre-las-cruces-sa/8667914                                             | ✓ | ⏱: 0.94s 
+[SCRAPE].. ◆ https://www.zoominfo.com/pic/cobre-las-cruces-sa/8667914                                             | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...e-las-cruces-sa/8667914  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/pic/cobre-las-cruces-sa/8667914                                             | ✗ | ⏱: 1.75s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/cobre-las-cruces-1b91d390ca80.json

@@ -1,0 +1,231 @@
+{
+  "company_name": "ECOACERO (Grupo Estrella)",
+  "candidates": [
+    {
+      "full_name": "Pedro Estrella",
+      "current_title": "CEO / Director, Ecoacero",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://rdteve.com/nacionales/economia-nacionales/inauguracion-ecoacero-san-pedro-de-macoris/",
+          "quote": "Pedro Estrella Tavares, CEO de EcoAcero, explicó que las instalaciones están equipadas con tecnología de última generación",
+          "supports": "CEO of Ecoacero, confirmed at inauguration May 2026"
+        },
+        {
+          "source_url": "https://www.recyclingtoday.com/news/ecoacero-estrella-steel-rebar-mill-dominican-republic-sms-recycling/",
+          "quote": "Left to right: Pedro Estrella of Ecoacero; Giuseppi Manascalco of Grupo Estrella; Filippo Verlezza of SMS Group; and Nicola Redolfi of SMS Group",
+          "supports": "Pedro Estrella identified as Ecoacero director in equipment contract photo"
+        },
+        {
+          "source_url": "https://www.wire-tradefair.com/en/Media_News/News/Archive_Industry-News/Ecoacero_strengthens_its_position_in_Central_America_SMS_group_builds_rebar_mill",
+          "quote": "from left: Pedro Estrella, Director of Ecoacero",
+          "supports": "Director of Ecoacero confirmed in SMS Group press photo"
+        }
+      ],
+      "confidence": 0.88,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "ecoaceroslf@gmail.com",
+      "status": "observed",
+      "source_url": "https://ecoacero.wixsite.com/ecoacero/sobre-nosotros",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@ecoacero.com",
+      "status": "observed",
+      "source_url": "https://ecoacero.wixsite.com/ecoacero/sobre-nosotros",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+34822040656",
+      "status": "valid_format",
+      "source_url": "https://ecoacero.wixsite.com/ecoacero/sobre-nosotros",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+34620444100",
+      "status": "valid_format",
+      "source_url": "https://ecoacero.wixsite.com/ecoacero/sobre-nosotros",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "comunicaciones@estrella.com.do",
+      "status": "observed",
+      "source_url": "https://estrella.com.do/empresas/ecoacero/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+49211456001",
+      "status": "valid_format",
+      "source_url": "https://www.wire-tradefair.com/en/Media_News/News/Archive_Industry-News/Ecoacero_strengthens_its_position_in_Central_America_SMS_group_builds_rebar_mill",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Manuel Estrella",
+      "current_title": "Presidente del Consejo de Administración, Grupo Estrella",
+      "company_match": "uncertain",
+      "influence_type": "decision_maker",
+      "influence_score": 85,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://rdteve.com/nacionales/economia-nacionales/inauguracion-ecoacero-san-pedro-de-macoris/",
+          "quote": "el ingeniero Manuel Estrella, presidente del consejo de administración del grupo, destacó que el país atraviesa uno de sus mejores momentos económicos",
+          "supports": "President of board of Grupo Estrella at Ecoacero inauguration; Ecoacero is a Grupo Estrella company"
+        }
+      ],
+      "confidence": 0.55,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Mariadenisia Hurtado",
+      "current_title": "Asesora Comercial (Santo Domingo-Zona Sur y Este)",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 40,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+18097965412",
+          "status": "valid_format",
+          "whatsapp_status": "verified",
+          "source_url": "https://aceroestrella.com.do"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://aceroestrella.com.do",
+          "quote": "Mariadenisia Hurtado Asesora Comercial Santo Domingo-Zona Sur y Este",
+          "supports": "Named commercial advisor listed on Acero Estrella website with direct WhatsApp contact"
+        }
+      ],
+      "confidence": 0.65,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Jarlin Rosa",
+      "current_title": "Asesor Comercial (Zona Norte)",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 40,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+18097961326",
+          "status": "valid_format",
+          "whatsapp_status": "verified",
+          "source_url": "https://aceroestrella.com.do"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://aceroestrella.com.do",
+          "quote": "Jarlin Rosa Asesora Comercial Zona Norte",
+          "supports": "Named commercial advisor listed on Acero Estrella website with direct WhatsApp contact"
+        }
+      ],
+      "confidence": 0.65,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "validation_rejections": [
+    {
+      "full_name": "Manuel Estrella",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Mariadenisia Hurtado",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Jarlin Rosa",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 42,
+    "search_engine_warnings": 4,
+    "urls_crawled": 11,
+    "crawl_failures": 2,
+    "contact_signals": 11,
+    "official_urls_discovered": 1,
+    "crm_website": "https://aceroestrella.com.do",
+    "official_website": "https://aceroestrella.com.do",
+    "website_recovered": false,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 3,
+    "unverified_candidates": 3,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 6,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "company_name": "REFKO Feuerfest GmbH",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+4923262075",
+      "status": "valid_format",
+      "source_url": "https://malaysia.ahk.de/en/members/members-directory/refko-feuerfest-gmbh",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "hoenl@refko.de",
+      "status": "observed",
+      "source_url": "https://www.refractories-worldforum.com/directory-supplier/listing/refko-feuerfest-gmbh/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@goeller-verlag.de",
+      "status": "observed",
+      "source_url": "https://www.refractories-worldforum.com/directory-supplier/listing/refko-feuerfest-gmbh/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+4926231738",
+      "status": "valid_format",
+      "source_url": "https://www.refractories-worldforum.com/directory-supplier/listing/refko-feuerfest-gmbh/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+497221502200",
+      "status": "valid_format",
+      "source_url": "https://www.refractories-worldforum.com/directory-supplier/listing/refko-feuerfest-gmbh/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "validation_rejections": [
+    {
+      "full_name": "Herbert Hoenl",
+      "reasons": [
+        "evidence URL was not fetched"
+      ]
+    },
+    {
+      "full_name": "Florian Laux",
+      "reasons": [
+        "evidence URL was not fetched"
+      ]
+    }
+  ],
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 2,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 6,
+    "anysearch_queries": 3,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 29,
+    "search_engine_warnings": 7,
+    "urls_crawled": 16,
+    "crawl_failures": 1,
+    "contact_signals": 13,
+    "official_urls_discovered": 3,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 2,
+    "crm_contact_count": 10,
+    "crm_duplicates_removed": 2,
+    "target_contactable_items": 1,
+    "contactable_items": 5,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

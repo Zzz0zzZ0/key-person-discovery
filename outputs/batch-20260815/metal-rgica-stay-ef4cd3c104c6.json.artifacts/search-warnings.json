@@ -1,0 +1,8 @@
+[
+  {
+    "query": "http://www.fundstay.com.br",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "http://www.fundstay.com.br/sitemap.xml: HTTP Error 403: Forbidden"
+  }
+]

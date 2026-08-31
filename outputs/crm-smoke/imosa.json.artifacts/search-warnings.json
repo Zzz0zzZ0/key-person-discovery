@@ -1,0 +1,62 @@
+[
+  {
+    "query": "\"Industrias Mineiras do Mondego S.A. (IMOSA®)\" (procurement OR purchasing OR sourcing OR buyer)",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Industrias Mineiras do Mondego S.A. (IMOSA®)\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Industrias Mineiras do Mondego S.A. (IMOSA®)\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:linkedin.com/in \"Industrias Mineiras do Mondego S.A. (IMOSA®)\"",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:linkedin.com/in \"Industrias Mineiras do Mondego S.A. (IMOSA®)\"",
+    "engine": "google cse",
+    "reason": "too many requests"
+  },
+  {
+    "query": "site:linkedin.com/in \"Industrias Mineiras do Mondego S.A. (IMOSA®)\"",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Industrias Mineiras do Mondego S.A. (IMOSA®)\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Industrias Mineiras do Mondego S.A. (IMOSA®)\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:imosa.pt (team OR management OR contact)",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:imosa.pt (team OR management OR contact)",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:imosa.pt filetype:pdf",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:imosa.pt filetype:pdf",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  }
+]

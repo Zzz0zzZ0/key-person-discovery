@@ -1,0 +1,125 @@
+{
+  "company_name": "A. W. Schumacher GmbH",
+  "candidates": [
+    {
+      "full_name": "Anna Luisa Schumacher",
+      "current_title": "Managing Director / Geschäftsleitung",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "schumacher@aw-schumacher.de",
+          "status": "observed",
+          "source_url": "https://www.aw-schumacher.de/profil/"
+        }
+      ],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.aw-schumacher.de/en/imprint/",
+          "quote": "Represented by the Managing Directors Anna Luisa Schumacher & Constantin Beckbauer",
+          "supports": "Managing Director named on official imprint"
+        },
+        {
+          "source_url": "https://www.aw-schumacher.de/profil/",
+          "quote": "Geschäftsleitung: Anna Luisa Schumacher / schumacher@aw-schumacher.de",
+          "supports": "Listed as executive leadership with direct email"
+        },
+        {
+          "source_url": "https://www.aw-schumacher.de/en/about-us/",
+          "quote": "Anna Luisa Schumacher (who has worked for the company since 2009) and Constantin Beckbauer (since 2013) are the family’s fifth generation in the company",
+          "supports": "Fifth-generation family managing director since 2009"
+        }
+      ],
+      "confidence": 0.92,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info@aw-schumacher.de",
+      "status": "observed",
+      "source_url": "https://www.aw-schumacher.de/en/imprint/",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+49233398920",
+      "status": "valid_format",
+      "source_url": "https://www.aw-schumacher.de/en/imprint/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Constantin Beckbauer",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "candidate",
+      "full_name": "Bettina Beckbauer",
+      "matched_by": [
+        "email",
+        "name"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 2,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 7,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 31,
+    "search_engine_warnings": 4,
+    "urls_crawled": 8,
+    "crawl_failures": 1,
+    "contact_signals": 15,
+    "official_urls_discovered": 1,
+    "crm_website": "https://aw-schumacher.de",
+    "official_website": "https://www.aw-schumacher.de",
+    "website_recovered": true,
+    "pdf_documents_discovered": 3,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 6,
+    "pdf_failures": 1,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 4,
+    "crm_duplicates_removed": 2,
+    "target_contactable_items": 1,
+    "contactable_items": 3,
+    "target_contact_methods": 1,
+    "contact_methods": 3,
+    "contact_target_met": true,
+    "broad_discovery": false,
+    "topeasy_import": {},
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

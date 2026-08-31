@@ -1,0 +1,50 @@
+[
+  {
+    "channel": "email",
+    "value": "hamag@hamag.de",
+    "status": "observed",
+    "source_url": "https://www.hamag.de/en/imprint/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4921022044998",
+    "status": "valid_format",
+    "source_url": "https://www.hamag.de/en/imprint/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hamag@hamag.de",
+    "status": "observed",
+    "source_url": "https://www.hamag.de/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+498921541600",
+    "status": "valid_format",
+    "source_url": "https://www.hamag.de/en/privacy-policy/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hamag@hamag.de",
+    "status": "observed",
+    "source_url": "https://www.hamag.de/impressum/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4921022044998",
+    "status": "valid_format",
+    "source_url": "https://www.hamag.de/impressum/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

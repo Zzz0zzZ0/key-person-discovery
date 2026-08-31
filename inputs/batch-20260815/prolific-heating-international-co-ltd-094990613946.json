@@ -1,0 +1,163 @@
+{
+  "name": "Prolific Heating International Co., Ltd",
+  "website": "http://www.phiheating.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00346d1b-923f-48aa-8b8d-01e78db8c96b",
+  "crm_linkedin_url": "https://www.linkedin.com/company/prolificheatinginternational/posts/?feedView=all",
+  "crm_country": "泰国",
+  "crm_updated_at": "2026-07-28T10:08:58.514695+00:00",
+  "crm_contact_count": 14,
+  "crm_contacts": [
+    {
+      "name": " Suparaporn Suksee",
+      "email": "suparaporn@phiheating.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/suparaporn-suksee-0255398b",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Noppazin Sawataumpairuk",
+      "email": "noppazin@phiheating.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/noppazin-sawataumpairuk-115480171",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Hathairat Puring",
+      "email": "hathairat@phiheating.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/hathairat-puring-5161b6293",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Phummarin Sosrisakorn",
+      "email": "phummarin@phiheating.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/phummarin-sosrisakorn-9567711a0",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+66217081716",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Juthatip Onwan",
+      "email": "juthatip@phiheating.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/juthatip-onwan-919440296",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Salinporn Sirihorachai",
+      "email": "salinporn@phiheating.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/salinporn-sirihorachai-877594142",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Merry Puritanita",
+      "email": "merry@phiheating.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/puritanita",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Sarawut Maprasop",
+      "email": "sarawut@phiheating.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/sarawut-maprasop-756948324",
+      "additional_linkedin": null
+    },
+    {
+      "name": " THITAPATH SANGMANI",
+      "email": "thitapath@phiheating.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/thitapath-sangmani-2332901a3",
+      "additional_linkedin": null
+    },
+    {
+      "name": "Merry Puritanita",
+      "email": "prolific@phiheating.com",
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/puritanita",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Kaittisak Kamphakot",
+      "email": "kaittisak@phiheating.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/kaittisak-kamphakot-425473163",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Takahiro Yoshioka",
+      "email": "takahiro@phiheating.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/takahiro-yoshioka-ab318366",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Panuwat Chuaybamrung",
+      "email": "panuwat@phiheating.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/panuwat-chuaybamrung-93b9a728a",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-15T02:27:07.836512+00:00",
+  "source": "twenty_postgresql_read_only"
+}

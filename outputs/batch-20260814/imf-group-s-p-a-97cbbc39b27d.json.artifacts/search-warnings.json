@@ -1,0 +1,20 @@
+[
+  {
+    "query": "https://imf-group.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://imf-group.com/sitemap.xml: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "site:imf-group.com filetype:pdf",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for 'site:imf-group.com filetype:pdf': <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "site:imf-group.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "searxng",
+    "reason": "All active SearXNG engines failed for 'site:imf-group.com filetype:pdf': bing: timeout, duckduckgo: CAPTCHA, google cse: too many requests, qwant: timeout"
+  }
+]

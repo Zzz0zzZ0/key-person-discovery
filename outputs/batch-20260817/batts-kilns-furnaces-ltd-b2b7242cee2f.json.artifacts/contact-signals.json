@@ -1,0 +1,201 @@
+[
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/brazing-furnaces",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/kiln-refurbishment",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+441782344270",
+    "status": "valid_format",
+    "source_url": "https://www.kilns.co.uk/kiln-refurbishment",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/contact-us",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+441782344270",
+    "status": "valid_format",
+    "source_url": "https://www.kilns.co.uk/contact-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/about-us",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/kilns/thermocouples",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/kilns/kg-35-staffordshire-wheel",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/kilns/sintering",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/news",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/materials-testing-furnaces",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/news/elevate-your-educational-programs-with-our-kilns-and-furnaces",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/news/education-kilns-buying-guide",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/news/introducing-the-cu-labtech-kiln",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/news/grow-your-studio-pottery-business-with-kilns-and-furnaces",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/news/phoenix-hobby-kiln",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+441782344270",
+    "status": "valid_format",
+    "source_url": "https://www.kilns.co.uk/news/phoenix-hobby-kiln",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/news/meet-our-drawing-office-manager",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+441782344270",
+    "status": "valid_format",
+    "source_url": "https://www.kilns.co.uk/news/meet-our-drawing-office-manager",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/news/thermal-process-equipment-and-solutions",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+441782344270",
+    "status": "valid_format",
+    "source_url": "https://www.kilns.co.uk/news/thermal-process-equipment-and-solutions",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/kilns/control-systems",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/metal-heat-treatment-furnaces",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/category/news",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/news/page/3",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kilns.co.uk",
+    "status": "observed",
+    "source_url": "https://www.kilns.co.uk/news/page/2",
+    "company_public": true
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "channel": "phone",
+    "value": "+13304997178",
+    "status": "valid_format",
+    "source_url": "https://www.harborinvestmentcastings.com",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+13304992018",
+    "status": "valid_format",
+    "source_url": "https://www.harborinvestmentcastings.com",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+15717668230",
+    "status": "valid_format",
+    "source_url": "https://www.federalcompass.com/fed-contractor-vendor/harbor-castings-inc",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+13304997178",
+    "status": "valid_format",
+    "source_url": "https://www.harborinvestmentcastings.com/contact/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+13304992018",
+    "status": "valid_format",
+    "source_url": "https://www.harborinvestmentcastings.com/contact/",
+    "whatsapp_status": "unknown"
+  }
+]

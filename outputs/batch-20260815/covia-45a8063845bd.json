@@ -1,0 +1,216 @@
+{
+  "company_name": "Covia",
+  "candidates": [
+    {
+      "full_name": "Bruno Biasiotta",
+      "current_title": "President & Chief Executive Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 9,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.coviacorp.com/about-us/leadership",
+          "quote": "Bruno Biasiotta has served as Chief Executive Officer of Covia since March 2024.",
+          "supports": "Current President & CEO at Covia"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Covia",
+          "quote": "Key people: Bruno Biasiotta, President and CEO",
+          "supports": "Wikipedia confirms CEO role"
+        },
+        {
+          "source_url": "https://www.coviacorp.com/news-releases/covia-names-bruno-biasiotta-as-president-and-chief-executive-officer",
+          "quote": "Covia Names Bruno Biasiotta as President and Chief Executive Officer",
+          "supports": "News release confirming CEO appointment March 2024"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    },
+    {
+      "full_name": "Russell Montgomery",
+      "current_title": "EVP, Chief Operations Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 8,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.coviacorp.com/about-us/leadership",
+          "quote": "Mr. Montgomery joined Covia in January 2022 as Executive Vice President and Chief Operations Officer.",
+          "supports": "Current EVP and COO at Covia; joined 2022"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    },
+    {
+      "full_name": "Laura Riquelme",
+      "current_title": "EVP, Chief Financial Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 7,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.coviacorp.com/about-us/leadership",
+          "quote": "Laura Riquelme joined Covia in March 2026 as Executive Vice President and Chief Financial Officer.",
+          "supports": "Current EVP and CFO at Covia; joined March 2026"
+        }
+      ],
+      "confidence": 0.75,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "first.last@coviacorp.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "john.doe@coviacorp.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "flast@coviacorp.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "jdoe@coviacorp.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "firstlast@coviacorp.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "johndoe@coviacorp.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "last.first@coviacorp.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "doe.john@coviacorp.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "flast@coviacorp.comfirstlast",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "support@leadiq.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sales@leadiq.com",
+      "status": "observed",
+      "source_url": "https://leadiq.com/c/covia/5b1454ca350000b600017d1b/email-format",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "customer.service@coviacorp.com",
+      "status": "observed",
+      "source_url": "https://www.coviacorp.com/careers/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sales@coviacorp.com",
+      "status": "observed",
+      "source_url": "https://www.coviacorp.com/contact/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "recruiting@coviacorp.com",
+      "status": "observed",
+      "source_url": "https://www.coviacorp.com/contact/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "mediarelations@coviacorp.com",
+      "status": "observed",
+      "source_url": "https://www.coviacorp.com/contact/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "goldengate@fgsglobal.com",
+      "status": "observed",
+      "source_url": "https://www.coviacorp.com/news-releases/covia-names-bruno-biasiotta-as-president-and-chief-executive-officer",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 40,
+    "search_engine_warnings": 4,
+    "urls_crawled": 23,
+    "crawl_failures": 9,
+    "contact_signals": 26,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 2,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 1,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 16,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

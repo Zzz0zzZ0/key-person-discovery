@@ -1,0 +1,112 @@
+{
+  "company_name": "Elektrowerk Weisweiler GmbH",
+  "candidates": [
+    {
+      "full_name": "Dr. Christoph Kemper",
+      "current_title": "Geschäftsführer (Managing Director)",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 10,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.elektrowerk.de/wp-content/uploads/2026/06/conditions-of-sale-and-delivery_EWW-1.pdf",
+          "quote": "Geschäftsführer: Dr. Christoph Kemper",
+          "supports": "Managing Director of Elektrowerk Weisweiler GmbH"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+4924036460",
+      "status": "valid_format",
+      "source_url": "http://www.elektrowerk.de/en/03_print.htm",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "streit@elektrowerk.de",
+      "status": "observed",
+      "source_url": "https://www.elektrowerk.de/en/job-openings/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+492403646310",
+      "status": "valid_format",
+      "source_url": "https://www.elektrowerk.de/en/job-openings/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+492403646",
+      "status": "valid_format",
+      "source_url": "http://www.elektrowerk.de/page/analytical-en.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "probable",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 3,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 26,
+    "search_engine_warnings": 1,
+    "urls_crawled": 17,
+    "crawl_failures": 6,
+    "contact_signals": 29,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 2,
+    "pdf_documents_processed": 2,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 10,
+    "pdf_failures": 0,
+    "search_evidence_pages": 4,
+    "contact_evidence_pages": 7,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 5,
+    "crm_duplicates_removed": 3,
+    "target_contactable_items": 1,
+    "contactable_items": 4,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

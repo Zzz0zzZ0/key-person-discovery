@@ -1,0 +1,82 @@
+[
+  {
+    "channel": "email",
+    "value": "info@colorobbia.es",
+    "status": "observed",
+    "source_url": "https://www.colorobbia.com/affiliate/colorobbia-espana/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34964343131",
+    "status": "valid_format",
+    "source_url": "https://www.colorobbia.com/affiliate/colorobbia-espana/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@colorobbia.es",
+    "status": "observed",
+    "source_url": "http://colorobbia.es",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34964343131",
+    "status": "valid_format",
+    "source_url": "http://colorobbia.es",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@colorobbia.es",
+    "status": "observed",
+    "source_url": "https://www.colorobbia.com/en/affiliates/colorobbia-espana/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34964343131",
+    "status": "valid_format",
+    "source_url": "https://www.colorobbia.com/en/affiliates/colorobbia-espana/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@colorobbia.es",
+    "status": "observed",
+    "source_url": "https://www.facebook.com/pages/Colorobbia-Espa%C3%B1a/936711906448592",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+34964343131",
+    "status": "valid_format",
+    "source_url": "https://www.facebook.com/pages/Colorobbia-Espa%C3%B1a/936711906448592",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@eximpedia.app",
+    "status": "observed",
+    "source_url": "https://www.eximpedia.app/companies/colorobbia-espana-s-a/86268253",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+6597252405",
+    "status": "valid_format",
+    "source_url": "https://www.eximpedia.app/companies/colorobbia-espana-s-a/86268253",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

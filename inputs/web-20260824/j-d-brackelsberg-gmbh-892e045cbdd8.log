@@ -1,0 +1,21 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.crunchbase.com/organization/j-d-brackelsberg-gmbh                                        | ✓ | ⏱: 0.48s 
+[SCRAPE].. ◆ https://www.crunchbase.com/organization/j-d-brackelsberg-gmbh                                        | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.crunchbase....n/j-d-brackelsberg-gmbh  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.crunchbase.com/organization/j-d-brackelsberg-gmbh                                        | ✗ | ⏱: 1.15s 
+[FETCH]... ↓ https://www.brackelsberg.com/wp-content/                                                             | ✓ | ⏱: 1.14s 
+[SCRAPE].. ◆ https://www.brackelsberg.com/wp-content/                                                             | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.brackelsberg.com/wp-content/           | Error: Blocked by anti-bot protection: Near-empty content (39 bytes) with HTTP 200 
+[COMPLETE] ● https://www.brackelsberg.com/wp-content/                                                             | ✗ | ⏱: 3.15s 
+[FETCH]... ↓ https://www.brackelsberg.com                                                                         | ✓ | ⏱: 2.51s 
+[SCRAPE].. ◆ https://www.brackelsberg.com                                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.brackelsberg.com                                                                         | ✓ | ⏱: 4.54s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.brackelsberg.com/wp-content/                                                             | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.brackelsberg.com/wp-content/                                                             | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://www.crunchbase.com/organization/j-d-brackelsberg-gmbh                                        | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.crunchbase.com/organization/j-d-brackelsberg-gmbh                                        | ✓ | ⏱: 0.02s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260824/j-d-brackelsberg-gmbh-892e045cbdd8.json

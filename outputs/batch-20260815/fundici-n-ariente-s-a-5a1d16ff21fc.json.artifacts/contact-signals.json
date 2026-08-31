@@ -1,0 +1,84 @@
+[
+  {
+    "channel": "email",
+    "value": "info@fundicionariente.com",
+    "status": "observed",
+    "source_url": "https://infonegocios.info/tarjetero/empresa/fundicion-ariente",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+543514750326",
+    "status": "valid_format",
+    "source_url": "https://infonegocios.info/tarjetero/empresa/fundicion-ariente",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@fundicionariente.com.ar",
+    "status": "observed",
+    "source_url": "https://fundicionariente.com.ar/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5493513448711",
+    "status": "valid_format",
+    "source_url": "https://fundicionariente.com.ar/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@fundicionariente.com.ar",
+    "status": "observed",
+    "source_url": "https://www.fundicionariente.com.ar",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+5493513448711",
+    "status": "valid_format",
+    "source_url": "https://www.fundicionariente.com.ar",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@fundicionariente.com.ar",
+    "status": "observed",
+    "source_url": "https://www.fundicionariente.com.ar/es/contacto"
+  },
+  {
+    "channel": "phone",
+    "value": "+5493513448711",
+    "status": "valid_format",
+    "source_url": "https://www.fundicionariente.com.ar/es/contacto",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "comercial@fundicionariente.com.ar",
+    "status": "observed",
+    "source_url": "https://fundicionariente.com.ar/es/contacto"
+  },
+  {
+    "channel": "phone",
+    "value": "+5493513448711",
+    "status": "valid_format",
+    "source_url": "https://fundicionariente.com.ar/es/contacto",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/jose-canelo-51a7b6176",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/jose-canelo-51a7b6176"
+  }
+]

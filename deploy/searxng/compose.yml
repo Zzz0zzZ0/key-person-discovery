@@ -1,0 +1,14 @@
+name: key-person-search
+
+services:
+  searxng:
+    image: ghcr.nju.edu.cn/searxng/searxng:latest
+    container_name: key-person-searxng
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:18080:8080"
+    environment:
+      SEARXNG_BASE_URL: http://127.0.0.1:18080/
+      SEARXNG_SECRET: ${SEARXNG_SECRET:?SEARXNG_SECRET is required}
+    volumes:
+      - ./settings.yml:/etc/searxng/settings.yml:rw

@@ -1,0 +1,39 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://soltec-hn.com/en/contact/                                                                    | ✓ | ⏱: 3.60s 
+[SCRAPE].. ◆ https://soltec-hn.com/en/contact/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://soltec-hn.com/en/contact/                                                                    | ✓ | ⏱: 4.96s 
+[FETCH]... ↓ https://soltec-hn.com                                                                                | ✓ | ⏱: 3.63s 
+[SCRAPE].. ◆ https://soltec-hn.com                                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://soltec-hn.com                                                                                | ✓ | ⏱: 5.10s 
+[FETCH]... ↓ https://soltec-hn.com/en/home/                                                                       | ✓ | ⏱: 3.65s 
+[SCRAPE].. ◆ https://soltec-hn.com/en/home/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://soltec-hn.com/en/home/                                                                       | ✓ | ⏱: 5.01s 
+[FETCH]... ↓ https://dauthau.net/vi/dn/CONG-TY-TNHH-MEITOKU-ENGINEERING-VIET-NAM/                                 | ✓ | ⏱: 6.00s 
+[SCRAPE].. ◆ https://dauthau.net/vi/dn/CONG-TY-TNHH-MEITOKU-ENGINEERING-VIET-NAM/                                 | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://dauthau.net/vi/dn/CONG-TY-TNHH-MEITOKU-ENGINEERING-VIET-NAM/                                 | ✓ | ⏱: 7.96s 
+[FETCH]... ↓ https://soltec-hn.com/en/maintenance-repair/                                                         | ✓ | ⏱: 3.70s 
+[SCRAPE].. ◆ https://soltec-hn.com/en/maintenance-repair/                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://soltec-hn.com/en/maintenance-repair/                                                         | ✓ | ⏱: 3.72s 
+[FETCH]... ↓ https://soltec-hn.com/en/steel-structure-fabrication/                                                | ✓ | ⏱: 3.75s 
+[SCRAPE].. ◆ https://soltec-hn.com/en/steel-structure-fabrication/                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://soltec-hn.com/en/steel-structure-fabrication/                                                | ✓ | ⏱: 3.77s 
+[FETCH]... ↓ https://soltec-hn.com/en/introduce                                                                   | ✓ | ⏱: 5.05s 
+[SCRAPE].. ◆ https://soltec-hn.com/en/introduce                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://soltec-hn.com/en/introduce                                                                   | ✓ | ⏱: 5.07s 
+[FETCH]... ↓ https://www.topcv.vn/cong-ty/cong-ty-tnhh-soltec-ha-noi/234391.html                                  | ✓ | ⏱: 8.17s 
+[SCRAPE].. ◆ https://www.topcv.vn/cong-ty/cong-ty-tnhh-soltec-ha-noi/234391.html                                  | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.topcv.vn/cong-ty/cong-ty-tnhh-soltec-ha-noi/234391.html                                  | ✓ | ⏱: 10.23s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://soltec-hn.com/en/news/                                                                       | ✓ | ⏱: 5.20s 
+[SCRAPE].. ◆ https://soltec-hn.com/en/news/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://soltec-hn.com/en/news/                                                                       | ✓ | ⏱: 5.23s 
+[FETCH]... ↓ https://soltec-hn.com/contact/                                                                       | ✓ | ⏱: 5.50s 
+[SCRAPE].. ◆ https://soltec-hn.com/contact/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://soltec-hn.com/contact/                                                                       | ✓ | ⏱: 5.52s 
+[FETCH]... ↓ https://soltec-hn.com/news                                                                           | ✓ | ⏱: 5.24s 
+[SCRAPE].. ◆ https://soltec-hn.com/news                                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://soltec-hn.com/news                                                                           | ✓ | ⏱: 5.26s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/c-ng-ty-tnhh-soltec-h-n-i-d8d5b04e9170.json

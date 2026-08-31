@@ -1,0 +1,457 @@
+{
+  "company_name": "Pace Industries",
+  "candidates": [
+    {
+      "full_name": "Doug Albert",
+      "current_title": "Chief Executive Officer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://paceind.com/about/executive-team-bios/",
+          "quote": "Doug Albert joined Pace Industries as Chief Executive Officer in April 2023.",
+          "supports": "CEO of Pace Industries since April 2023"
+        },
+        {
+          "source_url": "https://paceind.com",
+          "quote": "Pace Industries Announces Doug Albert, as Chief Executive Officer",
+          "supports": "Press announcement confirming CEO appointment"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true,
+      "discovery_tier": "verified_current"
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+18883432278",
+      "status": "valid_format",
+      "source_url": "https://paceind.com/contact/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+14794431455",
+      "status": "valid_format",
+      "source_url": "http://www.paceind.com/wp-content/uploads/2017/09/11155_Pace-Supplier-Quality-Manual.pdf",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "published_document_unverified"
+    }
+  ],
+  "review_required": true,
+  "unverified_candidates": [
+    {
+      "full_name": "Marshall Haines",
+      "current_title": "Division President",
+      "company_match": "probable",
+      "influence_type": "decision_maker",
+      "influence_score": 60,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://paceind.com/pace-industries-announces-leadership-changes/",
+          "quote": "Marshall Haines, division president of Airo Division for the last 2 years will be transferring to the Harrison Division, located in Harrison, Arkansas, to serve as their new division president.",
+          "supports": "Division President at Pace Industries (2017 announcement; current status unverified)"
+        }
+      ],
+      "confidence": 0.4,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ],
+      "discovery_tier": "unverified"
+    },
+    {
+      "full_name": "Mike McDoniel",
+      "current_title": "Division President",
+      "company_match": "probable",
+      "influence_type": "decision_maker",
+      "influence_score": 60,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://paceind.com/pace-industries-announces-leadership-changes/",
+          "quote": "Mike McDoniel, a 20-year Pace veteran, will be filling the position of division president of the Airo Division, located in Latrobe, Pennsylvania.",
+          "supports": "Division President at Pace Industries (2017 announcement; current status unverified)"
+        }
+      ],
+      "confidence": 0.4,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ],
+      "discovery_tier": "unverified"
+    },
+    {
+      "full_name": "Cathy Voskuil",
+      "current_title": "Senior Buyer",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 20,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/cathy-voskuil-529abb41",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/cathy-voskuil-529abb41"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/cathy-voskuil-529abb41",
+          "quote": "LinkedIn profile listed in search results for Pace Industries",
+          "supports": "Search result associated with Pace Industries; no direct page content accessed"
+        }
+      ],
+      "confidence": 0.2,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ],
+      "discovery_tier": "probable_current"
+    },
+    {
+      "full_name": "Jon Osborn",
+      "current_title": "Purchasing Manager",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 20,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/jon-osborn-2519b016",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/jon-osborn-2519b016"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/jon-osborn-2519b016",
+          "quote": "LinkedIn profile listed in search results for Pace Industries",
+          "supports": "Search result associated with Pace Industries; no direct page content accessed"
+        }
+      ],
+      "confidence": 0.2,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ],
+      "discovery_tier": "probable_current"
+    },
+    {
+      "full_name": "John Conquest",
+      "current_title": "Operations Manager",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 20,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/john-conquest-84ba2713",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/john-conquest-84ba2713"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/john-conquest-84ba2713",
+          "quote": "LinkedIn profile listed in search results for Pace Industries",
+          "supports": "Search result associated with Pace Industries; no direct page content accessed"
+        }
+      ],
+      "confidence": 0.2,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ],
+      "discovery_tier": "probable_current"
+    },
+    {
+      "full_name": "Douglas Albert",
+      "current_title": "Unknown",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 20,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/douglas-albert-b080b11",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/douglas-albert-b080b11"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/douglas-albert-b080b11",
+          "quote": "LinkedIn profile listed in search results for Pace Industries",
+          "supports": "Search result associated with Pace Industries; no direct page content accessed"
+        }
+      ],
+      "confidence": 0.2,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ],
+      "discovery_tier": "unverified"
+    },
+    {
+      "full_name": "Joe Scheurer",
+      "current_title": "Director of Tooling Engineering",
+      "company_match": "probable",
+      "influence_type": "other",
+      "influence_score": 20,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/joe-scheurer-6661092a",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/joe-scheurer-6661092a"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/joe-scheurer-6661092a",
+          "quote": "LinkedIn profile listed in search results for Pace Industries",
+          "supports": "Search result associated with Pace Industries; no direct page content accessed"
+        }
+      ],
+      "confidence": 0.2,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ],
+      "discovery_tier": "probable_current"
+    },
+    {
+      "full_name": "Tammy Johnson Onsum",
+      "current_title": "Purchasing Manager",
+      "company_match": "uncertain",
+      "discovery_tier": "unverified",
+      "influence_type": "decision_maker",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/tammy-johnson-onsum-7a057b4b",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/tammy-johnson-onsum-7a057b4b"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/tammy-johnson-onsum-7a057b4b",
+          "quote": "Tammy Johnson-Onsum - Pace Industries, LLC Purchasing Manager at Pace Industries, LLC · Experience: Pace Industries, LLC · Location: Maple Lake · 10 connections on LinkedIn.",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.35,
+      "review_required": true,
+      "validation_reasons": [
+        "target-company association is visible but current employment is unverified",
+        "contact ownership is not verified"
+      ]
+    },
+    {
+      "full_name": "Connie Williams",
+      "current_title": "Connie Williams - Materials Manager",
+      "company_match": "probable",
+      "discovery_tier": "unverified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/connie-williams-b76941135",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/connie-williams-b76941135"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/connie-williams-b76941135",
+          "quote": "Connie Williams - Materials Manager for Pace Industries Experience ; Materials Manager. Pace Industries, LLC. Nov 2021 ; Die Cast Scheduler/CSR. MTI - Jackson Die Cast. May 2019 ; Shipping Receiving. Wabash Alloys LLC.",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true,
+      "validation_reasons": [
+        "search summary requires independent current-employment verification",
+        "contact ownership is not verified"
+      ]
+    },
+    {
+      "full_name": "Christopher Baumann",
+      "current_title": "",
+      "company_match": "uncertain",
+      "discovery_tier": "unverified",
+      "influence_type": "decision_maker",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/christopherbaumann",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/christopherbaumann"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/christopherbaumann",
+          "quote": "Christopher Baumann - Sr. Director of Sales - Pace Industries, LLC Chris Baumann began his professional career in manufacturing after graduating from… · Experience: Pace Industries, LLC · Education: University of Wisconsin-Stout · Location: United States ...",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.35,
+      "review_required": true,
+      "validation_reasons": [
+        "target-company association is visible but current employment is unverified",
+        "contact ownership is not verified"
+      ]
+    },
+    {
+      "full_name": "Jacob Cihlar",
+      "current_title": "",
+      "company_match": "uncertain",
+      "discovery_tier": "unverified",
+      "influence_type": "other",
+      "influence_score": 0,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/jacobcihlar",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/jacobcihlar"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/jacobcihlar",
+          "quote": "Jacob Cihlar - Pace Industries, LLC - LinkedIn Site Manager and Engineering Manager, Pace Industries, LLC Firefighter - BLFD · Site & Engineering Manager. Master of Science-Manufacturing Engineering ...",
+          "supports": "Search excerpt names the person and exact target company; current employment, role, and contact ownership still require independent verification"
+        }
+      ],
+      "confidence": 0.35,
+      "review_required": true,
+      "validation_reasons": [
+        "target-company association is visible but current employment is unverified",
+        "contact ownership is not verified"
+      ]
+    }
+  ],
+  "validation_rejections": [
+    {
+      "full_name": "Marshall Haines",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Mike McDoniel",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Cathy Voskuil",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Jon Osborn",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "John Conquest",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Douglas Albert",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Joe Scheurer",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 110,
+    "search_engine_warnings": 14,
+    "urls_crawled": 20,
+    "crawl_failures": 1,
+    "contact_signals": 8,
+    "official_urls_discovered": 15,
+    "crm_website": "https://paceind.com",
+    "official_website": "https://paceind.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 11,
+    "pdf_documents_processed": 3,
+    "pdf_documents_extracted": 3,
+    "pdf_pages_extracted": 66,
+    "pdf_failures": 0,
+    "search_evidence_pages": 5,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 7,
+    "unverified_candidates": 11,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 50,
+    "contactable_items": 11,
+    "target_contact_methods": 50,
+    "contact_methods": 11,
+    "contact_target_met": false,
+    "broad_discovery": true,
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

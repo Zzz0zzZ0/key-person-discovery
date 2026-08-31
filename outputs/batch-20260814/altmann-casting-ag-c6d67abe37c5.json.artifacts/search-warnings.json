@@ -1,0 +1,128 @@
+[
+  {
+    "query": "https://www.altmann-casting.ch",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.altmann-casting.ch/sitemap.xml: HTTP Error 404: Not Found"
+  },
+  {
+    "query": "\"Altmann Casting AG\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for '\"Altmann Casting AG\" (procurement OR purchasing OR sourcing OR buyer)': <urlopen error _ssl.c:999: The handshake operation timed out>"
+  },
+  {
+    "query": "\"Altmann Casting AG\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Altmann Casting AG\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "\"Altmann Casting AG\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for '\"Altmann Casting AG\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")': <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "\"Altmann Casting AG\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Altmann Casting AG\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "too many requests"
+  },
+  {
+    "query": "\"Altmann Casting AG\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:linkedin.com/in \"Altmann Casting AG\"",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:linkedin.com/in \"Altmann Casting AG\"",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:linkedin.com/in \"Altmann Casting AG\"",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "Suspended: timeout"
+  },
+  {
+    "query": "\"Altmann Casting AG\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for '\"Altmann Casting AG\" (email OR phone OR WhatsApp OR \"wa.me\")': <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "\"Altmann Casting AG\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"Altmann Casting AG\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:altmann-casting.ch (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "HTTP connection error"
+  },
+  {
+    "query": "site:altmann-casting.ch (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:altmann-casting.ch (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:altmann-casting.ch filetype:pdf",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for 'site:altmann-casting.ch filetype:pdf': <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "site:altmann-casting.ch filetype:pdf",
+    "provider": "searxng",
+    "engine": "bing",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:altmann-casting.ch filetype:pdf",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "HTTP connection error"
+  },
+  {
+    "query": "site:altmann-casting.ch filetype:pdf",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://elektrowerk.de",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://elektrowerk.de/sitemap.xml: HTTP Error 404: Not Found"
+  }
+]

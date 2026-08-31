@@ -1,0 +1,211 @@
+{
+  "name": "Minex Group International",
+  "website": "https://www.minexgroup.eu",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00ecac85-0cf1-41fe-80e2-9c9ec3d8c623",
+  "crm_linkedin_url": "https://www.linkedin.com/company/minex-group",
+  "crm_country": "Romania",
+  "crm_updated_at": "2026-07-27T10:53:14.862373+00:00",
+  "crm_contact_count": 19,
+  "crm_contacts": [
+    {
+      "name": " Radu Laufceac",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/radu-laufceac-550a7419a/",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Mircea Minea",
+      "email": "ionut.pitiriga@gmail.com",
+      "additional_emails": [
+        "mircea.minea@gmail.com",
+        "ionutpitiriga@gmail.com"
+      ],
+      "phone": "+40 21 306 0281, +40 722 513 444, +40 21 411 7181, +40 21 306 0284, +40 21 411 9606, +40 722 368 356",
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/mircea-minea-6030a319",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Iulian Stefancu",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/iulian-stefancu-67b885173",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Femih Bejlurov",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/femih-bejlurov-170132b3",
+      "additional_linkedin": null
+    },
+    {
+      "name": " EMANUELA STAMBULI",
+      "email": "littletuky@yahoo.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/emanuela-stambuli-darie-27304426/",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Sapariuc Ionela",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/sapariuc-ionela-394275113",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Emanuela Stambuli",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/emanuela-stambuli-27304426",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Birsan Dragos Constantin",
+      "email": "birsandragos@yahoo.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/dragoscbirsan",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Ene Catalin",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/ene-catalin-9a87b576",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Parvaneh Bagherzadeh",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/parvaneh-bagherzadeh-15669565",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Oana Ungureanu",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/oana-georgiana-ungureanu-b730321b6",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Keiwan Ghanbarzadeh",
+      "email": "keiwan.gh2005@gmail.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/keiwan-ghanbarzadeh-15a31562",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Teodor Sava",
+      "email": "teodorsava@gmail.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/teodor-sava-b8a44b1a5",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Zori Pavlova",
+      "email": "zoripavlova@gmail.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/zori-pavlova-36b984a/",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Ungureanu Nicusor",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/ungureanu-nicusor-38b93429/",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Georgi Stefanov",
+      "email": "gstefanov@intercars.eu",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/georgi-stefanov-35882959",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Anca Dascalu",
+      "email": null,
+      "additional_emails": null,
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/anca-dascalu-5662012",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Cigareanu Florentina",
+      "email": null,
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/cigareanu-florentina-7140157b",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Decebal Pitiriga",
+      "email": "decebal.pitiriga@minexgroup.eu",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/decebal-pitiriga-b9a0422/",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-15T03:55:07.190761+00:00",
+  "source": "twenty_postgresql_read_only"
+}

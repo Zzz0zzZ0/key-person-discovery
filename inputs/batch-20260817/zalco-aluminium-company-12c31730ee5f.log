@@ -1,0 +1,43 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://zalco.nl                                                                                     | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zalco.nl                                                                                     | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://zalco.nl/de/produkte/rundbarren                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://zalco.nl/de/produkte/rundbarren                                                              | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://zalco.nl/en/contact                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://zalco.nl/en/contact                                                                          | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://zalco.nl/en/contact/directions                                                               | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zalco.nl/en/contact/directions                                                               | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://zalco.nl/en/home                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zalco.nl/en/home                                                                             | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://zalco.nl/en/logistics                                                                        | ✓ | ⏱: 1.83s 
+[SCRAPE].. ◆ https://zalco.nl/en/logistics                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://zalco.nl/en/logistics                                                                        | ✓ | ⏱: 1.85s 
+[FETCH]... ↓ https://zalco.nl/de/sicherheit-gesundheit-und-umwelt                                                 | ✓ | ⏱: 2.39s 
+[SCRAPE].. ◆ https://zalco.nl/de/sicherheit-gesundheit-und-umwelt                                                 | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zalco.nl/de/sicherheit-gesundheit-und-umwelt                                                 | ✓ | ⏱: 2.40s 
+[FETCH]... ↓ https://zalco.nl/en/history                                                                          | ✓ | ⏱: 2.22s 
+[SCRAPE].. ◆ https://zalco.nl/en/history                                                                          | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zalco.nl/en/history                                                                          | ✓ | ⏱: 2.23s 
+[FETCH]... ↓ https://zalco.nl/de/produkte                                                                         | ✓ | ⏱: 2.40s 
+[SCRAPE].. ◆ https://zalco.nl/de/produkte                                                                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zalco.nl/de/produkte                                                                         | ✓ | ⏱: 2.41s 
+[FETCH]... ↓ https://zalco.nl/en/products                                                                         | ✓ | ⏱: 0.53s 
+[SCRAPE].. ◆ https://zalco.nl/en/products                                                                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zalco.nl/en/products                                                                         | ✓ | ⏱: 0.54s 
+[FETCH]... ↓ https://zalco.nl/nl/producten/walsplakken                                                            | ✓ | ⏱: 0.57s 
+[SCRAPE].. ◆ https://zalco.nl/nl/producten/walsplakken                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://zalco.nl/nl/producten/walsplakken                                                            | ✓ | ⏱: 0.58s 
+[FETCH]... ↓ https://zalco.nl/en/products/extrusion-billets                                                       | ✓ | ⏱: 0.57s 
+[SCRAPE].. ◆ https://zalco.nl/en/products/extrusion-billets                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://zalco.nl/en/products/extrusion-billets                                                       | ✓ | ⏱: 0.59s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://zalco.nl/en/news1                                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://zalco.nl/en/news1                                                                            | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://zalco.nl/nl/contact                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://zalco.nl/nl/contact                                                                          | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://zalco.nl/en/news1/zalco-at-the-fair-in-dusseldorf-20163                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://zalco.nl/en/news1/zalco-at-the-fair-in-dusseldorf-20163                                      | ✓ | ⏱: 0.01s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260817/zalco-aluminium-company-12c31730ee5f.json

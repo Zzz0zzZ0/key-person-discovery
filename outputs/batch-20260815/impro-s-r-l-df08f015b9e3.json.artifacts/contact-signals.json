@@ -1,0 +1,47 @@
+[
+  {
+    "channel": "email",
+    "value": "comercial@improsrl.com.ar",
+    "status": "observed",
+    "source_url": "https://improsrl.com.ar/empresa/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@improsrl.com.ar",
+    "status": "observed",
+    "source_url": "https://improsrl.com.ar/contacto/"
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+5493513253469",
+    "status": "verified",
+    "source_url": "https://improsrl.com.ar/contacto/"
+  },
+  {
+    "channel": "phone",
+    "value": "+5493513253469",
+    "status": "valid_format",
+    "source_url": "https://improsrl.com.ar/contacto/",
+    "whatsapp_status": "verified"
+  },
+  {
+    "channel": "email",
+    "value": "comercial@improsrl.com.ar",
+    "status": "observed",
+    "source_url": "https://improsrl.com.ar",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "comercial@improsrl.com.ar",
+    "status": "observed",
+    "source_url": "https://improsrl.com.ar/productos/"
+  },
+  {
+    "channel": "email",
+    "value": "comercial@improsrl.com.ar",
+    "status": "observed",
+    "source_url": "https://improsrl.com.ar/projects/"
+  }
+]

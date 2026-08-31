@@ -1,0 +1,82 @@
+{
+  "name": "Codam S.A.",
+  "website": "http://codam.com.ar",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00180a14-28a1-411a-b9e7-4e8f98260850",
+  "crm_linkedin_url": "https://www.linkedin.com/company/codam-sa",
+  "crm_country": "阿根廷",
+  "crm_updated_at": "2026-07-28T10:06:35.838953+00:00",
+  "crm_contact_count": 5,
+  "crm_contacts": [
+    {
+      "name": " Official Phone Number",
+      "email": null,
+      "additional_emails": [],
+      "phone": "+54 11 4762-3432",
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Luis Weinberg",
+      "email": "lweinberg@codam.com.ar",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/luis-weinberg-b4312065",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Fernando Bohnet",
+      "email": "fbohnet@codamsa.com.ar",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/fernando-bohnet-2b12921a",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Alejandro Herrero",
+      "email": "aherrero@codam.com.ar",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/alejandro-herrero-a319151b6",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "codam@codam.com.ar",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-14T09:26:35.783508+00:00",
+  "source": "twenty_postgresql_read_only"
+}

@@ -1,0 +1,315 @@
+[
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://ihbmetalcastings.com/bg/ekip",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://ihbmetalcastings.com/bg/ekip",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://ihbmetalcastings.com/bg/kontakti",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://ihbmetalcastings.com/bg/kontakti",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35929384851",
+    "status": "valid_format",
+    "source_url": "https://ihbmetalcastings.com/bg/kontakti",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://ihbmetalcastings.com/bg/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://ihbmetalcastings.com/bg/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://ihbmetalcastings.com",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://ihbmetalcastings.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://ihbmetalcastings.com/bg/produkti",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://ihbmetalcastings.com/bg/produkti",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://ihbmetalcastings.com/en/contacts"
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://ihbmetalcastings.com/en/contacts",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://ihbmetalcastings.com/en/news/53-change-of-the-company-trade-name"
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://ihbmetalcastings.com/en/news/53-change-of-the-company-trade-name",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://www.ihbmetalcastings.com/bg/novini/13-podobreni-uslovija-na-rabota-v-ihb-metal-kastings-ad"
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://www.ihbmetalcastings.com/bg/novini/13-podobreni-uslovija-na-rabota-v-ihb-metal-kastings-ad",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://www.ihbmetalcastings.com/en"
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://www.ihbmetalcastings.com/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://www.ihbmetalcastings.com/en/activities/37-moulding"
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://www.ihbmetalcastings.com/en/activities/37-moulding",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://ihbmetalcastings.com/en/about-us"
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://ihbmetalcastings.com/en/about-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://ihbmetalcastings.com/en/news"
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://ihbmetalcastings.com/en/news",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://ihbmetalcastings.com/en/team"
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://ihbmetalcastings.com/en/team",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://www.ihbmetalcastings.com/en/about-us"
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://www.ihbmetalcastings.com/en/about-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://www.ihbmetalcastings.com/en/contacts"
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://www.ihbmetalcastings.com/en/contacts",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://www.ihbmetalcastings.com/en/news/51-presentation-of-our-new-vision-in-europe"
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://www.ihbmetalcastings.com/en/news/51-presentation-of-our-new-vision-in-europe",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://www.ihbmetalcastings.com/en/news"
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://www.ihbmetalcastings.com/en/news",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://www.ihbmetalcastings.com/en/news/52-publications-in-the-media-about-us"
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://www.ihbmetalcastings.com/en/news/52-publications-in-the-media-about-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://www.ihbmetalcastings.com/en/news/53-change-of-the-company-trade-name"
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://www.ihbmetalcastings.com/en/news/53-change-of-the-company-trade-name",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://www.ihbmetalcastings.com/en/team"
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://www.ihbmetalcastings.com/en/team",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "office@ihbmetalcastings.com",
+    "status": "observed",
+    "source_url": "https://www.ihbmetalcastings.com/images/catalogue.pdf"
+  },
+  {
+    "channel": "phone",
+    "value": "+35928364402",
+    "status": "valid_format",
+    "source_url": "https://www.ihbmetalcastings.com/images/catalogue.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

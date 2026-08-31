@@ -1,0 +1,8 @@
+[
+  {
+    "query": "http://giessereibedarf-roemer.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "http://giessereibedarf-roemer.com/sitemap.xml: HTTP Error 404: Not Found"
+  }
+]

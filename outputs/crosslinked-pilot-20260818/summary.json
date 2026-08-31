@@ -1,0 +1,99 @@
+{
+  "test_scope": {
+    "date": "2026-08-18",
+    "mode": "isolated_subprocess_pilot",
+    "official_repository": "https://github.com/m8sec/CrossLinked",
+    "version": "0.3.0",
+    "source_commit": "2ae8d7bd5b1e9378f45cbf6ed38a3e79ded3acaf",
+    "source_commit_date": "2024-11-26T07:52:16-05:00",
+    "license": "GPL-3.0",
+    "anysearch_calls": 0,
+    "crm_writes": 0,
+    "sqlite_writes": 0,
+    "production_integration": false,
+    "project_dependency_changed": false
+  },
+  "configuration": {
+    "companies": 3,
+    "company_names": [
+      "Heatmasters",
+      "Sialon Ceramics",
+      "Krueger Pottery Inc"
+    ],
+    "engines": [
+      "bing",
+      "google"
+    ],
+    "timeout_seconds_per_engine_per_company": 6,
+    "jitter_seconds": 1,
+    "proxy": false,
+    "name_format": "{first} {last}"
+  },
+  "network_observations": {
+    "crosslinked_requests_attempted": 18,
+    "bing_http_200_requests": 15,
+    "google_status_zero_attempts": 3,
+    "separate_diagnostic_requests": 3,
+    "captcha_observed": false,
+    "notes": [
+      "Bing returned HTTP 200 but no actual linkedin.com/in result anchors for the three company queries.",
+      "Google attempts were converted to status 0 because CrossLinked silently catches request exceptions; a separate diagnostic received an anti-automation style page with no anchors.",
+      "CrossLinked uses verify=False for search requests and has no reliable retry or backoff policy."
+    ]
+  },
+  "results": [
+    {
+      "company": "Heatmasters",
+      "existing_verified_candidates": 2,
+      "bing_data_rows": 0,
+      "google_data_rows": 0,
+      "new_person_urls": 0,
+      "current_employment_verified": 0,
+      "new_contactable_people": 0
+    },
+    {
+      "company": "Sialon Ceramics",
+      "existing_verified_candidates": 1,
+      "bing_data_rows": 0,
+      "google_data_rows": 0,
+      "new_person_urls": 0,
+      "current_employment_verified": 0,
+      "new_contactable_people": 0
+    },
+    {
+      "company": "Krueger Pottery Inc",
+      "existing_verified_candidates": 0,
+      "bing_data_rows": 0,
+      "google_data_rows": 0,
+      "new_person_urls": 0,
+      "current_employment_verified": 0,
+      "new_contactable_people": 0
+    }
+  ],
+  "effect": {
+    "csv_data_rows": 0,
+    "unique_linkedin_person_urls": 0,
+    "new_person_candidates": 0,
+    "new_current_employment_matches": 0,
+    "new_person_bound_contacts": 0,
+    "recall_against_three_existing_verified_candidates": 0.0,
+    "false_positive_rate": null,
+    "false_positive_rate_note": "No candidates were returned, so precision and false-positive rate cannot be measured."
+  },
+  "offline_parser_check": {
+    "status": "passed",
+    "input": "A synthetic direct LinkedIn profile anchor with name and title",
+    "parsed_name": "jane doe",
+    "parsed_title": "Purchasing Manager",
+    "parsed_url": "https://www.linkedin.com/in/jane-doe",
+    "note": "The anchor parser still works for the historical expected HTML shape; the live search-engine acquisition layer is the failing boundary."
+  },
+  "decision": {
+    "production_apply_now": false,
+    "recommendation": "Do not integrate CrossLinked 0.3.0 or its subprocess into Key Search. The live Google/Bing acquisition path returned zero candidates and missed all three existing verified people.",
+    "reusable_idea": "The site:linkedin.com/in plus exact company-name query pattern may still be reused through a maintained search provider, followed by the existing current-employment and contact-binding gates.",
+    "generated_names_are_contacts": false,
+    "reason": "CrossLinked formats guessed account names; it does not verify employment, email ownership, deliverability, phone ownership, or contact-channel binding."
+  },
+  "raw_artifacts": "raw/"
+}

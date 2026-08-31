@@ -1,0 +1,47 @@
+[
+  {
+    "channel": "phone",
+    "value": "+49724470350",
+    "status": "valid_format",
+    "source_url": "https://gablenz-guss.de/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49724470350",
+    "status": "valid_format",
+    "source_url": "http://gablenz-guss.de",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49724470350",
+    "status": "valid_format",
+    "source_url": "https://gablenz-guss.de/kompetenzen/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49724470350",
+    "status": "valid_format",
+    "source_url": "https://gablenz-guss.de/impressum/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49724470350",
+    "status": "valid_format",
+    "source_url": "https://gablenz-guss.de/unternehmen/kontakt/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

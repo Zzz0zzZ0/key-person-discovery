@@ -1,0 +1,45 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://test.de                                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://test.de                                                                                       | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://order.firmenkontor24.com/details/640711/REFKO-Feuerfest-GmbH                                 | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://order.firmenkontor24.com/details/640711/REFKO-Feuerfest-GmbH                                 | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://rocketreach.co/paul-soler-email_484775548                                                    | ✓ | ⏱: 1.80s 
+[SCRAPE].. ◆ https://rocketreach.co/paul-soler-email_484775548                                                    | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/paul-soler-email_484775548  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/paul-soler-email_484775548                                                    | ✗ | ⏱: 1.81s 
+[FETCH]... ↓ https://www.refko.de/                                                                                | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.refko.de/                                                                                | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://www.dnb.com/business-directory/company-p...rfest_gmbh.d83814dabb11b5e397fe065747db7b80.html  | ✓ | ⏱: 2.38s 
+[SCRAPE].. ◆ https://www.dnb.com/business-directory/company-p...rfest_gmbh.d83814dabb11b5e397fe065747db7b80.html  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.dnb.com/business-directory/company-p...rfest_gmbh.d83814dabb11b5e397fe065747db7b80.html  | ✓ | ⏱: 2.40s 
+[FETCH]... ↓ https://tt.linkedin.com/company/refko-feuerfest-gmbh                                                 | ✓ | ⏱: 1.86s 
+[SCRAPE].. ◆ https://tt.linkedin.com/company/refko-feuerfest-gmbh                                                 | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://tt.linkedin.com/company/refko-feuerfest-gmbh                                                 | ✓ | ⏱: 3.89s 
+[FETCH]... ↓ https://malaysia.ahk.de/en/members/members-directory/refko-feuerfest-gmbh                            | ✓ | ⏱: 3.01s 
+[SCRAPE].. ◆ https://malaysia.ahk.de/en/members/members-directory/refko-feuerfest-gmbh                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://malaysia.ahk.de/en/members/members-directory/refko-feuerfest-gmbh                            | ✓ | ⏱: 5.03s 
+[FETCH]... ↓ https://www.refko.de/en                                                                              | ✓ | ⏱: 5.24s 
+[SCRAPE].. ◆ https://www.refko.de/en                                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.refko.de/en                                                                              | ✓ | ⏱: 5.26s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://rocketreach.co/paul-soler-email_484775548                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://rocketreach.co/paul-soler-email_484775548                                                    | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.test.de/aboutus/                                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.test.de/aboutus/                                                                         | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.test.de/news/Bluetooth-Lautsprecher-...iede-bei-Akkulaufzeit-und-Regenschutz-6330095-0/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.test.de/news/Bluetooth-Lautsprecher-...iede-bei-Akkulaufzeit-und-Regenschutz-6330095-0/  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.test.de/news/Volumen-Shampoos-im-Tes...eben-von-15-Volumen-Shampoos-sind-gut-6328273-0/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.test.de/news/Volumen-Shampoos-im-Tes...eben-von-15-Volumen-Shampoos-sind-gut-6328273-0/  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.test.de/news/Stiftung-Warentest-test...alten-UV-Schutz-Versprechen-nicht-ein-6319893-0/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.test.de/news/Stiftung-Warentest-test...alten-UV-Schutz-Versprechen-nicht-ein-6319893-0/  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.test.de/news/Bankschliessfach-Vergle...de-bei-Kosten-und-Versicherungsschutz-6329625-0/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.test.de/news/Bankschliessfach-Vergle...de-bei-Kosten-und-Versicherungsschutz-6329625-0/  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.test.de/news/Wassersparende-Duschkoe...ea-Modell-schlaegt-130-Euro-Duschkopf-6329495-0/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.test.de/news/Wassersparende-Duschkoe...ea-Modell-schlaegt-130-Euro-Duschkopf-6329495-0/  | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.test.de/newsletter/                                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.test.de/newsletter/                                                                      | ✓ | ⏱: 0.01s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/refko-feuerfest-gmbh-f19c43ca4796.json

@@ -1,0 +1,242 @@
+{
+  "company_name": "Schmiedeberger Gießerei GmbH",
+  "candidates": [
+    {
+      "full_name": "Holger Kappelt",
+      "current_title": "Geschäftsführer - CEO",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://schmie-guss.de/contact/",
+          "quote": "Dipl.-Ing. (FH) Holger Kappelt, Geschäftsführer - CEO",
+          "supports": "Listed under Management and Geschäftsführung sections on the company contact page"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Dr. Falko Uyma",
+      "current_title": "Geschäftsführer",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 95,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://schmie-guss.de/contact/",
+          "quote": "Dr. Falko Uyma, Geschäftsführer, Technology section",
+          "supports": "Listed under Technology and Geschäftsführung sections on the company contact page"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Björn Langhelm",
+      "current_title": "Einkauf",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://schmie-guss.de/contact/",
+          "quote": "Björn Langhelm, Einkauf, Administration section",
+          "supports": "Listed as procurement/Einkauf contact in Administration section"
+        }
+      ],
+      "confidence": 0.9,
+      "review_required": true
+    },
+    {
+      "full_name": "Paul Starke",
+      "current_title": "Qualitätssicherung",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 70,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://schmie-guss.de/contact/",
+          "quote": "Paul Starke, Qualitätssicherung, Quality assurance section",
+          "supports": "Listed under Quality assurance section - relevant to refractory/casting quality specification"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Christoffer Schroth",
+      "current_title": "Technik",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 70,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://schmie-guss.de/contact/",
+          "quote": "Christoffer Schroth, Technik, Technology section",
+          "supports": "Listed under Technology section - technical influencer for casting production processes"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Frank Moldenhauer",
+      "current_title": "Arbeitsvorbereitung",
+      "company_match": "verified",
+      "influence_type": "technical_influencer",
+      "influence_score": 55,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://schmie-guss.de/contact/",
+          "quote": "Frank Moldenhauer, Arbeitsvorbereitung, Technology section",
+          "supports": "Listed under Technology section - work preparation role relevant to production planning and raw material scheduling"
+        }
+      ],
+      "confidence": 0.8,
+      "review_required": true
+    },
+    {
+      "full_name": "Peggy Kaden",
+      "current_title": "Personalreferentin",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 30,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+493505221341",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://schmie-guss.de/contact/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://schmie-guss.de/contact/",
+          "quote": "Peggy Kaden, Personalreferentin, Human resources section, phone +49 35052 21 341",
+          "supports": "HR contact with direct phone line"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    },
+    {
+      "full_name": "Julia Hergesell",
+      "current_title": "Personalreferentin",
+      "company_match": "verified",
+      "influence_type": "other",
+      "influence_score": 30,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+493505221372",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://schmie-guss.de/contact/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://schmie-guss.de/contact/",
+          "quote": "Julia Hergesell, Personalreferentin, Human resources section, phone +49 35052 21 372",
+          "supports": "HR contact with direct phone line"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+49350522130",
+      "status": "valid_format",
+      "source_url": "https://schmie-guss.de/contact/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    },
+    {
+      "channel": "phone",
+      "value": "+493505221371",
+      "status": "valid_format",
+      "source_url": "https://schmie-guss.de/contact/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true,
+      "verification_status": "company_source"
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 7,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 34,
+    "search_engine_warnings": 4,
+    "urls_crawled": 16,
+    "crawl_failures": 2,
+    "contact_signals": 5,
+    "official_urls_discovered": 9,
+    "crm_website": "https://schmie-guss.de",
+    "official_website": "https://schmie-guss.de",
+    "website_recovered": false,
+    "pdf_documents_discovered": 2,
+    "pdf_documents_processed": 2,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 34,
+    "pdf_failures": 0,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 4,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 1,
+    "contactable_items": 4,
+    "target_contact_methods": 1,
+    "contact_methods": 4,
+    "contact_target_met": true,
+    "broad_discovery": false,
+    "topeasy_import": {},
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

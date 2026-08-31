@@ -1,0 +1,29 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.hidroveda.ind.br                                                                         | ✓ | ⏱: 3.99s 
+[SCRAPE].. ◆ https://www.hidroveda.ind.br                                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.hidroveda.ind.br                                                                         | ✓ | ⏱: 5.07s 
+[FETCH]... ↓ http://www.hidroveda.ind.br/producao-e-servicos                                                      | ✓ | ⏱: 4.43s 
+[SCRAPE].. ◆ http://www.hidroveda.ind.br/producao-e-servicos                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://www.hidroveda.ind.br/producao-e-servicos                                                      | ✓ | ⏱: 5.33s 
+[FETCH]... ↓ https://www.hidroveda.ind.br/index                                                                   | ✓ | ⏱: 3.85s 
+[SCRAPE].. ◆ https://www.hidroveda.ind.br/index                                                                   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.hidroveda.ind.br/index                                                                   | ✓ | ⏱: 5.09s 
+[FETCH]... ↓ https://www.hidroveda.ind.br/contato                                                                 | ✓ | ⏱: 3.85s 
+[SCRAPE].. ◆ https://www.hidroveda.ind.br/contato                                                                 | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.hidroveda.ind.br/contato                                                                 | ✓ | ⏱: 5.11s 
+[FETCH]... ↓ https://www.hidroveda.ind.br/ligas-cobre                                                             | ✓ | ⏱: 0.67s 
+[SCRAPE].. ◆ https://www.hidroveda.ind.br/ligas-cobre                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.hidroveda.ind.br/ligas-cobre                                                             | ✓ | ⏱: 0.69s 
+[FETCH]... ↓ https://www.hidroveda.ind.br/producao-e-servicos                                                     | ✓ | ⏱: 0.68s 
+[SCRAPE].. ◆ https://www.hidroveda.ind.br/producao-e-servicos                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.hidroveda.ind.br/producao-e-servicos                                                     | ✓ | ⏱: 0.70s 
+[FETCH]... ↓ https://www.hidroveda.ind.br/quem-somos                                                              | ✓ | ⏱: 0.83s 
+[SCRAPE].. ◆ https://www.hidroveda.ind.br/quem-somos                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.hidroveda.ind.br/quem-somos                                                              | ✓ | ⏱: 0.84s 
+[FETCH]... ↓ https://www.hidroveda.ind.br/qualidade                                                               | ✓ | ⏱: 1.32s 
+[SCRAPE].. ◆ https://www.hidroveda.ind.br/qualidade                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.hidroveda.ind.br/qualidade                                                               | ✓ | ⏱: 1.34s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/hidroveda-fundi-o-e-usinagem-de-ligas-de-cobre-18aa3f3c9d78.json

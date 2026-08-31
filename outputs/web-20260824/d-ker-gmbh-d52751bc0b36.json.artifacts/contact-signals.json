@@ -1,0 +1,154 @@
+[
+  {
+    "channel": "email",
+    "value": "info@dueker.de",
+    "status": "observed",
+    "source_url": "https://www.dueker.de/en/imprint/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4993537910",
+    "status": "valid_format",
+    "source_url": "https://www.dueker.de/en/imprint/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+496093870",
+    "status": "valid_format",
+    "source_url": "https://www.dueker.de/en/imprint/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+49753243010",
+    "status": "valid_format",
+    "source_url": "https://www.dueker.de/en/imprint/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+499353791550",
+    "status": "valid_format",
+    "source_url": "https://www.dueker.de/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+499353791551",
+    "status": "valid_format",
+    "source_url": "https://www.dueker.de/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+499353791552",
+    "status": "valid_format",
+    "source_url": "https://www.dueker.de/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+499353791553",
+    "status": "valid_format",
+    "source_url": "https://www.dueker.de/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+499353791555",
+    "status": "valid_format",
+    "source_url": "https://www.dueker.de/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+499353791560",
+    "status": "valid_format",
+    "source_url": "https://www.dueker.de/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+499353791565",
+    "status": "valid_format",
+    "source_url": "https://www.dueker.de/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+499353791280",
+    "status": "valid_format",
+    "source_url": "https://www.dueker.de/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+499353791570",
+    "status": "valid_format",
+    "source_url": "https://www.dueker.de/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+499353791580",
+    "status": "valid_format",
+    "source_url": "https://www.dueker.de/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales.drainage-tech@dueker.de",
+    "status": "observed",
+    "source_url": "https://www.dueker.de/fileadmin/download/en/02_Abflusstechnik/VAT_catalogue_NH.pdf",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+499353791570",
+    "status": "valid_format",
+    "source_url": "https://www.dueker.de/fileadmin/download/en/02_Abflusstechnik/VAT_catalogue_NH.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/raphael-polloke",
+    "status": "probable",
+    "source_url": "https://de.linkedin.com/in/raphael-polloke/en"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/marc-flore-07799b102",
+    "status": "probable",
+    "source_url": "https://de.linkedin.com/in/marc-flore-07799b102"
+  }
+]

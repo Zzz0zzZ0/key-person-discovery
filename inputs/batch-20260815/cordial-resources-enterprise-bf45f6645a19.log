@@ -1,0 +1,48 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.cordialcastings.com.my/lost-wax-investment-casting                                       | ✓ | ⏱: 2.15s 
+[SCRAPE].. ◆ https://www.cordialcastings.com.my/lost-wax-investment-casting                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.cordialcastings.com.my/lost-wax-investment-casting                                       | ✓ | ⏱: 4.17s 
+[FETCH]... ↓ https://www.cordialcastings.com.my/about-us                                                          | ✓ | ⏱: 2.17s 
+[SCRAPE].. ◆ https://www.cordialcastings.com.my/about-us                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.cordialcastings.com.my/about-us                                                          | ✓ | ⏱: 4.19s 
+[FETCH]... ↓ https://www.cordialcastings.com.my                                                                   | ✓ | ⏱: 2.35s 
+[SCRAPE].. ◆ https://www.cordialcastings.com.my                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.cordialcastings.com.my                                                                   | ✓ | ⏱: 4.39s 
+[FETCH]... ↓ https://www.cordialcastings.com.my/home                                                              | ✓ | ⏱: 2.20s 
+[SCRAPE].. ◆ https://www.cordialcastings.com.my/home                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.cordialcastings.com.my/home                                                              | ✓ | ⏱: 4.22s 
+[FETCH]... ↓ https://www.cordialcastings.com.my/other-castings/aluminium-casting                                  | ✓ | ⏱: 0.63s 
+[SCRAPE].. ◆ https://www.cordialcastings.com.my/other-castings/aluminium-casting                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.cordialcastings.com.my/other-castings/aluminium-casting                                  | ✓ | ⏱: 2.66s 
+[FETCH]... ↓ https://www.cordialcastings.com.my/our-capabilities/casting-materials-we-offer                       | ✓ | ⏱: 0.73s 
+[SCRAPE].. ◆ https://www.cordialcastings.com.my/our-capabilities/casting-materials-we-offer                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.cordialcastings.com.my/our-capabilities/casting-materials-we-offer                       | ✓ | ⏱: 2.76s 
+[FETCH]... ↓ https://www.cordialcastings.com.my/other-castings/sla-3d-printing-for-investment-casting             | ✓ | ⏱: 0.75s 
+[SCRAPE].. ◆ https://www.cordialcastings.com.my/other-castings/sla-3d-printing-for-investment-casting             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.cordialcastings.com.my/other-castings/sla-3d-printing-for-investment-casting             | ✓ | ⏱: 2.78s 
+[FETCH]... ↓ https://www.cordialcastings.com.my/our-capabilities/frequently-asked-questions-faq                   | ✓ | ⏱: 0.76s 
+[SCRAPE].. ◆ https://www.cordialcastings.com.my/our-capabilities/frequently-asked-questions-faq                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.cordialcastings.com.my/our-capabilities/frequently-asked-questions-faq                   | ✓ | ⏱: 2.80s 
+[FETCH]... ↓ https://www.cordialcastings.com.my/our-capabilit...ights/why-work-with-cordial-resources-enterprise  | ✓ | ⏱: 0.79s 
+[SCRAPE].. ◆ https://www.cordialcastings.com.my/our-capabilit...ights/why-work-with-cordial-resources-enterprise  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.cordialcastings.com.my/our-capabilit...ights/why-work-with-cordial-resources-enterprise  | ✓ | ⏱: 2.81s 
+[FETCH]... ↓ https://www.exporthub.com/cordial-resources-enterprise-6641021/contact-us.html                       | ✓ | ⏱: 3.19s 
+[SCRAPE].. ◆ https://www.exporthub.com/cordial-resources-enterprise-6641021/contact-us.html                       | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.exporthub.com/cordial-resources-enterprise-6641021/contact-us.html                       | ✓ | ⏱: 5.01s 
+[FETCH]... ↓ https://www.exporthub.com/cordial-resources-enterprise-6641021/quality-assurance.html                | ✓ | ⏱: 3.23s 
+[SCRAPE].. ◆ https://www.exporthub.com/cordial-resources-enterprise-6641021/quality-assurance.html                | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.exporthub.com/cordial-resources-enterprise-6641021/quality-assurance.html                | ✓ | ⏱: 4.68s 
+[FETCH]... ↓ https://www.exporthub.com/cordial-resources-enterprise-6641021/profile.html                          | ✓ | ⏱: 3.30s 
+[SCRAPE].. ◆ https://www.exporthub.com/cordial-resources-enterprise-6641021/profile.html                          | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.exporthub.com/cordial-resources-enterprise-6641021/profile.html                          | ✓ | ⏱: 4.74s 
+[FETCH]... ↓ https://www.facebook.com/p/Cordial-Resources-Enterprise-61574746328857                               | ✓ | ⏱: 3.06s 
+[SCRAPE].. ◆ https://www.facebook.com/p/Cordial-Resources-Enterprise-61574746328857                               | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.facebook.com/p/Cordial-Resources-Enterprise-61574746328857                               | ✓ | ⏱: 5.10s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.cordialcastings.com.my/contact-us                                                        | ✓ | ⏱: 1.97s 
+[SCRAPE].. ◆ https://www.cordialcastings.com.my/contact-us                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.cordialcastings.com.my/contact-us                                                        | ✓ | ⏱: 3.99s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/cordial-resources-enterprise-bf45f6645a19.json

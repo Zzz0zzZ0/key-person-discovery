@@ -1,0 +1,68 @@
+{
+  "company_name": "Harbor Castings Inc.",
+  "candidates": [
+    {
+      "full_name": "Chuck Lane",
+      "current_title": "President",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 8,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/chuck-lane-63b320277/",
+          "status": "probable",
+          "source_url": "https://www.linkedin.com/in/chuck-lane-63b320277/"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.linkedin.com/in/chuck-lane-63b320277/",
+          "quote": "Chuck Lane - President at HARBOR CASTINGS INC. Experience: HARBOR CASTINGS INC. Location: Cuyahoga Falls · 21 connections",
+          "supports": "Current employment as President at Harbor Castings Inc."
+        }
+      ],
+      "confidence": 0.6,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+13304997178",
+      "status": "valid_format",
+      "source_url": "https://www.harborinvestmentcastings.com",
+      "whatsapp_status": "unknown"
+    },
+    {
+      "channel": "phone",
+      "value": "+13304992018",
+      "status": "valid_format",
+      "source_url": "https://www.harborinvestmentcastings.com",
+      "whatsapp_status": "unknown"
+    }
+  ],
+  "review_required": true,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 25,
+    "search_engine_warnings": 15,
+    "urls_crawled": 4,
+    "crawl_failures": 0,
+    "contact_signals": 9,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

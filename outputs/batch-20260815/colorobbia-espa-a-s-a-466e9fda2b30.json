@@ -1,0 +1,69 @@
+{
+  "company_name": "Colorobbia España S.A.",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+34964343131",
+      "status": "valid_format",
+      "source_url": "https://www.colorobbia.com/affiliate/colorobbia-espana/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "info@eximpedia.app",
+      "status": "observed",
+      "source_url": "https://www.eximpedia.app/companies/colorobbia-espana-s-a/86268253",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+6597252405",
+      "status": "valid_format",
+      "source_url": "https://www.eximpedia.app/companies/colorobbia-espana-s-a/86268253",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 19,
+    "search_engine_warnings": 1,
+    "urls_crawled": 11,
+    "crawl_failures": 3,
+    "contact_signals": 10,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 20,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 1,
+    "contactable_items": 3,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

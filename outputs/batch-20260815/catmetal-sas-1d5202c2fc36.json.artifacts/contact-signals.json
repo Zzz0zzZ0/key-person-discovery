@@ -1,0 +1,41 @@
+[
+  {
+    "channel": "email",
+    "value": "ventas@catmetal.com",
+    "status": "observed",
+    "source_url": "https://catmetal.com/"
+  },
+  {
+    "channel": "email",
+    "value": "ventas@catmetal.com",
+    "status": "observed",
+    "source_url": "https://catmetal.com/about/"
+  },
+  {
+    "channel": "email",
+    "value": "ventas@catmetal.com",
+    "status": "observed",
+    "source_url": "http://catmetal.com"
+  },
+  {
+    "channel": "email",
+    "value": "ventas@catmetal.com",
+    "status": "observed",
+    "source_url": "https://catmetal.com/contacto/"
+  },
+  {
+    "channel": "email",
+    "value": "ventas@catmetal.com",
+    "status": "observed",
+    "source_url": "https://catmetal.com/mecanizado/"
+  },
+  {
+    "channel": "phone",
+    "value": "+18553741199",
+    "status": "valid_format",
+    "source_url": "https://www.importgenius.com/suppliers/catmetal-sas",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

@@ -1,0 +1,127 @@
+{
+  "company_name": "Sialon Ceramics",
+  "candidates": [
+    {
+      "full_name": "Nico van Dongen",
+      "current_title": "",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 3,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/nico-v-3a6466165",
+          "status": "probable",
+          "source_url": "https://linkedin.com/in/nico-v-3a6466165"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://sialon.com",
+          "quote": "[ ](https://www.linkedin.com/in/nico-van-dongen-3a6466165/)",
+          "supports": "LinkedIn profile link displayed in site header alongside Twitter and YouTube links on every page of sialon.com"
+        },
+        {
+          "source_url": "https://sialon.com/contact/",
+          "quote": "[ ](https://www.linkedin.com/in/nico-van-dongen-3a6466165/)",
+          "supports": "LinkedIn profile link repeated on contact page header"
+        },
+        {
+          "source_url": "https://sialon.com/about-us/",
+          "quote": "[ ](https://www.linkedin.com/in/nico-van-dongen-3a6466165/)",
+          "supports": "LinkedIn profile link on about-us page header"
+        },
+        {
+          "source_url": "https://linkedin.com/in/nico-v-3a6466165",
+          "quote": "Nico V. # Nico V. Ultrasonic Degassing & Grain Refinement Specialist | Sales & Product Development for Sialon and Sintered Silicon Carbide Ceramics at Sialon Ceramics ApS (est. 1986) | Custom High-Performance Solutions Copenhagen, Capital Region of Denmark, Denmark (DK) 145 connections • 218 followers ## About Ultrasonic Degassing & Grain Refinement Specialist | Sales & Product Development for Sialon and Sintered Silicon Carbide Ceramics at Sialon Ceramics ApS (est. 1986) | Custom High-Performan",
+          "supports": "LinkedIn search evidence matches the official profile ID and shows current employment at the target company"
+        }
+      ],
+      "confidence": 0.55,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+4535158085",
+      "status": "valid_format",
+      "source_url": "https://sialon.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+18337091399",
+      "status": "valid_format",
+      "source_url": "https://sialon.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+46317540790",
+      "status": "valid_format",
+      "source_url": "https://sialon.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "validation_rejections": [
+    {
+      "full_name": "Nico van Dongen",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 11,
+    "anysearch_queries": 7,
+    "anysearch_query_limit": 7,
+    "anysearch_extended": true,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 55,
+    "search_engine_warnings": 9,
+    "urls_crawled": 20,
+    "crawl_failures": 0,
+    "contact_signals": 80,
+    "official_urls_discovered": 3,
+    "crm_website": "https://sialon.com",
+    "official_website": "https://sialon.com",
+    "website_recovered": false,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 1,
+    "unverified_candidates": 0,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 4,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

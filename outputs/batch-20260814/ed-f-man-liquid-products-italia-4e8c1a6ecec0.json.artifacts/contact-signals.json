@@ -1,0 +1,263 @@
+[
+  {
+    "channel": "email",
+    "value": "fertilizzanti@edfman.com",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sugarplusitalia@gmail.com",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sugarplus-logo@0.5x.png",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://it.linkedin.com/in/sugar-plus-italia-a03033192",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/contacts/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+39051277011",
+    "status": "valid_format",
+    "source_url": "https://www.edfman.it/en/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+39051277048",
+    "status": "valid_format",
+    "source_url": "https://www.edfman.it/en/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+39051277042",
+    "status": "valid_format",
+    "source_url": "https://www.edfman.it/en/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390100996530",
+    "status": "valid_format",
+    "source_url": "https://www.edfman.it/en/contacts/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sugarplus-logo@0.5x.png",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://it.linkedin.com/in/sugar-plus-italia-a03033192",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "fertilizzanti@edfman.com",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/contatti/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sugarplusitalia@gmail.com",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/contatti/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sugarplus-logo@0.5x.png",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/contatti/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://it.linkedin.com/in/sugar-plus-italia-a03033192",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/contatti/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+39051277011",
+    "status": "valid_format",
+    "source_url": "https://www.edfman.it/contatti/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+39051277048",
+    "status": "valid_format",
+    "source_url": "https://www.edfman.it/contatti/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+39051277042",
+    "status": "valid_format",
+    "source_url": "https://www.edfman.it/contatti/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+390100996530",
+    "status": "valid_format",
+    "source_url": "https://www.edfman.it/contatti/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sugarplus-logo@0.5x.png",
+    "status": "observed",
+    "source_url": "https://www.edfman.it",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://it.linkedin.com/in/sugar-plus-italia-a03033192",
+    "status": "observed",
+    "source_url": "https://www.edfman.it",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "dataprotection@edfman.com",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/privacy-policy/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sugarplus-logo@0.5x.png",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/privacy-policy/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://it.linkedin.com/in/sugar-plus-italia-a03033192",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/privacy-policy/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sugarplus-logo@0.5x.png",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/projects/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://it.linkedin.com/in/sugar-plus-italia-a03033192",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/projects/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sugarplus-logo@0.5x.png",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/about/our-business/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://it.linkedin.com/in/sugar-plus-italia-a03033192",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/about/our-business/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sugarplus-logo@0.5x.png",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/about/our-values/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://it.linkedin.com/in/sugar-plus-italia-a03033192",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/about/our-values/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sugarplus-logo@0.5x.png",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/about/our-history/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://it.linkedin.com/in/sugar-plus-italia-a03033192",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/about/our-history/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sugarplus-logo@0.5x.png",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/about/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://it.linkedin.com/in/sugar-plus-italia-a03033192",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/about/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sugarplus-logo@0.5x.png",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/lastest-news/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://it.linkedin.com/in/sugar-plus-italia-a03033192",
+    "status": "observed",
+    "source_url": "https://www.edfman.it/en/lastest-news/",
+    "company_public": true
+  }
+]

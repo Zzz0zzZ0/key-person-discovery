@@ -1,0 +1,32 @@
+[
+  {
+    "query": "https://garion.en.ec21.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://garion.en.ec21.com/sitemap.xml: HTTP Error 502: Bad Gateway"
+  },
+  {
+    "query": "\"GARION INTERNATIONAL LTD\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:garion.en.ec21.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:garion.en.ec21.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "too many requests"
+  },
+  {
+    "query": "site:garion.en.ec21.com (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  }
+]

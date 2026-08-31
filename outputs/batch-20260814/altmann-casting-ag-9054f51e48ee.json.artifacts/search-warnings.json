@@ -1,0 +1,32 @@
+[
+  {
+    "query": "https://www.altmann-casting.ch",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.altmann-casting.ch/sitemap.xml: HTTP Error 404: Not Found"
+  },
+  {
+    "query": "site:altmann-casting.ch (team OR management OR contact)",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for 'site:altmann-casting.ch (team OR management OR contact)': <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "site:altmann-casting.ch (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "bing",
+    "reason": "HTTP connection error"
+  },
+  {
+    "query": "site:altmann-casting.ch (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:altmann-casting.ch (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  }
+]

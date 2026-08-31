@@ -1,0 +1,113 @@
+{
+  "company_name": "Minex Group International",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "gdpr@minexgroup.eu",
+      "status": "observed",
+      "source_url": "https://www.minexgroup.eu/en/gdpr",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "anspdcp@dataprotection.ro",
+      "status": "observed",
+      "source_url": "https://www.minexgroup.eu/en/gdpr",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+40318059211",
+      "status": "valid_format",
+      "source_url": "https://www.minexgroup.eu/en/gdpr",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+40213060281",
+      "status": "valid_format",
+      "source_url": "https://www.minexgroup.eu/en/dehumidification/silica-gel-dehumidifiers/mnx-ah-dehumidifiers",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+40729019952",
+      "status": "valid_format",
+      "source_url": "https://www.minexgroup.eu/en",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+40730018344",
+      "status": "valid_format",
+      "source_url": "https://www.minexgroup.eu/en",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+38163507586",
+      "status": "valid_format",
+      "source_url": "https://www.minexgroup.eu/en",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+37067463371",
+      "status": "valid_format",
+      "source_url": "https://www.minexgroup.eu/en",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Mircea Minea",
+      "matched_by": [
+        "linkedin",
+        "name"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 26,
+    "search_engine_warnings": 1,
+    "urls_crawled": 14,
+    "crawl_failures": 3,
+    "contact_signals": 22,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 4,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 19,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 1,
+    "contactable_items": 8,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

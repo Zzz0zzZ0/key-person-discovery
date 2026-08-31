@@ -1,0 +1,62 @@
+{
+  "company_name": "IMF Group S.p.A.",
+  "candidates": [],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "run_summary": {
+    "queries": 0,
+    "anysearch_queries": 0,
+    "customs_anysearch_queries": 0,
+    "search_results": 1,
+    "search_engine_warnings": 0,
+    "urls_crawled": 0,
+    "crawl_failures": 0,
+    "search_evidence_pages": 1,
+    "contact_signals": 1,
+    "validation_rejections": 1,
+    "unverified_candidates": 1,
+    "contactable_items": 0,
+    "contact_target_met": false
+  },
+  "reprocessed_from": "42af88636ab3",
+  "reprocessed_at": "2026-08-15T09:00:56.633844+00:00",
+  "reprocess_reason": "offline validation of unverified-candidate display using preserved search evidence",
+  "unverified_candidates": [
+    {
+      "full_name": "Bryce McNally",
+      "current_title": "Managing Director",
+      "company_match": "probable",
+      "influence_type": "decision_maker",
+      "influence_score": 9,
+      "linkedin": [
+        {
+          "value": "https://www.linkedin.com/in/bryce-mcnally-99473bba",
+          "status": "probable",
+          "source_url": "https://nz.linkedin.com/in/bryce-mcnally-99473bba"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://nz.linkedin.com/in/bryce-mcnally-99473bba",
+          "quote": "Bryce McNally - Managing Director at IMF Group Limited",
+          "supports": "Identified as Managing Director at IMF Group; entity designation Limited vs S.p.A. unclear and may be related entity"
+        }
+      ],
+      "confidence": 0.35,
+      "review_required": true,
+      "validation_reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "validation_rejections": [
+    {
+      "full_name": "Bryce McNally",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,895 @@
+[
+  {
+    "channel": "email",
+    "value": "info@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586825811",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dansand.dk",
+    "status": "observed",
+    "source_url": "http://www.dansand.dk",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586825811",
+    "status": "valid_format",
+    "source_url": "http://www.dansand.dk",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "mail@skalflex.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "weber@weber.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@goose-agency.co.uk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "post@aaltvedt.no",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coeck.be",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "utrecht@tuinvisie.nl",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "office@beprogrande.com",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@benders.se",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kontakt@weber.se",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "mail@flisbyab.se",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ibf@ibf.pl",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "lars@ridebane.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4530864316",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586825811",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586612299",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4570101025",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4735915000",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+3238807500",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+381628057708",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+46108880000",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4686256100",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4638080200",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+48757324031",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4527644191",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/find-us/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/databeskyttelseserklaering/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586825811",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/find-us/databeskyttelseserklaering/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/csr/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586825811",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/csr/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/colophon/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586825811",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/find-us/colophon/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/history/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586825811",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/history/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/oil/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586825811",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/find-us/oil/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/sales-and-delivery/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586825811",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/find-us/sales-and-delivery/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/find-us/history/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586825811",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/find-us/history/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/sand-knowledge/news/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586825811",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/sand-knowledge/news/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/values/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586825811",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/values/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tsh@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "lkb@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "alp@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ca@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "pch@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "lhj@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ken@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sgs@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hd@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "rkn@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "prh@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "nlf@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "psv@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ph@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ah@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kj@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "svj@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ms@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kas@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tn@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "pkb@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4523474928",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4520620485",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4523227272",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4523227263",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4540164813",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4525803234",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586825811",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4587206535",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4523227266",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4525107839",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4576585103",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4560157652",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4523227258",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4540402997",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4540565822",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4587206534",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4587206539",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/staff/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/about-us/jobs-and-careers/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586825811",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/about-us/jobs-and-careers/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/wissen-ueber-sand/news-und-blog/?lang=de",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586825811",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/wissen-ueber-sand/news-und-blog/?lang=de",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tsh@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "lkb@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "alp@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ca@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "pch@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "lhj@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ken@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sgs@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "hd@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "rkn@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "prh@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "nlf@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "psv@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ph@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ah@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kj@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "svj@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ms@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "kas@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "tn@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "pkb@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586825811",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/om-os/medarbejdere/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@dansand.dk",
+    "status": "observed",
+    "source_url": "https://dansand.dk/product/dansand-kerama/?lang=en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4586825811",
+    "status": "valid_format",
+    "source_url": "https://dansand.dk/product/dansand-kerama/?lang=en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

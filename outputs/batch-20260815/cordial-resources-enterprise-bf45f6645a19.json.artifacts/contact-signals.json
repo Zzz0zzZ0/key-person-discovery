@@ -1,0 +1,66 @@
+[
+  {
+    "channel": "email",
+    "value": "contactus@exporthub.com",
+    "status": "observed",
+    "source_url": "https://www.exporthub.com/cordial-resources-enterprise-6641021/contact-us.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+12143067737",
+    "status": "valid_format",
+    "source_url": "https://www.exporthub.com/cordial-resources-enterprise-6641021/contact-us.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contactus@exporthub.com",
+    "status": "observed",
+    "source_url": "https://www.exporthub.com/cordial-resources-enterprise-6641021/quality-assurance.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+12143067737",
+    "status": "valid_format",
+    "source_url": "https://www.exporthub.com/cordial-resources-enterprise-6641021/quality-assurance.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contactus@exporthub.com",
+    "status": "observed",
+    "source_url": "https://www.exporthub.com/cordial-resources-enterprise-6641021/profile.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+12143067737",
+    "status": "valid_format",
+    "source_url": "https://www.exporthub.com/cordial-resources-enterprise-6641021/profile.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@cordialcastings.com.my",
+    "status": "observed",
+    "source_url": "https://www.facebook.com/p/Cordial-Resources-Enterprise-61574746328857",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+601120709882",
+    "status": "valid_format",
+    "source_url": "https://www.facebook.com/p/Cordial-Resources-Enterprise-61574746328857",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

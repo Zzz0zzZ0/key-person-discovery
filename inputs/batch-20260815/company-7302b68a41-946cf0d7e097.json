@@ -1,0 +1,37 @@
+{
+  "name": "株式会社光陽社",
+  "website": "https://www.koyo-sha.co.jp",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "00326718-d5a9-4837-a89f-0ac53682d6d4",
+  "crm_linkedin_url": "http://www.linkedin.com/company/%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e5%85%89%e9%99%bd%e7%a4%be",
+  "crm_country": "日本",
+  "crm_updated_at": "2026-07-29T05:05:59.248864+00:00",
+  "crm_contact_count": 0,
+  "crm_contacts": [],
+  "target_contact_count": 4,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-15T07:56:11.936010+00:00",
+  "source": "twenty_postgresql_read_only"
+}

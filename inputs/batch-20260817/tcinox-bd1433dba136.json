@@ -1,0 +1,37 @@
+{
+  "name": "TCINOX",
+  "website": "https://tcinox.com.br",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "018e3411-858c-4989-986f-675ac59d74d1",
+  "crm_linkedin_url": null,
+  "crm_country": "巴西",
+  "crm_updated_at": "2026-07-31T08:49:40.652849+00:00",
+  "crm_contact_count": 0,
+  "crm_contacts": [],
+  "target_contact_count": 4,
+  "customs_search_enabled": false,
+  "fetched_at": "2026-08-17T02:44:40.593087+00:00",
+  "source": "twenty_postgresql_read_only"
+}

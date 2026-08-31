@@ -1,0 +1,32 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://ceramcore-stadtmueller.com/en/qualitaetssicherung/                                           | ✓ | ⏱: 3.07s 
+[SCRAPE].. ◆ https://ceramcore-stadtmueller.com/en/qualitaetssicherung/                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ceramcore-stadtmueller.com/en/qualitaetssicherung/                                           | ✓ | ⏱: 4.68s 
+[FETCH]... ↓ https://ceramcore-stadtmueller.com/en/anwendungen/                                                   | ✓ | ⏱: 3.12s 
+[SCRAPE].. ◆ https://ceramcore-stadtmueller.com/en/anwendungen/                                                   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://ceramcore-stadtmueller.com/en/anwendungen/                                                   | ✓ | ⏱: 4.69s 
+[FETCH]... ↓ https://ceramcore-stadtmueller.com                                                                   | ✓ | ⏱: 3.31s 
+[SCRAPE].. ◆ https://ceramcore-stadtmueller.com                                                                   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://ceramcore-stadtmueller.com                                                                   | ✓ | ⏱: 4.81s 
+[FETCH]... ↓ https://ceramcore-stadtmueller.com/en/kontakt-impressum/                                             | ✓ | ⏱: 3.10s 
+[SCRAPE].. ◆ https://ceramcore-stadtmueller.com/en/kontakt-impressum/                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://ceramcore-stadtmueller.com/en/kontakt-impressum/                                             | ✓ | ⏱: 4.71s 
+[FETCH]... ↓ https://ceramcore-stadtmueller.com/en/so-finden-sie-uns/                                             | ✓ | ⏱: 1.18s 
+[SCRAPE].. ◆ https://ceramcore-stadtmueller.com/en/so-finden-sie-uns/                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://ceramcore-stadtmueller.com/en/so-finden-sie-uns/                                             | ✓ | ⏱: 1.19s 
+[FETCH]... ↓ https://ceramcore-stadtmueller.com/kontakt-impressum/                                                | ✓ | ⏱: 1.98s 
+[SCRAPE].. ◆ https://ceramcore-stadtmueller.com/kontakt-impressum/                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://ceramcore-stadtmueller.com/kontakt-impressum/                                                | ✓ | ⏱: 1.99s 
+[FETCH]... ↓ https://www.zoominfo.com/c/gieereitechnik-heinrich-stadtmüller-gmbh/532126942                       | ✓ | ⏱: 0.50s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/gieereitechnik-heinrich-stadtmüller-gmbh/532126942                       | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...tmüller-gmbh/532126942  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.zoominfo.com/c/gieereitechnik-heinrich-stadtmüller-gmbh/532126942                       | ✗ | ⏱: 2.39s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.zoominfo.com/c/gieereitechnik-heinrich-stadtmüller-gmbh/532126942                       | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.zoominfo.com/c/gieereitechnik-heinrich-stadtmüller-gmbh/532126942                       | ✓ | ⏱: 0.00s 
+Xref table not zero-indexed. ID numbers for objects will be corrected.
+Xref table not zero-indexed. ID numbers for objects will be corrected.
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260824/giessereitechnik-heinrich-stadtm-ller-gmbh-4d4d542de058.json

@@ -1,0 +1,77 @@
+{
+  "company_name": "Fundición Ariente S.A.",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "info@fundicionariente.com",
+      "status": "observed",
+      "source_url": "https://infonegocios.info/tarjetero/empresa/fundicion-ariente",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+543514750326",
+      "status": "valid_format",
+      "source_url": "https://infonegocios.info/tarjetero/empresa/fundicion-ariente",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "comercial@fundicionariente.com.ar",
+      "status": "observed",
+      "source_url": "https://fundicionariente.com.ar/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+5493513448711",
+      "status": "valid_format",
+      "source_url": "https://fundicionariente.com.ar/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Jose Canelo",
+      "matched_by": [
+        "linkedin",
+        "name"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 1,
+  "run_summary": {
+    "queries": 6,
+    "search_results": 27,
+    "search_engine_warnings": 1,
+    "urls_crawled": 11,
+    "crawl_failures": 1,
+    "contact_signals": 11,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 1,
+    "contact_evidence_pages": 1,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 14,
+    "crm_duplicates_removed": 1,
+    "target_contactable_items": 1,
+    "contactable_items": 4,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

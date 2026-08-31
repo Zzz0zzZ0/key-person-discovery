@@ -1,0 +1,150 @@
+{
+  "company_name": "Southern Cement Limited",
+  "candidates": [
+    {
+      "full_name": "Terry Day",
+      "current_title": "Sales Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 5,
+      "linkedin": [],
+      "emails": [
+        {
+          "value": "tday@southerncement.co.uk",
+          "status": "observed",
+          "source_url": "https://www.southerncement.co.uk/customer-support/"
+        }
+      ],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.southerncement.co.uk/customer-support/",
+          "quote": "Terry Day, Sales Manager, Tel: 07973 952715, Email: tday@southerncement.co.uk",
+          "supports": "Named Sales Manager with direct contact details on official customer support page"
+        },
+        {
+          "source_url": "https://www.southerncement.co.uk/our-locations/ipswich/",
+          "quote": "Sales Manager: Terry Day, Email: tday@southerncement.co.uk, Mobile: 07973 952715",
+          "supports": "Terry Day confirmed as Sales Manager at Ipswich location with mobile number"
+        },
+        {
+          "source_url": "https://www.southerncement.co.uk/contact-us/",
+          "quote": "Terry Day, Tel: 01473 284320",
+          "supports": "Listed as primary contact for Ipswich and Shoreham on contact page"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    },
+    {
+      "full_name": "Pete Whiting",
+      "current_title": "Location Manager",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 4,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.southerncement.co.uk/contact-us/",
+          "quote": "Pete Whiting, Tel: 01430 434 950",
+          "supports": "Named as contact for Howden location on official contact page"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "rgreally@premiercement.co.uk",
+      "status": "observed",
+      "source_url": "https://www.southerncement.co.uk/customer-support/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "pmatthews@premiercement.co.uk",
+      "status": "observed",
+      "source_url": "https://www.southerncement.co.uk/customer-support/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "payablesscl@isac.crh.com",
+      "status": "observed",
+      "source_url": "https://www.southerncement.co.uk/customer-support/",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+35314682590",
+      "status": "valid_format",
+      "source_url": "https://www.southerncement.co.uk/our-locations/ipswich/",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "validation_rejections": [
+    {
+      "full_name": "Russ Greally",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    },
+    {
+      "full_name": "Philip Matthews",
+      "reasons": [
+        "current employment at the target company is not verified"
+      ]
+    }
+  ],
+  "crm_duplicates": [
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "phone",
+      "matched_by": [
+        "phone"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 2,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 35,
+    "search_engine_warnings": 24,
+    "urls_crawled": 15,
+    "crawl_failures": 5,
+    "contact_signals": 23,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 2,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 2,
+    "target_contactable_items": 4,
+    "contactable_items": 5,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

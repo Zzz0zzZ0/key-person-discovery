@@ -1,0 +1,66 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://schmie-guss.de/en/company/history/                                                           | ✓ | ⏱: 1.05s 
+[SCRAPE].. ◆ https://schmie-guss.de/en/company/history/                                                           | ✓ | ⏱: 0.00s 
+[ERROR]... × https://schmie-guss.de/en/company/history/         | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (39 bytes, 0 chars visible) 
+[COMPLETE] ● https://schmie-guss.de/en/company/history/                                                           | ✗ | ⏱: 1.95s 
+[FETCH]... ↓ https://schmie-guss.de/en/products-services/casting-production/                                      | ✓ | ⏱: 0.82s 
+[SCRAPE].. ◆ https://schmie-guss.de/en/products-services/casting-production/                                      | ✓ | ⏱: 0.00s 
+[ERROR]... × https://schmie-guss.de/...ces/casting-production/  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (39 bytes, 0 chars visible) 
+[COMPLETE] ● https://schmie-guss.de/en/products-services/casting-production/                                      | ✗ | ⏱: 0.83s 
+[FETCH]... ↓ https://www.crunchbase.com/organization/schmiedeberger-gießerei                                      | ✓ | ⏱: 0.47s 
+[SCRAPE].. ◆ https://www.crunchbase.com/organization/schmiedeberger-gießerei                                      | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.crunchbase....schmiedeberger-gießerei  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.crunchbase.com/organization/schmiedeberger-gießerei                                      | ✗ | ⏱: 1.12s 
+[FETCH]... ↓ https://schmie-guss.de                                                                               | ✓ | ⏱: 2.78s 
+[SCRAPE].. ◆ https://schmie-guss.de                                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://schmie-guss.de                                                                               | ✓ | ⏱: 4.15s 
+[FETCH]... ↓ https://schmie-guss.de/en/products-services/                                                         | ✓ | ⏱: 2.81s 
+[SCRAPE].. ◆ https://schmie-guss.de/en/products-services/                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://schmie-guss.de/en/products-services/                                                         | ✓ | ⏱: 3.93s 
+[FETCH]... ↓ https://schmie-guss.de/en/company/                                                                   | ✓ | ⏱: 3.05s 
+[SCRAPE].. ◆ https://schmie-guss.de/en/company/                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://schmie-guss.de/en/company/                                                                   | ✓ | ⏱: 3.96s 
+[FETCH]... ↓ https://www.zoominfo.com/c/schmiedeberger-gießerei-gmbh/430302035                                    | ✓ | ⏱: 0.51s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/schmiedeberger-gießerei-gmbh/430302035                                    | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...gießerei-gmbh/430302035  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.zoominfo.com/c/schmiedeberger-gießerei-gmbh/430302035                                    | ✗ | ⏱: 1.17s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://schmie-guss.de/en/company/history/                                                           | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://schmie-guss.de/en/company/history/                                                           | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://www.crunchbase.com/organization/schmiedeberger-gießerei                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.crunchbase.com/organization/schmiedeberger-gießerei                                      | ✓ | ⏱: 0.01s 
+[FETCH]... ↓ https://www.zoominfo.com/c/schmiedeberger-gießerei-gmbh/430302035                                    | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.zoominfo.com/c/schmiedeberger-gießerei-gmbh/430302035                                    | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://schmie-guss.de/en/products-services/casting-production/                                      | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://schmie-guss.de/en/products-services/casting-production/                                      | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://schmie-guss.de/company/social-commitment/                                                    | ✓ | ⏱: 2.66s 
+[SCRAPE].. ◆ https://schmie-guss.de/company/social-commitment/                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://schmie-guss.de/company/social-commitment/                                                    | ✓ | ⏱: 2.68s 
+[FETCH]... ↓ https://schmie-guss.de/company/mission-statement/                                                    | ✓ | ⏱: 2.67s 
+[SCRAPE].. ◆ https://schmie-guss.de/company/mission-statement/                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://schmie-guss.de/company/mission-statement/                                                    | ✓ | ⏱: 2.70s 
+[FETCH]... ↓ https://schmie-guss.de/company/history/                                                              | ✓ | ⏱: 2.69s 
+[SCRAPE].. ◆ https://schmie-guss.de/company/history/                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://schmie-guss.de/company/history/                                                              | ✓ | ⏱: 2.71s 
+[FETCH]... ↓ https://schmie-guss.de/company/                                                                      | ✓ | ⏱: 3.10s 
+[SCRAPE].. ◆ https://schmie-guss.de/company/                                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://schmie-guss.de/company/                                                                      | ✓ | ⏱: 3.12s 
+[FETCH]... ↓ https://schmie-guss.de/wp-content/uploads/sites/4/2025/04/2025-04-24_News-Foundry-Planet-4x3-b.webp  | ✓ | ⏱: 0.72s 
+[SCRAPE].. ◆ https://schmie-guss.de/wp-content/uploads/sites/4/2025/04/2025-04-24_News-Foundry-Planet-4x3-b.webp  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://schmie-guss.de/...undry-Planet-4x3-b.webp  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (555 bytes, 0 chars visible) 
+[COMPLETE] ● https://schmie-guss.de/wp-content/uploads/sites/4/2025/04/2025-04-24_News-Foundry-Planet-4x3-b.webp  | ✗ | ⏱: 0.72s 
+[FETCH]... ↓ https://schmie-guss.de/news/                                                                         | ✓ | ⏱: 0.74s 
+[SCRAPE].. ◆ https://schmie-guss.de/news/                                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://schmie-guss.de/news/                                                                         | ✓ | ⏱: 0.76s 
+[FETCH]... ↓ https://schmie-guss.de/contact/                                                                      | ✓ | ⏱: 1.34s 
+[SCRAPE].. ◆ https://schmie-guss.de/contact/                                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://schmie-guss.de/contact/                                                                      | ✓ | ⏱: 1.36s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://schmie-guss.de/wp-content/uploads/sites/4/2025/04/2025-04-24_News-Foundry-Planet-4x3-b.webp  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://schmie-guss.de/wp-content/uploads/sites/4/2025/04/2025-04-24_News-Foundry-Planet-4x3-b.webp  | ✓ | ⏱: 0.00s 
+Xref table not zero-indexed. ID numbers for objects will be corrected.
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260824/schmiedeberger-giesserei-gmbh-ca7dc2d9e9ee.json

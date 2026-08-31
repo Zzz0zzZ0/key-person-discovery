@@ -1,0 +1,689 @@
+[
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/about-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/company-overview/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/company-overview/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+13077760608",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/company-overview/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/company-overview/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/about/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/about/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/about/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/news-1/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/news-1/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/news-1/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/news-2/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/news-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/news-2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/news-3/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/news-3/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/news-3/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "support@example.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "contact@example.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+13077760608",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/news-4/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/news-4/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/news-4/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/news-5/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/news-5/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/news-5/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/news/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/product/bs-520lp-contact-adhesive-laminated-plastic/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-520lp-contact-adhesive-laminated-plastic/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-520lp-contact-adhesive-laminated-plastic/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/product/bs-520hs-contact-adhesive-high-solid/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-520hs-contact-adhesive-high-solid/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-520hs-contact-adhesive-high-solid/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/product/bs-520-contact-adhesive/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-520-contact-adhesive/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-520-contact-adhesive/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/product/bs-520lt-contact-adhesive-long-tack/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-520lt-contact-adhesive-long-tack/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-520lt-contact-adhesive-long-tack/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/product/bs-523-sprayable-contact-adhesive/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-523-sprayable-contact-adhesive/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-523-sprayable-contact-adhesive/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/product/bs-524hs-sprayable-contact-adhesive/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-524hs-sprayable-contact-adhesive/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-524hs-sprayable-contact-adhesive/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/product/bs-8125-contact-adhesive/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-8125-contact-adhesive/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-8125-contact-adhesive/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/product/bs-525-sprayable-contact-adhesive-heat-resistant/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-525-sprayable-contact-adhesive-heat-resistant/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-525-sprayable-contact-adhesive-heat-resistant/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/product/co-contact-cleaner/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/co-contact-cleaner/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/co-contact-cleaner/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/product/power-contact-cleaner/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/power-contact-cleaner/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/power-contact-cleaner/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/team-member/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/team-member/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/team-member/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+971505705176",
+    "status": "verified",
+    "source_url": "https://dcciinfo.com/co/coral-business-investment-center-llc-oman/429682",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+971505705176",
+    "status": "valid_format",
+    "source_url": "https://dcciinfo.com/co/coral-business-investment-center-llc-oman/429682",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://dcciinfo.com/co/coral-business-investment-center-llc-oman/429682",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/product-category/bossil/contact-adhesive/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product-category/bossil/contact-adhesive/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product-category/bossil/contact-adhesive/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@coral-bic.com",
+    "status": "observed",
+    "source_url": "https://coral-bic.com/product/bs-523-sprayable-contact-adhesive/<br%20/>%0A<b>Deprecated</b>:%20%20ltrim\\(\\",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96891112577",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-523-sprayable-contact-adhesive/<br%20/>%0A<b>Deprecated</b>:%20%20ltrim\\(\\",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+96890947810",
+    "status": "valid_format",
+    "source_url": "https://coral-bic.com/product/bs-523-sprayable-contact-adhesive/<br%20/>%0A<b>Deprecated</b>:%20%20ltrim\\(\\",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/coral-business-investment-center-llc-023275296",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/coral-business-investment-center-llc-023275296"
+  }
+]

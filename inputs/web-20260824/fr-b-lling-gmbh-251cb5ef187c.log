@@ -1,0 +1,14 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.00s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://boelling-guss.de                                                                             | ✓ | ⏱: 1.43s 
+[SCRAPE].. ◆ https://boelling-guss.de                                                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://boelling-guss.de                                                                             | ✓ | ⏱: 2.14s 
+[FETCH]... ↓ https://www.boelling-guss.de/                                                                        | ✓ | ⏱: 1.51s 
+[SCRAPE].. ◆ https://www.boelling-guss.de/                                                                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.boelling-guss.de/                                                                        | ✓ | ⏱: 2.40s 
+[FETCH]... ↓ https://www.boelling-guss.de/kontakt.php                                                             | ✓ | ⏱: 1.47s 
+[SCRAPE].. ◆ https://www.boelling-guss.de/kontakt.php                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.boelling-guss.de/kontakt.php                                                             | ✓ | ⏱: 2.13s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260824/fr-b-lling-gmbh-251cb5ef187c.json

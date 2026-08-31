@@ -1,0 +1,314 @@
+[
+  {
+    "channel": "email",
+    "value": "post@resitec.no",
+    "status": "observed",
+    "source_url": "https://www.resitec.no/2018/04/25/vil-du-vaere-en-del-av-teamet-i-resitec/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "knut.mork@resitec.no",
+    "status": "observed",
+    "source_url": "https://www.resitec.no/about-resitec/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "mads.heintz@resitec.no",
+    "status": "observed",
+    "source_url": "https://www.resitec.no/about-resitec/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sjur.velken@resitec.no",
+    "status": "observed",
+    "source_url": "https://www.resitec.no/about-resitec/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "thore.sorensen@resitec.no",
+    "status": "observed",
+    "source_url": "https://www.resitec.no/about-resitec/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "monica.moen@resitec.no",
+    "status": "observed",
+    "source_url": "https://www.resitec.no/about-resitec/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/knut-edward-m%C3%B8rk-8bbb3947/",
+    "status": "observed",
+    "source_url": "https://www.resitec.no/about-resitec/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/mads-christensen-heintz-500b87142/",
+    "status": "observed",
+    "source_url": "https://www.resitec.no/about-resitec/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/thoresorensen/",
+    "status": "observed",
+    "source_url": "https://www.resitec.no/about-resitec/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4791867308",
+    "status": "valid_format",
+    "source_url": "https://www.resitec.no/about-resitec/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4745414332",
+    "status": "valid_format",
+    "source_url": "https://www.resitec.no/about-resitec/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4791125012",
+    "status": "valid_format",
+    "source_url": "https://www.resitec.no/about-resitec/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4795992260",
+    "status": "valid_format",
+    "source_url": "https://www.resitec.no/about-resitec/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4747638404",
+    "status": "valid_format",
+    "source_url": "https://www.resitec.no/about-resitec/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "post@resitec.no",
+    "status": "observed",
+    "source_url": "https://www.resitec.no/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4791867308",
+    "status": "valid_format",
+    "source_url": "https://www.resitec.no/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4795992260",
+    "status": "valid_format",
+    "source_url": "https://www.resitec.no/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4791125012",
+    "status": "valid_format",
+    "source_url": "https://www.resitec.no/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4745411415",
+    "status": "valid_format",
+    "source_url": "https://www.resitec.no/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4747638404",
+    "status": "valid_format",
+    "source_url": "https://www.resitec.no/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4745414332",
+    "status": "valid_format",
+    "source_url": "https://www.resitec.no/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/tania-darc-machado-03a88936",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/ricardo-osborne-86587b5a"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/sylvio-g-562aa371",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/ricardo-osborne-86587b5a"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/ricardo-osborne-86587b5a",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/ricardo-osborne-86587b5a"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/dr-mahesh-kulkarni-78541632",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/dr-mahesh-kulkarni-78541632"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/knut-edward-m%C3%B8rk-8bbb3947",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/knut-edward-m%C3%B8rk-8bbb3947"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/george-assis-27a31523",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/george-assis-27a31523"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/fabrice-chotin-710034197",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/fabrice-chotin-710034197"
+  },
+  {
+    "channel": "email",
+    "value": "knut.mork@resitec.no",
+    "status": "probable",
+    "source_url": "https://www.resitec.no/about-resitec",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "mads.heintz@resitec.no",
+    "status": "probable",
+    "source_url": "https://www.resitec.no/about-resitec",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sjur.velken@resitec.no",
+    "status": "probable",
+    "source_url": "https://www.resitec.no/about-resitec",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "thore.sorensen@resitec.no",
+    "status": "probable",
+    "source_url": "https://www.resitec.no/about-resitec",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "monica.moen@resitec.no",
+    "status": "probable",
+    "source_url": "https://www.resitec.no/about-resitec",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/knut-edward-m%C3%B8rk-8bbb3947/",
+    "status": "observed",
+    "source_url": "https://www.resitec.no/about-resitec",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/mads-christensen-heintz-500b87142/",
+    "status": "observed",
+    "source_url": "https://www.resitec.no/about-resitec",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/thoresorensen/",
+    "status": "observed",
+    "source_url": "https://www.resitec.no/about-resitec",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4791867308",
+    "status": "valid_format",
+    "source_url": "https://www.resitec.no/about-resitec",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4745414332",
+    "status": "valid_format",
+    "source_url": "https://www.resitec.no/about-resitec",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4791125012",
+    "status": "valid_format",
+    "source_url": "https://www.resitec.no/about-resitec",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4795992260",
+    "status": "valid_format",
+    "source_url": "https://www.resitec.no/about-resitec",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4747638404",
+    "status": "valid_format",
+    "source_url": "https://www.resitec.no/about-resitec",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

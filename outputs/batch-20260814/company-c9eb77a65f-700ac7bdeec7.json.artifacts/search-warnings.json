@@ -1,0 +1,56 @@
+[
+  {
+    "query": "https://hanjoolightmetal.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://hanjoolightmetal.com/sitemap.xml: <urlopen error _ssl.c:999: The handshake operation timed out>"
+  },
+  {
+    "query": "\"한주라이트메탈(주)\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for '\"한주라이트메탈(주)\" (procurement OR purchasing OR sourcing OR buyer)': <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "\"한주라이트메탈(주)\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"한주라이트메탈(주)\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "too many requests"
+  },
+  {
+    "query": "\"한주라이트메탈(주)\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:hanjoolightmetal.com (team OR management OR contact)",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for 'site:hanjoolightmetal.com (team OR management OR contact)': Remote end closed connection without response"
+  },
+  {
+    "query": "site:hanjoolightmetal.com (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "searxng",
+    "reason": "All active SearXNG engines failed for 'site:hanjoolightmetal.com (team OR management OR contact)': bing: HTTP connection error, duckduckgo: HTTP connection error, google cse: Suspended: too many requests, qwant: HTTP connection error"
+  },
+  {
+    "query": "site:hanjoolightmetal.com filetype:pdf",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for 'site:hanjoolightmetal.com filetype:pdf': <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "site:hanjoolightmetal.com filetype:pdf",
+    "provider": "searxng",
+    "engine": "searxng",
+    "reason": "All active SearXNG engines failed for 'site:hanjoolightmetal.com filetype:pdf': bing: HTTP connection error, duckduckgo: HTTP connection error, google cse: Suspended: too many requests, qwant: Suspended: HTTP connection error"
+  }
+]

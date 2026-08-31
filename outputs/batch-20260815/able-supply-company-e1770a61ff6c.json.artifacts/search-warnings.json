@@ -1,0 +1,8 @@
+[
+  {
+    "query": "http://www.ablerefractory.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "http://www.ablerefractory.com/sitemap.xml: HTTP Error 404: Not Found"
+  }
+]

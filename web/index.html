@@ -1,0 +1,685 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Key Person Discovery</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #17211b;
+      --muted: #68736b;
+      --line: #dfe6df;
+      --paper: #fbfcf8;
+      --panel: #ffffff;
+      --green: #0f6a42;
+      --green-soft: #e6f3eb;
+      --amber: #986915;
+      --amber-soft: #fff3d6;
+      --red: #a23a32;
+      --shadow: 0 16px 45px rgba(28, 45, 34, .08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background:
+        radial-gradient(circle at 8% 0%, #e5f2e8 0, transparent 28rem),
+        var(--paper);
+      color: var(--ink);
+      font: 14px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .shell { width: min(1180px, calc(100% - 32px)); margin: 0 auto; padding: 34px 0 70px; }
+    header { display: flex; align-items: flex-start; justify-content: space-between; gap: 24px; }
+    .eyebrow { color: var(--green); font-size: 12px; font-weight: 750; letter-spacing: .13em; text-transform: uppercase; }
+    h1 { margin: 5px 0 4px; font: 700 clamp(28px, 4vw, 44px)/1.1 Georgia, serif; }
+    .subtitle { margin: 0; color: var(--muted); }
+    .readonly { border: 1px solid #add0ba; border-radius: 999px; padding: 8px 12px; color: var(--green); background: #f1faf4; white-space: nowrap; }
+    .launcher {
+      margin: 18px 0; padding: 16px 20px; border: 1px solid #add0ba; border-radius: 18px;
+      background: linear-gradient(135deg, #f3faf5, #fff); box-shadow: var(--shadow);
+    }
+    .launcher > summary { display: flex; justify-content: space-between; gap: 16px; color: var(--ink); font: 700 18px/1.2 Georgia, serif; }
+    .launcher > summary::after { content: "展开"; color: var(--green); font: 650 12px/1.2 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .launcher[open] > summary::after { content: "收起"; }
+    .launcher[open] > summary { margin-bottom: 12px; }
+    .launcher-intro { margin: 4px 0 14px; color: var(--muted); }
+    .crm-search { position: relative; }
+    .crm-matches { display: grid; gap: 7px; margin-top: 8px; }
+    .crm-match {
+      width: 100%; display: flex; justify-content: space-between; gap: 16px; align-items: center;
+      padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; background: white;
+      color: var(--ink); text-align: left; font: inherit; cursor: pointer;
+    }
+    .crm-match:hover, .crm-match:focus { border-color: var(--green); outline: 2px solid #cce8d6; }
+    .crm-match strong, .crm-match span { display: block; }
+    .crm-match span { color: var(--muted); font-size: 12px; overflow-wrap: anywhere; }
+    button.primary {
+      border: 0; border-radius: 9px; padding: 10px 14px; background: var(--green); color: white;
+      font: 700 13px/1.2 inherit; cursor: pointer; white-space: nowrap;
+    }
+    button.primary:disabled { opacity: .55; cursor: wait; }
+    .manual { margin-top: 12px; }
+    .manual summary { color: var(--green); }
+    .manual-form { display: grid; grid-template-columns: 1fr 1fr auto; gap: 10px; align-items: end; margin-top: 10px; }
+    .job-status { min-height: 22px; margin-top: 12px; color: var(--muted); }
+    .job-status.good { color: var(--green); }
+    .job-status.error { padding: 0; border: 0; text-align: left; color: var(--red); }
+    .monitor {
+      margin: 28px 0 18px; padding: 18px 20px; border: 1px solid var(--line); border-radius: 18px;
+      background: var(--panel); box-shadow: var(--shadow);
+    }
+    .monitor-head { display: flex; justify-content: space-between; gap: 16px; align-items: baseline; }
+    .monitor h2 { margin: 0; font: 700 22px/1.2 Georgia, serif; }
+    .monitor-note { color: var(--muted); font-size: 12px; }
+    .batch-summary { display: grid; gap: 9px; margin-top: 12px; padding: 14px; border-radius: 12px; background: #f5f8f5; color: #465249; }
+    .batch-primary, .batch-meta { display: flex; justify-content: space-between; gap: 12px; align-items: center; flex-wrap: wrap; }
+    .batch-primary strong { color: var(--ink); font-size: 16px; }
+    .batch-progress { height: 8px; overflow: hidden; border-radius: 999px; background: #dfe8e1; }
+    .batch-progress span { display: block; height: 100%; border-radius: inherit; background: var(--green); transition: width .25s ease; }
+    .batch-meta { color: var(--muted); font-size: 12px; }
+    .job-metrics { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 8px; margin: 12px 0; }
+    .job-metric { padding: 9px 10px; border: 1px solid var(--line); border-radius: 9px; background: #fcfdfb; }
+    .job-metric strong { display: block; font-size: 18px; }
+    .job-metric span { color: var(--muted); font-size: 11px; }
+    .job-list { display: grid; gap: 8px; max-height: 320px; overflow: auto; }
+    .job-row {
+      display: grid; grid-template-columns: minmax(180px, 1fr) 120px 90px; gap: 12px;
+      align-items: center; padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px;
+    }
+    .job-row.active { border-color: #8bc2a0; background: #f5fbf7; }
+    .job-row strong, .job-row span { display: block; }
+    .job-row .source { overflow-wrap: anywhere; }
+    .job-error { color: var(--red); font-size: 12px; overflow-wrap: anywhere; }
+    .job-state { font-weight: 700; }
+    .job-state.running { color: var(--green); }
+    .job-state.failed { color: var(--red); }
+    .job-state.queued { color: var(--amber); }
+    .toolbar {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin: 28px 0 18px;
+      padding: 14px;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: rgba(255,255,255,.8);
+      box-shadow: var(--shadow);
+    }
+    label { color: var(--muted); font-size: 12px; font-weight: 650; }
+    select, input {
+      width: 100%; margin-top: 5px; padding: 10px 12px; border: 1px solid #cbd5cd;
+      border-radius: 9px; background: white; color: var(--ink); font: inherit;
+    }
+    select:focus, input:focus { outline: 3px solid #cce8d6; border-color: var(--green); }
+    .metrics { display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; margin-bottom: 24px; }
+    .metric { padding: 14px; border: 1px solid var(--line); border-radius: 13px; background: var(--panel); }
+    .metric strong { display: block; font-size: 24px; line-height: 1.1; }
+    .metric span { color: var(--muted); font-size: 12px; }
+    .company-list { display: grid; gap: 18px; }
+    .company {
+      overflow: hidden; border: 1px solid var(--line); border-radius: 18px;
+      background: var(--panel); box-shadow: var(--shadow);
+    }
+    .company-head { display: flex; justify-content: space-between; gap: 16px; padding: 18px 22px; color: var(--ink); list-style: none; }
+    .company-head::-webkit-details-marker { display: none; }
+    .company-head::after { content: "展开"; align-self: center; color: var(--green); font-size: 12px; font-weight: 700; }
+    .company[open] .company-head { border-bottom: 1px solid var(--line); }
+    .company[open] .company-head::after { content: "收起"; }
+    .company h2 { margin: 0 0 4px; font: 700 22px/1.2 Georgia, serif; }
+    .source { color: var(--muted); font-size: 12px; }
+    .run-stats { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 7px; align-content: flex-start; }
+    .badge { display: inline-flex; align-items: center; gap: 5px; padding: 4px 8px; border-radius: 999px; background: #eef2ee; color: #4e5b52; font-size: 12px; }
+    .badge.good { background: var(--green-soft); color: var(--green); }
+    .badge.warn { background: var(--amber-soft); color: var(--amber); }
+    .company-body { padding: 20px 22px 22px; }
+    .section-title { margin: 0 0 10px; color: var(--muted); font-size: 12px; font-weight: 750; letter-spacing: .08em; text-transform: uppercase; }
+    .candidate-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 12px; }
+    .candidate { border: 1px solid var(--line); border-radius: 13px; padding: 15px; background: #fcfdfb; }
+    .candidate-top { display: flex; justify-content: space-between; gap: 12px; }
+    .candidate h3 { margin: 0; font-size: 17px; }
+    .title { color: var(--muted); margin: 2px 0 10px; }
+    .contact-list { display: grid; gap: 6px; margin-top: 11px; }
+    .contact { display: grid; grid-template-columns: 72px 1fr; gap: 8px; align-items: baseline; }
+    .channel { color: var(--muted); font-size: 12px; }
+    a { color: var(--green); text-decoration-thickness: 1px; text-underline-offset: 3px; overflow-wrap: anywhere; }
+    summary { cursor: pointer; }
+    .candidate details { margin-top: 12px; border-top: 1px dashed var(--line); padding-top: 9px; }
+    .candidate details > summary { color: var(--muted); }
+    .evidence { margin: 8px 0 0; padding-left: 18px; color: #455048; }
+    .evidence li + li { margin-top: 7px; }
+    .unassigned { margin-top: 18px; padding-top: 16px; border-top: 1px solid var(--line); }
+    .contact-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+    .chip { border: 1px solid var(--line); border-radius: 9px; padding: 7px 9px; background: #fafbf9; }
+    .empty, .error { padding: 34px; border: 1px dashed #bdc8bf; border-radius: 16px; text-align: center; color: var(--muted); }
+    .error { color: var(--red); }
+    footer { margin-top: 24px; color: var(--muted); font-size: 12px; text-align: center; }
+    @media (max-width: 820px) {
+      .metrics { grid-template-columns: repeat(3, 1fr); }
+      .job-metrics { grid-template-columns: repeat(3, 1fr); }
+      .company-head { display: block; }
+      .company-head::after { display: block; margin-top: 10px; }
+      .run-stats { justify-content: flex-start; margin-top: 12px; }
+    }
+    @media (max-width: 560px) {
+      .shell { width: min(100% - 20px, 1180px); padding-top: 22px; }
+      header { display: block; }
+      .readonly { display: inline-block; margin-top: 12px; }
+      .toolbar { grid-template-columns: 1fr; }
+      .metrics { grid-template-columns: repeat(2, 1fr); }
+      .company-head, .company-body { padding: 16px; }
+      .manual-form { grid-template-columns: 1fr; }
+      .crm-match { align-items: flex-start; }
+      .job-metrics { grid-template-columns: repeat(2, 1fr); }
+      .job-row { grid-template-columns: 1fr 1fr; }
+      .job-row > :last-child { text-align: right; }
+    }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <div>
+        <div class="eyebrow">Aceler · CRM Intelligence</div>
+        <h1>Key Person Discovery</h1>
+        <p class="subtitle">公开来源联系人、任职证据与联系方式汇总</p>
+      </div>
+      <span class="readonly">CRM 只读 · 需人工复核</span>
+    </header>
+
+    <section class="monitor" aria-labelledby="monitorTitle">
+      <div class="monitor-head">
+        <h2 id="monitorTitle">实时任务</h2>
+        <span class="monitor-note">每 2 秒更新 · 仅显示当前批次</span>
+      </div>
+      <div id="batchSummary" class="batch-summary">当前没有批量任务</div>
+      <div id="jobMetrics" class="job-metrics" aria-label="任务汇总"></div>
+      <div id="jobList" class="job-list" aria-live="polite"></div>
+    </section>
+
+    <details class="launcher">
+      <summary>添加单家公司任务</summary>
+      <p class="launcher-intro">从 Twenty CRM 选择公司；只有点击公司后才会启动联网任务。</p>
+      <div class="crm-search">
+        <label for="crmInput">搜索 CRM 公司</label>
+        <input id="crmInput" type="search" autocomplete="off" placeholder="输入至少 2 个字符，例如 Harbor">
+        <div id="crmMatches" class="crm-matches" role="listbox" aria-label="CRM 公司匹配结果"></div>
+      </div>
+      <details class="manual">
+        <summary>CRM 中没有？手动输入公司</summary>
+        <form id="manualForm" class="manual-form">
+          <label>公司名称<input id="manualName" required maxlength="200" placeholder="Company name"></label>
+          <label>官网（可选）<input id="manualWebsite" type="url" placeholder="https://example.com"></label>
+          <button class="primary" type="submit">开始挖掘</button>
+        </form>
+      </details>
+      <div id="jobStatus" class="job-status" role="status" aria-live="polite"></div>
+    </details>
+
+    <section class="toolbar" aria-label="结果筛选">
+      <label>结果范围<select id="runSelect" aria-label="结果范围"></select></label>
+      <label>搜索公司或人员<input id="searchInput" type="search" placeholder="例如 Harbor 或 Plant Manager"></label>
+    </section>
+
+    <section id="metrics" class="metrics" aria-label="汇总指标"></section>
+    <section id="companies" class="company-list" aria-live="polite"></section>
+    <footer>CRM 查询为只读；联网结果写入本地 outputs 目录，不会修改 Twenty CRM。</footer>
+  </main>
+
+  <script>
+    const state = { results: [], run: "", query: "", crmTimer: null, currentBatchId: "", currentBatchFiles: new Set(), jobStates: new Map(), jobsInitialized: false, jobsLoading: false };
+    const crmInput = document.querySelector("#crmInput");
+    const crmMatches = document.querySelector("#crmMatches");
+    const manualForm = document.querySelector("#manualForm");
+    const jobStatus = document.querySelector("#jobStatus");
+    const batchSummary = document.querySelector("#batchSummary");
+    const jobMetrics = document.querySelector("#jobMetrics");
+    const jobList = document.querySelector("#jobList");
+    const runSelect = document.querySelector("#runSelect");
+    const searchInput = document.querySelector("#searchInput");
+    const metricsNode = document.querySelector("#metrics");
+    const companiesNode = document.querySelector("#companies");
+
+    const node = (tag, className, text) => {
+      const item = document.createElement(tag);
+      if (className) item.className = className;
+      if (text !== undefined) item.textContent = text;
+      return item;
+    };
+
+    const addBadge = (parent, text, kind = "") => parent.append(node("span", `badge ${kind}`.trim(), text));
+    const unique = values => [...new Set(values.filter(Boolean))];
+    const canonicalContactValue = (channel, rawValue) => {
+      const value = String(rawValue || "").trim();
+      if (channel === "email") return value.toLocaleLowerCase();
+      if (channel !== "linkedin") return value;
+      try {
+        const url = new URL(value);
+        if (url.hostname !== "linkedin.com" && !url.hostname.endsWith(".linkedin.com")) return value;
+        return `https://www.linkedin.com${url.pathname.replace(/\/+$/, "").toLocaleLowerCase()}`;
+      } catch { return value; }
+    };
+    const canonicalContacts = (entries, channel = "") => {
+      const contacts = [];
+      const seen = new Set();
+      for (const entry of entries || []) {
+        const itemChannel = channel || entry.channel;
+        const value = canonicalContactValue(itemChannel, entry.value);
+        const key = `${itemChannel}:${value}`;
+        if (!value || seen.has(key)) continue;
+        seen.add(key);
+        contacts.push({...entry, channel: itemChannel, value});
+      }
+      return contacts;
+    };
+    const safeUrl = value => {
+      try {
+        const url = new URL(value);
+        return ["http:", "https:", "mailto:", "tel:"].includes(url.protocol) ? url.href : "";
+      } catch { return ""; }
+    };
+
+    function contactLink(channel, value) {
+      value = canonicalContactValue(channel, value);
+      let href = value;
+      if (channel === "email") href = `mailto:${value}`;
+      if (channel === "phone") href = `tel:${value}`;
+      if (channel === "whatsapp") href = `https://wa.me/${value.replace(/\D/g, "")}`;
+      const link = node("a", "", value);
+      link.href = safeUrl(href) || "#";
+      if (/^https?:/.test(link.href)) {
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+      }
+      return link;
+    }
+
+    function allContacts(data) {
+      const contacts = [...(data.unassigned_contacts || [])];
+      for (const person of [...(data.candidates || []), ...(data.unverified_candidates || [])]) {
+        contacts.push(...(person.linkedin || []).map(item => ({...item, channel: "linkedin"})));
+        contacts.push(...(person.emails || []).map(item => ({...item, channel: "email"})));
+        contacts.push(...(person.phones || []).map(item => ({...item, channel: "phone"})));
+      }
+      return canonicalContacts(contacts);
+    }
+
+    function renderMetrics(items) {
+      const data = items.map(item => item.data);
+      const contacts = data.flatMap(allContacts);
+      const values = [
+        [data.length, "公司"],
+        [data.reduce((sum, item) => sum + (item.candidates || []).length + (item.unverified_candidates || []).length, 0), "联系人"],
+        [data.reduce((sum, item) => sum + (item.candidates || []).length, 0), "已验证"],
+        [data.reduce((sum, item) => sum + (item.unverified_candidates || []).length, 0), "待核验"],
+        [unique(contacts.filter(x => x.channel === "linkedin").map(x => x.value)).length, "LinkedIn"],
+        [unique(contacts.filter(x => x.channel === "email").map(x => x.value)).length, "邮箱"],
+        [unique(contacts.filter(x => x.channel === "phone").map(x => x.value)).length, "电话"],
+        [unique(contacts.filter(x => x.channel === "whatsapp" || x.whatsapp_status === "verified").map(x => x.value)).length, "WhatsApp"],
+      ];
+      metricsNode.replaceChildren(...values.map(([value, label]) => {
+        const item = node("div", "metric");
+        item.append(node("strong", "", String(value)), node("span", "", label));
+        return item;
+      }));
+    }
+
+    function renderCandidate(person, unverified = false) {
+      const card = node("article", "candidate");
+      const top = node("div", "candidate-top");
+      const identity = node("div");
+      identity.append(node("h3", "", person.full_name || "未命名联系人"));
+      identity.append(node("p", "title", person.current_title || "职位未知"));
+      top.append(identity);
+      addBadge(top, unverified ? "任职未验证" : (person.company_match === "verified" ? "任职已验证" : "任职待确认"), person.company_match === "verified" && !unverified ? "good" : "warn");
+      card.append(top);
+      const tags = node("div", "run-stats");
+      addBadge(tags, person.influence_type === "technical_influencer"
+        ? "技术影响者"
+        : person.influence_type === "decision_maker"
+          ? "决策相关"
+          : "其他岗位/职位未知");
+      if (person.confidence !== undefined) addBadge(tags, `置信度 ${Math.round(person.confidence * 100)}%`);
+      card.append(tags);
+
+      if (unverified) {
+        card.append(node("p", "source", "验证状态较低，当前任职及联系方式归属需人工确认。"));
+      }
+
+      const contacts = node("div", "contact-list");
+      const groups = [
+        ["LinkedIn", "linkedin", person.linkedin || []],
+        ["邮箱", "email", person.emails || []],
+        ["电话", "phone", person.phones || []],
+      ];
+      for (const [label, channel, entries] of groups) {
+        for (const entry of canonicalContacts(entries, channel)) {
+          const row = node("div", "contact");
+          row.append(node("span", "channel", label), contactLink(channel, entry.value));
+          contacts.append(row);
+        }
+      }
+      if (!contacts.children.length) contacts.append(node("span", "source", "暂无个人联系方式"));
+      card.append(contacts);
+
+      if ((person.evidence || []).length) {
+        const details = node("details");
+        details.append(node("summary", "", `查看证据（${person.evidence.length}）`));
+        const list = node("ul", "evidence");
+        for (const evidence of person.evidence) {
+          const item = node("li");
+          item.append(node("span", "", evidence.quote || evidence.supports || "证据摘录"));
+          const link = contactLink("linkedin", evidence.source_url || "");
+          link.textContent = " 来源";
+          item.append(link);
+          list.append(item);
+        }
+        details.append(list);
+        card.append(details);
+      }
+      return card;
+    }
+
+    function renderCompany(item) {
+      const data = item.data;
+      const summary = data.run_summary || {};
+      const card = node("details", "company");
+      card.open = Boolean(state.query);
+      const head = node("summary", "company-head");
+      const identity = node("div");
+      identity.append(node("h2", "", data.company_name || item.company_name));
+      identity.append(node("div", "source", item.run));
+      head.append(identity);
+      const stats = node("div", "run-stats");
+      const totalPeople = (data.candidates || []).length + (data.unverified_candidates || []).length;
+      addBadge(stats, `${totalPeople} 联系人`, totalPeople ? "good" : "");
+      if ((data.candidates || []).length) addBadge(stats, `${data.candidates.length} 已验证`, "good");
+      if ((data.unverified_candidates || []).length) addBadge(stats, `${data.unverified_candidates.length} 待核验`, "warn");
+      const targetContacts = summary.target_contact_methods || summary.target_contactable_items;
+      const foundContacts = summary.contact_methods ?? summary.contactable_items ?? 0;
+      if (targetContacts) addBadge(
+        stats,
+        `${foundContacts}/${targetContacts} 联系方式`,
+        summary.contact_target_met ? "good" : "warn",
+      );
+      if (summary.search_engine_warnings) addBadge(stats, `${summary.search_engine_warnings} 来源告警`, "warn");
+      head.append(stats);
+      card.append(head);
+
+      const body = node("div", "company-body");
+      body.append(node(
+        "div",
+        "source",
+        `证据来源：${summary.urls_crawled || 0} 网页 · ${summary.pdf_documents_extracted || 0} PDF`,
+      ));
+      body.append(node("h3", "section-title", "Key People"));
+      const grid = node("div", "candidate-grid");
+      const candidates = data.candidates || [];
+      if (candidates.length) candidates.forEach(person => grid.append(renderCandidate(person)));
+      else grid.append(node("div", "empty", "暂无高验证等级联系人"));
+      body.append(grid);
+
+      const tierRank = {probable_current: 0, unverified: 1};
+      const unverifiedCandidates = [...(data.unverified_candidates || [])].sort(
+        (left, right) => (tierRank[left.discovery_tier] ?? 2) - (tierRank[right.discovery_tier] ?? 2),
+      );
+      if (unverifiedCandidates.length) {
+        body.append(node("h3", "section-title", "其他联系人（按验证强度排序）"));
+        const pendingGrid = node("div", "candidate-grid");
+        unverifiedCandidates.forEach(person => pendingGrid.append(renderCandidate(person, true)));
+        body.append(pendingGrid);
+      }
+
+      const unassigned = canonicalContacts(data.unassigned_contacts || []);
+      if (unassigned.length) {
+        const section = node("section", "unassigned");
+        section.append(node("h3", "section-title", "公开联系方式（未绑定人员）"));
+        const chips = node("div", "contact-chips");
+        for (const contact of unassigned) {
+          const chip = node("span", "chip");
+          chip.append(node("span", "channel", `${contact.channel} · `), contactLink(contact.channel, contact.value));
+          chip.append(node(
+            "span",
+            "source",
+            contact.verification_status === "company_source" ? " · 公司来源" : " · 归属待核验",
+          ));
+          chips.append(chip);
+        }
+        section.append(chips);
+        body.append(section);
+      }
+      card.append(body);
+      return card;
+    }
+
+    function render() {
+      const query = state.query.trim().toLocaleLowerCase();
+      let scopedResults = state.results.filter(item => item.run === state.run);
+      if (state.run === "__current__") {
+        scopedResults = state.results
+          .filter(item => state.currentBatchFiles.has(item.file));
+      }
+      const items = scopedResults.filter(item => {
+        if (!query) return true;
+        return JSON.stringify(item.data).toLocaleLowerCase().includes(query);
+      });
+      renderMetrics(items);
+      companiesNode.replaceChildren(...(items.length
+        ? items.sort((a, b) => a.company_name.localeCompare(b.company_name)).map(renderCompany)
+        : [node("div", "empty", "当前筛选条件下没有结果")]));
+    }
+
+    function setJobStatus(text, kind = "") {
+      jobStatus.textContent = text;
+      jobStatus.className = `job-status ${kind}`.trim();
+    }
+
+    const statusLabels = {queued: "排队中", running: "运行中", completed: "已完成", failed: "失败"};
+    const stageLabels = {queued: "等待执行", starting: "正在启动", preflight: "网络预检", searching: "搜索来源", crawling: "抓取网页", analyzing: "Hermes 分析", running: "运行中", recovering: "休眠恢复中", paused: "等待主机恢复", completed: "结果完成", no_new_contact: "无新增联系人", source_limited: "公开来源不可用", failed: "执行失败"};
+
+    function duration(seconds) {
+      const value = Math.max(0, Number(seconds) || 0);
+      const hours = Math.floor(value / 3600);
+      const minutes = Math.floor((value % 3600) / 60);
+      const secs = Math.floor(value % 60);
+      return hours ? `${hours}小时${minutes}分` : (minutes ? `${minutes}分${secs}秒` : `${secs}秒`);
+    }
+
+    function renderJobs(jobs, batches) {
+      const batch = batches.find(item => item.status === "running") || batches[0];
+      const scopedJobs = batch
+        ? jobs.filter(job => job.batch_id === batch.id)
+        : jobs.slice(0, 20);
+      const batchChanged = state.currentBatchId !== (batch?.id || "");
+      state.currentBatchId = batch?.id || "";
+      state.currentBatchFiles = new Set(scopedJobs.map(job => job.output_file));
+      if (batchChanged) updateRunOptions(jobs[0]?.batch_id ? "__current__" : jobs[0]?.run);
+      const counts = {
+        queued: scopedJobs.filter(job => job.status === "queued").length,
+        running: scopedJobs.filter(job => job.status === "running").length,
+        completed: scopedJobs.filter(job => job.status === "completed" && job.stage === "completed").length,
+        noNewContact: scopedJobs.filter(job => job.stage === "no_new_contact").length,
+        sourceLimited: scopedJobs.filter(job => job.stage === "source_limited").length,
+        failed: scopedJobs.filter(job => job.status === "failed" && job.stage !== "source_limited").length,
+      };
+      jobMetrics.replaceChildren(...[
+        [counts.running, "运行中"], [counts.queued, "排队中"], [counts.completed, "有新结果"], [counts.noNewContact, "无新增"], [counts.sourceLimited, "来源受限"], [counts.failed, "失败"],
+      ].map(([value, label]) => {
+        const item = node("div", "job-metric");
+        item.append(node("strong", "", String(value)), node("span", "", label));
+        return item;
+      }));
+      if (batch) {
+        const primary = node("div", "batch-primary");
+        primary.append(node("strong", "", `批次 ${batch.id}`));
+        addBadge(
+          primary,
+          stageLabels[batch.stage] || (batch.status === "running" ? "运行中" : "已结束"),
+          batch.status === "running" ? "good" : "",
+        );
+        const progress = node("div", "batch-progress");
+        const bar = node("span", "");
+        const percent = batch.duration_seconds
+          ? Math.min(100, Math.max(0, batch.active_seconds / batch.duration_seconds * 100))
+          : 0;
+        bar.style.width = `${percent}%`;
+        progress.append(bar);
+        const meta = node("div", "batch-meta");
+        meta.append(
+          node("span", "", `已运行 ${duration(batch.active_seconds)} / ${duration(batch.duration_seconds)}`),
+          node("span", "", batch.status === "running" ? `剩余 ${duration(batch.remaining_seconds)}` : "调度已结束"),
+          node("span", "", `已入队 ${batch.enqueued} · 跳过 ${batch.skipped} · 并发 ${batch.workers}`),
+        );
+        batchSummary.replaceChildren(primary, progress, meta);
+      } else {
+        batchSummary.textContent = "当前没有批量任务。";
+      }
+      const orderedJobs = [...scopedJobs].sort((first, second) => {
+        const rank = {running: 0, queued: 1, completed: 2, failed: 3};
+        return (rank[first.status] ?? 4) - (rank[second.status] ?? 4)
+          || String(second.created_at).localeCompare(String(first.created_at));
+      });
+      jobList.replaceChildren(...(orderedJobs.length ? orderedJobs.slice(0, 20).map(job => {
+        const row = node("article", `job-row${job.status === "running" ? " active" : ""}`);
+        const identity = node("div");
+        identity.append(node("strong", "", job.company_name));
+        if (job.error) identity.append(node("span", "job-error", job.error));
+        row.append(identity);
+        const stateNode = node("div");
+        stateNode.append(node("span", `job-state ${job.status}`, statusLabels[job.status] || job.status), node("span", "source", stageLabels[job.stage] || job.stage));
+        row.append(stateNode, node("span", "", duration(job.elapsed_seconds)));
+        return row;
+      }) : [node("div", "empty", "当前批次还没有任务")]));
+    }
+
+    async function refreshJobs() {
+      if (state.jobsLoading) return;
+      state.jobsLoading = true;
+      try {
+        const [jobsResponse, batchesResponse] = await Promise.all([
+          fetch("/api/jobs?limit=500", {cache: "no-store"}),
+          fetch("/api/batches", {cache: "no-store"}),
+        ]);
+        if (!jobsResponse.ok || !batchesResponse.ok) throw new Error(`HTTP ${jobsResponse.status}/${batchesResponse.status}`);
+        const [jobs, batches] = await Promise.all([jobsResponse.json(), batchesResponse.json()]);
+        const completed = state.jobsInitialized
+          ? jobs.find(job => job.status === "completed" && state.jobStates.get(job.id) !== `${job.status}:${job.stage}`)
+          : null;
+        state.jobStates = new Map(jobs.map(job => [job.id, `${job.status}:${job.stage}`]));
+        state.jobsInitialized = true;
+        renderJobs(jobs, batches);
+        if (completed) {
+          if (completed.stage === "no_new_contact") {
+            setJobStatus(`${completed.company_name}：挖掘完成，未发现 CRM 之外的新联系人。`, "good");
+          } else {
+            setJobStatus(`${completed.company_name}：挖掘完成，结果已刷新。`, "good");
+            await refreshResults(completed.batch_id === state.currentBatchId ? "__current__" : completed.run);
+          }
+        }
+      } finally {
+        state.jobsLoading = false;
+      }
+    }
+
+    function renderCrmMatches(companies) {
+      crmMatches.replaceChildren(...companies.map(company => {
+        const button = node("button", "crm-match");
+        button.type = "button";
+        button.setAttribute("role", "option");
+        const identity = node("span");
+        identity.append(node("strong", "", company.name));
+        identity.append(node("span", "", [company.website || "无官网", company.country].filter(Boolean).join(" · ")));
+        button.append(identity, node("span", "", "开始挖掘 →"));
+        button.addEventListener("click", () => startDiscovery({crm_company_id: company.id}));
+        return button;
+      }));
+    }
+
+    async function searchCrm(query) {
+      if (query.trim().length < 2) {
+        crmMatches.replaceChildren();
+        return;
+      }
+      crmMatches.replaceChildren(node("div", "source", "正在查询 CRM…"));
+      try {
+        const response = await fetch(`/api/crm/companies?q=${encodeURIComponent(query.trim())}&limit=20`, {cache: "no-store"});
+        const payload = await response.json();
+        if (!response.ok) throw new Error(payload.error || `HTTP ${response.status}`);
+        if (crmInput.value.trim() !== query.trim()) return;
+        renderCrmMatches(payload);
+        if (!payload.length) crmMatches.replaceChildren(node("div", "source", "CRM 中没有匹配公司，可使用手动输入。"));
+      } catch (error) {
+        crmMatches.replaceChildren(node("div", "error", `CRM 查询失败：${error.message}`));
+      }
+    }
+
+    async function startDiscovery(payload) {
+      crmMatches.replaceChildren();
+      setJobStatus("正在创建公司快照并启动任务…");
+      try {
+        const response = await fetch("/api/discover", {
+          method: "POST",
+          headers: {"Content-Type": "application/json"},
+          body: JSON.stringify(payload),
+        });
+        const job = await response.json();
+        if (!response.ok) throw new Error(job.error || `HTTP ${response.status}`);
+        setJobStatus(`${job.company_name}：任务已持久化，正在排队或运行。`);
+        await refreshJobs();
+      } catch (error) {
+        setJobStatus(`任务启动失败：${error.message}`, "error");
+      }
+    }
+
+    async function refreshResults(preferredRun = "") {
+      const response = await fetch("/api/results", {cache: "no-store"});
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      const results = await response.json();
+      state.results = results;
+      updateRunOptions(preferredRun);
+    }
+
+    function updateRunOptions(preferredRun = "") {
+      const runs = unique(state.results.map(item => item.run)).sort((a, b) => b.localeCompare(a, undefined, {numeric: true}));
+      const options = [];
+      if (state.currentBatchId) {
+        const current = node("option", "", `当前批次 · ${state.currentBatchId}`);
+        current.value = "__current__";
+        options.push(current);
+      }
+      options.push(...runs.map(run => {
+        const option = node("option", "", run);
+        option.value = run;
+        return option;
+      }));
+      runSelect.replaceChildren(...options);
+      const defaultRun = runs.find(run => run.startsWith("batch-")) || runs[0] || "";
+      const allowed = new Set([...(state.currentBatchId ? ["__current__"] : []), ...runs]);
+      state.run = allowed.has(preferredRun)
+        ? preferredRun
+        : (allowed.has(state.run) ? state.run : (state.currentBatchId ? "__current__" : defaultRun));
+      runSelect.value = state.run;
+      render();
+    }
+
+    runSelect.addEventListener("change", event => { state.run = event.target.value; render(); });
+    searchInput.addEventListener("input", event => { state.query = event.target.value; render(); });
+    crmInput.addEventListener("input", event => {
+      clearTimeout(state.crmTimer);
+      const query = event.target.value;
+      state.crmTimer = setTimeout(() => searchCrm(query), 350);
+    });
+    manualForm.addEventListener("submit", event => {
+      event.preventDefault();
+      startDiscovery({
+        name: document.querySelector("#manualName").value,
+        website: document.querySelector("#manualWebsite").value,
+      });
+    });
+
+    refreshResults()
+      .catch(error => companiesNode.replaceChildren(node("div", "error", `结果加载失败：${error.message}`)));
+    refreshJobs().catch(error => jobList.replaceChildren(node("div", "error", `任务加载失败：${error.message}`)));
+    setInterval(() => refreshJobs().catch(() => {}), 2000);
+  </script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+[
+  {
+    "channel": "phone",
+    "value": "+18883432278",
+    "status": "valid_format",
+    "source_url": "https://paceind.com/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+18883432278",
+    "status": "valid_format",
+    "source_url": "https://paceind.com/contact/?open=request-a-quote",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/john-conquest-84ba2713",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/john-conquest-84ba2713"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/douglas-albert-b080b11",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/douglas-albert-b080b11"
+  }
+]

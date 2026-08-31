@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.purmetall.de/fr/Kontakt/Datenschutz",
+    "markdown": "General Data Protection Policy\nResponsible for data protection implementation: Company: PURMETALL GmbH & Co. KG Niebuhrstr. 57. D-46049 Oberhausen. Tel.: + 49 208 85002 0",
+    "error": "",
+    "provider": "anysearch",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.purmetall.de/contact.html",
+    "markdown": "Kontakt | Purmetall\nSo erreichen Sie uns. PURMETALL GmbH & Co. KG Feuerfeste Erzeugnisse, Schiebersand und synthetische Schlacken Niebuhrstr. 57. D-46049 Oberhausen Tel.: +49 208 ...",
+    "error": "",
+    "provider": "searxng",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  }
+]

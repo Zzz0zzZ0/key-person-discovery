@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://www.hanjoolightmetal.com/",
+    "markdown": "",
+    "error": "Unexpected error in _crawl_web at line 778 in _crawl_web (.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: net::ERR_CONNECTION_CLOSED at https://www.hanjoolightmetal.com/\nCall log:\n  - navigating to \"https://www.hanjoolightmetal.com/\", waiting until \"domcontentloaded\"\n\n\nCode context:\n 773                                   tag=\"GOTO\",\n 774                                   params={\"url\": url},\n 775                               )\n 776                               response = None\n 777                           else:\n 778 →                             raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 779   \n 780                       # ──────────────────────────────────────────────────────────────\n 781                       # Walk the redirect chain.  Playwright returns only the last\n 782                       # hop, so we trace the `request.redirected_from` links until the\n 783                       # first response that differs from the final one and surface its",
+    "provider": "crawl4ai",
+    "source_type": "crawl",
+    "page_count": 0
+  },
+  {
+    "url": "https://hanjoolightmetal.com",
+    "markdown": "",
+    "error": "Unexpected error in _crawl_web at line 778 in _crawl_web (.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: net::ERR_CONNECTION_CLOSED at https://hanjoolightmetal.com/\nCall log:\n  - navigating to \"https://hanjoolightmetal.com/\", waiting until \"domcontentloaded\"\n\n\nCode context:\n 773                                   tag=\"GOTO\",\n 774                                   params={\"url\": url},\n 775                               )\n 776                               response = None\n 777                           else:\n 778 →                             raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 779   \n 780                       # ──────────────────────────────────────────────────────────────\n 781                       # Walk the redirect chain.  Playwright returns only the last\n 782                       # hop, so we trace the `request.redirected_from` links until the\n 783                       # first response that differs from the final one and surface its",
+    "provider": "crawl4ai",
+    "source_type": "crawl",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.saramin.co.kr/zf_user/company-info/view/csn/ZDlWSEhNMDBWTVhLMWpOclJmZFVZdz09/company_nm/%ED%95%9C%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A9%94%ED%83%88(%EC%A3%BC)",
+    "markdown": "",
+    "error": "Unexpected error in _crawl_web at line 778 in _crawl_web (.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: net::ERR_CONNECTION_CLOSED at https://www.saramin.co.kr/zf_user/company-info/view/csn/ZDlWSEhNMDBWTVhLMWpOclJmZFVZdz09/company_nm/%ED%95%9C%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A9%94%ED%83%88(%EC%A3%BC)\nCall log:\n  - navigating to \"https://www.saramin.co.kr/zf_user/company-info/view/csn/ZDlWSEhNMDBWTVhLMWpOclJmZFVZdz09/company_nm/%ED%95%9C%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A9%94%ED%83%88(%EC%A3%BC)\", waiting until \"domcontentloaded\"\n\n\nCode context:\n 773                                   tag=\"GOTO\",\n 774                                   params={\"url\": url},\n 775                               )\n 776                               response = None\n 777                           else:\n 778 →                             raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 779   \n 780                       # ──────────────────────────────────────────────────────────────\n 781                       # Walk the redirect chain.  Playwright returns only the last\n 782                       # hop, so we trace the `request.redirected_from` links until the\n 783                       # first response that differs from the final one and surface its",
+    "provider": "crawl4ai",
+    "source_type": "crawl",
+    "page_count": 0
+  },
+  {
+    "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A9%94%ED%83%88",
+    "markdown": "",
+    "error": "Unexpected error in _crawl_web at line 778 in _crawl_web (.venv/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: net::ERR_CONNECTION_CLOSED at https://ko.wikipedia.org/wiki/%ED%95%9C%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A9%94%ED%83%88\nCall log:\n  - navigating to \"https://ko.wikipedia.org/wiki/%ED%95%9C%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A9%94%ED%83%88\", waiting until \"domcontentloaded\"\n\n\nCode context:\n 773                                   tag=\"GOTO\",\n 774                                   params={\"url\": url},\n 775                               )\n 776                               response = None\n 777                           else:\n 778 →                             raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 779   \n 780                       # ──────────────────────────────────────────────────────────────\n 781                       # Walk the redirect chain.  Playwright returns only the last\n 782                       # hop, so we trace the `request.redirected_from` links until the\n 783                       # first response that differs from the final one and surface its",
+    "provider": "crawl4ai",
+    "source_type": "crawl",
+    "page_count": 0
+  }
+]

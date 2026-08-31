@@ -1,0 +1,68 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://aic.ir/News/Item/67/ISO-29001:2020-Petrol...nts-for-product-and-service-supply-organizations  | ✓ | ⏱: 6.76s 
+[SCRAPE].. ◆ http://aic.ir/News/Item/67/ISO-29001:2020-Petrol...nts-for-product-and-service-supply-organizations  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://aic.ir/News/Item/67/ISO-29001:2020-Petrol...nts-for-product-and-service-supply-organizations  | ✓ | ⏱: 8.79s 
+[FETCH]... ↓ http://aic.ir/News/Item/52/SPECULAR-HEMATITE(MICACEOUS-IRON-OXIDE)MIO                                | ✓ | ⏱: 6.78s 
+[SCRAPE].. ◆ http://aic.ir/News/Item/52/SPECULAR-HEMATITE(MICACEOUS-IRON-OXIDE)MIO                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://aic.ir/News/Item/52/SPECULAR-HEMATITE(MICACEOUS-IRON-OXIDE)MIO                                | ✓ | ⏱: 8.80s 
+[FETCH]... ↓ http://aic.ir/News/Item/68/ISO/IEC-38500:2015-In...technology-Governance-of-IT-for-the-organization  | ✓ | ⏱: 6.79s 
+[SCRAPE].. ◆ http://aic.ir/News/Item/68/ISO/IEC-38500:2015-In...technology-Governance-of-IT-for-the-organization  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://aic.ir/News/Item/68/ISO/IEC-38500:2015-In...technology-Governance-of-IT-for-the-organization  | ✓ | ⏱: 8.81s 
+[FETCH]... ↓ http://aic.ir/News/Item/29/شرکت-مهندسی-معدنی-زرین-پودر-نوین-کسرا                                     | ✓ | ⏱: 7.02s 
+[SCRAPE].. ◆ http://aic.ir/News/Item/29/شرکت-مهندسی-معدنی-زرین-پودر-نوین-کسرا                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://aic.ir/News/Item/29/شرکت-مهندسی-معدنی-زرین-پودر-نوین-کسرا                                     | ✓ | ⏱: 9.04s 
+[FETCH]... ↓ https://rocketreach.co/ardakan-industrial-ceramics-profile_b475560efc5cc36a                          | ✓ | ⏱: 1.18s 
+[SCRAPE].. ◆ https://rocketreach.co/ardakan-industrial-ceramics-profile_b475560efc5cc36a                          | ✓ | ⏱: 0.00s 
+[ERROR]... × https://rocketreach.co/...rofile_b475560efc5cc36a  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://rocketreach.co/ardakan-industrial-ceramics-profile_b475560efc5cc36a                          | ✗ | ⏱: 1.18s 
+[FETCH]... ↓ http://www.aic.ir                                                                                    | ✓ | ⏱: 2.06s 
+[SCRAPE].. ◆ http://www.aic.ir                                                                                    | ✓ | ⏱: 0.00s 
+[ERROR]... × http://www.aic.ir                                  | Error: Blocked by anti-bot protection: Structural: minimal_text on small page (170 bytes, 18 chars visible) 
+[COMPLETE] ● http://www.aic.ir                                                                                    | ✗ | ⏱: 4.07s 
+[FETCH]... ↓ http://aic.ir/News/Item/73/درج-نماد-شرکت-آلومینیوم-پارس-اکسید-کسرا-در-سال-جاری                       | ✓ | ⏱: 2.87s 
+[SCRAPE].. ◆ http://aic.ir/News/Item/73/درج-نماد-شرکت-آلومینیوم-پارس-اکسید-کسرا-در-سال-جاری                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://aic.ir/News/Item/73/درج-نماد-شرکت-آلومینیوم-پارس-اکسید-کسرا-در-سال-جاری                       | ✓ | ⏱: 4.89s 
+[FETCH]... ↓ http://aic.ir/News/Tag/petroleum                                                                     | ✓ | ⏱: 2.65s 
+[SCRAPE].. ◆ http://aic.ir/News/Tag/petroleum                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://aic.ir/News/Tag/petroleum                                                                     | ✓ | ⏱: 4.67s 
+[FETCH]... ↓ https://www.zoominfo.com/c/ardakan-industrial-ceramics-co/372136200                                  | ✓ | ⏱: 0.90s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/ardakan-industrial-ceramics-co/372136200                                  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...l-ceramics-co/372136200  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/c/ardakan-industrial-ceramics-co/372136200                                  | ✗ | ⏱: 1.77s 
+[FETCH]... ↓ https://www.zoominfo.com/c/ardakan-industrial-ceramics/372136200                                     | ✓ | ⏱: 0.44s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/ardakan-industrial-ceramics/372136200                                     | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...rial-ceramics/372136200  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/c/ardakan-industrial-ceramics/372136200                                     | ✗ | ⏱: 1.03s 
+[FETCH]... ↓ https://www.zoominfo.com/pic/ardakan-industrial-ceramics/372136200                                   | ✓ | ⏱: 0.87s 
+[SCRAPE].. ◆ https://www.zoominfo.com/pic/ardakan-industrial-ceramics/372136200                                   | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.co...rial-ceramics/372136200  | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/pic/ardakan-industrial-ceramics/372136200                                   | ✗ | ⏱: 1.50s 
+[FETCH]... ↓ https://www.emis.com/php/company-profile/IR/Arda...ics_Company_Public_Joint_Stock___en_2422924.html  | ✓ | ⏱: 5.99s 
+[SCRAPE].. ◆ https://www.emis.com/php/company-profile/IR/Arda...ics_Company_Public_Joint_Stock___en_2422924.html  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.emis.com/php/company-profile/IR/Arda...ics_Company_Public_Joint_Stock___en_2422924.html  | ✓ | ⏱: 6.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://aic.ir/News/Item/154                                                                         | ✓ | ⏱: 5.60s 
+[SCRAPE].. ◆ https://aic.ir/News/Item/154                                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://aic.ir/News/Item/154                                                                         | ✓ | ⏱: 7.63s 
+[FETCH]... ↓ https://aic.ir/News/Item/48                                                                          | ✓ | ⏱: 5.62s 
+[SCRAPE].. ◆ https://aic.ir/News/Item/48                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://aic.ir/News/Item/48                                                                          | ✓ | ⏱: 7.64s 
+[FETCH]... ↓ https://aic.ir/News/Item/126                                                                         | ✓ | ⏱: 6.01s 
+[SCRAPE].. ◆ https://aic.ir/News/Item/126                                                                         | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://aic.ir/News/Item/126                                                                         | ✓ | ⏱: 8.04s 
+[FETCH]... ↓ https://aic.ir/News/Item/134/                                                                        | ✓ | ⏱: 5.65s 
+[SCRAPE].. ◆ https://aic.ir/News/Item/134/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://aic.ir/News/Item/134/                                                                        | ✓ | ⏱: 7.68s 
+[FETCH]... ↓ https://aic.ir/News/Item/51                                                                          | ✓ | ⏱: 2.39s 
+[SCRAPE].. ◆ https://aic.ir/News/Item/51                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://aic.ir/News/Item/51                                                                          | ✓ | ⏱: 4.41s 
+[FETCH]... ↓ https://aic.ir/News/Item/67/ISO-29001:2020-Petro...nts-for-product-and-service-supply-organizations  | ✓ | ⏱: 2.39s 
+[SCRAPE].. ◆ https://aic.ir/News/Item/67/ISO-29001:2020-Petro...nts-for-product-and-service-supply-organizations  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://aic.ir/News/Item/67/ISO-29001:2020-Petro...nts-for-product-and-service-supply-organizations  | ✓ | ⏱: 4.42s 
+[FETCH]... ↓ https://aic.ir/news/item/27                                                                          | ✓ | ⏱: 2.44s 
+[SCRAPE].. ◆ https://aic.ir/news/item/27                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://aic.ir/news/item/27                                                                          | ✓ | ⏱: 4.47s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/ardakan-industrial-ceramics-03fde044cbca.json

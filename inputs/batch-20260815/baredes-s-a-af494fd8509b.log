@@ -1,0 +1,58 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://baredessa.com.ar/web/en/aboutus                                                              | ✓ | ⏱: 4.67s 
+[SCRAPE].. ◆ https://baredessa.com.ar/web/en/aboutus                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://baredessa.com.ar/web/en/aboutus                                                              | ✓ | ⏱: 6.69s 
+[FETCH]... ↓ http://baredessa.com.ar/web/en                                                                       | ✓ | ⏱: 6.72s 
+[SCRAPE].. ◆ http://baredessa.com.ar/web/en                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://baredessa.com.ar/web/en                                                                       | ✓ | ⏱: 8.74s 
+[FETCH]... ↓ https://baredessa.com.ar/                                                                            | ✓ | ⏱: 6.74s 
+[SCRAPE].. ◆ https://baredessa.com.ar/                                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://baredessa.com.ar/                                                                            | ✓ | ⏱: 8.75s 
+[FETCH]... ↓ http://baredessa.com.ar                                                                              | ✓ | ⏱: 6.99s 
+[SCRAPE].. ◆ http://baredessa.com.ar                                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://baredessa.com.ar                                                                              | ✓ | ⏱: 9.01s 
+[FETCH]... ↓ https://baredessa.com.ar/web/en/contact                                                              | ✓ | ⏱: 2.01s 
+[SCRAPE].. ◆ https://baredessa.com.ar/web/en/contact                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://baredessa.com.ar/web/en/contact                                                              | ✓ | ⏱: 4.02s 
+[FETCH]... ↓ https://www.aihitdata.com/company/00541CB7/baredes/contacts                                          | ✓ | ⏱: 1.68s 
+[SCRAPE].. ◆ https://www.aihitdata.com/company/00541CB7/baredes/contacts                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.aihitdata.com/company/00541CB7/baredes/contacts                                          | ✓ | ⏱: 3.70s 
+[FETCH]... ↓ https://baredessa.com.ar/web/en/markets                                                              | ✓ | ⏱: 1.86s 
+[SCRAPE].. ◆ https://baredessa.com.ar/web/en/markets                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://baredessa.com.ar/web/en/markets                                                              | ✓ | ⏱: 3.88s 
+[FETCH]... ↓ https://baredessa.com.ar/web/en/technology                                                           | ✓ | ⏱: 2.72s 
+[SCRAPE].. ◆ https://baredessa.com.ar/web/en/technology                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://baredessa.com.ar/web/en/technology                                                           | ✓ | ⏱: 4.75s 
+[FETCH]... ↓ https://www.comxport.com/co/baredes_sa-argentina-662.php                                             | ✓ | ⏱: 2.23s 
+[SCRAPE].. ◆ https://www.comxport.com/co/baredes_sa-argentina-662.php                                             | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.comxport.com/co/baredes_sa-argentina-662.php                                             | ✓ | ⏱: 3.64s 
+[FETCH]... ↓ https://www.emis.com/php/company-profile/AR/Baredes_SA_en_13870326.html                              | ✓ | ⏱: 4.85s 
+[SCRAPE].. ◆ https://www.emis.com/php/company-profile/AR/Baredes_SA_en_13870326.html                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.emis.com/php/company-profile/AR/Baredes_SA_en_13870326.html                              | ✓ | ⏱: 4.87s 
+[FETCH]... ↓ https://www.emis.com/php/company-profile/AR/Baredes_SA_es_13870326.html                              | ✓ | ⏱: 4.69s 
+[SCRAPE].. ◆ https://www.emis.com/php/company-profile/AR/Baredes_SA_es_13870326.html                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.emis.com/php/company-profile/AR/Baredes_SA_es_13870326.html                              | ✓ | ⏱: 4.70s 
+[FETCH]... ↓ https://www.zoominfo.com/pic/baredes-sa/1308269631                                                   | ✓ | ⏱: 1.04s 
+[SCRAPE].. ◆ https://www.zoominfo.com/pic/baredes-sa/1308269631                                                   | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.com/pic/baredes-sa/1308269631 | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/pic/baredes-sa/1308269631                                                   | ✗ | ⏱: 1.85s 
+[FETCH]... ↓ https://www.eximpedia.app/companies/baredes-sa/69432880                                              | ✓ | ⏱: 4.35s 
+[SCRAPE].. ◆ https://www.eximpedia.app/companies/baredes-sa/69432880                                              | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.eximpedia.app/companies/baredes-sa/69432880                                              | ✓ | ⏱: 6.18s 
+[FETCH]... ↓ https://www.marketinsidedata.com/en/company/baredes-sa/48568e6c4ae37267d9b5cbdcec1fae1a              | ✓ | ⏱: 6.13s 
+[SCRAPE].. ◆ https://www.marketinsidedata.com/en/company/baredes-sa/48568e6c4ae37267d9b5cbdcec1fae1a              | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.marketinsidedata.com/en/company/baredes-sa/48568e6c4ae37267d9b5cbdcec1fae1a              | ✓ | ⏱: 6.18s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://baredessa.com.ar/web/en/contact/                                                              | ✓ | ⏱: 4.65s 
+[SCRAPE].. ◆ http://baredessa.com.ar/web/en/contact/                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://baredessa.com.ar/web/en/contact/                                                              | ✓ | ⏱: 6.67s 
+[FETCH]... ↓ http://baredessa.com.ar/web/contacto/                                                                | ✓ | ⏱: 4.96s 
+[SCRAPE].. ◆ http://baredessa.com.ar/web/contacto/                                                                | ✓ | ⏱: 0.00s 
+[COMPLETE] ● http://baredessa.com.ar/web/contacto/                                                                | ✓ | ⏱: 6.98s 
+[FETCH]... ↓ http://baredessa.com.ar/web/en/aboutus/                                                              | ✓ | ⏱: 4.89s 
+[SCRAPE].. ◆ http://baredessa.com.ar/web/en/aboutus/                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://baredessa.com.ar/web/en/aboutus/                                                              | ✓ | ⏱: 6.92s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/baredes-s-a-af494fd8509b.json

@@ -1,0 +1,88 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://checkip.amazonaws.com/                                                                       | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.vsmabrasives.com/de/service/news/fam...ue-actirox-fiberscheiben-erweitern-das-sortiment  | ✓ | ⏱: 3.63s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/de/service/news/fam...ue-actirox-fiberscheiben-erweitern-das-sortiment  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.vsmabrasives.com/de/service/news/fam...ue-actirox-fiberscheiben-erweitern-das-sortiment  | ✓ | ⏱: 4.74s 
+[FETCH]... ↓ https://www.vsmabrasives.com/de/service/news/inn...sm-xelerion-erhaelt-german-innovation-award-2025  | ✓ | ⏱: 3.50s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/de/service/news/inn...sm-xelerion-erhaelt-german-innovation-award-2025  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vsmabrasives.com/de/service/news/inn...sm-xelerion-erhaelt-german-innovation-award-2025  | ✓ | ⏱: 4.76s 
+[FETCH]... ↓ https://www.vsmabrasives.com/de/service/news/meh...-vsm-erweitert-das-actirox-schleifband-sortiment  | ✓ | ⏱: 3.57s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/de/service/news/meh...-vsm-erweitert-das-actirox-schleifband-sortiment  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vsmabrasives.com/de/service/news/meh...-vsm-erweitert-das-actirox-schleifband-sortiment  | ✓ | ⏱: 4.95s 
+[FETCH]... ↓ https://www.vsmabrasives.com/de/service/news                                                         | ✓ | ⏱: 3.95s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/de/service/news                                                         | ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.vsmabrasives.com/de/service/news                                                         | ✓ | ⏱: 5.41s 
+[FETCH]... ↓ https://www.vsmabrasives.com/de/service/news/met...fizient-schleifen-mit-vsm-langzeitschleifmitteln  | ✓ | ⏱: 1.77s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/de/service/news/met...fizient-schleifen-mit-vsm-langzeitschleifmitteln  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vsmabrasives.com/de/service/news/met...fizient-schleifen-mit-vsm-langzeitschleifmitteln  | ✓ | ⏱: 1.80s 
+[FETCH]... ↓ https://www.vsmabrasives.com/de/service/news/wel...-vsm-xelerion-bringt-feinschliff-auf-neues-level  | ✓ | ⏱: 2.53s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/de/service/news/wel...-vsm-xelerion-bringt-feinschliff-auf-neues-level  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.vsmabrasives.com/de/service/news/wel...-vsm-xelerion-bringt-feinschliff-auf-neues-level  | ✓ | ⏱: 2.56s 
+[FETCH]... ↓ https://www.vsmabrasives.com/de/service/news/vsm...tzt-neue-massstaebe-in-sachen-ressourcenschonung  | ✓ | ⏱: 3.27s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/de/service/news/vsm...tzt-neue-massstaebe-in-sachen-ressourcenschonung  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.vsmabrasives.com/de/service/news/vsm...tzt-neue-massstaebe-in-sachen-ressourcenschonung  | ✓ | ⏱: 3.30s 
+[FETCH]... ↓ https://www.vsmabrasives.com/de/service/news/xel...praesentiert-das-schleifmittelprogramm-2026-2027  | ✓ | ⏱: 3.75s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/de/service/news/xel...praesentiert-das-schleifmittelprogramm-2026-2027  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vsmabrasives.com/de/service/news/xel...praesentiert-das-schleifmittelprogramm-2026-2027  | ✓ | ⏱: 3.77s 
+[FETCH]... ↓ https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland                                   | ✓ | ⏱: 3.35s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland                                   | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.vsmabrasives.com/de/vsm-vor-ort/sales-team-deutschland                                   | ✓ | ⏱: 3.38s 
+[FETCH]... ↓ https://www.vsmabrasives.com/en/company                                                              | ✓ | ⏱: 3.43s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/en/company                                                              | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.vsmabrasives.com/en/company                                                              | ✓ | ⏱: 3.47s 
+[FETCH]... ↓ https://www.vsmabrasives.com/en/company/investor-relations                                           | ✓ | ⏱: 3.34s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/en/company/investor-relations                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vsmabrasives.com/en/company/investor-relations                                           | ✓ | ⏱: 3.36s 
+[FETCH]... ↓ https://www.vsmabrasives.com/en/information-about-data-protection                                    | ✓ | ⏱: 2.86s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/en/information-about-data-protection                                    | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.vsmabrasives.com/en/information-about-data-protection                                    | ✓ | ⏱: 2.90s 
+[FETCH]... ↓ https://www.vsmabrasives.com/en/new-company/discover-vsm                                             | ✓ | ⏱: 2.86s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/en/new-company/discover-vsm                                             | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.vsmabrasives.com/en/new-company/discover-vsm                                             | ✓ | ⏱: 2.89s 
+[FETCH]... ↓ https://www.vsmabrasives.com/en/service/news                                                         | ✓ | ⏱: 2.78s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/en/service/news                                                         | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.vsmabrasives.com/en/service/news                                                         | ✓ | ⏱: 2.84s 
+[FETCH]... ↓ https://www.vsmabrasives.com/fr/company/discover-vsm                                                 | ✓ | ⏱: 2.65s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/fr/company/discover-vsm                                                 | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.vsmabrasives.com/fr/company/discover-vsm                                                 | ✓ | ⏱: 2.68s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.vsmabrasives.com/assets/images/h/ACTIROX-2025-News-Header-15x0rm64b92k73c.jpg            | ✓ | ⏱: 1.94s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/assets/images/h/ACTIROX-2025-News-Header-15x0rm64b92k73c.jpg            | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.vsmabrasive...der-15x0rm64b92k73c.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (546 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.vsmabrasives.com/assets/images/h/ACTIROX-2025-News-Header-15x0rm64b92k73c.jpg            | ✗ | ⏱: 1.94s 
+[FETCH]... ↓ https://www.vsmabrasives.com/files/inhalte/Sales Team Deutschland/Sales-Team-Header.jpg              | ✓ | ⏱: 1.83s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/files/inhalte/Sales Team Deutschland/Sales-Team-Header.jpg              | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.vsmabrasive...d/Sales-Team-Header.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (507 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.vsmabrasives.com/files/inhalte/Sales Team Deutschland/Sales-Team-Header.jpg              | ✗ | ⏱: 1.84s 
+[FETCH]... ↓ https://www.vsmabrasives.com/files/inhalte/news/ACTIROX-2025-News-AF733.jpg                          | ✓ | ⏱: 1.86s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/files/inhalte/news/ACTIROX-2025-News-AF733.jpg                          | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.vsmabrasive...ROX-2025-News-AF733.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (497 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.vsmabrasives.com/files/inhalte/news/ACTIROX-2025-News-AF733.jpg                          | ✗ | ⏱: 1.86s 
+[FETCH]... ↓ https://www.vsmabrasives.com/files/inhalte/news/ACTIROX-2025-News-AF979.jpg                          | ✓ | ⏱: 0.40s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/files/inhalte/news/ACTIROX-2025-News-AF979.jpg                          | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.vsmabrasive...ROX-2025-News-AF979.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (497 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.vsmabrasives.com/files/inhalte/news/ACTIROX-2025-News-AF979.jpg                          | ✗ | ⏱: 0.40s 
+[FETCH]... ↓ https://www.vsmabrasives.com/en/service/news/met...-efficient-grinding-with-vsm-long-term-abrasives  | ✓ | ⏱: 2.42s 
+[SCRAPE].. ◆ https://www.vsmabrasives.com/en/service/news/met...-efficient-grinding-with-vsm-long-term-abrasives  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.vsmabrasives.com/en/service/news/met...-efficient-grinding-with-vsm-long-term-abrasives  | ✓ | ⏱: 2.44s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.vsmabrasives.com/assets/images/h/ACTIROX-2025-News-Header-15x0rm64b92k73c.jpg            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.vsmabrasives.com/assets/images/h/ACTIROX-2025-News-Header-15x0rm64b92k73c.jpg            | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://www.vsmabrasives.com/files/inhalte/news/ACTIROX-2025-News-AF733.jpg                          | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.vsmabrasives.com/files/inhalte/news/ACTIROX-2025-News-AF733.jpg                          | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://www.vsmabrasives.com/files/inhalte/news/ACTIROX-2025-News-AF979.jpg                          | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.vsmabrasives.com/files/inhalte/news/ACTIROX-2025-News-AF979.jpg                          | ✓ | ⏱: 0.02s 
+[FETCH]... ↓ https://www.vsmabrasives.com/files/inhalte/Sales Team Deutschland/Sales-Team-Header.jpg              | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.vsmabrasives.com/files/inhalte/Sales Team Deutschland/Sales-Team-Header.jpg              | ✓ | ⏱: 0.02s 
+Xref table not zero-indexed. ID numbers for objects will be corrected.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Xref table not zero-indexed. ID numbers for objects will be corrected.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/web-20260824/vsm-970b3caff677.json

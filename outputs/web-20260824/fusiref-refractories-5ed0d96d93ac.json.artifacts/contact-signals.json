@@ -1,0 +1,50 @@
+[
+  {
+    "channel": "email",
+    "value": "info@fusiref.com",
+    "status": "observed",
+    "source_url": "https://www.fusiref.com/en/contact",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+3269590459",
+    "status": "valid_format",
+    "source_url": "https://www.fusiref.com/en/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@fusiref.com",
+    "status": "observed",
+    "source_url": "https://www.fusiref.com/fr/contact",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+3269590459",
+    "status": "valid_format",
+    "source_url": "https://www.fusiref.com/fr/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@fusiref.com",
+    "status": "observed",
+    "source_url": "https://www.fusiref.com/nl/contact",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+3269590459",
+    "status": "valid_format",
+    "source_url": "https://www.fusiref.com/nl/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]

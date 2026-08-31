@@ -1,0 +1,18 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.trademo.com/companies/vesuvius-poland-sp-z-o-o/25801372                                  | ✓ | ⏱: 1.39s 
+[SCRAPE].. ◆ https://www.trademo.com/companies/vesuvius-poland-sp-z-o-o/25801372                                  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.trademo.com...oland-sp-z-o-o/25801372  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (10321 bytes) 
+[COMPLETE] ● https://www.trademo.com/companies/vesuvius-poland-sp-z-o-o/25801372                                  | ✗ | ⏱: 1.40s 
+[FETCH]... ↓ https://www.vesuvius.com/en/contact-us.html                                                          | ✓ | ⏱: 3.86s 
+[SCRAPE].. ◆ https://www.vesuvius.com/en/contact-us.html                                                          | ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.vesuvius.com/en/contact-us.html                                                          | ✓ | ⏱: 5.95s 
+[FETCH]... ↓ https://www.emis.com/php/company-profile/PL/Vesuvius_Poland_Sp_z_oo_en_2008032.html                  | ✓ | ⏱: 4.11s 
+[SCRAPE].. ◆ https://www.emis.com/php/company-profile/PL/Vesuvius_Poland_Sp_z_oo_en_2008032.html                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.emis.com/php/company-profile/PL/Vesuvius_Poland_Sp_z_oo_en_2008032.html                  | ✓ | ⏱: 6.13s 
+[FETCH]... ↓ https://vesuvius.pl                                                                                  | ✓ | ⏱: 7.57s 
+[SCRAPE].. ◆ https://vesuvius.pl                                                                                  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://vesuvius.pl                                                                                  | ✓ | ⏱: 9.04s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/vesuvius-poland-sp-z-o-o-a388f391ffe5.json

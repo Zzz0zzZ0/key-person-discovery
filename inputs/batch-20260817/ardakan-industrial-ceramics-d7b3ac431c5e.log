@@ -1,0 +1,29 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://www.aic.ir                                                                                    | ✓ | ⏱: 0.03s 
+[COMPLETE] ● http://www.aic.ir                                                                                    | ✓ | ⏱: 0.03s 
+[FETCH]... ↓ https://ana.ir/en/news/3418/iranian-nanotechnolo...akes-different-catalysts-silicate-based-ceramics  | ✓ | ⏱: 3.82s 
+[SCRAPE].. ◆ https://ana.ir/en/news/3418/iranian-nanotechnolo...akes-different-catalysts-silicate-based-ceramics  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://ana.ir/en/news/3418/iranian-nanotechnolo...akes-different-catalysts-silicate-based-ceramics  | ✓ | ⏱: 5.31s 
+[FETCH]... ↓ https://rocketreach.co/ardakan-industrial-ceramics-profile_b475560efc5cc36a                          | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://rocketreach.co/ardakan-industrial-ceramics-profile_b475560efc5cc36a                          | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://iranindustrial.com/en/details/10235                                                          | ✓ | ⏱: 5.48s 
+[SCRAPE].. ◆ https://iranindustrial.com/en/details/10235                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://iranindustrial.com/en/details/10235                                                          | ✓ | ⏱: 6.66s 
+[FETCH]... ↓ https://www.emis.com/php/company-profile/IR/Arda...ics_Company_Public_Joint_Stock___en_2422924.html  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.emis.com/php/company-profile/IR/Arda...ics_Company_Public_Joint_Stock___en_2422924.html  | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://www.zoominfo.com/c/ardakan-industrial-ceramics-co/372136200                                  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.zoominfo.com/c/ardakan-industrial-ceramics-co/372136200                                  | ✓ | ⏱: 0.00s 
+[FETCH]... ↓ https://chemdmart.com/company-profile/ardakan-industrial-ceramics-co                                 | ✓ | ⏱: 10.23s 
+[SCRAPE].. ◆ https://chemdmart.com/company-profile/ardakan-industrial-ceramics-co                                 | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://chemdmart.com/company-profile/ardakan-industrial-ceramics-co                                 | ✓ | ⏱: 11.55s 
+[FETCH]... ↓ https://product.statnano.com/company/ardakan-industrial-ceramics                                     | ✓ | ⏱: 10.79s 
+[SCRAPE].. ◆ https://product.statnano.com/company/ardakan-industrial-ceramics                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://product.statnano.com/company/ardakan-industrial-ceramics                                     | ✓ | ⏱: 12.16s 
+[FETCH]... ↓ https://www.alcircle.com/directory/bauxite/detail/60465/ardakan-industrial-ceramics-solutions        | ✓ | ⏱: 7.60s 
+[SCRAPE].. ◆ https://www.alcircle.com/directory/bauxite/detail/60465/ardakan-industrial-ceramics-solutions        | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.alcircle.com/directory/bauxite/detail/60465/ardakan-industrial-ceramics-solutions        | ✓ | ⏱: 9.37s 
+[INIT].... → Crawl4AI 0.9.2 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260817/ardakan-industrial-ceramics-d7b3ac431c5e.json

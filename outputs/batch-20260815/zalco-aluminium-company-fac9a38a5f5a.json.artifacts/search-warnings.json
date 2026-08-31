@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://zalco.nl",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://zalco.nl/sitemap.xml: HTTP Error 404: Not Found"
+  }
+]

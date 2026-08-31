@@ -1,0 +1,74 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://runyan-pottery-supply-inc.wheree.com/                                                        | ✓ | ⏱: 1.42s 
+[SCRAPE].. ◆ https://runyan-pottery-supply-inc.wheree.com/                                                        | ✓ | ⏱: 0.00s 
+[ERROR]... × https://runyan-pottery-supply-inc.wheree.com/      | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://runyan-pottery-supply-inc.wheree.com/                                                        | ✗ | ⏱: 2.45s 
+[FETCH]... ↓ https://allpeople.com/tony+zintsmaster_runyan-pottery-supply-inc-us                                  | ✓ | ⏱: 1.58s 
+[SCRAPE].. ◆ https://allpeople.com/tony+zintsmaster_runyan-pottery-supply-inc-us                                  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://allpeople.com/t...n-pottery-supply-inc-us  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2086 bytes) 
+[COMPLETE] ● https://allpeople.com/tony+zintsmaster_runyan-pottery-supply-inc-us                                  | ✗ | ⏱: 2.49s 
+[FETCH]... ↓ https://michigan-company.com/co/runyan-pottery-supply-inc                                            | ✓ | ⏱: 1.47s 
+[SCRAPE].. ◆ https://michigan-company.com/co/runyan-pottery-supply-inc                                            | ✓ | ⏱: 0.00s 
+[ERROR]... × https://michigan-compan...nyan-pottery-supply-inc  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://michigan-company.com/co/runyan-pottery-supply-inc                                            | ✗ | ⏱: 2.50s 
+[FETCH]... ↓ https://www.dnb.com/business-directory/company-p...supply_inc.b7bf6548fee30ce9d75b27c52dda559e.html  | ✓ | ⏱: 1.84s 
+[SCRAPE].. ◆ https://www.dnb.com/business-directory/company-p...supply_inc.b7bf6548fee30ce9d75b27c52dda559e.html  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.dnb.com/business-directory/company-p...supply_inc.b7bf6548fee30ce9d75b27c52dda559e.html  | ✓ | ⏱: 1.86s 
+[FETCH]... ↓ https://runyanpotterysupply.wordpress.com/catalog/                                                   | ✓ | ⏱: 1.78s 
+[SCRAPE].. ◆ https://runyanpotterysupply.wordpress.com/catalog/                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://runyanpotterysupply.wordpress.com/catalog/                                                   | ✓ | ⏱: 2.73s 
+[FETCH]... ↓ https://runyanpotterysupply.com/                                                                     | ✓ | ⏱: 4.03s 
+[SCRAPE].. ◆ https://runyanpotterysupply.com/                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://runyanpotterysupply.com/                                                                     | ✓ | ⏱: 5.90s 
+[FETCH]... ↓ https://www.facebook.com/runyanpotterysupply/pos...r-a-position-in-the-clay-plant-/1894462127264183  | ✓ | ⏱: 1.88s 
+[SCRAPE].. ◆ https://www.facebook.com/runyanpotterysupply/pos...r-a-position-in-the-clay-plant-/1894462127264183  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.facebook.com/runyanpotterysupply/pos...r-a-position-in-the-clay-plant-/1894462127264183  | ✓ | ⏱: 3.90s 
+[FETCH]... ↓ https://www.instagram.com/runyanpotterysupply?hl=en                                                  | ✓ | ⏱: 1.99s 
+[SCRAPE].. ◆ https://www.instagram.com/runyanpotterysupply?hl=en                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.instagram.com/runyanpotterysupply?hl=en                                                  | ✓ | ⏱: 4.02s 
+[FETCH]... ↓ https://www.runyanpotterysupply.com                                                                  | ✓ | ⏱: 2.82s 
+[SCRAPE].. ◆ https://www.runyanpotterysupply.com                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.runyanpotterysupply.com                                                                  | ✓ | ⏱: 4.24s 
+[FETCH]... ↓ https://www.runyanpotterysupply.com/catalog                                                          | ✓ | ⏱: 2.51s 
+[SCRAPE].. ◆ https://www.runyanpotterysupply.com/catalog                                                          | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.runyanpotterysupply.com/catalog                                                          | ✓ | ⏱: 3.96s 
+[FETCH]... ↓ https://www.runyanpotterysupply.com/page/discounts                                                   | ✓ | ⏱: 1.93s 
+[SCRAPE].. ◆ https://www.runyanpotterysupply.com/page/discounts                                                   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.runyanpotterysupply.com/page/discounts                                                   | ✓ | ⏱: 3.25s 
+[FETCH]... ↓ https://www.maycocolors.com/distributors/runyan-pottery-supply/                                      | ✓ | ⏱: 5.12s 
+[SCRAPE].. ◆ https://www.maycocolors.com/distributors/runyan-pottery-supply/                                      | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.maycocolors.com/distributors/runyan-pottery-supply/                                      | ✓ | ⏱: 6.57s 
+[FETCH]... ↓ https://www.runyanpotterysupply.com/page/hoursdirections                                             | ✓ | ⏱: 1.58s 
+[SCRAPE].. ◆ https://www.runyanpotterysupply.com/page/hoursdirections                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.runyanpotterysupply.com/page/hoursdirections                                             | ✓ | ⏱: 2.94s 
+[FETCH]... ↓ https://www.runyanpotterysupply.com/page/order                                                       | ✓ | ⏱: 1.60s 
+[SCRAPE].. ◆ https://www.runyanpotterysupply.com/page/order                                                       | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.runyanpotterysupply.com/page/order                                                       | ✓ | ⏱: 3.01s 
+[FETCH]... ↓ https://www.thebluebook.com/iProView/1028327/run...ery-supply-inc/manufacturers/locations-contacts/  | ✓ | ⏱: 4.13s 
+[SCRAPE].. ◆ https://www.thebluebook.com/iProView/1028327/run...ery-supply-inc/manufacturers/locations-contacts/  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.thebluebook.com/iProView/1028327/run...ery-supply-inc/manufacturers/locations-contacts/  | ✓ | ⏱: 4.91s 
+[FETCH]... ↓ https://www.thebluebook.com/iProView/1028327/runyan-pottery-supply-inc/manufacturers/                | ✓ | ⏱: 3.48s 
+[SCRAPE].. ◆ https://www.thebluebook.com/iProView/1028327/runyan-pottery-supply-inc/manufacturers/                | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.thebluebook.com/iProView/1028327/runyan-pottery-supply-inc/manufacturers/                | ✓ | ⏱: 5.11s 
+[FETCH]... ↓ https://www.yelp.com/biz/runyan-pottery-supply-clio                                                  | ✓ | ⏱: 2.03s 
+[SCRAPE].. ◆ https://www.yelp.com/biz/runyan-pottery-supply-clio                                                  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.yelp.com/bi...yan-pottery-supply-clio  | Error: Blocked by anti-bot protection: DataDome captcha 
+[COMPLETE] ● https://www.yelp.com/biz/runyan-pottery-supply-clio                                                  | ✗ | ⏱: 3.76s 
+Xref table not zero-indexed. ID numbers for objects will be corrected.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+Rotated text discovered. Output will be incomplete.
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/runyan-pottery-supply-inc-af1db99a7929.json

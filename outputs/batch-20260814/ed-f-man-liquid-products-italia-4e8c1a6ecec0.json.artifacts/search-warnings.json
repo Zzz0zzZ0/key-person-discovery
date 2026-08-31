@@ -1,0 +1,110 @@
+[
+  {
+    "query": "https://www.edfman.it",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.edfman.it/sitemap.xml: <urlopen error _ssl.c:999: The handshake operation timed out>"
+  },
+  {
+    "query": "\"ED&F Man Liquid Products Italia\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"ED&F Man Liquid Products Italia\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "too many requests"
+  },
+  {
+    "query": "\"ED&F Man Liquid Products Italia\" (procurement OR purchasing OR sourcing OR buyer)",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"ED&F Man Liquid Products Italia\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")",
+    "provider": "searxng",
+    "engine": "searxng",
+    "reason": "All active SearXNG engines failed for '\"ED&F Man Liquid Products Italia\" (\"refractory engineer\" OR metallurgist OR \"technical manager\")': bing: timeout, duckduckgo: CAPTCHA, google cse: Suspended: too many requests, qwant: timeout"
+  },
+  {
+    "query": "site:linkedin.com/in \"ED&F Man Liquid Products Italia\"",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for 'site:linkedin.com/in \"ED&F Man Liquid Products Italia\"': <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "site:linkedin.com/in \"ED&F Man Liquid Products Italia\"",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:linkedin.com/in \"ED&F Man Liquid Products Italia\"",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:linkedin.com/in \"ED&F Man Liquid Products Italia\"",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "\"ED&F Man Liquid Products Italia\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "HTTP connection error"
+  },
+  {
+    "query": "\"ED&F Man Liquid Products Italia\" (email OR phone OR WhatsApp OR \"wa.me\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:edfman.it (team OR management OR contact)",
+    "provider": "anysearch",
+    "engine": "anysearch",
+    "reason": "AnySearch request failed for 'site:edfman.it (team OR management OR contact)': <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  },
+  {
+    "query": "site:edfman.it (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "bing",
+    "reason": "HTTP connection error"
+  },
+  {
+    "query": "site:edfman.it (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "HTTP connection error"
+  },
+  {
+    "query": "site:edfman.it (team OR management OR contact)",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:edfman.it filetype:pdf",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:edfman.it filetype:pdf",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "Suspended: too many requests"
+  },
+  {
+    "query": "site:edfman.it filetype:pdf",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  }
+]

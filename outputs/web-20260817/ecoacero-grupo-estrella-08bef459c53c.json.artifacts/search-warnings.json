@@ -1,0 +1,38 @@
+[
+  {
+    "query": "https://aceroestrella.com.do",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://aceroestrella.com.do/sitemap.xml: HTTP Error 404: Not Found"
+  },
+  {
+    "query": "\"ECOACERO (Grupo Estrella)\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "\"ECOACERO (Grupo Estrella)\" (leadership OR director OR manager OR engineer OR \"sales contact\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  },
+  {
+    "query": "site:aceroestrella.com.do (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "duckduckgo",
+    "reason": "timeout"
+  },
+  {
+    "query": "site:aceroestrella.com.do (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "google cse",
+    "reason": "too many requests"
+  },
+  {
+    "query": "site:aceroestrella.com.do (email OR phone OR WhatsApp OR \"mailto:\" OR \"tel:\")",
+    "provider": "searxng",
+    "engine": "qwant",
+    "reason": "CAPTCHA"
+  }
+]

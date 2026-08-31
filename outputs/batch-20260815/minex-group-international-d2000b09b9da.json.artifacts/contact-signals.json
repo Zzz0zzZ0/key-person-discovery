@@ -1,0 +1,181 @@
+[
+  {
+    "channel": "email",
+    "value": "gdpr@minexgroup.eu",
+    "status": "observed",
+    "source_url": "https://www.minexgroup.eu/en/gdpr",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "anspdcp@dataprotection.ro",
+    "status": "observed",
+    "source_url": "https://www.minexgroup.eu/en/gdpr",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+40318059211",
+    "status": "valid_format",
+    "source_url": "https://www.minexgroup.eu/en/gdpr",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+40213060281",
+    "status": "valid_format",
+    "source_url": "https://www.minexgroup.eu/en/dehumidification/silica-gel-dehumidifiers/mnx-ah-dehumidifiers",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+40213060281",
+    "status": "valid_format",
+    "source_url": "https://www.minexgroup.eu/en/heating-and-ventilation/industrial-fuel-heaters/thermobile-tas-800-e---industrial-oil-fired-heater",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+40213060281",
+    "status": "valid_format",
+    "source_url": "https://www.minexgroup.eu/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+40729019952",
+    "status": "valid_format",
+    "source_url": "https://www.minexgroup.eu/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+40730018344",
+    "status": "valid_format",
+    "source_url": "https://www.minexgroup.eu/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+38163507586",
+    "status": "valid_format",
+    "source_url": "https://www.minexgroup.eu/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+37067463371",
+    "status": "valid_format",
+    "source_url": "https://www.minexgroup.eu/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+40213060281",
+    "status": "valid_format",
+    "source_url": "https://www.minexgroup.eu/en/plates-profiles-and-pipes-processing/bending/dne-laser-c-bend-1603100-s-electro-hydraulic-servo-press-brake",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "gdpr@minexgroup.eu",
+    "status": "observed",
+    "source_url": "https://www.minexgroup.eu/et/gdpr",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "anspdcp@dataprotection.ro",
+    "status": "observed",
+    "source_url": "https://www.minexgroup.eu/et/gdpr",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+40318059211",
+    "status": "valid_format",
+    "source_url": "https://www.minexgroup.eu/et/gdpr",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+40213060281",
+    "status": "valid_format",
+    "source_url": "https://www.minexgroup.eu/en/plates-profiles-and-pipes-processing/laser-cutting-systems/dne-laser-d-soar-plus-gp-fiber-laser-cutting-machine",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "gdpr@minexgroup.eu",
+    "status": "observed",
+    "source_url": "https://www.minexgroup.eu/hu/gdpr",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "anspdcp@dataprotection.ro",
+    "status": "observed",
+    "source_url": "https://www.minexgroup.eu/hu/gdpr",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+40318059211",
+    "status": "valid_format",
+    "source_url": "https://www.minexgroup.eu/hu/gdpr",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "gdpr@minexgroup.eu",
+    "status": "observed",
+    "source_url": "https://www.minexgroup.eu/uk/gdpr",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "anspdcp@dataprotection.ro",
+    "status": "observed",
+    "source_url": "https://www.minexgroup.eu/uk/gdpr",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+40318059211",
+    "status": "valid_format",
+    "source_url": "https://www.minexgroup.eu/uk/gdpr",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/mircea-minea-6030a319/",
+    "status": "probable",
+    "source_url": "https://www.linkedin.com/in/mircea-minea-6030a319/"
+  }
+]

@@ -1,0 +1,112 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://labocast.fr/informations/nos-contacts/                                                       | ✓ | ⏱: 4.47s 
+[SCRAPE].. ◆ https://labocast.fr/informations/nos-contacts/                                                       | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://labocast.fr/informations/nos-contacts/                                                       | ✓ | ⏱: 6.19s 
+[FETCH]... ↓ https://labocast.fr/informations/nos-contacts/bienvenue-chez-labocast/                               | ✓ | ⏱: 4.78s 
+[SCRAPE].. ◆ https://labocast.fr/informations/nos-contacts/bienvenue-chez-labocast/                               | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://labocast.fr/informations/nos-contacts/bienvenue-chez-labocast/                               | ✓ | ⏱: 6.22s 
+[FETCH]... ↓ https://labocast.fr/informations/nos-contacts/mylabocast/                                            | ✓ | ⏱: 4.81s 
+[SCRAPE].. ◆ https://labocast.fr/informations/nos-contacts/mylabocast/                                            | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://labocast.fr/informations/nos-contacts/mylabocast/                                            | ✓ | ⏱: 6.26s 
+[FETCH]... ↓ https://labocast.fr                                                                                  | ✓ | ⏱: 4.60s 
+[SCRAPE].. ◆ https://labocast.fr                                                                                  | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://labocast.fr                                                                                  | ✓ | ⏱: 6.64s 
+[FETCH]... ↓ https://labocast.fr/informations/nos-contacts/support-labocast/                                      | ✓ | ⏱: 1.91s 
+[SCRAPE].. ◆ https://labocast.fr/informations/nos-contacts/support-labocast/                                      | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://labocast.fr/informations/nos-contacts/support-labocast/                                      | ✓ | ⏱: 1.95s 
+[FETCH]... ↓ https://labocast.fr/informations/nos-ressources-humaines/equipes/                                    | ✓ | ⏱: 1.98s 
+[SCRAPE].. ◆ https://labocast.fr/informations/nos-ressources-humaines/equipes/                                    | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://labocast.fr/informations/nos-ressources-humaines/equipes/                                    | ✓ | ⏱: 2.02s 
+[FETCH]... ↓ https://labocast.fr/lesprit-dequipe/                                                                 | ✓ | ⏱: 1.86s 
+[SCRAPE].. ◆ https://labocast.fr/lesprit-dequipe/                                                                 | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://labocast.fr/lesprit-dequipe/                                                                 | ✓ | ⏱: 1.90s 
+[FETCH]... ↓ https://labocast.fr/la-cohesion-dequipe/                                                             | ✓ | ⏱: 2.06s 
+[SCRAPE].. ◆ https://labocast.fr/la-cohesion-dequipe/                                                             | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://labocast.fr/la-cohesion-dequipe/                                                             | ✓ | ⏱: 2.10s 
+[FETCH]... ↓ https://labocast.fr/informations/nos-contacts/support-labocast-3d/                                   | ✓ | ⏱: 5.63s 
+[SCRAPE].. ◆ https://labocast.fr/informations/nos-contacts/support-labocast-3d/                                   | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://labocast.fr/informations/nos-contacts/support-labocast-3d/                                   | ✓ | ⏱: 5.67s 
+[FETCH]... ↓ https://labocast.fr/informations/nos-contacts/support-aligneurs-trioclear/                           | ✓ | ⏱: 5.98s 
+[SCRAPE].. ◆ https://labocast.fr/informations/nos-contacts/support-aligneurs-trioclear/                           | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://labocast.fr/informations/nos-contacts/support-aligneurs-trioclear/                           | ✓ | ⏱: 6.01s 
+[FETCH]... ↓ https://labocast.fr/manager-une-equipe-tout-un-programme/                                            | ✓ | ⏱: 1.81s 
+[SCRAPE].. ◆ https://labocast.fr/manager-une-equipe-tout-un-programme/                                            | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://labocast.fr/manager-une-equipe-tout-un-programme/                                            | ✓ | ⏱: 1.85s 
+[FETCH]... ↓ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-1-min.jpg                 | ✓ | ⏱: 0.84s 
+[SCRAPE].. ◆ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-1-min.jpg                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://labocast.fr/wp-...photos-equipe-1-min.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (536 bytes, 0 chars visible) 
+[COMPLETE] ● https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-1-min.jpg                 | ✗ | ⏱: 0.84s 
+[FETCH]... ↓ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-10-min.jpg                | ✓ | ⏱: 0.61s 
+[SCRAPE].. ◆ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-10-min.jpg                | ✓ | ⏱: 0.00s 
+[ERROR]... × https://labocast.fr/wp-...hotos-equipe-10-min.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (538 bytes, 0 chars visible) 
+[COMPLETE] ● https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-10-min.jpg                | ✗ | ⏱: 0.61s 
+[FETCH]... ↓ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-17-min.jpg                | ✓ | ⏱: 0.15s 
+[SCRAPE].. ◆ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-17-min.jpg                | ✓ | ⏱: 0.00s 
+[ERROR]... × https://labocast.fr/wp-...hotos-equipe-17-min.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (538 bytes, 0 chars visible) 
+[COMPLETE] ● https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-17-min.jpg                | ✗ | ⏱: 0.15s 
+[FETCH]... ↓ https://labocast.fr/management-et-organisation-bgds/                                                 | ✓ | ⏱: 2.80s 
+[SCRAPE].. ◆ https://labocast.fr/management-et-organisation-bgds/                                                 | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://labocast.fr/management-et-organisation-bgds/                                                 | ✓ | ⏱: 2.84s 
+[FETCH]... ↓ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-12-min.jpg                | ✓ | ⏱: 0.55s 
+[SCRAPE].. ◆ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-12-min.jpg                | ✓ | ⏱: 0.00s 
+[ERROR]... × https://labocast.fr/wp-...hotos-equipe-12-min.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (538 bytes, 0 chars visible) 
+[COMPLETE] ● https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-12-min.jpg                | ✗ | ⏱: 0.55s 
+[FETCH]... ↓ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-14-min.jpg                | ✓ | ⏱: 0.52s 
+[SCRAPE].. ◆ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-14-min.jpg                | ✓ | ⏱: 0.00s 
+[ERROR]... × https://labocast.fr/wp-...hotos-equipe-14-min.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (538 bytes, 0 chars visible) 
+[COMPLETE] ● https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-14-min.jpg                | ✗ | ⏱: 0.52s 
+[FETCH]... ↓ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-3-min.jpg                 | ✓ | ⏱: 0.15s 
+[SCRAPE].. ◆ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-3-min.jpg                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://labocast.fr/wp-...photos-equipe-3-min.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (536 bytes, 0 chars visible) 
+[COMPLETE] ● https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-3-min.jpg                 | ✗ | ⏱: 0.15s 
+[FETCH]... ↓ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-2-min.jpg                 | ✓ | ⏱: 0.51s 
+[SCRAPE].. ◆ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-2-min.jpg                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://labocast.fr/wp-...photos-equipe-2-min.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (536 bytes, 0 chars visible) 
+[COMPLETE] ● https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-2-min.jpg                 | ✗ | ⏱: 0.53s 
+[FETCH]... ↓ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-4-min.jpg                 | ✓ | ⏱: 0.50s 
+[SCRAPE].. ◆ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-4-min.jpg                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://labocast.fr/wp-...photos-equipe-4-min.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (536 bytes, 0 chars visible) 
+[COMPLETE] ● https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-4-min.jpg                 | ✗ | ⏱: 0.50s 
+[FETCH]... ↓ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-6-min.jpg                 | ✓ | ⏱: 0.52s 
+[SCRAPE].. ◆ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-6-min.jpg                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://labocast.fr/wp-...photos-equipe-6-min.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (536 bytes, 0 chars visible) 
+[COMPLETE] ● https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-6-min.jpg                 | ✗ | ⏱: 0.52s 
+[FETCH]... ↓ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-5-min.jpg                 | ✓ | ⏱: 0.61s 
+[SCRAPE].. ◆ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-5-min.jpg                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://labocast.fr/wp-...photos-equipe-5-min.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (536 bytes, 0 chars visible) 
+[COMPLETE] ● https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-5-min.jpg                 | ✗ | ⏱: 0.62s 
+[FETCH]... ↓ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-7-min.jpg                 | ✓ | ⏱: 0.57s 
+[SCRAPE].. ◆ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-7-min.jpg                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://labocast.fr/wp-...photos-equipe-7-min.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (536 bytes, 0 chars visible) 
+[COMPLETE] ● https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-7-min.jpg                 | ✗ | ⏱: 0.57s 
+[FETCH]... ↓ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-8-min.jpg                 | ✓ | ⏱: 0.53s 
+[SCRAPE].. ◆ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-8-min.jpg                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://labocast.fr/wp-...photos-equipe-8-min.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (536 bytes, 0 chars visible) 
+[COMPLETE] ● https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-8-min.jpg                 | ✗ | ⏱: 0.54s 
+[FETCH]... ↓ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-9-min.jpg                 | ✓ | ⏱: 0.52s 
+[SCRAPE].. ◆ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-9-min.jpg                 | ✓ | ⏱: 0.00s 
+[ERROR]... × https://labocast.fr/wp-...photos-equipe-9-min.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (536 bytes, 0 chars visible) 
+[COMPLETE] ● https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-9-min.jpg                 | ✗ | ⏱: 0.53s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-13-min.jpg                | ✓ | ⏱: 1.80s 
+[SCRAPE].. ◆ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-13-min.jpg                | ✓ | ⏱: 0.00s 
+[ERROR]... × https://labocast.fr/wp-...hotos-equipe-13-min.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (538 bytes, 0 chars visible) 
+[COMPLETE] ● https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-13-min.jpg                | ✗ | ⏱: 1.81s 
+[FETCH]... ↓ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-min.jpg                   | ✓ | ⏱: 0.52s 
+[SCRAPE].. ◆ https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-min.jpg                   | ✓ | ⏱: 0.00s 
+[ERROR]... × https://labocast.fr/wp-...x-photos-equipe-min.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (532 bytes, 0 chars visible) 
+[COMPLETE] ● https://labocast.fr/wp-content/uploads/2025/09/set-up-1600px-photos-equipe-min.jpg                   | ✗ | ⏱: 0.53s 
+[FETCH]... ↓ https://labocast.fr/infos-contact/                                                                   | ✓ | ⏱: 3.84s 
+[SCRAPE].. ◆ https://labocast.fr/infos-contact/                                                                   | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://labocast.fr/infos-contact/                                                                   | ✓ | ⏱: 3.88s 
+[FETCH]... ↓ https://labocast.fr/informations/notre-histoire/newsletter/                                          | ✓ | ⏱: 4.06s 
+[SCRAPE].. ◆ https://labocast.fr/informations/notre-histoire/newsletter/                                          | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://labocast.fr/informations/notre-histoire/newsletter/                                          | ✓ | ⏱: 4.09s 
+[FETCH]... ↓ https://labocast-kenya.com/education/                                                                | ✓ | ⏱: 5.13s 
+[SCRAPE].. ◆ https://labocast-kenya.com/education/                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://labocast-kenya.com/education/                                                                | ✓ | ⏱: 7.16s 
+Xref table not zero-indexed. ID numbers for objects will be corrected.
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/labocast-1aef2dfb9570.json

@@ -1,0 +1,8 @@
+[
+  {
+    "query": "https://refraconsult.de",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://refraconsult.de/sitemap.xml: HTTP Error 404: Not Found"
+  }
+]

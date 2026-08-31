@@ -1,0 +1,42 @@
+{
+  "source": "twenty_crm_read_only",
+  "crm_writeback": false,
+  "pipeline_version": "0.2.0",
+  "search_policy": "anysearch_primary_searxng_fallback",
+  "companies": [
+    {
+      "name": "Braskort Abrasivos",
+      "search_results": 20,
+      "search_engine_warnings": 0,
+      "urls_crawled": 10,
+      "crawl_failures": 2,
+      "search_evidence_pages": 0,
+      "contact_signals": 18,
+      "candidates": 0,
+      "unassigned_contacts": 4
+    },
+    {
+      "name": "Harbor Castings Inc.",
+      "search_results": 27,
+      "search_engine_warnings": 0,
+      "urls_crawled": 14,
+      "crawl_failures": 1,
+      "search_evidence_pages": 4,
+      "contact_signals": 21,
+      "candidates": 2,
+      "candidate_names": ["Todd Smith", "Tristan Palmer"],
+      "unassigned_contacts": 2
+    },
+    {
+      "name": "Industrias Mineiras do Mondego S.A. (IMOSA®)",
+      "search_results": 30,
+      "search_engine_warnings": 0,
+      "urls_crawled": 20,
+      "crawl_failures": 2,
+      "search_evidence_pages": 0,
+      "contact_signals": 21,
+      "candidates": 0,
+      "unassigned_contacts": 5
+    }
+  ]
+}

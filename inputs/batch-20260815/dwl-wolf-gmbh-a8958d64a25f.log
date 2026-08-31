@@ -1,0 +1,58 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.bundes-telefonbuch.de/niederkruechten/firma/dwl-wolf-gmbh-bvg063717766                   | ✓ | ⏱: 4.09s 
+[SCRAPE].. ◆ https://www.bundes-telefonbuch.de/niederkruechten/firma/dwl-wolf-gmbh-bvg063717766                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.bundes-telefonbuch.de/niederkruechten/firma/dwl-wolf-gmbh-bvg063717766                   | ✓ | ⏱: 5.72s 
+[FETCH]... ↓ https://www.dwl-wolf.de/en/impressum/                                                                | ✓ | ⏱: 6.69s 
+[SCRAPE].. ◆ https://www.dwl-wolf.de/en/impressum/                                                                | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.dwl-wolf.de/en/impressum/                                                                | ✓ | ⏱: 8.72s 
+[FETCH]... ↓ https://www.dwl-wolf.de/en/neu-im-team/                                                              | ✓ | ⏱: 6.72s 
+[SCRAPE].. ◆ https://www.dwl-wolf.de/en/neu-im-team/                                                              | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.dwl-wolf.de/en/neu-im-team/                                                              | ✓ | ⏱: 8.74s 
+[FETCH]... ↓ https://www.dwl-wolf.de                                                                              | ✓ | ⏱: 6.82s 
+[SCRAPE].. ◆ https://www.dwl-wolf.de                                                                              | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.dwl-wolf.de                                                                              | ✓ | ⏱: 8.87s 
+[FETCH]... ↓ https://www.dwl-wolf.de/en/produktion/                                                               | ✓ | ⏱: 1.44s 
+[SCRAPE].. ◆ https://www.dwl-wolf.de/en/produktion/                                                               | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.dwl-wolf.de/en/produktion/                                                               | ✓ | ⏱: 3.48s 
+[FETCH]... ↓ https://www.dwl-wolf.de/en/unternehmen/news/                                                         | ✓ | ⏱: 1.93s 
+[SCRAPE].. ◆ https://www.dwl-wolf.de/en/unternehmen/news/                                                         | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.dwl-wolf.de/en/unternehmen/news/                                                         | ✓ | ⏱: 3.96s 
+[FETCH]... ↓ https://www.dwl-wolf.de/en/teeamwork/unser-team/                                                     | ✓ | ⏱: 3.26s 
+[SCRAPE].. ◆ https://www.dwl-wolf.de/en/teeamwork/unser-team/                                                     | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.dwl-wolf.de/en/teeamwork/unser-team/                                                     | ✓ | ⏱: 5.29s 
+[FETCH]... ↓ https://www.dwl-wolf.de/en/unternehmen/standorte                                                     | ✓ | ⏱: 5.47s 
+[SCRAPE].. ◆ https://www.dwl-wolf.de/en/unternehmen/standorte                                                     | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.dwl-wolf.de/en/unternehmen/standorte                                                     | ✓ | ⏱: 7.50s 
+[FETCH]... ↓ https://www.dwl-wolf.de/en/unternehmen/historie                                                      | ✓ | ⏱: 6.11s 
+[SCRAPE].. ◆ https://www.dwl-wolf.de/en/unternehmen/historie                                                      | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.dwl-wolf.de/en/unternehmen/historie                                                      | ✓ | ⏱: 8.15s 
+[FETCH]... ↓ https://www.dwl-wolf.de/unternehmen/news/                                                            | ✓ | ⏱: 1.33s 
+[SCRAPE].. ◆ https://www.dwl-wolf.de/unternehmen/news/                                                            | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.dwl-wolf.de/unternehmen/news/                                                            | ✓ | ⏱: 3.37s 
+[FETCH]... ↓ https://www.dwl-wolf.de/wp-content/uploads/2024/06/HistorieTeam.jpg                                  | ✓ | ⏱: 0.16s 
+[SCRAPE].. ◆ https://www.dwl-wolf.de/wp-content/uploads/2024/06/HistorieTeam.jpg                                  | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.dwl-wolf.de...024/06/HistorieTeam.jpg  | Error: Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (496 bytes, 0 chars visible) 
+[COMPLETE] ● https://www.dwl-wolf.de/wp-content/uploads/2024/06/HistorieTeam.jpg                                  | ✗ | ⏱: 2.17s 
+[FETCH]... ↓ https://www.xing.com/pages/dwl-wolf-gmbh                                                             | ✓ | ⏱: 2.55s 
+[SCRAPE].. ◆ https://www.xing.com/pages/dwl-wolf-gmbh                                                             | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.xing.com/pages/dwl-wolf-gmbh                                                             | ✓ | ⏱: 2.59s 
+[FETCH]... ↓ https://www.regiomanager.de/suedwestfalen/unternehmen/dwl-wolf-gmbh/                                 | ✓ | ⏱: 5.64s 
+[SCRAPE].. ◆ https://www.regiomanager.de/suedwestfalen/unternehmen/dwl-wolf-gmbh/                                 | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.regiomanager.de/suedwestfalen/unternehmen/dwl-wolf-gmbh/                                 | ✓ | ⏱: 6.94s 
+[FETCH]... ↓ https://www.dwl-wolf.de/teeamwork/unser-team/                                                        | ✓ | ⏱: 15.94s 
+[SCRAPE].. ◆ https://www.dwl-wolf.de/teeamwork/unser-team/                                                        | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.dwl-wolf.de/teeamwork/unser-team/                                                        | ✓ | ⏱: 17.98s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.dwl-wolf.de/en/                                                                          | ✓ | ⏱: 6.88s 
+[SCRAPE].. ◆ https://www.dwl-wolf.de/en/                                                                          | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.dwl-wolf.de/en/                                                                          | ✓ | ⏱: 8.92s 
+[FETCH]... ↓ https://www.dwl-wolf.de/en/teeamwork/stellenangebote/                                                | ✓ | ⏱: 6.70s 
+[SCRAPE].. ◆ https://www.dwl-wolf.de/en/teeamwork/stellenangebote/                                                | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.dwl-wolf.de/en/teeamwork/stellenangebote/                                                | ✓ | ⏱: 8.73s 
+[FETCH]... ↓ https://www.dwl-wolf.de/en/grounding-page/                                                           | ✓ | ⏱: 6.72s 
+[SCRAPE].. ◆ https://www.dwl-wolf.de/en/grounding-page/                                                           | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.dwl-wolf.de/en/grounding-page/                                                           | ✓ | ⏱: 8.76s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/dwl-wolf-gmbh-a8958d64a25f.json

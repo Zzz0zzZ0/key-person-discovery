@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://aic.ir/Uploads/2025/11/3077322b-3439-429a-a59c-81eb8f660509.pdf",
+    "markdown": "",
+    "error": "PDF exceeds 15000000 bytes",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  },
+  {
+    "url": "https://aic.ir/Uploads/2024/8/11f9ffc6-e3cd-4f6b-8095-5502b188d738.pdf",
+    "markdown": "[PDF page 1]\nCERTIFICATE\n\n                        Registration Certificate\n    This document certifies that the occupational health, safety and environmental\n                                   management system of\n                         Ardakan Industrial Ceramics\n\n                                With the following Address:\n          8th Floor, No. 21, Shirin Bldg., Aghabozorgi St., Fereshteh, Tehran, Iran.\n\n                             Have been assessed and approved by\n                             TUV-INTERNATIONAL Limited\n                                    To the following standard:\n                                           HSE-MS\n                      The approved system apply to the following scope:\n  Design And Manufacturing Of Industrial Ceramics, Claus Catalysts And All\n                                   Tests Related To Them.\n                                 Reference Number: 4795565\n                                 Original Approval: 18th Jul 2024\n                                Current Certificate: 17th Jul 2025\n                                 Certificate Expiry: 17th Jul 2027\n\n\n\n\n\n                                                            A.Flavour\n                            On Behalf of TUV-INTERNATIONAL Limited\n                          WWW.TechUberVer.COM, user: TQCZKR, password: ABcd1234",
+    "error": "",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 1
+  },
+  {
+    "url": "https://aic.ir/Uploads/2024/3/989f2d44-87a2-420d-af99-140fb3b5fca2.pdf",
+    "markdown": "",
+    "error": "PDF contains no extractable text; OCR required",
+    "provider": "pypdf",
+    "source_type": "pdf_extract",
+    "page_count": 0
+  }
+]

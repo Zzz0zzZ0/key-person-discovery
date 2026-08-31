@@ -1,0 +1,22 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://www.edb.eu/de/tschechische-firme-831162-abrus-kunstat                                        | ✓ | ⏱: 1.06s 
+[SCRAPE].. ◆ https://www.edb.eu/de/tschechische-firme-831162-abrus-kunstat                                        | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.edb.eu/de/t...me-831162-abrus-kunstat  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.edb.eu/de/tschechische-firme-831162-abrus-kunstat                                        | ✗ | ⏱: 2.80s 
+[FETCH]... ↓ http://www.abrus-brusivo.cz                                                                          | ✓ | ⏱: 2.90s 
+[SCRAPE].. ◆ http://www.abrus-brusivo.cz                                                                          | ✓ | ⏱: 0.02s 
+[COMPLETE] ● http://www.abrus-brusivo.cz                                                                          | ✓ | ⏱: 3.46s 
+[FETCH]... ↓ https://www.edb.cz/firma-831162-abrus-kunstat/kontakt                                                | ✓ | ⏱: 1.57s 
+[SCRAPE].. ◆ https://www.edb.cz/firma-831162-abrus-kunstat/kontakt                                                | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.edb.cz/firm...2-abrus-kunstat/kontakt  | Error: Blocked by anti-bot protection: Cloudflare JS challenge 
+[COMPLETE] ● https://www.edb.cz/firma-831162-abrus-kunstat/kontakt                                                | ✗ | ⏱: 3.58s 
+[FETCH]... ↓ https://rejstrik-firem.kurzy.cz/27744302/abrus-sro/                                                  | ✓ | ⏱: 2.09s 
+[SCRAPE].. ◆ https://rejstrik-firem.kurzy.cz/27744302/abrus-sro/                                                  | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://rejstrik-firem.kurzy.cz/27744302/abrus-sro/                                                  | ✓ | ⏱: 3.67s 
+[FETCH]... ↓ https://www.finmag.cz/obchodni-rejstrik/ares/27744302-abrus-spol-s-r-o                               | ✓ | ⏱: 5.39s 
+[SCRAPE].. ◆ https://www.finmag.cz/obchodni-rejstrik/ares/27744302-abrus-spol-s-r-o                               | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.finmag.cz/obchodni-rejstrik/ares/27744302-abrus-spol-s-r-o                               | ✓ | ⏱: 6.29s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/abrus-spol-s-r-o-a60680747668.json

@@ -1,0 +1,66 @@
+{
+  "company_name": "Advanced Ceramic Materials LLC",
+  "candidates": [],
+  "unassigned_contacts": [
+    {
+      "channel": "email",
+      "value": "sales@preciseceramic.com",
+      "status": "observed",
+      "source_url": "https://advancedceramics.home.blog/contact/",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "acm@samaterials.com",
+      "status": "observed",
+      "source_url": "https://www.pissedconsumer.com/company/advanced-ceramic-materials/customer-service.html",
+      "company_public": true
+    },
+    {
+      "channel": "phone",
+      "value": "+19498126690",
+      "status": "valid_format",
+      "source_url": "https://www.pissedconsumer.com/company/advanced-ceramic-materials/customer-service.html",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sales@van-cera.com",
+      "status": "observed",
+      "source_url": "https://www.van-cera.com/top-10-advanced-ceramics-manufacturers-and-suppliers-in-the-world/",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 33,
+    "search_engine_warnings": 1,
+    "urls_crawled": 13,
+    "crawl_failures": 5,
+    "contact_signals": 8,
+    "official_urls_discovered": 1,
+    "pdf_documents_discovered": 1,
+    "pdf_documents_processed": 1,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 1,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 0,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 4,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

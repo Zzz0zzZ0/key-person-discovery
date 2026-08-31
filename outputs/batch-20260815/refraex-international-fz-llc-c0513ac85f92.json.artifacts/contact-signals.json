@@ -1,0 +1,197 @@
+[
+  {
+    "channel": "email",
+    "value": "info@refraex.com",
+    "status": "observed",
+    "source_url": "https://refraex.com/blog/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+971503492790",
+    "status": "valid_format",
+    "source_url": "https://refraex.com/blog/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraex.com",
+    "status": "observed",
+    "source_url": "https://refraex.com/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "arul@refraex.com",
+    "status": "observed",
+    "source_url": "https://refraex.com/contact-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+971503492790",
+    "status": "valid_format",
+    "source_url": "https://refraex.com/contact-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraex.com",
+    "status": "observed",
+    "source_url": "https://refraex.com/about-us/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "arul@refraex.com",
+    "status": "observed",
+    "source_url": "https://refraex.com/about-us/",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/arul-kumar-252b64157/?originalSubdomain=ae",
+    "status": "observed",
+    "source_url": "https://refraex.com/about-us/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+971503492790",
+    "status": "valid_format",
+    "source_url": "https://refraex.com/about-us/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraex.com",
+    "status": "observed",
+    "source_url": "https://refraex.com",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+971503492790",
+    "status": "valid_format",
+    "source_url": "https://refraex.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraex.com",
+    "status": "observed",
+    "source_url": "https://refraex.com/our-services/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+971503492790",
+    "status": "valid_format",
+    "source_url": "https://refraex.com/our-services/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraex.com",
+    "status": "observed",
+    "source_url": "https://refraex.com/why-api-936-certified-refractory-inspectors-are-essential-for-shutdown-and-turnaround-projects/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+971503492790",
+    "status": "valid_format",
+    "source_url": "https://refraex.com/why-api-936-certified-refractory-inspectors-are-essential-for-shutdown-and-turnaround-projects/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraex.com",
+    "status": "observed",
+    "source_url": "https://refraex.com/refractory-design-optimization-for-aluminium-cement-and-steel-plants/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+971503492790",
+    "status": "valid_format",
+    "source_url": "https://refraex.com/refractory-design-optimization-for-aluminium-cement-and-steel-plants/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraex.com",
+    "status": "observed",
+    "source_url": "https://refraex.com/specialists",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/arul-kumar-252b64157/",
+    "status": "observed",
+    "source_url": "https://refraex.com/specialists",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+971503492790",
+    "status": "valid_format",
+    "source_url": "https://refraex.com/specialists",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraex.com",
+    "status": "probable",
+    "source_url": "https://refraex.com/about-us",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "arul@refraex.com",
+    "status": "probable",
+    "source_url": "https://refraex.com/about-us",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+971503492790",
+    "status": "valid_format",
+    "source_url": "https://refraex.com/about-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@refraex.com",
+    "status": "probable",
+    "source_url": "https://refraex.com/specialists/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+971503492790",
+    "status": "valid_format",
+    "source_url": "https://refraex.com/specialists/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

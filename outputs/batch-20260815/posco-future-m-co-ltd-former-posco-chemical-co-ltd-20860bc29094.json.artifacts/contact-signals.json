@@ -1,0 +1,504 @@
+[
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/about/appad"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/about/appad",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://refwin.com"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://refwin.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/about/feed"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/about/feed",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/about/subscribe?state=1"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/about/subscribe?state=1",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "refwin@126.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/about/contact"
+  },
+  {
+    "channel": "email",
+    "value": "alex@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/about/contact"
+  },
+  {
+    "channel": "email",
+    "value": "maggie@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/about/contact"
+  },
+  {
+    "channel": "email",
+    "value": "marco@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/about/contact"
+  },
+  {
+    "channel": "email",
+    "value": "vivian@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/about/contact"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/about/contact"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/about/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+8619912347969",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/about/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+8619912348060",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/about/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+8618031575610",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/about/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+8619912348065",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/about/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+8619930056791",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/about/contact",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/about/link"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/about/link",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/company/company?country=China"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/company/company?country=China",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/company/company?country=Australia"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/company/company?country=Australia",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/company/company?country=Germany"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/company/company?country=Germany",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/company/Country"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/company/Country",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/company/company?isShowCategory=true"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/company/company?isShowCategory=true",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/company/company?country=USA"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/company/company?country=USA",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/company/company?country=UK"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/company/company?country=UK",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/company/company?country=India"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/company/company?country=India",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/e/news/Calendar/20009.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/e/news/Calendar/20009.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/e/news/Analysis/20015.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/e/news/Analysis/20015.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/e/news/Buy/20002.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/e/news/Buy/20002.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/e/company/company/20012.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/e/company/company/20012.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/e/news/News/20007.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/e/news/News/20007.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/e/news/PriceSheet/20003.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/e/news/PriceSheet/20003.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/e/news/Interview/20011.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/e/news/Interview/20011.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/e/news/Conference/20005.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/e/news/Conference/20005.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/news/Emagazine"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/news/Emagazine",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/news/Dictionary"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/news/Dictionary",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/e/news/Statistics/20010.html"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/e/news/Statistics/20010.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/about/aboutus"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/about/aboutus",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/about/partners"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/about/partners",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/about/member"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/about/member",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/about/site"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/about/site",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "info@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/about/faq"
+  },
+  {
+    "channel": "email",
+    "value": "marco@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/about/faq"
+  },
+  {
+    "channel": "email",
+    "value": "e-trade@refwin.com",
+    "status": "observed",
+    "source_url": "https://www.refwin.com/about/faq"
+  },
+  {
+    "channel": "phone",
+    "value": "+863155918500",
+    "status": "valid_format",
+    "source_url": "https://www.refwin.com/about/faq",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

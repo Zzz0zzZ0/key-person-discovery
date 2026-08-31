@@ -1,0 +1,14 @@
+[
+  {
+    "query": "https://www.heatmastersmechanical.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.heatmastersmechanical.com/wp-sitemap.xml: HTTP Error 404: Not Found"
+  },
+  {
+    "query": "https://www.heatmastersmechanical.com",
+    "provider": "official_site",
+    "engine": "sitemap",
+    "reason": "https://www.heatmastersmechanical.com/sitemap.xml: XML or text declaration not at start of entity: line 3, column 0"
+  }
+]

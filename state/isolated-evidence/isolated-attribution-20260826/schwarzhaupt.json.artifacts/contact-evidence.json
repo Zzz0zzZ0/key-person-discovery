@@ -1,0 +1,34 @@
+[
+  {
+    "url": "http://www.schwarzhaupt.de/en/datenschutz.html",
+    "markdown": "Pivacy policy\nSchwarzhaupt GmbH & Co. KG Gartenstraße 6-8 58511 Lüdenscheid. Phone: +49 2351 9076-0. E-mail: post@schwarzhaupt.de. The controller is the natural person or ...",
+    "error": "",
+    "provider": "anysearch",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.schwarzhaupt.de/en/kontakt.html",
+    "markdown": "Contact Schwarzhaupt | Schwarzhaupt GmbH & Co. KG\nSchwarzhaupt GmbH & Co. KG Gartenstraße 6-8 58511 Lüdenscheid Deutschland. See on Google Map. +49 23 51 / 90 76-0 post@schwarzhaupt.de. To top.",
+    "error": "",
+    "provider": "searxng",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  },
+  {
+    "url": "https://www.schwarzhaupt.de/en/impressum.html",
+    "markdown": "Imprint - Schwarzhaupt GmbH & Co. KG\nImpressum Schwarzhaupt GmbH & Co. KG Gartenstraße 6-8 58511 Lüdenscheid Deutschland Tel.: +49 2351 9076-0 E-Mail: post@schwarzhaupt.de Amtsgericht Iserlohn HRA 2914 und HRB 4309 Persönlich haftende Gesellschafterin: Schwarzhaupt Beteiligungs GmbH Geschäftsführender Gesellschafter: Philipp Hermann Brinker Geschäftsführende Gesellschafterin: Corinna Sibylle Schiemenz USt-ID-Nr. DE ...",
+    "error": "",
+    "provider": "searxng",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  },
+  {
+    "url": "http://www.schwarzhaupt.de/en/impressum.html",
+    "markdown": "Imprint - Schwarzhaupt GmbH & Co. KG\nImpressum. Schwarzhaupt GmbH & Co. KG Gartenstraße 6-8 58511 Lüdenscheid Deutschland Tel.: +49 2351 9076-0. E-Mail: post@schwarzhaupt.de. Amtsgericht Iserlohn ...",
+    "error": "",
+    "provider": "searxng",
+    "source_type": "contact_excerpt",
+    "page_count": 0
+  }
+]

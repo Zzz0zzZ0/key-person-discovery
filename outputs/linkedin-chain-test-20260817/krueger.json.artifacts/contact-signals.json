@@ -1,0 +1,114 @@
+[
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/pages/jobs",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ryan@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/pages/jobs",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/pages/krueger-pottery-supply-contact-us-directions",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "ryan@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/pages/krueger-pottery-supply-contact-us-directions",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/collections/all",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/pages/covid",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/pages/krueger-pottery-supply-store-studio-hours",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/products/parent-child-two-additional-people",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/products/parent-child-three-additional-people",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/pages/krueger-pottery-supply-staff",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/products/zig-sig-prime-pop-pack",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/products/zig-sig-cool-vibes-pack",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/products/zig-sig-teal-the-deal",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "observed",
+    "source_url": "https://kruegerpottery.com/products/zig-sig-white-lie",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "sales@kruegerpottery.com",
+    "status": "probable",
+    "source_url": "https://kruegerpottery.com/",
+    "company_public": true
+  }
+]

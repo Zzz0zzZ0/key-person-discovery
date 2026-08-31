@@ -1,0 +1,398 @@
+[
+  {
+    "channel": "email",
+    "value": "codam@codam.com.ar",
+    "status": "observed",
+    "source_url": "https://codam.com.ar/en",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+541124978000",
+    "status": "verified",
+    "source_url": "https://codam.com.ar/en",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541124978000",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/en",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541147623432",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/en",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "codam@codam.com.ar",
+    "status": "observed",
+    "source_url": "https://codam.com.ar/blog/page/2/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+541124978000",
+    "status": "verified",
+    "source_url": "https://codam.com.ar/blog/page/2/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541124978000",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/blog/page/2/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541147623432",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/blog/page/2/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "codam@codam.com.ar",
+    "status": "observed",
+    "source_url": "https://codam.com.ar/blog/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+541124978000",
+    "status": "verified",
+    "source_url": "https://codam.com.ar/blog/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541124978000",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/blog/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541147623432",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/blog/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "codam@codam.com.ar",
+    "status": "observed",
+    "source_url": "http://codam.com.ar",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+541124978000",
+    "status": "verified",
+    "source_url": "http://codam.com.ar",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541124978000",
+    "status": "valid_format",
+    "source_url": "http://codam.com.ar",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541147623432",
+    "status": "valid_format",
+    "source_url": "http://codam.com.ar",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "codam@codam.com.ar",
+    "status": "observed",
+    "source_url": "https://codam.com.ar/en/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+541124978000",
+    "status": "verified",
+    "source_url": "https://codam.com.ar/en/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541124978000",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/en/contacto/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541147623432",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/en/contacto/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "codam@codam.com.ar",
+    "status": "observed",
+    "source_url": "https://codam.com.ar/en/2019/12/16/acido-cromico-cro3/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+541124978000",
+    "status": "verified",
+    "source_url": "https://codam.com.ar/en/2019/12/16/acido-cromico-cro3/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541124978000",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/en/2019/12/16/acido-cromico-cro3/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541147623432",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/en/2019/12/16/acido-cromico-cro3/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "codam@codam.com.ar",
+    "status": "observed",
+    "source_url": "https://codam.com.ar/tag/empresa/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+541124978000",
+    "status": "verified",
+    "source_url": "https://codam.com.ar/tag/empresa/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541124978000",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/tag/empresa/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541147623432",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/tag/empresa/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@bnamericas.com",
+    "status": "observed",
+    "source_url": "https://www.bnamericas.com/en/company-profile/codam-sa",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "codam@codam.com.ar",
+    "status": "observed",
+    "source_url": "https://www.bnamericas.com/en/company-profile/codam-sa",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+56229410300",
+    "status": "valid_format",
+    "source_url": "https://www.bnamericas.com/en/company-profile/codam-sa",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+542994425192",
+    "status": "valid_format",
+    "source_url": "https://www.bnamericas.com/en/company-profile/codam-sa",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+542994425205",
+    "status": "valid_format",
+    "source_url": "https://www.bnamericas.com/en/company-profile/codam-sa",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "codam@codam.com.ar",
+    "status": "observed",
+    "source_url": "https://codam.com.ar/registro-newsletter/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+541124978000",
+    "status": "verified",
+    "source_url": "https://codam.com.ar/registro-newsletter/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541124978000",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/registro-newsletter/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541147623432",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/registro-newsletter/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "codam@codam.com.ar",
+    "status": "observed",
+    "source_url": "https://codam.com.ar/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+541124978000",
+    "status": "verified",
+    "source_url": "https://codam.com.ar/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541124978000",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/contacto/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541147623432",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/contacto/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "codam@codam.com.ar",
+    "status": "observed",
+    "source_url": "http://codam.com.ar/en/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+541124978000",
+    "status": "verified",
+    "source_url": "http://codam.com.ar/en/contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541124978000",
+    "status": "valid_format",
+    "source_url": "http://codam.com.ar/en/contacto/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541147623432",
+    "status": "valid_format",
+    "source_url": "http://codam.com.ar/en/contacto/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "codam@codam.com.ar",
+    "status": "observed",
+    "source_url": "https://codam.com.ar/category/news/",
+    "company_public": true
+  },
+  {
+    "channel": "whatsapp",
+    "value": "+541124978000",
+    "status": "verified",
+    "source_url": "https://codam.com.ar/category/news/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541124978000",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/category/news/",
+    "whatsapp_status": "verified",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+541147623432",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/category/news/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "codam@codam.com.ar",
+    "status": "observed",
+    "source_url": "https://codam.com.ar/pdf/codam_brochure_en.pdf"
+  },
+  {
+    "channel": "phone",
+    "value": "+541147623432",
+    "status": "valid_format",
+    "source_url": "https://codam.com.ar/pdf/codam_brochure_en.pdf",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  }
+]

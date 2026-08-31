@@ -1,0 +1,929 @@
+[
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/board-members"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/board-members"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/board-members",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/board-members",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/careers"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/careers"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/careers",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/careers",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/contact-us"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/contact-us"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/contact-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/contact-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://e6.com",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://e6.com",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://e6.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://e6.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/contact-us-text"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/contact-us-text"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/contact-us-text",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/contact-us-text",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/corporate-information"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/corporate-information"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/corporate-information",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/corporate-information",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/corporate-information/conflict-minerals-policy"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/corporate-information/conflict-minerals-policy"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/corporate-information/conflict-minerals-policy",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/corporate-information/conflict-minerals-policy",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/corporate-information/responsibilities"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/corporate-information/responsibilities"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/corporate-information/responsibilities",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/corporate-information/responsibilities",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/executive-committee"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/executive-committee"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/executive-committee",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/executive-committee",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/70th-de-beers-diamond-conference"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/70th-de-beers-diamond-conference"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/70th-de-beers-diamond-conference",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/70th-de-beers-diamond-conference",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/all-for-a-good-cause"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/all-for-a-good-cause"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/all-for-a-good-cause",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/all-for-a-good-cause",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/bauma-general-press-release"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/bauma-general-press-release"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/bauma-general-press-release",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/bauma-general-press-release",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "gabriella.sciarrone@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/aws_element_six_quantum_collaboration",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "e6@speedcomms.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/aws_element_six_quantum_collaboration",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/aws_element_six_quantum_collaboration",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/aws_element_six_quantum_collaboration",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/aws_element_six_quantum_collaboration",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/aws_element_six_quantum_collaboration",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/blue-peter-s-diamond-anniversary"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/blue-peter-s-diamond-anniversary"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/blue-peter-s-diamond-anniversary",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/blue-peter-s-diamond-anniversary",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/diafilm-tm220-launch"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/diafilm-tm220-launch"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/diafilm-tm220-launch",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/diafilm-tm220-launch",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/diamond-beyond-the-fire"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/diamond-beyond-the-fire"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/diamond-beyond-the-fire",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/diamond-beyond-the-fire",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/diamond-quantum-revolution"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/diamond-quantum-revolution"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/diamond-quantum-revolution",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/diamond-quantum-revolution",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/dnv-b1-launch"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/dnv-b1-launch"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/dnv-b1-launch",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/dnv-b1-launch",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/dnv-b14-launch"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/dnv-b14-launch"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/dnv-b14-launch",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/dnv-b14-launch",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/e6-supports-annual-diamond-conference"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/e6-supports-annual-diamond-conference"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/e6-supports-annual-diamond-conference",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/e6-supports-annual-diamond-conference",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/e6-welcomes-local-schools"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/e6-welcomes-local-schools"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/e6-welcomes-local-schools",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/e6-welcomes-local-schools",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "gabriella.sciarrone@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/element-six’s-diamox™-wins-global-tech-award-2025",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "elementsix@havasformula.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/element-six’s-diamox™-wins-global-tech-award-2025",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "e6@speedcomms.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/element-six’s-diamox™-wins-global-tech-award-2025",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/element-six’s-diamox™-wins-global-tech-award-2025",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/element-six’s-diamox™-wins-global-tech-award-2025",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/element-six’s-diamox™-wins-global-tech-award-2025",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/element-six’s-diamox™-wins-global-tech-award-2025",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/element-six’s-dnv-b1™-announced-prism-award-winner",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/element-six’s-dnv-b1™-announced-prism-award-winner",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/element-six’s-dnv-b1™-announced-prism-award-winner",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/element-six’s-dnv-b1™-announced-prism-award-winner",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/element-six’s-synthetic-diamond-proven-as-viable-m",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/about/news/element-six’s-synthetic-diamond-proven-as-viable-m",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/element-six’s-synthetic-diamond-proven-as-viable-m",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/about/news/element-six’s-synthetic-diamond-proven-as-viable-m",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/en/about/corporate-information/responsibilities"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/en/about/corporate-information/responsibilities"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/en/about/corporate-information/responsibilities",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/en/about/corporate-information/responsibilities",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/en/about/corporate-information/conflict-minerals-policy"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/en/about/corporate-information/conflict-minerals-policy"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/en/about/corporate-information/conflict-minerals-policy",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/en/about/corporate-information/conflict-minerals-policy",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/en/about/corporate-information"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/en/about/corporate-information"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/en/about/corporate-information",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/en/about/corporate-information",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/en/about/contact-us"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/en/about/contact-us"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/en/about/contact-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/en/about/contact-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/en/about/news"
+  },
+  {
+    "channel": "email",
+    "value": "salesorders@e6.com",
+    "status": "observed",
+    "source_url": "https://www.e6.com/en/about/news"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361460146",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/en/about/news",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "phone",
+    "value": "+35361775200",
+    "status": "valid_format",
+    "source_url": "https://www.e6.com/en/about/news",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://ie.linkedin.com/in/pat-regan-8367b813",
+    "status": "probable",
+    "source_url": "https://ie.linkedin.com/in/pat-regan-8367b813"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://uk.linkedin.com/in/daniel-twitchen-24187234",
+    "status": "probable",
+    "source_url": "https://uk.linkedin.com/in/daniel-twitchen-24187234"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://uk.linkedin.com/in/matthew-markham98",
+    "status": "probable",
+    "source_url": "https://uk.linkedin.com/in/matthew-markham98"
+  },
+  {
+    "channel": "email",
+    "value": "sustainability@e6.com",
+    "status": "probable",
+    "source_url": "https://www.e6.com/about/sustainability",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "support@e6.com",
+    "status": "probable",
+    "source_url": "https://www.e6.com/en/about/contact-us-text",
+    "company_public": true
+  }
+]

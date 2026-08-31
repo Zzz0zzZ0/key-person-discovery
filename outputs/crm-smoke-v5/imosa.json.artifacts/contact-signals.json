@@ -1,0 +1,138 @@
+[
+  {
+    "channel": "email",
+    "value": "info.imosa@saint-gobain.com",
+    "status": "observed",
+    "source_url": "https://www.imosa.pt/contacte-nos-pt/"
+  },
+  {
+    "channel": "email",
+    "value": "info.incusa@saint-gobain.com",
+    "status": "observed",
+    "source_url": "https://www.imosa.pt/contacte-nos-pt/"
+  },
+  {
+    "channel": "phone",
+    "value": "+351244684999",
+    "status": "valid_format",
+    "source_url": "https://www.imosa.pt/contacte-nos-pt/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+34913972193",
+    "status": "valid_format",
+    "source_url": "https://www.imosa.pt/contacte-nos-pt/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "email",
+    "value": "info.imosa@saint-gobain.com",
+    "status": "observed",
+    "source_url": "https://www.imosa.pt/en/contact-en/"
+  },
+  {
+    "channel": "email",
+    "value": "info.incusa@saint-gobain.com",
+    "status": "observed",
+    "source_url": "https://www.imosa.pt/en/contact-en/"
+  },
+  {
+    "channel": "phone",
+    "value": "+351244684999",
+    "status": "valid_format",
+    "source_url": "https://www.imosa.pt/en/contact-en/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+34913972193",
+    "status": "valid_format",
+    "source_url": "https://www.imosa.pt/en/contact-en/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "email",
+    "value": "emprego.imosa@saint-gobain.com",
+    "status": "observed",
+    "source_url": "https://www.imosa.pt/en/about-us-en/"
+  },
+  {
+    "channel": "email",
+    "value": "info.imosa@saint-gobain.com",
+    "status": "observed",
+    "source_url": "https://www.imosa.pt/es/contacto-es/"
+  },
+  {
+    "channel": "email",
+    "value": "info.incusa@saint-gobain.com",
+    "status": "observed",
+    "source_url": "https://www.imosa.pt/es/contacto-es/"
+  },
+  {
+    "channel": "phone",
+    "value": "+351244684999",
+    "status": "valid_format",
+    "source_url": "https://www.imosa.pt/es/contacto-es/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+34913972193",
+    "status": "valid_format",
+    "source_url": "https://www.imosa.pt/es/contacto-es/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "email",
+    "value": "info.imosa@saint-gobain.com",
+    "status": "observed",
+    "source_url": "https://www.imosa.pt/fr/contactez-nous-fr-2/"
+  },
+  {
+    "channel": "email",
+    "value": "info.incusa@saint-gobain.com",
+    "status": "observed",
+    "source_url": "https://www.imosa.pt/fr/contactez-nous-fr-2/"
+  },
+  {
+    "channel": "phone",
+    "value": "+351244684999",
+    "status": "valid_format",
+    "source_url": "https://www.imosa.pt/fr/contactez-nous-fr-2/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+34913972193",
+    "status": "valid_format",
+    "source_url": "https://www.imosa.pt/fr/contactez-nous-fr-2/",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "phone",
+    "value": "+351244684990",
+    "status": "valid_format",
+    "source_url": "https://www.municipiosefreguesias.pt/entidade/221734/imosa---industrias-mineiras-do-mondego-sa--pombal",
+    "whatsapp_status": "unknown"
+  },
+  {
+    "channel": "email",
+    "value": "emprego.imosa@saint-gobain.com",
+    "status": "observed",
+    "source_url": "https://www.imosa.pt/about-us-en/"
+  },
+  {
+    "channel": "email",
+    "value": "info.imosa@saint-gobain.com",
+    "status": "observed",
+    "source_url": "https://www.imosa.pt/en/politica-de-privacidad-en/"
+  },
+  {
+    "channel": "phone",
+    "value": "+351244684999",
+    "status": "valid_format",
+    "source_url": "https://www.imosa.pt/en/politica-de-privacidad-en/",
+    "whatsapp_status": "unknown"
+  }
+]

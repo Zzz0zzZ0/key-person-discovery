@@ -1,0 +1,81 @@
+{
+  "company_name": "Gablenz Guss GmbH",
+  "candidates": [
+    {
+      "full_name": "Daniel Gablenz",
+      "current_title": "Geschäftsführer (Managing Director)",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 90,
+      "linkedin": [],
+      "emails": [],
+      "phones": [
+        {
+          "value": "+49724470350",
+          "status": "valid_format",
+          "whatsapp_status": "unknown",
+          "source_url": "https://gablenz-guss.de/impressum/"
+        }
+      ],
+      "evidence": [
+        {
+          "source_url": "https://gablenz-guss.de/impressum/",
+          "quote": "Vertreten durch: Daniel Gablenz",
+          "supports": "Managing Director / Geschäftsführer of Gablenz Guss GmbH"
+        }
+      ],
+      "confidence": 0.95,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [],
+  "review_required": true,
+  "crm_duplicates": [],
+  "crm_duplicates_removed": 0,
+  "customs": {
+    "status": "not_selected",
+    "tags": [],
+    "leads": []
+  },
+  "run_summary": {
+    "queries": 9,
+    "anysearch_queries": 5,
+    "anysearch_query_limit": 5,
+    "anysearch_extended": false,
+    "customs_anysearch_queries": 0,
+    "customs_search_selected": false,
+    "customs_leads": 0,
+    "search_results": 42,
+    "search_engine_warnings": 8,
+    "urls_crawled": 14,
+    "crawl_failures": 6,
+    "contact_signals": 5,
+    "official_urls_discovered": 1,
+    "crm_website": "https://gablenz-guss.de",
+    "official_website": "http://gablenz-guss.de",
+    "website_recovered": true,
+    "pdf_documents_discovered": 2,
+    "pdf_documents_processed": 2,
+    "pdf_documents_extracted": 2,
+    "pdf_pages_extracted": 3,
+    "pdf_failures": 0,
+    "search_evidence_pages": 0,
+    "contact_evidence_pages": 0,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "unverified_candidates": 0,
+    "crm_contact_count": 1,
+    "crm_duplicates_removed": 0,
+    "target_contactable_items": 4,
+    "contactable_items": 1,
+    "target_contact_methods": 4,
+    "contact_methods": 1,
+    "contact_target_met": false,
+    "broad_discovery": false,
+    "topeasy_import": {},
+    "egress_fingerprint": "bd295c8accbc"
+  }
+}

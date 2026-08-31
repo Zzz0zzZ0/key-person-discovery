@@ -1,0 +1,91 @@
+{
+  "name": "SIJ – Slovenian Steel Group",
+  "website": "https://www.sij-americas.com",
+  "industries": [
+    "Refractory",
+    "Foundry Casting",
+    "Ceramics",
+    "Abrasives",
+    "Steel",
+    "Cement"
+  ],
+  "products": [
+    "Silicon Carbide",
+    "Dead Burned Magnesite",
+    "Fused Magnesite",
+    "Caustic Calcined Magnesite",
+    "Magnesia Carbon Bricks",
+    "Tabular Alumina",
+    "Brown Fused Alumina",
+    "White Fused Alumina",
+    "Bauxite",
+    "Mullite",
+    "High Alumina Cement",
+    "Calcium Aluminate",
+    "Graphite Electrode"
+  ],
+  "crm_company_id": "003e018e-106c-4f18-a03b-da7979c85e92",
+  "crm_linkedin_url": "https://www.linkedin.com/company/sij-americas",
+  "crm_country": "斯洛文尼亚 / 美国",
+  "crm_updated_at": "2026-07-29T05:05:59.248864+00:00",
+  "crm_contact_count": 6,
+  "crm_contacts": [
+    {
+      "name": " Andrew Towey",
+      "email": "atowey@sij-americas.com",
+      "additional_emails": [],
+      "phone": "+1 732-533-3379",
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/andrew-towey-6b71917",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Greg Palmer",
+      "email": "gpalmer@sij-americas.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/gregpalmer68",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Keith Kay",
+      "email": "kkay@sij-americas.com",
+      "additional_emails": [],
+      "phone": "+1 917-847-4209",
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/keith-kay-137292a",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Official Email",
+      "email": "andrew.towey@sij.si",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": null,
+      "additional_linkedin": null
+    },
+    {
+      "name": " Ryan Walsh",
+      "email": "rwalsh@sij-americas.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "http://www.linkedin.com/in/ryanwalsh507",
+      "additional_linkedin": null
+    },
+    {
+      "name": " Denis Erlah",
+      "email": "derlah@sij-americas.com",
+      "additional_emails": [],
+      "phone": null,
+      "additional_phones": null,
+      "linkedin": "https://www.linkedin.com/in/denis-erlah-b0a2ab17/",
+      "additional_linkedin": null
+    }
+  ],
+  "target_contact_count": 1,
+  "fetched_at": "2026-08-15T02:32:37.161576+00:00",
+  "source": "twenty_postgresql_read_only"
+}

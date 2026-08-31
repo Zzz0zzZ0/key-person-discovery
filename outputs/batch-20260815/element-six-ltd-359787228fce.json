@@ -1,0 +1,122 @@
+{
+  "company_name": "Element Six Ltd.",
+  "candidates": [
+    {
+      "full_name": "Daniel Twitchen",
+      "current_title": "Executive Director, Business Development & Technologies Sales",
+      "company_match": "verified",
+      "influence_type": "decision_maker",
+      "influence_score": 80,
+      "linkedin": [],
+      "emails": [],
+      "phones": [],
+      "evidence": [
+        {
+          "source_url": "https://www.e6.com/about/executive-committee",
+          "quote": "DANIEL TWITCHEN EXECUTIVE DIRECTOR, BUS DEV & TECHNOLOGIES SALES",
+          "supports": "Named on executive committee page with photo and title confirming current role"
+        }
+      ],
+      "confidence": 0.85,
+      "review_required": true
+    }
+  ],
+  "unassigned_contacts": [
+    {
+      "channel": "phone",
+      "value": "+35361775200",
+      "status": "valid_format",
+      "source_url": "https://e6.com",
+      "whatsapp_status": "unknown",
+      "evidence_status": "observed",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "gabriella.sciarrone@e6.com",
+      "status": "observed",
+      "source_url": "https://www.e6.com/about/news/aws_element_six_quantum_collaboration",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "e6@speedcomms.com",
+      "status": "observed",
+      "source_url": "https://www.e6.com/about/news/aws_element_six_quantum_collaboration",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "elementsix@havasformula.com",
+      "status": "observed",
+      "source_url": "https://www.e6.com/about/news/element-six’s-diamox™-wins-global-tech-award-2025",
+      "company_public": true
+    },
+    {
+      "channel": "email",
+      "value": "sustainability@e6.com",
+      "status": "probable",
+      "source_url": "https://www.e6.com/about/sustainability",
+      "company_public": true
+    }
+  ],
+  "review_required": true,
+  "crm_duplicates": [
+    {
+      "kind": "candidate",
+      "full_name": "Siobhán Duffy",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "candidate",
+      "full_name": "Erica Leathers",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "candidate",
+      "full_name": "Richard Lawson",
+      "matched_by": [
+        "email"
+      ]
+    },
+    {
+      "kind": "unassigned_contact",
+      "channel": "email",
+      "matched_by": [
+        "email"
+      ]
+    }
+  ],
+  "crm_duplicates_removed": 4,
+  "run_summary": {
+    "queries": 8,
+    "search_results": 37,
+    "search_engine_warnings": 0,
+    "urls_crawled": 30,
+    "crawl_failures": 0,
+    "contact_signals": 130,
+    "official_urls_discovered": 30,
+    "pdf_documents_discovered": 0,
+    "pdf_documents_processed": 0,
+    "pdf_documents_extracted": 0,
+    "pdf_pages_extracted": 0,
+    "pdf_failures": 0,
+    "search_evidence_pages": 3,
+    "contact_evidence_pages": 3,
+    "search_providers": [
+      "anysearch",
+      "searxng"
+    ],
+    "validation_rejections": 0,
+    "crm_contact_count": 3,
+    "crm_duplicates_removed": 4,
+    "target_contactable_items": 4,
+    "contactable_items": 5,
+    "contact_target_met": true,
+    "egress_fingerprint": "ed930a54ec05"
+  }
+}

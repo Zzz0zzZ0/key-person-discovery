@@ -1,0 +1,44 @@
+[
+  {
+    "channel": "phone",
+    "value": "+49350522130",
+    "status": "valid_format",
+    "source_url": "https://schmie-guss.de/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+493505221371",
+    "status": "valid_format",
+    "source_url": "https://schmie-guss.de/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+493505221341",
+    "status": "valid_format",
+    "source_url": "https://schmie-guss.de/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+493505221372",
+    "status": "valid_format",
+    "source_url": "https://schmie-guss.de/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://www.linkedin.com/in/holger-kappelt-11a1281a6",
+    "status": "probable",
+    "source_url": "https://de.linkedin.com/in/holger-kappelt-11a1281a6"
+  }
+]

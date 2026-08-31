@@ -1,0 +1,225 @@
+[
+  {
+    "channel": "email",
+    "value": "info@elektrowerk.de",
+    "status": "observed",
+    "source_url": "http://www.elektrowerk.de/en/03_print.htm",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4924036460",
+    "status": "valid_format",
+    "source_url": "http://www.elektrowerk.de/en/03_print.htm",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@elektrowerk.de",
+    "status": "observed",
+    "source_url": "http://www.elektrowerk.de/page/index-en.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4924036460",
+    "status": "valid_format",
+    "source_url": "http://www.elektrowerk.de/page/index-en.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@elektrowerk.de",
+    "status": "observed",
+    "source_url": "http://www.elektrowerk.de/page/analytical-en.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4924036460",
+    "status": "valid_format",
+    "source_url": "http://www.elektrowerk.de/page/analytical-en.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@elektrowerk.de",
+    "status": "observed",
+    "source_url": "http://www.elektrowerk.de/de/03_print.htm",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4924036460",
+    "status": "valid_format",
+    "source_url": "http://www.elektrowerk.de/de/03_print.htm",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@elektrowerk.de",
+    "status": "observed",
+    "source_url": "https://www.elektrowerk.de/en/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4924036460",
+    "status": "valid_format",
+    "source_url": "https://www.elektrowerk.de/en/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@elektrowerk.de",
+    "status": "observed",
+    "source_url": "https://elektrowerk.de",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4924036460",
+    "status": "valid_format",
+    "source_url": "https://elektrowerk.de",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@elektrowerk.de",
+    "status": "observed",
+    "source_url": "https://www.elektrowerk.de/en/about-us",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4924036460",
+    "status": "valid_format",
+    "source_url": "https://www.elektrowerk.de/en/about-us",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@elektrowerk.de",
+    "status": "observed",
+    "source_url": "https://www.elektrowerk.de/en/job-openings/",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "streit@elektrowerk.de",
+    "status": "observed",
+    "source_url": "https://www.elektrowerk.de/en/job-openings/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4924036460",
+    "status": "valid_format",
+    "source_url": "https://www.elektrowerk.de/en/job-openings/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+492403646310",
+    "status": "valid_format",
+    "source_url": "https://www.elektrowerk.de/en/job-openings/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@elektrowerk.de",
+    "status": "observed",
+    "source_url": "https://www.elektrowerk.de/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4924036460",
+    "status": "valid_format",
+    "source_url": "https://www.elektrowerk.de/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@elektrowerk.de",
+    "status": "observed",
+    "source_url": "https://www.elektrowerk.de/en/contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4924036460",
+    "status": "valid_format",
+    "source_url": "https://www.elektrowerk.de/en/contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/dr-christoph-kemper-365397129",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/dr-christoph-kemper-365397129"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/tobias-sch%C3%BCr-27a145152",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/tobias-sch%C3%BCr-27a145152"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/christoph-schneider-791525184",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/christoph-schneider-791525184"
+  },
+  {
+    "channel": "linkedin",
+    "value": "https://linkedin.com/in/thomas-willms-4849a4295",
+    "status": "probable",
+    "source_url": "https://linkedin.com/in/thomas-willms-4849a4295"
+  },
+  {
+    "channel": "email",
+    "value": "radermacher@elektrowerk.de",
+    "status": "probable",
+    "source_url": "http://www.elektrowerk.de/page/analytical-en.html",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "schwedt@elektrowerk.de",
+    "status": "probable",
+    "source_url": "http://www.elektrowerk.de/page/analytical-en.html",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+492403646",
+    "status": "valid_format",
+    "source_url": "http://www.elektrowerk.de/page/analytical-en.html",
+    "whatsapp_status": "unknown",
+    "evidence_status": "probable",
+    "company_public": true
+  }
+]

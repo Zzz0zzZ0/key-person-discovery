@@ -1,0 +1,33 @@
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://checkip.amazonaws.com/                                                                        | ✓ | ⏱: 0.01s 
+[INIT].... → Crawl4AI 0.9.2 
+[FETCH]... ↓ https://refraex.com/blog/                                                                            | ✓ | ⏱: 4.34s 
+[SCRAPE].. ◆ https://refraex.com/blog/                                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://refraex.com/blog/                                                                            | ✓ | ⏱: 6.27s 
+[FETCH]... ↓ https://refraex.com/contact-us/                                                                      | ✓ | ⏱: 3.97s 
+[SCRAPE].. ◆ https://refraex.com/contact-us/                                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://refraex.com/contact-us/                                                                      | ✓ | ⏱: 5.62s 
+[FETCH]... ↓ https://refraex.com/about-us/                                                                        | ✓ | ⏱: 4.39s 
+[SCRAPE].. ◆ https://refraex.com/about-us/                                                                        | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://refraex.com/about-us/                                                                        | ✓ | ⏱: 6.41s 
+[FETCH]... ↓ https://refraex.com                                                                                  | ✓ | ⏱: 5.39s 
+[SCRAPE].. ◆ https://refraex.com                                                                                  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://refraex.com                                                                                  | ✓ | ⏱: 7.44s 
+[FETCH]... ↓ https://refraex.com/our-services/                                                                    | ✓ | ⏱: 1.99s 
+[SCRAPE].. ◆ https://refraex.com/our-services/                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://refraex.com/our-services/                                                                    | ✓ | ⏱: 2.01s 
+[FETCH]... ↓ https://refraex.com/why-api-936-certified-refrac...-essential-for-shutdown-and-turnaround-projects/  | ✓ | ⏱: 1.64s 
+[SCRAPE].. ◆ https://refraex.com/why-api-936-certified-refrac...-essential-for-shutdown-and-turnaround-projects/  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://refraex.com/why-api-936-certified-refrac...-essential-for-shutdown-and-turnaround-projects/  | ✓ | ⏱: 1.65s 
+[FETCH]... ↓ https://refraex.com/refractory-design-optimization-for-aluminium-cement-and-steel-plants/            | ✓ | ⏱: 2.26s 
+[SCRAPE].. ◆ https://refraex.com/refractory-design-optimization-for-aluminium-cement-and-steel-plants/            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://refraex.com/refractory-design-optimization-for-aluminium-cement-and-steel-plants/            | ✓ | ⏱: 2.28s 
+[FETCH]... ↓ https://refraex.com/specialists                                                                      | ✓ | ⏱: 2.56s 
+[SCRAPE].. ◆ https://refraex.com/specialists                                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://refraex.com/specialists                                                                      | ✓ | ⏱: 2.57s 
+[FETCH]... ↓ https://www.zoominfo.com/c/refraex/465422449                                                         | ✓ | ⏱: 0.99s 
+[SCRAPE].. ◆ https://www.zoominfo.com/c/refraex/465422449                                                         | ✓ | ⏱: 0.00s 
+[ERROR]... × https://www.zoominfo.com/c/refraex/465422449       | Error: Blocked by anti-bot protection: PerimeterX block 
+[COMPLETE] ● https://www.zoominfo.com/c/refraex/465422449                                                         | ✗ | ⏱: 1.84s 
+/Users/acelerzbw/Documents/Codex/2026-08-13/crm-twenty-postgresql/key-person-discovery/outputs/batch-20260815/refraex-international-fz-llc-c0513ac85f92.json

@@ -1,0 +1,289 @@
+[
+  {
+    "channel": "email",
+    "value": "info@cerablast.com",
+    "status": "observed",
+    "source_url": "https://cerablast.com/en/directions/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497143889220",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/en/directions/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@cerablast.com",
+    "status": "observed",
+    "source_url": "https://cerablast.com",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497143889220",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@cerablast.com",
+    "status": "observed",
+    "source_url": "https://cerablast.com/en/data-privacy-statement/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497143889220",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/en/data-privacy-statement/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@cerablast.com",
+    "status": "observed",
+    "source_url": "https://cerablast.com/en/contact-details/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497143889220",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4971438892240",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/en/contact-details/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@cerablast.com",
+    "status": "observed",
+    "source_url": "https://cerablast.com/en/order/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4971438892240",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/en/order/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+491726659576",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/en/order/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497143889220",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/en/order/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@cerablast.com",
+    "status": "observed",
+    "source_url": "https://cerablast.com/en/home/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497143889220",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/en/home/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@cerablast.com",
+    "status": "observed",
+    "source_url": "https://cerablast.com/en/warehouses/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497143889220",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/en/warehouses/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@cerablast.com",
+    "status": "observed",
+    "source_url": "https://cerablast.com/en/white-fused-alumina/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497143889220",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/en/white-fused-alumina/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@cerablast.com",
+    "status": "observed",
+    "source_url": "https://cerablast.com/es/datos-de-contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497143889220",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/es/datos-de-contacto/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4971438892240",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/es/datos-de-contacto/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@cerablast.com",
+    "status": "observed",
+    "source_url": "https://cerablast.com/fr/page-daccueil/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497143889220",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/fr/page-daccueil/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@cerablast.com",
+    "status": "observed",
+    "source_url": "https://cerablast.com/nl/contactgegevens/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497143889220",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/nl/contactgegevens/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4971438892240",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/nl/contactgegevens/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@cerablast.com",
+    "status": "observed",
+    "source_url": "https://cerablast.com/pt/dados-de-contacto/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497143889220",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/pt/dados-de-contacto/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4971438892240",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/pt/dados-de-contacto/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@cerablast.com",
+    "status": "observed",
+    "source_url": "https://cerablast.com/impressum/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497143889220",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/impressum/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "email",
+    "value": "info@cerablast.com",
+    "status": "observed",
+    "source_url": "https://cerablast.com/ro/date-de-contact/",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+497143889220",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/ro/date-de-contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  },
+  {
+    "channel": "phone",
+    "value": "+4971438892240",
+    "status": "valid_format",
+    "source_url": "https://cerablast.com/ro/date-de-contact/",
+    "whatsapp_status": "unknown",
+    "evidence_status": "observed",
+    "company_public": true
+  }
+]
