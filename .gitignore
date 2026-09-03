@@ -1,6 +1,7 @@
 .venv/
 .env
 deploy/searxng/.env
+deploy/searxng/settings.local.yml
 .DS_Store
 __pycache__/
 *.py[cod]

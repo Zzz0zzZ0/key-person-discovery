@@ -44,7 +44,9 @@ CLI 默认每家公司最多调用 AnySearch 5 次；其余查询直接使用 `h
 
 ## SearXNG 管理
 
-当前配置只绑定 `127.0.0.1:18080`，并通过宿主机 `12001` 端口的网络代理访问上述搜索引擎。若本机代理端口变化，需要同步修改 `deploy/searxng/settings.yml`。
+当前配置只绑定 `127.0.0.1:18080`。默认配置通过宿主机 `7897` 代理访问搜索引擎；本机可在 `deploy/searxng/.env` 中设置 `SEARXNG_SETTINGS_PATH=./settings.local.yml`，让不同引擎使用各自的已验证出口。`settings.local.yml` 会被 Git 忽略，避免提交本机代理认证信息。
+
+本机当前分流为：Bing 和 DuckDuckGo Web 使用全局 `7897`；Google CSE 和 Qwant 使用 Clash Verge 的独立认证 listener。旧 DuckDuckGo 引擎因所有已测出口均触发 CAPTCHA，已由 DuckDuckGo Web 替换。Clash 订阅更新后若固定节点名称失效，需要重新验证并更新 listener。
 
 ```bash
 # 查看状态
@@ -66,12 +68,13 @@ docker compose --env-file deploy/searxng/.env -f deploy/searxng/compose.yml down
 ## 测试
 
 ```bash
+.venv/bin/pip install -e '.[test]'
 .venv/bin/python -m unittest discover -s tests -v
 ```
 
 ## 本地展示页
 
-展示页读取 `outputs/` 下的结果，并支持按名称查询 Twenty CRM、选择公司后创建本地快照并启动联网任务。CRM 查询通过本机 `psql` 客户端使用参数化 SQL、`BEGIN READ ONLY` 和 10 秒超时；Twenty 凭据不会传给浏览器或搜索子进程。页面不需要 Node.js 或前端构建工具，默认监听 `0.0.0.0:18181`，可由同一内网设备访问：
+FastAPI 展示服务读取 `outputs/` 下的结果，并支持按名称查询 Twenty CRM、选择公司后创建本地快照并启动联网任务。CRM 查询通过本机 `psql` 客户端使用参数化 SQL、`BEGIN READ ONLY` 和 10 秒超时；Twenty 凭据不会传给浏览器或搜索子进程。页面不需要 Node.js 或前端构建工具，默认监听 `0.0.0.0:18181`，可由同一内网设备访问：
 
 ```bash
 .venv/bin/key-person-dashboard \

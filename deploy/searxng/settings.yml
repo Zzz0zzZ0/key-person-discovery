@@ -3,7 +3,7 @@ use_default_settings:
     keep_only:
       - bing
       - baidu
-      - duckduckgo
+      - duckduckgo web
       - google cse
       - naver
       - qwant
@@ -14,7 +14,7 @@ engines:
     disabled: false
   - name: baidu
     disabled: true
-  - name: duckduckgo
+  - name: duckduckgo web
     disabled: false
   - name: google cse
     disabled: false
@@ -45,7 +45,7 @@ outgoing:
   extra_proxy_timeout: 10
   proxies:
     all://:
-      - http://host.docker.internal:12001
+      - http://host.docker.internal:7897
 
 server:
   bind_address: 0.0.0.0

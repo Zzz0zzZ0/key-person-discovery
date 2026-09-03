@@ -9,10 +9,11 @@ from urllib.parse import parse_qs, urlparse
 from unittest.mock import MagicMock, patch
 
 from datetime import datetime, timedelta, timezone
+from fastapi.testclient import TestClient
 
 from key_person_discovery.batch import _active_delta, run_batch
 from key_person_discovery.crm import list_companies, search_companies
-from key_person_discovery.dashboard import DiscoveryJobs, load_results
+from key_person_discovery.dashboard import DiscoveryJobs, create_app, load_results
 from key_person_discovery.hermes import _validate_output, parse_json_object
 from key_person_discovery.models import (
     CompanyProfile,
@@ -53,6 +54,36 @@ from key_person_discovery.topeasy import merge_topeasy_export
 
 
 class CoreTests(unittest.TestCase):
+    def test_fastapi_dashboard_preserves_routes_and_security_checks(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            index = root / "index.html"
+            index.write_text("<h1>Dashboard</h1>", encoding="utf-8")
+            jobs = MagicMock()
+            jobs.list.return_value = [{"id": "job-1"}]
+            jobs.start.return_value = {"id": "job-2", "status": "queued"}
+            jobs.store.noncompleted_output_paths.return_value = set()
+            client = TestClient(create_app(root / "outputs", index, jobs))
+
+            page = client.get("/")
+            listed = client.get("/api/jobs?limit=5")
+            blocked = client.post(
+                "/api/discover",
+                headers={"Origin": "http://other.example"},
+                json={"name": "Example"},
+            )
+            started = client.post("/api/discover", json={"name": "Example"})
+
+        self.assertEqual(page.status_code, 200)
+        self.assertEqual(page.text, "<h1>Dashboard</h1>")
+        self.assertEqual(page.headers["cache-control"], "no-store")
+        self.assertEqual(listed.json(), [{"id": "job-1"}])
+        jobs.list.assert_called_once_with(5)
+        self.assertEqual(blocked.status_code, 403)
+        self.assertEqual(blocked.headers["cache-control"], "no-store")
+        self.assertEqual(started.status_code, 202)
+        jobs.start.assert_called_once_with({"name": "Example", "website": None})
+
     def test_topeasy_export_keeps_people_and_same_domain_contacts_only(self):
         company = CompanyProfile(name="Heatmasters", website="https://heatmasters.net")
         result = {"candidates": [], "unverified_candidates": [], "unassigned_contacts": []}

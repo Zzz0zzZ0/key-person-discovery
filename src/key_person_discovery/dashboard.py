@@ -2,10 +2,14 @@ from __future__ import annotations
 
 import argparse
 import json
-from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from typing import Any
-from urllib.parse import parse_qs, urlparse
+from urllib.parse import urlparse
+
+import uvicorn
+from fastapi import FastAPI, Request
+from fastapi.exceptions import RequestValidationError
+from fastapi.responses import FileResponse, JSONResponse
 
 from .crm import CrmError, get_company, load_env_file, search_companies
 from .jobs import JobStore, PROJECT_DIR, enqueue_company, project_storage_path, spawn_runner
@@ -80,107 +84,97 @@ class DiscoveryJobs:
         return self.store.list_batches()
 
 
-def make_handler(outputs_dir: Path, index_path: Path, jobs: DiscoveryJobs):
-    class DashboardHandler(BaseHTTPRequestHandler):
-        def do_GET(self) -> None:
-            parsed = urlparse(self.path)
-            if parsed.path == "/api/results":
-                self._json(200, load_results(outputs_dir, jobs.store.noncompleted_output_paths()))
-                return
-            if parsed.path == "/api/crm/companies":
-                try:
-                    params = parse_qs(parsed.query)
-                    query = params.get("q", [""])[0]
-                    limit = int(params.get("limit", ["20"])[0])
-                    self._json(200, search_companies(query, limit))
-                except ValueError as exc:
-                    self._json(400, {"error": str(exc)})
-                except CrmError as exc:
-                    self._json(503, {"error": str(exc)})
-                return
-            if parsed.path == "/api/jobs":
-                try:
-                    limit = int(parse_qs(parsed.query).get("limit", ["100"])[0])
-                    self._json(200, jobs.list(limit))
-                except ValueError as exc:
-                    self._json(400, {"error": str(exc)})
-                return
-            if parsed.path == "/api/batches":
-                self._json(200, jobs.batches())
-                return
-            if parsed.path.startswith("/api/jobs/"):
-                try:
-                    self._json(200, jobs.get(parsed.path.rsplit("/", 1)[-1]))
-                except LookupError as exc:
-                    self._json(404, {"error": str(exc)})
-                return
-            if parsed.path in {"/", "/index.html"}:
-                try:
-                    content = index_path.read_bytes()
-                except OSError:
-                    self.send_error(500, "Dashboard HTML is unavailable")
-                    return
-                self._send(200, content, "text/html; charset=utf-8")
-                return
-            self.send_error(404)
+def _error(status: int, message: str) -> JSONResponse:
+    return JSONResponse({"error": message}, status_code=status)
 
-        def do_POST(self) -> None:
-            if urlparse(self.path).path != "/api/discover":
-                self.send_error(404)
-                return
-            if not self._same_origin():
-                self._json(403, {"error": "Cross-origin requests are not allowed"})
-                return
-            try:
-                length = int(self.headers.get("Content-Length", "0"))
+
+def create_app(outputs_dir: Path, index_path: Path, jobs: DiscoveryJobs) -> FastAPI:
+    app = FastAPI(title="Key Person Discovery", docs_url=None, redoc_url=None)
+
+    @app.exception_handler(RequestValidationError)
+    async def validation_error(_request: Request, exc: RequestValidationError) -> JSONResponse:
+        return _error(400, exc.errors()[0]["msg"])
+
+    @app.middleware("http")
+    async def protect_dashboard(request: Request, call_next):
+        response = None
+        if request.method == "POST" and request.url.path == "/api/discover":
+            origin = request.headers.get("Origin")
+            if origin and urlparse(origin).netloc != request.headers.get("Host"):
+                response = _error(403, "Cross-origin requests are not allowed")
+            else:
+                try:
+                    length = int(request.headers.get("Content-Length", "0"))
+                except ValueError:
+                    length = 0
                 if not 0 < length <= 16_384:
-                    raise ValueError("Invalid request size")
-                payload = json.loads(self.rfile.read(length))
-                if not isinstance(payload, dict):
-                    raise ValueError("JSON object required")
-                if payload.get("crm_company_id"):
-                    company = get_company(str(payload["crm_company_id"]))
-                else:
-                    company = {"name": payload.get("name"), "website": payload.get("website")}
-                self._json(202, jobs.start(company))
-            except (ValueError, json.JSONDecodeError) as exc:
-                self._json(400, {"error": str(exc)})
-            except LookupError as exc:
-                self._json(404, {"error": str(exc)})
-            except CrmError as exc:
-                self._json(503, {"error": str(exc)})
-            except OSError:
-                self._json(500, {"error": "Unable to create discovery job"})
+                    response = _error(400, "Invalid request size")
+        if response is None:
+            response = await call_next(request)
+        response.headers["Cache-Control"] = "no-store"
+        response.headers["X-Content-Type-Options"] = "nosniff"
+        response.headers["Content-Security-Policy"] = (
+            "default-src 'self'; style-src 'unsafe-inline'; "
+            "script-src 'unsafe-inline'; connect-src 'self'"
+        )
+        return response
 
-        def _same_origin(self) -> bool:
-            origin = self.headers.get("Origin")
-            return not origin or urlparse(origin).netloc == self.headers.get("Host")
+    @app.get("/api/results")
+    def results() -> list[dict[str, Any]]:
+        return load_results(outputs_dir, jobs.store.noncompleted_output_paths())
 
-        def _json(self, status: int, payload: Any) -> None:
-            self._send(
-                status,
-                json.dumps(payload, ensure_ascii=False).encode(),
-                "application/json; charset=utf-8",
-            )
+    @app.get("/api/crm/companies")
+    def crm_companies(q: str = "", limit: int = 20):
+        try:
+            return search_companies(q, limit)
+        except ValueError as exc:
+            return _error(400, str(exc))
+        except CrmError as exc:
+            return _error(503, str(exc))
 
-        def _send(self, status: int, content: bytes, content_type: str) -> None:
-            self.send_response(status)
-            self.send_header("Content-Type", content_type)
-            self.send_header("Content-Length", str(len(content)))
-            self.send_header("Cache-Control", "no-store")
-            self.send_header("X-Content-Type-Options", "nosniff")
-            self.send_header(
-                "Content-Security-Policy",
-                "default-src 'self'; style-src 'unsafe-inline'; "
-                "script-src 'unsafe-inline'; connect-src 'self'",
-            )
-            self.end_headers()
-            self.wfile.write(content)
+    @app.get("/api/jobs")
+    def list_jobs(limit: int = 100):
+        try:
+            return jobs.list(limit)
+        except ValueError as exc:
+            return _error(400, str(exc))
 
-        def log_message(self, format: str, *args: object) -> None:
-            return
+    @app.get("/api/batches")
+    def batches():
+        return jobs.batches()
 
-    return DashboardHandler
+    @app.get("/api/jobs/{job_id}")
+    def get_job(job_id: str):
+        try:
+            return jobs.get(job_id)
+        except LookupError as exc:
+            return _error(404, str(exc))
+
+    @app.post("/api/discover", status_code=202)
+    def discover_company(payload: dict[str, Any]):
+        try:
+            if payload.get("crm_company_id"):
+                company = get_company(str(payload["crm_company_id"]))
+            else:
+                company = {"name": payload.get("name"), "website": payload.get("website")}
+            return jobs.start(company)
+        except ValueError as exc:
+            return _error(400, str(exc))
+        except LookupError as exc:
+            return _error(404, str(exc))
+        except CrmError as exc:
+            return _error(503, str(exc))
+        except OSError:
+            return _error(500, "Unable to create discovery job")
+
+    def index():
+        if not index_path.is_file():
+            return _error(500, "Dashboard HTML is unavailable")
+        return FileResponse(index_path, media_type="text/html")
+
+    app.get("/", include_in_schema=False)(index)
+    app.get("/index.html", include_in_schema=False)(index)
+    return app
 
 
 def main() -> None:
@@ -205,17 +199,8 @@ def main() -> None:
         load_env_file(env_file)
     jobs = DiscoveryJobs(outputs_dir, inputs_dir, args.profile, db_path)
     index_path = PROJECT_DIR / "web" / "index.html"
-    server = ThreadingHTTPServer(
-        (args.host, args.port),
-        make_handler(outputs_dir, index_path, jobs),
-    )
     print(f"Key Person dashboard: http://{args.host}:{args.port}")
-    try:
-        server.serve_forever()
-    except KeyboardInterrupt:
-        pass
-    finally:
-        server.server_close()
+    uvicorn.run(create_app(outputs_dir, index_path, jobs), host=args.host, port=args.port)
 
 
 if __name__ == "__main__":
