@@ -95,6 +95,11 @@ class CrawledPage:
     provider: str = ""
     source_type: str = "crawl"
     page_count: int = 0
+    contact_blocks: list[str] = field(default_factory=list)
+    contact_conflicts: list[dict[str, Any]] = field(default_factory=list)
+    requested_url: str = ""
+    title: str = ""
+    links: list[dict[str, str]] = field(default_factory=list)
 
     def as_dict(self) -> dict[str, Any]:
         return asdict(self)

@@ -1,11 +1,13 @@
 from __future__ import annotations
 
 import argparse
+import os
 import time
+from collections.abc import Callable
 from datetime import datetime, timezone
 from pathlib import Path
 
-from .crm import list_companies, load_env_file
+from .crm import CrmError, list_companies, load_env_file
 from .jobs import (
     JobStore,
     PROJECT_DIR,
@@ -14,10 +16,12 @@ from .jobs import (
     spawn_runner,
     utc_now,
 )
+from .preflight import network_available
 
 
 MAX_ACTIVE_GAP_SECONDS = 30.0
 RECOVERY_GRACE_SECONDS = 10.0
+NETWORK_RETRY_SECONDS = 30.0
 
 
 def _active_delta(previous: datetime, current: datetime) -> float:
@@ -35,6 +39,7 @@ def run_batch(
     workers: int,
     page_size: int,
     max_companies: int,
+    network_check: Callable[[], bool] | None = None,
 ) -> dict[str, object]:
     batch = store.create_batch(hours=duration_hours, workers=workers)
     batch_id = str(batch["id"])
@@ -43,11 +48,14 @@ def run_batch(
     buffer: list[dict[str, object]] = []
     scanned = enqueued = skipped = 0
     exhausted = False
+    crm_waiting = False
+    network_check = network_check or (lambda: True)
     try:
         while not max_companies or enqueued < max_companies:
             current_tick = datetime.now(timezone.utc)
             elapsed = (current_tick - previous_tick).total_seconds()
-            active_delta = _active_delta(previous_tick, current_tick)
+            waiting_for_network = crm_waiting or store.all_active_paused()
+            active_delta = 0.0 if waiting_for_network else _active_delta(previous_tick, current_tick)
             previous_tick = current_tick
             store.add_batch_active_seconds(batch_id, active_delta)
             if store.get_batch(batch_id)["remaining_seconds"] <= 0:
@@ -56,11 +64,22 @@ def run_batch(
                 store.update_batch(batch_id, stage="recovering")
                 time.sleep(RECOVERY_GRACE_SECONDS)
                 continue
-            store.update_batch(batch_id, stage="running")
+            store.update_batch(
+                batch_id,
+                stage="waiting_network" if waiting_for_network else "running",
+            )
             store.fail_stale()
             while store.active_count() < workers and (not max_companies or enqueued < max_companies):
                 if not buffer and not exhausted:
-                    buffer = list_companies(cursor, page_size)
+                    try:
+                        buffer = list_companies(cursor, page_size)
+                        crm_waiting = False
+                    except CrmError:
+                        if network_check():
+                            raise
+                        crm_waiting = True
+                        store.update_batch(batch_id, stage="waiting_network")
+                        break
                     exhausted = not buffer
                 if not buffer:
                     break
@@ -91,6 +110,10 @@ def run_batch(
                 enqueued=enqueued,
                 skipped=skipped,
             )
+            if crm_waiting:
+                time.sleep(NETWORK_RETRY_SECONDS)
+                previous_tick = datetime.now(timezone.utc)
+                continue
             if exhausted and store.active_count() == 0:
                 break
             remaining = float(store.get_batch(batch_id)["remaining_seconds"])
@@ -160,6 +183,11 @@ def main() -> None:
         workers=args.workers,
         page_size=args.page_size,
         max_companies=args.max_companies,
+        network_check=lambda: network_available(
+            os.getenv("KEY_PERSON_PROXY_URL", "").strip()
+            or os.getenv("HTTPS_PROXY", "").strip()
+            or os.getenv("HTTP_PROXY", "").strip()
+        ),
     )
     print(f"Batch {result['id']} {result['status']}: enqueued={result['enqueued']} skipped={result['skipped']}")
 

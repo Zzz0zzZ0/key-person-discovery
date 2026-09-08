@@ -85,6 +85,12 @@ def main() -> None:
     if not 0 <= anysearch_query_limit <= 100:
         parser.error("KEY_PERSON_ANYSEARCH_MAX_QUERIES must be between 0 and 100")
     try:
+        people_search_limit = int(os.getenv("KEY_PERSON_PEOPLE_SEARCH_MAX_QUERIES", "3"))
+    except ValueError:
+        parser.error("KEY_PERSON_PEOPLE_SEARCH_MAX_QUERIES must be an integer")
+    if not 0 <= people_search_limit <= 6:
+        parser.error("KEY_PERSON_PEOPLE_SEARCH_MAX_QUERIES must be between 0 and 6")
+    try:
         customs_anysearch_query_limit = int(
             os.getenv("KEY_PERSON_CUSTOMS_ANYSEARCH_MAX_QUERIES", "2")
         )
@@ -146,6 +152,7 @@ def main() -> None:
         proxy_url=proxy_url,
         crm_contacts=crm_contacts,
         anysearch_query_limit=anysearch_query_limit,
+        people_search_limit=people_search_limit,
         customs_anysearch_query_limit=customs_anysearch_query_limit,
         broad_discovery=broad_discovery,
         topeasy_export=args.topeasy_export,

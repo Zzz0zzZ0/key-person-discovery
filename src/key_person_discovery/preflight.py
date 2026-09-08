@@ -20,6 +20,16 @@ EGRESS_CHECK_URLS = (
 LOCAL_HOSTS = {"127.0.0.1", "localhost", "::1", "host.docker.internal"}
 
 
+def network_available(proxy_url: str, timeout: float = 5) -> bool:
+    for url in EGRESS_CHECK_URLS:
+        try:
+            _http_proxy_fingerprint(proxy_url, url, timeout)
+            return True
+        except RuntimeError:
+            continue
+    return False
+
+
 def verify_proxy_setup(
     proxy_url: str,
     searxng_url: str,
@@ -48,12 +58,12 @@ def verify_proxy_setup(
     raise RuntimeError("Unable to verify proxy egress with available check endpoints")
 
 
-def _http_proxy_fingerprint(proxy_url: str, url: str) -> str:
+def _http_proxy_fingerprint(proxy_url: str, url: str, timeout: float = 15) -> str:
     try:
         response = httpx.get(
             url,
             proxy=proxy_url,
-            timeout=15,
+            timeout=timeout,
             follow_redirects=True,
             headers={"User-Agent": "key-person-discovery/0.1"},
         )

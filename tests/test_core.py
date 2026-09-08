@@ -12,7 +12,7 @@ from datetime import datetime, timedelta, timezone
 from fastapi.testclient import TestClient
 
 from key_person_discovery.batch import _active_delta, run_batch
-from key_person_discovery.crm import list_companies, search_companies
+from key_person_discovery.crm import CrmError, list_companies, search_companies
 from key_person_discovery.dashboard import DiscoveryJobs, create_app, load_results
 from key_person_discovery.hermes import _validate_output, parse_json_object
 from key_person_discovery.models import (
@@ -37,6 +37,7 @@ from key_person_discovery.preflight import (
     EGRESS_CHECK_URLS,
     _trace_fingerprint,
     _validate_local_searxng_proxy,
+    network_available,
 )
 from key_person_discovery.signals import extract_contact_signals
 from key_person_discovery.sources import (
@@ -54,6 +55,16 @@ from key_person_discovery.topeasy import merge_topeasy_export
 
 
 class CoreTests(unittest.TestCase):
+    def test_network_available_uses_fallback_check_endpoint(self):
+        with patch(
+            "key_person_discovery.preflight._http_proxy_fingerprint",
+            side_effect=[RuntimeError, "fingerprint"],
+        ) as check:
+            available = network_available("http://proxy.example:8080")
+
+        self.assertTrue(available)
+        self.assertEqual(check.call_count, 2)
+
     def test_fastapi_dashboard_preserves_routes_and_security_checks(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
@@ -317,12 +328,68 @@ class CoreTests(unittest.TestCase):
                             }
                         )
                     )
-                    results[job_id] = run_job(jobs.store, job_id)
+                    results[job_id] = run_job(
+                        jobs.store,
+                        job_id,
+                        network_check=lambda _proxy: True,
+                    )
 
             self.assertEqual(results[no_new["id"]], 0)
             self.assertEqual(jobs.get(no_new["id"])["stage"], "no_new_contact")
             self.assertEqual(results[limited["id"]], 1)
             self.assertEqual(jobs.get(limited["id"])["stage"], "source_limited")
+
+    def test_runner_waits_for_network_then_retries_same_job(self):
+        from key_person_discovery.job_runner import run_job
+
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            profile = root / "profile.json"
+            profile.write_text(json.dumps({"industries": [], "products": []}))
+            with patch("key_person_discovery.dashboard.spawn_runner"):
+                jobs = DiscoveryJobs(
+                    root / "outputs", root / "inputs", profile, root / "jobs.sqlite3"
+                )
+                job = jobs.start({"name": "Offline Retry", "website": "example.com"})
+            output_path = Path(jobs.store.get_raw(job["id"])["output_path"])
+            output_path.write_text(
+                json.dumps(
+                    {
+                        "candidates": [],
+                        "unassigned_contacts": [],
+                        "run_summary": {
+                            "search_results": 1,
+                            "urls_crawled": 1,
+                            "crawl_failures": 0,
+                        },
+                    }
+                )
+            )
+            failed = MagicMock(returncode=1)
+            failed.poll.return_value = 0
+            completed = MagicMock(returncode=0)
+            completed.poll.return_value = 0
+            network_check = MagicMock(side_effect=[False, True])
+            with patch(
+                "key_person_discovery.job_runner.subprocess.Popen",
+                side_effect=[failed, completed],
+            ) as popen, patch(
+                "key_person_discovery.job_runner.time.sleep"
+            ), patch.object(
+                jobs.store, "heartbeat", wraps=jobs.store.heartbeat
+            ) as heartbeat:
+                result = run_job(jobs.store, job["id"], network_check=network_check)
+            stage = jobs.get(job["id"])["stage"]
+
+        self.assertEqual(result, 0)
+        self.assertEqual(popen.call_count, 2)
+        if sys.platform == "darwin":
+            self.assertEqual(
+                popen.call_args_list[0].args[0][:3],
+                ["/usr/bin/caffeinate", "-i", "-s"],
+            )
+        self.assertIn((job["id"], "waiting_network"), [call.args for call in heartbeat.call_args_list])
+        self.assertEqual(stage, "no_new_contact")
 
     def test_crm_company_pages_use_stable_id_cursor(self):
         response = MagicMock(
@@ -383,6 +450,68 @@ class CoreTests(unittest.TestCase):
             self.assertEqual(batch["enqueued"], 1)
             self.assertEqual(batch["duration_seconds"], 3600)
             self.assertEqual(jobs.list()[0]["company_name"], "Batch Company")
+
+    def test_batch_waits_for_network_without_consuming_retry_delay(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            profile = root / "profile.json"
+            profile.write_text(json.dumps({"industries": [], "products": []}))
+            jobs = DiscoveryJobs(root / "outputs", root / "inputs", profile, root / "jobs.sqlite3")
+            company = {
+                "id": "00000000-0000-0000-0000-000000000011",
+                "name": "Recovered Company",
+                "website": "https://recovered.example",
+            }
+            with patch(
+                "key_person_discovery.batch.list_companies",
+                side_effect=[CrmError("CRM query failed (psql)"), [company]],
+            ), patch("key_person_discovery.batch.spawn_runner"), patch(
+                "key_person_discovery.batch.time.sleep"
+            ), patch.object(
+                jobs.store, "update_batch", wraps=jobs.store.update_batch
+            ) as update_batch:
+                batch = run_batch(
+                    store=jobs.store,
+                    outputs_dir=root / "outputs",
+                    inputs_dir=root / "inputs",
+                    profile_path=profile,
+                    duration_hours=1,
+                    workers=1,
+                    page_size=10,
+                    max_companies=1,
+                    network_check=lambda: False,
+                )
+
+        self.assertEqual(batch["status"], "completed")
+        self.assertTrue(
+            any(call.kwargs.get("stage") == "waiting_network" for call in update_batch.call_args_list)
+        )
+
+    def test_stale_job_is_kept_while_runner_pid_is_alive(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            profile = root / "profile.json"
+            profile.write_text(json.dumps({"industries": [], "products": []}))
+            with patch("key_person_discovery.dashboard.spawn_runner"):
+                jobs = DiscoveryJobs(
+                    root / "outputs", root / "inputs", profile, root / "jobs.sqlite3"
+                )
+                job = jobs.start({"name": "Sleeping Runner", "website": "example.com"})
+            jobs.store.claim(job["id"], 12345)
+            with jobs.store._connect() as connection:
+                connection.execute(
+                    "UPDATE discovery_job SET heartbeat_at=? WHERE id=?",
+                    ((datetime.now(timezone.utc) - timedelta(hours=8)).isoformat(), job["id"]),
+                )
+            with patch("key_person_discovery.jobs.os.kill"):
+                live_failed = jobs.store.fail_stale()
+            with patch("key_person_discovery.jobs.os.kill", side_effect=ProcessLookupError):
+                dead_failed = jobs.store.fail_stale()
+            status = jobs.get(job["id"])["status"]
+
+        self.assertEqual(live_failed, 0)
+        self.assertEqual(dead_failed, 1)
+        self.assertEqual(status, "failed")
 
     def test_batch_active_time_ignores_sleep_gap(self):
         start = datetime(2026, 8, 14, tzinfo=timezone.utc)
@@ -509,7 +638,7 @@ class CoreTests(unittest.TestCase):
 
         with tempfile.TemporaryDirectory() as directory, patch(
             "key_person_discovery.pipeline.crawl_sync",
-            return_value=[],
+            return_value=[CrawledPage(url='https://kilns.co.uk', markdown='Kilns & Furnaces Ltd')],
         ):
             result = discover(
                 company=CompanyProfile(
@@ -888,6 +1017,7 @@ class CoreTests(unittest.TestCase):
                 cli.main()
 
             self.assertEqual(discovery.call_args.kwargs["anysearch_query_limit"], 5)
+            self.assertEqual(discovery.call_args.kwargs["people_search_limit"], 3)
 
     def test_anysearch_markdown_is_parsed_with_provenance(self):
         results = _parse_anysearch_markdown(

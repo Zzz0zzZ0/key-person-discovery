@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import re
+from copy import deepcopy
 from dataclasses import replace
 from datetime import date
 from pathlib import Path
@@ -21,6 +22,8 @@ from .models import (
 )
 from .pdf_source import extract_pdf_urls
 from .signals import extract_contact_signals
+from .contact_evidence import contact_block_pages
+from .diagnostics import diagnose, recovery_queries, extraction_failure
 from .topeasy import merge_topeasy_export
 from .sources import (
     Crawl4aiCrawler,
@@ -31,6 +34,12 @@ from .sources import (
     crawl_sync,
     discover_official_links,
     discover_official_urls,
+    CONTACT_PATH_TERMS,
+    official_link_priority,
+    official_url_in_scope,
+    page_links,
+    resolve_official_site,
+    person_query_name,
 )
 
 
@@ -70,22 +79,7 @@ _CUSTOMS_TERMS = (
     "trade data",
 )
 
-_CONTACT_SOURCE_PATH_TERMS = (
-    "brochure",
-    "company-profile",
-    "contact",
-    "directory",
-    "leadership",
-    "management",
-    "manual",
-    "paia",
-    "people",
-    "popi",
-    "profile",
-    "staff",
-    "supplier",
-    "team",
-)
+_CONTACT_SOURCE_PATH_TERMS = CONTACT_PATH_TERMS
 
 _EXTERNAL_SERVICE_MARKERS = (
     ("daro webdesign & entwicklung", "DARO Webdesign & Entwicklung"),
@@ -115,11 +109,14 @@ def discover(
     ] = discover_official_urls,
     broad_discovery: bool = False,
     topeasy_export: Path | None = None,
+    people_search_limit: int = 0,
 ) -> dict[str, Any]:
     if anysearch_query_limit is not None and anysearch_query_limit < 0:
         raise ValueError("AnySearch query limit cannot be negative")
     if not 0 <= customs_anysearch_query_limit <= 3:
         raise ValueError("Customs AnySearch query limit must be between 0 and 3")
+    if not 0 <= people_search_limit <= 6:
+        raise ValueError("People search limit must be between 0 and 6")
     artifacts_dir.mkdir(parents=True, exist_ok=True)
     artifacts_dir.chmod(0o700)
     search_results = []
@@ -130,6 +127,9 @@ def discover(
     executed_queries: list[str] = []
     executed_query_keys: set[str] = set()
     crm_website = company.website
+    website_resolution_events: list[dict[str, Any]] = []
+    routing_pages: list[CrawledPage] = []
+    external_person_urls: set[str] = set()
 
     def run_search(client: SearchClient, query: str) -> Any:
         provider = getattr(client, "name", client.__class__.__name__)
@@ -250,6 +250,10 @@ def discover(
     def crawl_sources(
         current_results: list[SearchResult],
     ) -> tuple[list[CrawledPage], list[CrawledPage], list[str]]:
+        nonlocal company
+        acquisition_company = company
+        if isinstance(crawler, Crawl4aiCrawler):
+            crawler.refresh_urls.add(company.website)
         all_candidate_urls = _unique_urls(
             company.website,
             _linkedin_company_urls(company.linkedin_url)
@@ -278,10 +282,22 @@ def discover(
         linked_pdf_urls: list[str] = []
 
         def followup_urls(first_pages):
+            nonlocal company
+            resolution = resolve_official_site(acquisition_company, first_pages)
+            if resolution['status'].startswith('confirmed_'):
+                company = replace(company, website=resolution['website'])
+            elif resolution['status'] == 'unverified_redirect':
+                return resolution['followup_urls'][:max_urls - len(first_urls)]
+            # Redirected final URLs count as already fetched too.
+            first_keys.update(_url_key(page.url) for page in first_pages)
+            link_priorities = {url: official_link_priority(url, label)
+                               for page in first_pages for label, url in page_links(page)}
             second_candidates = sorted(
                 discover_official_links(company, first_pages)
-                + candidate_urls[len(first_urls) :],
-                key=lambda url: _contact_source_priority(company, url),
+                + [url for url in candidate_urls[len(first_urls):]
+                   if company == acquisition_company or official_url_in_scope(company, url)],
+                key=lambda url: (_contact_source_priority(company, url)[0],
+                                 min(_contact_source_priority(company, url)[1], link_priorities.get(url, 2))),
             )
             linked_pdf_urls.extend(
                 url for url in second_candidates if _is_pdf_url(url)
@@ -298,6 +314,17 @@ def discover(
             if first_urls
             else []
         )
+        resolution = resolve_official_site(acquisition_company, current_pages)
+        if resolution['status'] != 'unchanged':
+            website_resolution_events.append(resolution)
+            if resolution['status'].startswith('confirmed_'):
+                company = replace(company, website=resolution['website'])
+            blocked = set(resolution['blocked_urls'])
+            routing_pages.extend(page for page in current_pages if page.url in blocked)
+            current_pages = [replace(page, markdown='', contact_blocks=[], contact_conflicts=[],
+                                     error='target company not verified on redirected page')
+                             if page.url in blocked else page for page in current_pages]
+            current_pdf_urls = [url for url in current_pdf_urls if official_url_in_scope(company, url)]
         current_pdf_urls = sorted(
             _unique_urls("", current_pdf_urls + linked_pdf_urls),
             key=lambda url: _contact_source_priority(company, url),
@@ -325,7 +352,8 @@ def discover(
             company, current_results
         )
         current_evidence_pages = (
-            current_pages
+            contact_block_pages(company, current_pages)
+            + current_pages
             + current_pdf_pages
             + current_search_evidence
             + current_contact_evidence
@@ -337,12 +365,13 @@ def discover(
         company_public_urls = {
             _url_key(page.url)
             for page in contact_source_pages
-            if page.markdown and _page_is_company_public(company, page)
+            if page.markdown and _url_key(page.url) not in external_person_urls and _page_is_company_public(company, page)
         }
         company_associated_urls = {
             _url_key(page.url)
             for page in contact_source_pages
             if page.markdown
+            and _url_key(page.url) not in external_person_urls
             and not _is_trusted_external(page.url)
             and _page_matches_company(company, page)
         }
@@ -468,49 +497,168 @@ def discover(
                 break
             customs_leads = _merge_customs_leads(customs_leads, current_leads)
 
-    _write_json(artifacts_dir / "search-results.json", [item.as_dict() for item in search_results])
-    _write_json(artifacts_dir / "customs-search-results.json", customs_leads)
-    _write_json(artifacts_dir / "search-warnings.json", search_warnings)
-    _write_json(artifacts_dir / "pages.json", [page.as_dict() for page in pages])
-    _write_json(artifacts_dir / "pdf-pages.json", [page.as_dict() for page in pdf_pages])
-    _write_json(
-        artifacts_dir / "search-evidence.json",
-        [page.as_dict() for page in search_evidence],
-    )
-    _write_json(
-        artifacts_dir / "contact-evidence.json",
-        [page.as_dict() for page in contact_evidence],
-    )
-    _write_json(artifacts_dir / "contact-signals.json", signals)
+    def save_evidence():
+        _write_json(artifacts_dir / 'website-resolution.json', website_resolution_events)
+        _write_json(artifacts_dir / 'website-routing-pages.json', [page.as_dict() for page in routing_pages])
+        _write_json(artifacts_dir / "search-results.json", [item.as_dict() for item in search_results])
+        _write_json(artifacts_dir / "customs-search-results.json", customs_leads)
+        _write_json(artifacts_dir / "search-warnings.json", search_warnings)
+        _write_json(artifacts_dir / "pages.json", [page.as_dict() for page in pages])
+        _write_json(artifacts_dir / "pdf-pages.json", [page.as_dict() for page in pdf_pages])
+        _write_json(
+            artifacts_dir / "search-evidence.json",
+            [page.as_dict() for page in search_evidence],
+        )
+        _write_json(
+            artifacts_dir / "contact-evidence.json",
+            [page.as_dict() for page in contact_evidence],
+        )
+        _write_json(artifacts_dir / "contact-signals.json", signals)
+        _write_json(artifacts_dir / "contact-conflicts.json", [
+            dict(item, source_url=page.url) for page in pages for item in page.contact_conflicts
+        ])
 
-    result = hermes.extract(company, evidence_pages, signals, artifacts_dir / "usage.json")
-    _add_linkedin_employee_candidates(result, company, pages)
-    _verify_linkedin_anchored_candidates(result, company, search_results)
-    _add_linkedin_signal_candidates(result, company, signals)
-    if broad_discovery:
-        _add_linkedin_search_candidates(result, company, search_results)
-    _promote_linkedin_signal_candidates(result, company, search_results)
-    if broad_discovery:
-        _normalize_broad_discovery_candidates(result, company, search_results)
+    save_evidence()
+
+    def diagnostic_for(value):
+        return diagnose(value, pages + pdf_pages + search_evidence + contact_evidence,
+            website=company.website, website_status=website_resolution_events[-1]['status'] if website_resolution_events else '',
+            target=max(1, company.target_contact_count), contactable_people=_new_contactable_people(value))
+
+    result = dict(company_name=company.name, candidates=[], unassigned_contacts=[], review_required=True)
+    if any(page.markdown.strip() and not page.error for page in evidence_pages):
+        try:
+            result = hermes.extract(company, evidence_pages, signals, artifacts_dir / "usage.json")
+        except Exception as exc:
+            diagnostic = diagnostic_for(result)
+            diagnostic['primary'] = 'analysis_failed'
+            diagnostic['reasons'] = [reason for reason in diagnostic['reasons'] if reason != 'no_target_people']
+            diagnostic['error'] = extraction_failure(exc, 'initial_analysis')
+            _write_json(artifacts_dir / 'diagnostics.json', diagnostic)
+            raise
     topeasy_summary: dict[str, Any] = {}
-    if topeasy_export is not None:
-        topeasy_summary = merge_topeasy_export(result, company, topeasy_export)
-        _write_json(artifacts_dir / "topeasy-import.json", topeasy_summary)
-    _attach_evidence_bound_contacts(result)
-    _attach_crm_matched_emails(result, crm_contacts or [])
-    _deduplicate_crm_contacts(result, crm_contacts or [])
-    if broad_discovery:
-        _add_inferred_email_candidates(result, company, signals, crm_contacts or [])
-    _filter_directory_footer_contacts(
-        result,
-        pages + contact_evidence,
-        [
-            url
-            for url in official_urls + [company.website] + [page.url for page in pages]
-            if same_site(company.website, url) or _distinctive_company_host(company, url)
-        ],
-        company,
-    )
+
+    def finalize_people(result, include_topeasy=False):
+        nonlocal topeasy_summary
+        _add_linkedin_employee_candidates(result, company, pages)
+        _verify_linkedin_anchored_candidates(result, company, search_results)
+        _add_linkedin_signal_candidates(result, company, signals)
+        if broad_discovery:
+            _add_linkedin_search_candidates(result, company, search_results)
+        _promote_linkedin_signal_candidates(result, company, search_results)
+        if broad_discovery:
+            _normalize_broad_discovery_candidates(result, company, search_results)
+        if include_topeasy and topeasy_export is not None:
+            topeasy_summary = merge_topeasy_export(result, company, topeasy_export)
+            _write_json(artifacts_dir / "topeasy-import.json", topeasy_summary)
+        _demote_navigation_only_company_matches(result, company, pages)
+        _exclude_unrelated_roles(result)
+        _attach_evidence_bound_contacts(result, {
+            page.url.rstrip('/'): page.contact_blocks for page in pages
+            if page.contact_blocks and same_site(company.website, page.url)
+        })
+        _attach_crm_matched_emails(result, crm_contacts or [])
+        _deduplicate_crm_contacts(result, crm_contacts or [])
+        if broad_discovery:
+            _add_inferred_email_candidates(result, company, signals, crm_contacts or [])
+        _filter_directory_footer_contacts(
+            result,
+            pages + contact_evidence,
+            [
+                url
+                for url in official_urls + [company.website] + [page.url for page in pages]
+                if same_site(company.website, url) or _distinctive_company_host(company, url)
+            ],
+            company,
+        )
+        _remove_conflicting_contacts(result, signals)
+
+    finalize_people(result, include_topeasy=True)
+    if people_search_limit:
+        _attach_named_linkedin_profiles(result, company, search_results, crm_contacts or [])
+    people_before_topup = _new_contactable_people(result)
+    people_queries: list[str] = []
+    people_anysearch_queries = 0
+    people_target = max(1, company.target_contact_count)
+    initial_diagnostic = diagnostic_for(result)
+    topup_plan = [q for q in recovery_queries(company, result, initial_diagnostic, phone_region)
+                  if q.strip() not in executed_query_keys][:people_search_limit]
+    topup = dict(reason=initial_diagnostic['primary'], budget=people_search_limit, queries=[],
+                 status='disabled' if not people_search_limit else 'target_met' if people_before_topup >= people_target else 'skipped')
+    if people_search_limit and people_before_topup < people_target and topup_plan:
+        _write_json(artifacts_dir / "people-baseline.json", result)
+        # A separate, bounded budget; explicitly disabling AnySearch also disables it here.
+        if anysearch_query_limit is not None and anysearch_query_limit > 0:
+            effective_anysearch_limit = anysearch_queries + people_search_limit
+        previous_anysearch_queries = anysearch_queries
+        previous_results = len(search_results)
+        topup_stage = 'search'
+        try:
+            for query in topup_plan:
+                if query not in executed_query_keys:
+                    try:
+                        search_results.extend(search(query))
+                    finally:
+                        if query.strip() in executed_query_keys:
+                            people_queries.append(query)
+            extra_results = search_results[previous_results:]
+            topup_stage = 'crawl'
+            existing_urls = {_url_key(page.url) for page in pages + pdf_pages}
+            named_urls = _named_person_source_urls(company, result, extra_results)
+            external_person_urls.update(_url_key(url) for url in named_urls if not same_site(company.website, url))
+            selected_urls = _unique_urls('', named_urls + _relevant_urls(company, extra_results))
+            extra_pdf_urls = [url for url in selected_urls if _is_pdf_url(url) and _url_key(url) not in existing_urls][:max(0, 3 - len(pdf_pages))]
+            extra_urls = [
+                url for url in selected_urls
+                if _url_key(url) not in existing_urls
+                and not _is_linkedin_profile(url) and not _is_pdf_url(url)
+            ][:min(6, max(0, max_urls - len(pages)))]
+            extra_pages = crawl_sync(crawler, extra_urls) if extra_urls else []
+            previous_evidence = {(page.url, page.markdown) for page in evidence_pages}
+            # A redirect does not make an external person source a company-wide directory.
+            external_person_urls.update(_url_key(page.url) for page in extra_pages
+                                        if _url_key(page.requested_url or page.url) in external_person_urls)
+            pages.extend(extra_pages)
+            if extra_pdf_urls:
+                pdf_urls.extend(extra_pdf_urls)
+                pdf_pages.extend(extract_pdf_urls(extra_pdf_urls, proxy_url=proxy_url))
+            search_evidence, contact_evidence, signals, evidence_pages = evidence_context(pages, pdf_pages, extra_results + search_results[:previous_results])
+            # Repeated search hits alone do not justify another model call.
+            if any(page.markdown.strip() and not page.error and (page.url, page.markdown) not in previous_evidence for page in evidence_pages):
+                save_evidence()
+                # New evidence goes first so the existing prompt size cap cannot hide it.
+                ordered_pages = sorted(evidence_pages, key=lambda page: (page.url, page.markdown) in previous_evidence)
+                topup_stage = 'analysis'
+                extra_result = hermes.extract(company, ordered_pages, signals, artifacts_dir / "usage-people-topup.json")
+                topup_stage = 'validation'
+                finalize_people(extra_result)
+                result = _merge_people_results(result, extra_result)
+                topup['status'] = 'completed'
+            else:
+                topup['status'] = 'no_new_evidence'
+        except Exception as exc:
+            # Optional enrichment must not discard a usable, validated first pass.
+            search_warnings.append({"provider": "people_topup", "engine": "people_topup", "reason": type(exc).__name__})
+            topup['status'] = 'failed'
+            topup['error'] = extraction_failure(exc, topup_stage)
+        people_anysearch_queries = anysearch_queries - previous_anysearch_queries
+        save_evidence()
+    if people_search_limit:
+        _attach_named_linkedin_profiles(result, company, search_results, crm_contacts or [])
+    topup['queries'] = people_queries
+    topup['new_results'] = len(search_results) - previous_results if people_queries else 0
+    topup['source_warnings'] = sum(w.get('query') in people_queries for w in search_warnings)
+    if topup['status'] == 'no_new_evidence' and not topup['new_results'] and topup['source_warnings']:
+        topup['status'] = 'source_limited'
+    # A later fetch can expose conflicts in channels retained by the first pass.
+    _remove_conflicting_contacts(result, signals)
+    result['diagnostics'] = diagnostic_for(result)
+    result['diagnostics'].update(before=initial_diagnostic, topup=topup)
+    _write_json(artifacts_dir / 'diagnostics.json', result['diagnostics'])
+    _write_json(artifacts_dir / "people-search.json", {
+        "queries": people_queries, "people_before": people_before_topup,
+        "people_after": _new_contactable_people(result), "target": people_target,
+    })
     _write_json(artifacts_dir / "crm-duplicates.json", result.get("crm_duplicates", []))
     contactable_items = _contactable_items(result)
     contact_methods = _contact_method_count(result)
@@ -540,6 +688,13 @@ def discover(
         "queries": len(executed_queries),
         "anysearch_queries": anysearch_queries,
         "anysearch_query_limit": anysearch_query_limit,
+        "people_search_limit": people_search_limit,
+        "people_search_queries": len(people_queries),
+        "people_anysearch_queries": people_anysearch_queries,
+        "people_before_topup": people_before_topup,
+        "new_contactable_people": _new_contactable_people(result),
+        "people_topup_gain": _new_contactable_people(result) - people_before_topup,
+        "target_new_people": people_target,
         "anysearch_extended": anysearch_queries > 5,
         "customs_anysearch_queries": customs_anysearch_queries,
         "customs_search_selected": company.customs_search_enabled,
@@ -549,10 +704,14 @@ def discover(
         "urls_crawled": len(pages),
         "crawl_failures": sum(bool(page.error) for page in pages),
         "contact_signals": len(signals),
+        "contact_card_blocks": sum(len(page.contact_blocks) for page in pages),
+        "contact_channel_conflicts": sum(len(page.contact_conflicts) for page in pages),
+        "excluded_role_candidates": len(result.get('excluded_candidates', [])),
         "official_urls_discovered": len(official_urls),
         "crm_website": crm_website,
         "official_website": company.website,
         "website_recovered": bool(company.website and company.website != crm_website),
+        "website_resolution": website_resolution_events[-1]['status'] if website_resolution_events else 'unchanged',
         "pdf_documents_discovered": len(pdf_urls),
         "pdf_documents_processed": len(pdf_pages),
         "pdf_documents_extracted": sum(bool(page.markdown) for page in pdf_pages),
@@ -1815,6 +1974,69 @@ def _merge_customs_leads(
     return list(merged.values())
 
 
+def _new_contactable_people(result: dict[str, Any]) -> int:
+    return len({
+        normalize_company_name(str(candidate.get("full_name", "")))
+        for candidate in result.get("candidates", [])
+        if candidate.get("company_match") == "verified"
+        and not candidate.get("crm_existing_match")
+        and any(
+            contact.get("value") and contact.get("status") != "guessed"
+            for field in ("linkedin", "emails", "phones")
+            for contact in candidate.get(field, [])
+        )
+    } - {""})
+
+
+def _merge_people_results(first: dict[str, Any], extra: dict[str, Any]) -> dict[str, Any]:
+    merged = deepcopy(first)
+
+    def same_person(left, right):
+        left_urls = {normalize_linkedin(item["value"]) for item in left.get("linkedin", []) if item.get("value")}
+        right_urls = {normalize_linkedin(item["value"]) for item in right.get("linkedin", []) if item.get("value")}
+        if left_urls - {""} and right_urls - {""} and not (left_urls & right_urls) - {""}:
+            return False
+        return bool((left_urls & right_urls) - {""}) or (
+            bool(left.get("full_name"))
+            and normalize_company_name(left["full_name"]) == normalize_company_name(right.get("full_name", ""))
+        )
+
+    for group in ("candidates", "unverified_candidates"):
+        for person in extra.get(group, []):
+            if group == "unverified_candidates" and any(same_person(person, known) for known in merged.get("candidates", [])):
+                continue
+            if group == "candidates":
+                merged["unverified_candidates"] = [known for known in merged.get("unverified_candidates", []) if not same_person(person, known)]
+            people = merged.setdefault(group, [])
+            known = next((known for known in people if same_person(person, known)), None)
+            if known is None:
+                people.append(deepcopy(person))
+            else:
+                for field in ("linkedin", "emails", "phones", "evidence"):
+                    for item in person.get(field, []):
+                        if item not in known.setdefault(field, []):
+                            known[field].append(deepcopy(item))
+    for field in ("unassigned_contacts", "validation_rejections", "crm_duplicates", "excluded_candidates"):
+        for item in extra.get(field, []):
+            if item not in merged.setdefault(field, []):
+                merged[field].append(deepcopy(item))
+    assigned = {
+        (channel, canonical_contact_value(channel, contact["value"]))
+        for group in ("candidates", "unverified_candidates")
+        for person in merged.get(group, [])
+        for field, channel in (("linkedin", "linkedin"), ("emails", "email"), ("phones", "phone"))
+        for contact in person.get(field, []) if contact.get("value")
+    }
+    public = {}
+    for item in merged.get("unassigned_contacts", []):
+        key = (item.get("channel", ""), canonical_contact_value(item.get("channel", ""), item.get("value", "")))
+        if key not in assigned:
+            public.setdefault(key, item)
+    merged["unassigned_contacts"] = list(public.values())
+    merged["crm_duplicates_removed"] = len(merged.get("crm_duplicates", []))
+    return merged
+
+
 def _contactable_items(result: dict[str, Any]) -> int:
     people = 0
     for group in ("candidates", "unverified_candidates"):
@@ -1856,7 +2078,75 @@ def _contact_method_count(result: dict[str, Any]) -> int:
     return len(methods)
 
 
-def _attach_evidence_bound_contacts(result: dict[str, Any]) -> None:
+def _demote_navigation_only_company_matches(
+    result: dict[str, Any], company: CompanyProfile, pages: list[CrawledPage],
+) -> None:
+    """A target linked from a group menu does not establish staff employment there."""
+    # Parenthetical group names are context, not interchangeable subsidiary employers.
+    aliases = company_name_aliases(re.sub(r'\([^)]*\)', '', company.name))
+    def mentions(text):
+        normalized = ' ' + normalize_company_name(text) + ' '
+        return any(' ' + alias + ' ' in normalized for alias in aliases)
+
+    texts: dict[str, str] = {}
+    for page in pages:
+        if page.markdown and not page.error:
+            key = _url_key(page.url)
+            texts[key] = texts.get(key, '') + '\n' + page.markdown
+    linked_only = {url for url, text in texts.items()
+                   if mentions(text) and not mentions(re.sub(r'!?\[[^\]]*\]\([^)]*\)', '', text))}
+    kept = []
+    for candidate in result.get('candidates', []):
+        urls = {_url_key(str(e.get('source_url', ''))) for e in candidate.get('evidence', [])}
+        if candidate.get('company_match') == 'verified' and urls and urls <= linked_only:
+            candidate['company_match'] = 'uncertain'
+            candidate['discovery_tier'] = 'unverified'
+            candidate['review_required'] = True
+            candidate.setdefault('validation_reasons', []).append(
+                'target company appears only in page links; current employment at the exact entity is unverified')
+            result.setdefault('unverified_candidates', []).append(candidate)
+        else:
+            kept.append(candidate)
+    result['candidates'] = kept
+
+
+def _exclude_unrelated_roles(result: dict[str, Any]) -> None:
+    """Keep explicit HR/web-only roles reviewable without counting them as target people."""
+    excluded = result.setdefault('excluded_candidates', [])
+    excluded_names = {normalize_company_name(p['full_name']) for p in excluded}
+    for group in ('candidates', 'unverified_candidates'):
+        kept = []
+        for person in result.get(group, []):
+            title = str(person.get('current_title', ''))
+            unrelated = re.search(r'\b(?:HR|human resources|recruit\w*|webmaster|website administrator|ressources humaines|leitung personal|personal(?:leit|referent|sachbearbeit)\w*|personalabteilung)\b|人事|人力资源', title, re.I)
+            relevant = re.search(r'\b(?:CEO|chief executive|owner|geschäftsführ\w*|procurement|purchas\w*|einkauf\w*|supply chain|operations|production|produktionsleit\w*|plant|foundry|metallurg\w*|engineer\w*|technical|research)\b|采购|生产|技术|总经理', title, re.I)
+            if unrelated and not relevant:
+                person['exclusion_reason'] = 'explicit HR or website role outside target purchase/technical scope'
+                name = normalize_company_name(person['full_name'])
+                if name not in excluded_names:
+                    excluded.append(person)
+                    excluded_names.add(name)
+            else:
+                kept.append(person)
+        if group in result:
+            result[group] = kept
+
+
+def _remove_conflicting_contacts(result: dict[str, Any], signals: list[dict[str, Any]]) -> None:
+    blocked = {(s['channel'], canonical_contact_value(s['channel'], s['value']))
+               for s in signals if s.get('status') == 'conflicting'}
+    for group in ('candidates', 'unverified_candidates', 'excluded_candidates'):
+        for person in result.get(group, []):
+            for field, channel in (('emails', 'email'), ('inferred_emails', 'email'), ('phones', 'phone')):
+                person[field] = [c for c in person.get(field, [])
+                                 if (channel, canonical_contact_value(channel, c['value'])) not in blocked]
+    result['unassigned_contacts'] = [c for c in result.get('unassigned_contacts', [])
+                                     if (c['channel'], canonical_contact_value(c['channel'], c['value'])) not in blocked]
+
+
+def _attach_evidence_bound_contacts(
+    result: dict[str, Any], contact_blocks: dict[str, list[str]] | None = None,
+) -> None:
     candidates = [
         candidate
         for group in ("candidates", "unverified_candidates")
@@ -1873,7 +2163,8 @@ def _attach_evidence_bound_contacts(result: dict[str, Any]) -> None:
         matches = []
         for candidate in candidates:
             value = str(contact.get("value", ""))
-            if _evidence_binds_contact(candidate, channel, value, source_key):
+            if _evidence_binds_contact(candidate, channel, value, source_key, contact_blocks,
+                                       contact.get('binding_quotes'), contact.get('binding_sections')):
                 matches.append(candidate)
         if len(matches) != 1:
             remaining.append(contact)
@@ -1882,10 +2173,13 @@ def _attach_evidence_bound_contacts(result: dict[str, Any]) -> None:
         entry = {
             key: value
             for key, value in contact.items()
-            if key not in {"channel", "company_public", "evidence_status"}
+            if key not in {"channel", "company_public", "evidence_status", "binding_sections"}
         }
         matches[0].setdefault(field, []).append(entry)
-    result["unassigned_contacts"] = remaining
+    assigned_whatsapp = {c['value'] for person in candidates for c in person.get('phones', [])
+                         if c.get('whatsapp_status') == 'verified'}
+    result["unassigned_contacts"] = [c for c in remaining
+                                     if not (c.get('channel') == 'whatsapp' and c['value'] in assigned_whatsapp)]
 
 
 def _attach_crm_matched_emails(
@@ -2403,6 +2697,8 @@ def _relevant_urls(company: CompanyProfile, results: list[SearchResult]) -> list
         same_official_host = official_host and (
             host == official_host or host.endswith(f".{official_host}")
         )
+        if same_official_host and not official_url_in_scope(company, result.url):
+            continue
         if same_official_host and (official_url_is_distinctive or text_matches):
             relevant.append(result.url)
             continue
@@ -2491,6 +2787,26 @@ def _website_identity_continues(company: CompanyProfile, candidate_url: str) -> 
     )
 
 
+def _named_person_source_urls(company: CompanyProfile, result: dict, results: list[SearchResult]) -> list[str]:
+    """Allow bounded external evidence only when the snippet names both seed and employer."""
+    names = {normalize_company_name(person_query_name(str(person.get('full_name', ''))))
+             for group in ('candidates', 'unverified_candidates') for person in result.get(group, [])
+             if not person.get('crm_existing_match')}
+    names.discard('')
+    aliases = company_name_aliases(re.sub(r'\([^)]*\)', '', company.name))
+    urls = []
+    for item in results:
+        text = f'{item.title} {item.snippet}'
+        normalized = ' ' + normalize_company_name(text) + ' '
+        if (urlparse(item.url).scheme in {'http', 'https'}
+            and any(' ' + name + ' ' in normalized for name in names)
+            and any(' ' + alias + ' ' in normalized for alias in aliases)
+            and not _has_conflicting_labeled_employer(company, text)
+            and not _former_employment_near_company(company, text)):
+            urls.append(item.url)
+    return _unique_urls('', urls)
+
+
 def _hostname(url: str) -> str:
     return (urlparse(url).hostname or "").casefold().removeprefix("www.")
 
@@ -2538,6 +2854,38 @@ def _search_evidence_pages(
             )
         )
     return pages
+
+
+def _attach_named_linkedin_profiles(result: dict, company: CompanyProfile, results: list[SearchResult],
+                                    crm_contacts: list[dict] | None = None) -> None:
+    """Keep a unique exact-name/current-employer hit even if the model omits it."""
+    eligible = {_url_key(page.url) for page in _search_evidence_pages(company, results)}
+    crm_profiles = {normalize_linkedin(value) for contact in crm_contacts or []
+                    for value in _nested_strings((contact.get('linkedin'), contact.get('additional_linkedin')))}
+    for person in result.get('candidates', []):
+        if person.get('company_match') != 'verified' or person.get('crm_existing_match') or person.get('linkedin'):
+            continue
+        name = normalize_company_name(person_query_name(str(person.get('full_name', ''))))
+        if not name:
+            continue
+        matches = {}
+        for hit in results:
+            title = normalize_company_name(re.split(r'\s+[-–—|]\s+', person_query_name(hit.title), maxsplit=1)[0])
+            text = f'{hit.title} {hit.snippet}'
+            if (_url_key(hit.url) in eligible and title == name
+                and not _has_conflicting_labeled_employer(company, text)
+                and not _company_mention_only_in_related_profiles(company, hit.title, hit.snippet)
+                and not _former_employment_near_company(company, text)):
+                matches.setdefault(normalize_linkedin(hit.url), hit)
+        if len(matches) == 1:
+            url, hit = next(iter(matches.items()))
+            if url in crm_profiles:
+                continue
+            person['linkedin'] = [dict(value=url, status='probable', source_url=hit.url)]
+            person.setdefault('evidence', []).append(dict(source_url=hit.url,
+                quote=f'{hit.title}\n{hit.snippet}',
+                supports='Exact name and current target employer in search excerpt; profile ownership requires review'))
+            person['review_required'] = True
 
 
 def _contact_evidence_pages(
@@ -2589,7 +2937,7 @@ def _page_is_company_public(company: CompanyProfile, page: CrawledPage) -> bool:
     if page.source_type == "contact_excerpt":
         return same_site(company.website, page.url) and _page_matches_company(company, page)
     if same_site(company.website, page.url):
-        return not _is_trusted_external(page.url)
+        return official_url_in_scope(company, page.url) and not _is_trusted_external(page.url)
     if _is_trusted_external(page.url) or not _page_matches_company(company, page):
         return False
     return _website_identity_continues(company, page.url) and _distinctive_company_url(

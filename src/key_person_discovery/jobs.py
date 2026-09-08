@@ -187,6 +187,14 @@ class JobStore:
                 ).fetchone()[0]
             )
 
+    def all_active_paused(self) -> bool:
+        with self._connect() as connection:
+            active, paused = connection.execute(
+                "SELECT count(*), COALESCE(sum(stage IN ('waiting_network','recovering')), 0) "
+                "FROM discovery_job WHERE status IN ('queued','running')"
+            ).fetchone()
+        return bool(active and active == paused)
+
     def noncompleted_output_paths(self) -> set[Path]:
         with self._connect() as connection:
             rows = connection.execute(
@@ -240,12 +248,20 @@ class JobStore:
         threshold = (datetime.now(timezone.utc) - timedelta(minutes=minutes)).isoformat()
         now = utc_now()
         with self._connect() as connection:
-            cursor = connection.execute(
+            rows = connection.execute(
+                "SELECT id, runner_pid FROM discovery_job "
+                "WHERE status='running' AND heartbeat_at < ?",
+                (threshold,),
+            ).fetchall()
+            # ponytail: PID liveness is sufficient for lid-sleep recovery; record a boot
+            # identity too if PID reuse after a full reboot becomes an observed problem.
+            stale_ids = [row["id"] for row in rows if not _pid_alive(row["runner_pid"])]
+            connection.executemany(
                 "UPDATE discovery_job SET status='failed', stage='failed', finished_at=?, "
-                "error='Runner heartbeat expired' WHERE status='running' AND heartbeat_at < ?",
-                (now, threshold),
+                "error='Runner heartbeat expired' WHERE id=? AND status='running'",
+                ((now, job_id) for job_id in stale_ids),
             )
-        return cursor.rowcount
+        return len(stale_ids)
 
     def create_batch(self, *, hours: float, workers: int) -> dict[str, Any]:
         started = datetime.now(timezone.utc)
@@ -324,7 +340,7 @@ class JobStore:
             elapsed = max(0, int((datetime.fromisoformat(end) - datetime.fromisoformat(start)).total_seconds()))
         except ValueError:
             elapsed = 0
-        return {
+        public = {
             key: value.get(key)
             for key in (
                 "id",
@@ -344,6 +360,16 @@ class JobStore:
                 "error",
             )
         } | {"output_file": Path(value["output_path"]).name, "elapsed_seconds": elapsed}
+        if value.get('status') in {'completed', 'failed'}:
+            try:
+                path = Path(str(value['output_path']) + '.artifacts') / 'diagnostics.json'
+                if path.stat().st_size <= 128_000:
+                    diagnostic = json.loads(path.read_text(encoding='utf-8'))
+                    if isinstance(diagnostic, dict) and isinstance(diagnostic.get('primary'), str):
+                        public['diagnostics'] = diagnostic
+            except (OSError, ValueError):
+                pass
+        return public
 
     @staticmethod
     def _batch_public(row: sqlite3.Row) -> dict[str, Any]:
@@ -454,6 +480,14 @@ def _phone_region(value: Any) -> str | None:
     # ponytail: observed CRM labels only; replace with canonical CRM country codes
     # when the source is normalized.
     return _PHONE_REGIONS.get(country.casefold())
+
+
+def _pid_alive(value: Any) -> bool:
+    try:
+        os.kill(int(value), 0)
+    except (OSError, TypeError, ValueError):
+        return False
+    return True
 
 
 def spawn_runner(store: JobStore, job_id: str) -> None:

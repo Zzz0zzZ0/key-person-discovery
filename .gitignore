@@ -2,6 +2,7 @@
 .env
 deploy/searxng/.env
 deploy/searxng/settings.local.yml
+state/*.env
 .DS_Store
 __pycache__/
 *.py[cod]
@@ -9,3 +10,8 @@ __pycache__/
 .pytest_cache/
 *.sqlite3-wal
 *.sqlite3-shm
+
+# Local discovery inputs, outputs, credentials, logs and experiment evidence.
+/inputs/
+/outputs/
+/state/

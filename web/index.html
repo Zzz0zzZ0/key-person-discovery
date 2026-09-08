@@ -379,6 +379,43 @@
       return card;
     }
 
+    function renderDiagnostics(diagnostic) {
+      if (!diagnostic || !diagnostic.primary) return null;
+      const labels = {
+        target_met: ["已达到本次人员目标", "保留结果，复核渠道归属"],
+        website_unverified: ["官网归属未确认", "先核实目标企业官网，再重新运行"],
+        crawl_failed: ["来源抓取失败", "检查来源访问情况，恢复后重试"],
+        no_evidence: ["未取得可分析证据", "核对官网地址和来源访问情况"],
+        no_target_people: ["证据中未提取到目标岗位人员", "补查采购、技术和经营岗位"],
+        missing_channels: ["已找到人员，缺少个人渠道", "按姓名和公司补查公开联系方式"],
+        employment_uncertain: ["人员任职仍待核验", "核对当前雇主，暂不计入已确认人数"],
+        crm_duplicate: ["找到的人员已在 CRM 中", "排除已有姓名，查找其他相关人员"],
+        insufficient_people: ["可联系人员未达目标", "补查其他相关岗位"],
+        analysis_failed: ["证据分析失败", "检查分析错误后重试，不能视为没有联系人"],
+      };
+      const info = labels[diagnostic.primary] || ["结果待检查", "查看来源与证据"];
+      const box = node("details", "source");
+      box.append(node("summary", "", `本次结果诊断：${info[0]}`));
+      box.append(node("div", "", `下一步：${info[1]}`));
+      const counts = diagnostic.counts || {};
+      if (Number.isInteger(counts.successful_documents)) box.append(node("div", "",
+        `取得 ${counts.successful_documents}/${counts.fetched_documents} 份文档；${counts.people_without_channels} 人缺渠道，${counts.pending_people} 人待核验，${counts.crm_duplicate_people} 人与 CRM 重复`));
+      const additional = (diagnostic.reasons || []).filter(reason => reason !== diagnostic.primary && labels[reason]).map(reason => labels[reason][0]);
+      if (additional.length) box.append(node("div", "", `同时发现：${additional.join("；")}`));
+      const topup = diagnostic.topup;
+      if (topup) {
+        const statuses = {disabled:"补搜已关闭", target_met:"达到目标，未追加查询", skipped:"无可执行的新查询，未追加搜索", completed:"补搜处理完成", no_new_evidence:"未取得新证据，未追加分析", source_limited:"搜索未返回结果且有来源告警", failed:"补搜失败，已保留原结果"};
+        box.append(node("div", "", `${statuses[topup.status] || "补搜待检查"}；使用 ${(topup.queries || []).length}/${topup.budget} 条查询`));
+      }
+      const failure = diagnostic.error || (topup && topup.error);
+      if (failure) {
+        const stages = {initial_analysis:"首次分析", search:"搜索", crawl:"抓取", analysis:"补搜分析", validation:"结果校验"};
+        const errors = {invalid_json:"未返回有效 JSON", company_mismatch:"输出公司不匹配", invalid_candidates:"人员列表格式错误", missing_review_flag:"缺少审阅标记", missing_person_review_flag:"人员缺少审阅标记", missing_person_name:"缺少姓名", invalid_role_type:"岗位类型错误", missing_evidence:"缺少证据引用", missing_evidence_url:"缺少证据来源", invalid_email_status:"邮箱状态错误", timeout:"处理超时", processing_error:"处理异常，具体原因未确认"};
+        box.append(node("div", "job-error", `${stages[failure.stage] || "处理"}：${errors[failure.code] || "处理异常"}`));
+      }
+      return box;
+    }
+
     function renderCompany(item) {
       const data = item.data;
       const summary = data.run_summary || {};
@@ -394,6 +431,10 @@
       addBadge(stats, `${totalPeople} 联系人`, totalPeople ? "good" : "");
       if ((data.candidates || []).length) addBadge(stats, `${data.candidates.length} 已验证`, "good");
       if ((data.unverified_candidates || []).length) addBadge(stats, `${data.unverified_candidates.length} 待核验`, "warn");
+      if (Number.isInteger(summary.new_contactable_people)) {
+        addBadge(stats, `${summary.new_contactable_people}/${summary.target_new_people} 新增可联系人员`, summary.new_contactable_people >= summary.target_new_people ? "good" : "warn");
+        if (summary.people_topup_gain > 0) addBadge(stats, `补搜新增 ${summary.people_topup_gain} 人`, "good");
+      }
       const targetContacts = summary.target_contact_methods || summary.target_contactable_items;
       const foundContacts = summary.contact_methods ?? summary.contactable_items ?? 0;
       if (targetContacts) addBadge(
@@ -406,11 +447,21 @@
       card.append(head);
 
       const body = node("div", "company-body");
+      const diagnostic = renderDiagnostics(data.diagnostics);
+      if (diagnostic) body.append(diagnostic);
       body.append(node(
         "div",
         "source",
         `证据来源：${summary.urls_crawled || 0} 网页 · ${summary.pdf_documents_extracted || 0} PDF`,
       ));
+      const websiteNotes = {
+        confirmed_redirect: "已核实官网迁移",
+        confirmed_target_page: "已定位集团内的目标企业页面",
+        unverified_redirect: "官网跳转后的企业归属未确认，相关页面未用于提取联系人",
+      };
+      if (websiteNotes[summary.website_resolution]) {
+        body.append(node("div", "source", `${websiteNotes[summary.website_resolution]}：${summary.official_website || ""}`));
+      }
       body.append(node("h3", "section-title", "Key People"));
       const grid = node("div", "candidate-grid");
       const candidates = data.candidates || [];
@@ -474,7 +525,7 @@
     }
 
     const statusLabels = {queued: "排队中", running: "运行中", completed: "已完成", failed: "失败"};
-    const stageLabels = {queued: "等待执行", starting: "正在启动", preflight: "网络预检", searching: "搜索来源", crawling: "抓取网页", analyzing: "Hermes 分析", running: "运行中", recovering: "休眠恢复中", paused: "等待主机恢复", completed: "结果完成", no_new_contact: "无新增联系人", source_limited: "公开来源不可用", failed: "执行失败"};
+    const stageLabels = {queued: "等待执行", starting: "正在启动", preflight: "网络预检", searching: "搜索来源", crawling: "抓取网页", analyzing: "Hermes 分析", running: "运行中", waiting_network: "等待网络恢复", recovering: "休眠恢复中", paused: "等待主机恢复", completed: "结果完成", no_new_contact: "无新增联系人", source_limited: "公开来源不可用", failed: "执行失败"};
 
     function duration(seconds) {
       const value = Math.max(0, Number(seconds) || 0);
@@ -543,6 +594,8 @@
         const identity = node("div");
         identity.append(node("strong", "", job.company_name));
         if (job.error) identity.append(node("span", "job-error", job.error));
+        const diagnostic = renderDiagnostics(job.diagnostics);
+        if (diagnostic) identity.append(diagnostic);
         row.append(identity);
         const stateNode = node("div");
         stateNode.append(node("span", `job-state ${job.status}`, statusLabels[job.status] || job.status), node("span", "source", stageLabels[job.stage] || job.stage));
