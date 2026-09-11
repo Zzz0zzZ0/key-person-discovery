@@ -1,0 +1,39 @@
+use_default_settings:
+  engines:
+    keep_only:
+      - brave
+      - mojeek
+      - startpage
+
+engines:
+  - name: brave
+    disabled: false
+  - name: mojeek
+    disabled: false
+  - name: startpage
+    disabled: false
+
+general:
+  debug: false
+  instance_name: Key Person Search Experiment
+
+search:
+  safe_search: 0
+  formats:
+    - html
+    - json
+
+outgoing:
+  request_timeout: 25.0
+  max_request_timeout: 45.0
+  extra_proxy_timeout: 10
+  proxies:
+    all://:
+      - http://host.docker.internal:7897
+
+server:
+  bind_address: 0.0.0.0
+  port: 8080
+  secret_key: change-me
+  limiter: false
+  image_proxy: false

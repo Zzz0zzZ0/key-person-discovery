@@ -906,7 +906,7 @@ class CoreTests(unittest.TestCase):
     def test_cli_searxng_engines_add_local_engine_for_supported_region(self):
         from key_person_discovery.cli import _searxng_engines_for_region
 
-        global_engines = ["bing", "duckduckgo", "google cse", "qwant"]
+        global_engines = ["google cse"]
         self.assertEqual(
             _searxng_engines_for_region("cn"),
             [*global_engines, "baidu"],
@@ -938,7 +938,7 @@ class CoreTests(unittest.TestCase):
                 (
                     False,
                     "CN",
-                    ["bing", "duckduckgo", "google cse", "qwant", "baidu"],
+                    ["google cse", "baidu"],
                 ),
                 (True, "CN", ["bing", "yandex"]),
             ):

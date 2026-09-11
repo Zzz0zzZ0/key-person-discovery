@@ -13,7 +13,7 @@ from .preflight import verify_proxy_setup
 from .sources import AnySearchClient, Crawl4aiCrawler, SearxngClient
 
 
-_GLOBAL_SEARXNG_ENGINES = ("bing", "duckduckgo", "google cse", "qwant")
+_GLOBAL_SEARXNG_ENGINES = ("google cse",)
 _LOCAL_SEARXNG_ENGINE_BY_REGION = {
     "BY": "yandex",
     "CN": "baidu",

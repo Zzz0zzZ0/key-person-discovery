@@ -24,6 +24,7 @@ CONTACT_PATH_TERMS = (
     "联系我们", "联系方式", "采购", "контакты",
 )
 _OFFICIAL_PATH_TERMS = CONTACT_PATH_TERMS + (
+    "publication", "interview", "media-centre", "media-center", "press", "events",
     "about",
     "company",
     "contact",
@@ -81,7 +82,18 @@ def build_official_query(company: CompanyProfile) -> str:
 
 def person_query_name(value: str) -> str:
     # Honorifics are not part of an exact-name search; keep particles and Unicode.
-    return re.sub(r'^(?:(?:dr|prof|dipl[.-]*ing)\.?\s+)+', '', value.replace('"', ' ').strip(), flags=re.I)
+    return re.sub(r'^(?:(?:mr|mrs|ms|miss|herr|frau|dr|prof|dipl[.-]*ing)\.?\s+)+', '', value.replace('"', ' ').strip(), flags=re.I)
+
+
+def normalize_person_name(value: str) -> str:
+    return normalize_company_name(person_query_name(value))
+
+
+def person_search_name(value: str) -> str:
+    """Relax leading Latin initials for retrieval only; never use as an identity key."""
+    name = person_query_name(value)
+    surname = re.sub(r'^(?:[A-Za-z](?:\.\s*|\s+))+', '', name)
+    return surname if len(normalize_company_name(surname).replace(' ', '')) > 1 else name
 
 
 def build_people_queries(company: CompanyProfile, result: dict, phone_region: str | None = None) -> list[str]:
@@ -106,7 +118,7 @@ def build_people_queries(company: CompanyProfile, result: dict, phone_region: st
                     for field in ("linkedin", "emails", "phones") for contact in candidate.get(field, []))
     ]
     if confirmed_leads:
-        names = list(dict.fromkeys(person_query_name(str(p.get('full_name', ''))) for p in confirmed_leads))[:2]
+        names = list(dict.fromkeys(person_search_name(str(p.get('full_name', ''))) for p in confirmed_leads))[:2]
         names = [person for person in names if person]
         # Spend the bounded budget on known people before broad role discovery.
         return ([f'"{person}" {name}' for person in names]
@@ -114,7 +126,7 @@ def build_people_queries(company: CompanyProfile, result: dict, phone_region: st
                 + [f'"{person}" {name} filetype:pdf' for person in names])
     leads = result.get("unverified_candidates", [])
     for candidate in leads:
-        person = person_query_name(str(candidate.get("full_name", "")))
+        person = person_search_name(str(candidate.get("full_name", "")))
         query = f'"{person}" {name} (current OR present OR email OR contact)'
         if person and query not in queries:
             queries.append(query)
@@ -155,13 +167,18 @@ class SearxngClient:
         self.timeout = timeout
         self.engines = tuple(engine for engine in (engines or ()) if engine)
         self._active_engines: set[str] | None = None
+        self._engine_failures: dict[str, int] = {}
+        self._suspended_engines: set[str] = set()
 
     def search(self, query: str, limit: int = 5) -> SearchOutcome:
         if not self.base_url:
             raise RuntimeError("SEARXNG_URL is required")
         params = {"q": query, "format": "json"}
-        if self.engines:
-            params["engines"] = ",".join(self.engines)
+        if self.engines or self._suspended_engines:
+            available = self.active_engines() - self._suspended_engines
+            if not available:
+                raise RuntimeError("All SearXNG engines suspended after repeated failures in this task")
+            params["engines"] = ",".join(sorted(available))
         url = f"{self.base_url}/search?{urlencode(params)}"
         request = Request(url, headers={"User-Agent": "key-person-discovery/0.1"})
         try:
@@ -173,8 +190,14 @@ class SearxngClient:
         results: list[SearchResult] = []
         retrieved_at = _utc_now()
         for rank, item in enumerate(payload.get("results", []), start=1):
+            if not isinstance(item, dict):
+                continue
             target = str(item.get("url", "")).strip()
-            if urlparse(target).scheme not in {"http", "https"}:
+            try:
+                parsed = urlparse(target)
+            except ValueError:
+                continue
+            if parsed.scheme not in {"http", "https"} or not parsed.hostname:
                 continue
             results.append(
                 SearchResult(
@@ -185,18 +208,27 @@ class SearxngClient:
                     provider=self.name,
                     rank=rank,
                     retrieved_at=retrieved_at,
+                    engines=[name for name in item.get("engines", []) if isinstance(name, str)]
+                    if isinstance(item.get("engines"), list) else [],
                 )
             )
-            if len(results) >= limit:
-                break
         unresponsive = _unresponsive_engines(payload.get("unresponsive_engines"))
+        failed = {name for name, _ in unresponsive}
+        for name in failed:
+            self._engine_failures[name] = self._engine_failures.get(name, 0) + 1
+            if self._engine_failures[name] >= 2:
+                self._suspended_engines.add(name)
+        for item in results:
+            for name in set(item.engines) - failed:
+                self._engine_failures.pop(name, None)
         if not results and unresponsive:
             failed = {name for name, _ in unresponsive}
             active = self.active_engines()
             if active and active.issubset(failed):
                 details = ", ".join(f"{name}: {reason}" for name, reason in unresponsive)
                 raise RuntimeError(f"All active SearXNG engines failed for {query!r}: {details}")
-        return SearchOutcome(results=results, unresponsive_engines=unresponsive)
+        return SearchOutcome(results=results[:limit], unresponsive_engines=unresponsive,
+                             raw_results=results, raw_response=payload)
 
     def active_engines(self) -> set[str]:
         if self.engines:
@@ -274,7 +306,8 @@ class AnySearchClient:
             (str(item.get("text", "")) for item in content if item.get("type") == "text"),
             "",
         )
-        return SearchOutcome(results=_parse_anysearch_markdown(query, text)[:limit])
+        results = _parse_anysearch_markdown(query, text)
+        return SearchOutcome(results=results[:limit], raw_results=results)
 
 
 class TavilyClient:
@@ -351,9 +384,7 @@ class TavilyClient:
                     retrieved_at=retrieved_at,
                 )
             )
-            if len(results) >= max_results:
-                break
-        return SearchOutcome(results=results)
+        return SearchOutcome(results=results[:max_results], raw_results=results)
 
 
 class Crawl4aiCrawler:
@@ -522,6 +553,8 @@ def discover_official_urls(
 
 def official_link_priority(url: str, text: str = '') -> int:
     value = unquote(urlparse(url).path + ' ' + text).casefold()
+    if any(term in value for term in ('privacy', 'cookie', 'terms-and-conditions', 'thank-you', 'thankyou', 'submitted', 'confirmation')):
+        return 3
     if any(term in value for term in CONTACT_PATH_TERMS):
         return 0
     return 1 if any(term in value for term in _OFFICIAL_PATH_TERMS) else 2
@@ -529,9 +562,13 @@ def official_link_priority(url: str, text: str = '') -> int:
 
 def page_links(page: CrawledPage) -> list[tuple[str, str]]:
     links = [(item.get('text', ''), item.get('href', '')) for item in page.links]
-    links += re.findall(r'\[([^\]]*)\]\(([^)\s]+)', page.markdown)
+    # Remove inline image targets first so nested icons retain their outer page link.
+    markdown = re.sub(r'!\[([^\]]*)\]\([^)]+\)', r'\1', page.markdown)
+    links += re.findall(r'\[([^\]]*)\]\(([^)\s]+)', markdown)
     return [(text, urljoin(page.url, href)) for text, href in links
-            if urlparse(urljoin(page.url, href)).scheme in {'http', 'https'}]
+            if urlparse(urljoin(page.url, href)).scheme in {'http', 'https'}
+            and not unquote(urlparse(href).path).casefold().endswith(
+                ('.png', '.jpg', '.jpeg', '.gif', '.svg', '.webp', '.ico', '.css', '.js', '.woff', '.woff2'))]
 
 
 def official_url_in_scope(company: CompanyProfile, url: str) -> bool:

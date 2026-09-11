@@ -11,19 +11,20 @@ use_default_settings:
 
 engines:
   - name: bing
-    disabled: false
+    # 2026-09-11: direct and SearXNG probes returned unrelated results.
+    disabled: true
   - name: baidu
     disabled: true
   - name: duckduckgo web
-    disabled: false
+    disabled: true
   - name: google cse
     disabled: false
     network:
-      retries: 2
+      retries: 0
   - name: naver
     disabled: true
   - name: qwant
-    disabled: false
+    disabled: true
     network:
       retries: 2
   - name: yandex

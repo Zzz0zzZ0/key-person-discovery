@@ -1,0 +1,12 @@
+name: key-person-search-experiment
+
+services:
+  searxng:
+    image: ghcr.nju.edu.cn/searxng/searxng@sha256:c7cc75852051bf6254afda6ed1b920dd1677d8efe4ab141bf558f02e582f4371
+    ports:
+      - "127.0.0.1:18082:8080"
+    environment:
+      SEARXNG_BASE_URL: http://127.0.0.1:18082/
+      SEARXNG_SECRET: ${SEARXNG_SECRET:?SEARXNG_SECRET is required}
+    volumes:
+      - ./settings.experimental.yml:/etc/searxng/settings.yml:rw

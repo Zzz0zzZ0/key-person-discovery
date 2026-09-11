@@ -29,6 +29,8 @@ _LEGAL_SUFFIXES = (
     ("pte",),
     ("bv",),
     ("nv",),
+    ("b", "v"),
+    ("n", "v"),
     ("ag",),
     ("ab",),
     ("oy",),
@@ -76,8 +78,9 @@ class SearchResult:
     rank: int = 0
     source_type: str = "web"
     retrieved_at: str = ""
+    engines: list[str] = field(default_factory=list)
 
-    def as_dict(self) -> dict[str, str]:
+    def as_dict(self) -> dict[str, Any]:
         return asdict(self)
 
 
@@ -85,6 +88,9 @@ class SearchResult:
 class SearchOutcome:
     results: list[SearchResult]
     unresponsive_engines: list[tuple[str, str]] = field(default_factory=list)
+    # Full parsed first response, before the public client's result limit.
+    raw_results: list[SearchResult] | None = None
+    raw_response: dict[str, Any] | None = None
 
 
 @dataclass(frozen=True)

@@ -1,8 +1,10 @@
 """Choose one bounded recovery action from observed discovery gaps."""
 from __future__ import annotations
 
-from .models import normalize_company_name
-from .sources import build_people_queries, person_query_name
+import re
+
+from .models import normalize_company_name, company_name_aliases
+from .sources import build_people_queries, person_query_name, person_search_name
 
 
 def diagnose(result, pages, *, website_status='', website='', target=1, contactable_people=0):
@@ -57,10 +59,18 @@ def recovery_queries(company, result, diagnostic, phone_region=None):
     if reason in {'target_met', 'website_unverified', 'crawl_failed', 'no_evidence'}:
         # Repeating person searches cannot repair an unverified website or an outage.
         return []
-    if reason == 'employment_uncertain':
-        names = list(dict.fromkeys(person_query_name(str(p.get('full_name', '')))
-                    for p in result.get('unverified_candidates', []) if not p.get('crm_existing_match')))
-        return [f'"{name}" "{company.name.replace(chr(34), " ")}" (current OR present OR aktuell OR Geschäftsführer)'
+    full_name_pending = [p for p in result.get('unverified_candidates', [])
+                         if len(person_query_name(str(p.get('full_name', ''))).split()) >= 2
+                         and len(person_query_name(str(p.get('full_name', ''))).split()[0].strip('.')) > 1
+                         and not p.get('crm_existing_match')]
+    initial_only = result.get('candidates') and all(
+        person_search_name(str(p.get('full_name', ''))) != person_query_name(str(p.get('full_name', '')))
+        for p in result['candidates'] if not p.get('crm_existing_match'))
+    if reason == 'employment_uncertain' or (reason == 'missing_channels' and initial_only and full_name_pending):
+        names = list(dict.fromkeys(person_search_name(str(p.get('full_name', '')))
+                    for p in (full_name_pending or result.get('unverified_candidates', [])) if not p.get('crm_existing_match')))
+        brand = min(company_name_aliases(re.sub(r'\([^)]*\)', '', company.name)) or {normalize_company_name(company.name)}, key=lambda alias: (len(alias), alias))
+        return [f'"{name}" "{brand}" (current OR present OR director OR manager OR aktuell OR Geschäftsführer)'
                 for name in names[:3] if name]
     if reason == 'missing_channels':
         return build_people_queries(company, result, phone_region)

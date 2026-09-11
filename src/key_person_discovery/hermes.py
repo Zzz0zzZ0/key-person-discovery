@@ -4,6 +4,7 @@ import json
 import os
 import re
 import subprocess
+from datetime import date
 from pathlib import Path
 from typing import Any
 from urllib.parse import urlparse
@@ -63,6 +64,7 @@ class HermesExtractor:
             },
             contact_blocks={page.url.rstrip('/'): page.contact_blocks for page in pages
                             if page.contact_blocks and same_site(company.website, page.url)},
+            source_pages=pages,
         )
         return output
 
@@ -74,10 +76,15 @@ def _build_prompt(
 ) -> str:
     remaining = 100_000
     sources: list[dict[str, str]] = []
-    for page in sorted(pages, key=lambda page: page.source_type != 'contact_card'):
-        if not page.markdown or remaining <= 0:
-            continue
-        text = normalize_observed_emails(page.markdown)[: min(20_000, remaining)]
+    usable = sorted((page for page in pages if page.markdown and not page.error),
+                    key=lambda page: page.source_type != 'contact_card')
+    for index, page in enumerate(usable):
+        if remaining <= 0:
+            break
+        # Keep bounded contact cards first; share the rest across every document
+        # so a few long pages cannot starve a later PDF or search excerpt.
+        budget = remaining if page.source_type == 'contact_card' else remaining // (len(usable) - index)
+        text = _prompt_page_text(page)[:min(20_000, budget)]
         remaining -= len(text)
         sources.append(
             {
@@ -139,6 +146,69 @@ INPUT JSON:
 """
 
 
+def _prompt_page_text(page: CrawledPage) -> str:
+    text = normalize_observed_emails(page.markdown)
+    if page.source_type != 'crawl':
+        return text
+    heading = re.search(r'^#{1,2}\s+\S', text, re.M)
+    if heading and heading.start() > 2000:
+        prefix = text[:heading.start()]
+        links = re.findall(r'\[[^\]\n]*\]\([^\n)]*\)', prefix)
+        if len(links) >= 20 and sum(map(len, links)) > len(prefix) * 0.6:
+            # Reorder only a long, link-dominated preamble. The original page,
+            # contact cards, body and footer remain available for validation.
+            return text[heading.start():] + '\n\n[Preceding navigation]\n' + prefix
+    return text
+
+
+def _employment_review_reason(candidate: dict[str, Any], pages: list[CrawledPage] | None = None) -> str:
+    title = str(candidate.get('current_title', ''))
+    if re.search(r'\b(?:historical|former|retired)\b|历史|前任|已离职', title, re.I):
+        return 'explicit historical or former role; current employment requires review'
+    evidence = [item for item in candidate.get('evidence', []) or [] if isinstance(item, dict)]
+    if not evidence:
+        return ''
+    if all(re.search(r'\b(?:historical role only|predecessor company)\b',
+                     str(item.get('supports', '')), re.I) for item in evidence):
+        return 'only historical predecessor-company evidence; current employment requires review'
+    by_url = {_url_key(p.url): p for p in pages or [] if p.markdown and not p.error}
+    dated_sources = []
+    for item in evidence:
+        url = str(item.get('source_url', ''))
+        page = by_url.get(_url_key(url))
+        if not (page.source_type == 'pdf_extract' if page else urlparse(url).path.lower().endswith('.pdf')):
+            return ''
+        # Use explicit dates in the actual source, never model-written "current"
+        # assertions. Standards and company foundation years are not dates.
+        text = page.markdown if page else str(item.get('quote', ''))
+        years = [int(year) for year in re.findall(
+            r'\b(?:published|publication date|issued|revised|updated|stand|ausgabe)\b[ \t]*[:=-]?[ \t]*(?:(?:[A-Za-zÀ-ž]+|\d{1,2})[ \t,./-]+){0,3}((?:19|20)\d{2})\b', text, re.I)]
+        years += [int(year) for year in re.findall(
+            r'(?:manual|report|brochure|directory|leaflet)[-_ ]((?:19|20)\d{2})\b', urlparse(url).path, re.I)]
+        if not years or max(years) > date.today().year - 2:
+            return ''
+        dated_sources.append(max(years))
+    return ('only stale PDF role evidence is available (publication years: '
+            + ', '.join(map(str, sorted(set(dated_sources))))
+            + '); current employment requires review') if dated_sources else ''
+
+
+def _review_employment(value: dict[str, Any], pages: list[CrawledPage] | None = None) -> None:
+    retained = []
+    for candidate in value.get('candidates', []) or []:
+        if not isinstance(candidate, dict):
+            continue
+        reason = _employment_review_reason(candidate, pages)
+        if not reason:
+            retained.append(candidate)
+            continue
+        candidate.update(company_match='probable', discovery_tier='unverified', review_required=True)
+        if reason not in candidate.setdefault('validation_reasons', []):
+            candidate['validation_reasons'].append(reason)
+        value.setdefault('unverified_candidates', []).append(candidate)
+    value['candidates'] = retained
+
+
 def parse_json_object(raw: str) -> dict[str, Any]:
     decoder = json.JSONDecoder()
     for index, char in enumerate(raw):
@@ -160,6 +230,7 @@ def _validate_output(
     source_urls: set[str] | None = None,
     probable_source_urls: set[str] | None = None,
     contact_blocks: dict[str, list[str]] | None = None,
+    source_pages: list[CrawledPage] | None = None,
 ) -> None:
     output_name = str(value.get("company_name", ""))
     if not company_name_aliases(output_name).intersection(company_name_aliases(company.name)):
@@ -188,6 +259,7 @@ def _validate_output(
     rejected = []
     value.pop("validation_rejections", None)
     value.pop("unverified_candidates", None)
+    value.pop('contact_validation_rejections', None)
     for candidate in value["candidates"]:
         if not isinstance(candidate, dict) or not str(candidate.get("full_name", "")).strip():
             raise RuntimeError("Every candidate must have a full_name")
@@ -222,7 +294,9 @@ def _validate_output(
             for contact in _contact_list(candidate, channel):
                 source_url = str(contact.get("source_url", "")).strip()
                 if source_url and allowed_urls is not None and _url_key(source_url) not in allowed_urls:
-                    reasons.append(f"{channel} source URL was not fetched")
+                    value.setdefault('contact_validation_rejections', []).append(dict(
+                        full_name=name, channel=channel, value=contact.get('value', ''),
+                        source_url=source_url, reason=f'{channel} source URL was not fetched'))
                     continue
                 if not source_url or _url_key(source_url) not in evidence_urls:
                     continue
@@ -306,7 +380,8 @@ def _validate_output(
         value["unverified_candidates"] = unverified
     if rejected:
         value["validation_rejections"] = rejected
-    assigned = _assigned_contacts(accepted + unverified)
+    _review_employment(value, source_pages)
+    assigned = _assigned_contacts(value['candidates'] + value.get('unverified_candidates', []))
     value["unassigned_contacts"] = _official_unassigned_contacts(
         company,
         signals,

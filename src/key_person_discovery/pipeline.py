@@ -4,12 +4,11 @@ import json
 import re
 from copy import deepcopy
 from dataclasses import replace
-from datetime import date
 from pathlib import Path
 from typing import Any, Callable
 from urllib.parse import parse_qs, unquote, urlparse
 
-from .hermes import HermesExtractor, _evidence_binds_contact
+from .hermes import HermesExtractor, _evidence_binds_contact, _review_employment
 from .models import (
     CompanyProfile,
     CrawledPage,
@@ -25,6 +24,7 @@ from .signals import extract_contact_signals
 from .contact_evidence import contact_block_pages
 from .diagnostics import diagnose, recovery_queries, extraction_failure
 from .topeasy import merge_topeasy_export
+from .search_quality import classify_search_result, select_search_results, search_result_value, engine_quality_report
 from .sources import (
     Crawl4aiCrawler,
     SearchClient,
@@ -40,6 +40,7 @@ from .sources import (
     page_links,
     resolve_official_site,
     person_query_name,
+    normalize_person_name,
 )
 
 
@@ -121,6 +122,8 @@ def discover(
     artifacts_dir.chmod(0o700)
     search_results = []
     search_warnings = []
+    search_responses = []
+    search_quality = []
     anysearch_queries = 0
     effective_anysearch_limit = anysearch_query_limit
     customs_anysearch_queries = 0
@@ -130,104 +133,71 @@ def discover(
     website_resolution_events: list[dict[str, Any]] = []
     routing_pages: list[CrawledPage] = []
     external_person_urls: set[str] = set()
+    enrichment_reserve = min(3, max_urls // 3) if people_search_limit else 0
+    initial_page_limit = max_urls - enrichment_reserve
+    deferred_urls: list[str] = []
 
-    def run_search(client: SearchClient, query: str) -> Any:
+    def run_search(client: SearchClient, query: str) -> tuple[Any, list[SearchResult]]:
         provider = getattr(client, "name", client.__class__.__name__)
-        if broad_discovery and provider == "searxng":
-            return client.search(query, limit=10)
-        return client.search(query)
+        limit = 10 if broad_discovery and provider == "searxng" else 5
+        outcome = client.search(query, limit=10) if limit == 10 else client.search(query)
+        pool = outcome.raw_results if outcome.raw_results is not None else outcome.results
+        search_responses.append({"query": query, "provider": provider,
+                                 "response": outcome.raw_response,
+                                 "parsed_results": [item.as_dict() for item in pool]})
+        eligible, pending, decisions = select_search_results(company, pool, limit)
+        search_quality.append({"query": query, "provider": provider, "limit": limit,
+                               **{status: sum(d["status"] == status for d in decisions)
+                                  for status in ("eligible", "pending", "rejected")},
+                               "selected_urls": [item.url for item in eligible],
+                               "decisions": decisions})
+        return replace(outcome, results=eligible), pending
 
     def search(query: str) -> list[SearchResult]:
         nonlocal anysearch_queries
         query_key = query.strip()
         if not query_key or query_key in executed_query_keys:
             return []
+        merged: list[SearchResult] = []
+        pending: list[SearchResult] = []
+        seen: set[str] = set()
         for client in search_clients:
             provider = getattr(client, "name", client.__class__.__name__)
             if provider == "anysearch":
-                if (
-                    effective_anysearch_limit is not None
-                    and anysearch_queries >= effective_anysearch_limit
-                ):
+                if effective_anysearch_limit is not None and anysearch_queries >= effective_anysearch_limit:
                     continue
                 anysearch_queries += 1
             if query_key not in executed_query_keys:
                 executed_query_keys.add(query_key)
                 executed_queries.append(query)
             try:
-                outcome = run_search(client, query)
+                outcome, uncertain = run_search(client, query)
             except RuntimeError as exc:
-                search_warnings.append(
-                    {
-                        "query": query,
-                        "provider": provider,
-                        "engine": provider,
-                        "reason": str(exc),
-                    }
-                )
+                search_warnings.append({"query": query, "provider": provider,
+                                        "engine": provider, "reason": str(exc)})
                 continue
             search_warnings.extend(
-                {
-                    "query": query,
-                    "provider": provider,
-                    "engine": engine,
-                    "reason": reason,
-                }
+                {"query": query, "provider": provider, "engine": engine, "reason": reason}
                 for engine, reason in outcome.unresponsive_engines
             )
-            if outcome.results:
-                if not broad_discovery:
-                    return outcome.results
-                # Keep the first provider's ordering while retaining unique
-                # URLs from later providers for the isolated experiment.
-                merged: list[SearchResult] = []
-                seen: set[str] = set()
-                for item in outcome.results:
-                    key = normalize_linkedin(item.url) or _url_key(item.url)
-                    if key and key not in seen:
-                        seen.add(key)
-                        merged.append(item)
-                for remaining_client in search_clients[search_clients.index(client) + 1 :]:
-                    remaining_provider = getattr(
-                        remaining_client,
-                        "name",
-                        remaining_client.__class__.__name__,
-                    )
-                    if remaining_provider == "anysearch":
-                        if (
-                            effective_anysearch_limit is not None
-                            and anysearch_queries >= effective_anysearch_limit
-                        ):
-                            continue
-                        anysearch_queries += 1
-                    try:
-                        remaining_outcome = run_search(remaining_client, query)
-                    except RuntimeError as exc:
-                        search_warnings.append(
-                            {
-                                "query": query,
-                                "provider": remaining_provider,
-                                "engine": remaining_provider,
-                                "reason": str(exc),
-                            }
-                        )
-                        continue
-                    search_warnings.extend(
-                        {
-                            "query": query,
-                            "provider": remaining_provider,
-                            "engine": engine,
-                            "reason": reason,
-                        }
-                        for engine, reason in remaining_outcome.unresponsive_engines
-                    )
-                    for item in remaining_outcome.results:
-                        key = normalize_linkedin(item.url) or _url_key(item.url)
-                        if key and key not in seen:
-                            seen.add(key)
-                            merged.append(item)
-                return merged
-        return []
+            pending.extend(uncertain)
+            if outcome.results and not broad_discovery:
+                return outcome.results
+            for item in outcome.results:
+                key = normalize_linkedin(item.url) or _url_key(item.url)
+                if key and key not in seen:
+                    seen.add(key)
+                    merged.append(item)
+        if merged:
+            return merged
+        # Pending results cannot suppress fallback or bypass downstream evidence
+        # checks. Retain a bounded pool only if no provider produced eligible hits.
+        for item in pending:
+            key = normalize_linkedin(item.url) or _url_key(item.url)
+            if key and key not in seen:
+                seen.add(key)
+                merged.append(item)
+        return merged[:5]
 
     official_query = build_official_query(company)
     official_search_results = search(official_query)
@@ -264,9 +234,16 @@ def discover(
             )
             + _relevant_urls(company, current_results),
         )
+        page_values = {}
+        for item in current_results:
+            if classify_search_result(company, item)[0] == "eligible":
+                key = _url_key(item.url)
+                page_values[key] = min(page_values.get(key, 9), search_result_value(company, item)[0])
+        def crawl_priority(url):
+            return (*_contact_source_priority(company, url), page_values.get(_url_key(url), 3))
         current_pdf_urls = sorted(
             (url for url in all_candidate_urls if _is_pdf_url(url)),
-            key=lambda url: _contact_source_priority(company, url),
+            key=crawl_priority,
         )
         candidate_urls = sorted(
             (
@@ -274,10 +251,10 @@ def discover(
                 for url in all_candidate_urls
                 if not _is_pdf_url(url) and not _is_linkedin_profile(url)
             ),
-            key=lambda url: _contact_source_priority(company, url),
+            key=crawl_priority,
         )
-        reserved = min(5, max_urls // 2)
-        first_urls = candidate_urls[: max_urls - reserved]
+        reserved = min(5, initial_page_limit // 2)
+        first_urls = candidate_urls[: initial_page_limit - reserved]
         first_keys = {_url_key(url) for url in first_urls}
         linked_pdf_urls: list[str] = []
 
@@ -287,7 +264,7 @@ def discover(
             if resolution['status'].startswith('confirmed_'):
                 company = replace(company, website=resolution['website'])
             elif resolution['status'] == 'unverified_redirect':
-                return resolution['followup_urls'][:max_urls - len(first_urls)]
+                return resolution['followup_urls'][:initial_page_limit - len(first_urls)]
             # Redirected final URLs count as already fetched too.
             first_keys.update(_url_key(page.url) for page in first_pages)
             link_priorities = {url: official_link_priority(url, label)
@@ -297,17 +274,19 @@ def discover(
                 + [url for url in candidate_urls[len(first_urls):]
                    if company == acquisition_company or official_url_in_scope(company, url)],
                 key=lambda url: (_contact_source_priority(company, url)[0],
-                                 min(_contact_source_priority(company, url)[1], link_priorities.get(url, 2))),
+                                 min(_contact_source_priority(company, url)[1], link_priorities.get(url, 2)),
+                                 page_values.get(_url_key(url), 3)),
             )
             linked_pdf_urls.extend(
                 url for url in second_candidates if _is_pdf_url(url)
             )
+            deferred_urls.extend(second_candidates)
             return [
                 url
                 for url in _unique_urls("", second_candidates)
                 if _url_key(url) not in first_keys
                 and not _is_pdf_url(url)
-            ][: max_urls - len(first_urls)]
+            ][: initial_page_limit - len(first_urls)]
 
         current_pages = (
             crawl_sync(crawler, first_urls, followup_urls=followup_urls)
@@ -498,6 +477,8 @@ def discover(
             customs_leads = _merge_customs_leads(customs_leads, current_leads)
 
     def save_evidence():
+        _write_json(artifacts_dir / "search-responses.json", search_responses)
+        _write_json(artifacts_dir / "search-quality.json", search_quality)
         _write_json(artifacts_dir / 'website-resolution.json', website_resolution_events)
         _write_json(artifacts_dir / 'website-routing-pages.json', [page.as_dict() for page in routing_pages])
         _write_json(artifacts_dir / "search-results.json", [item.as_dict() for item in search_results])
@@ -547,7 +528,7 @@ def discover(
             _add_linkedin_search_candidates(result, company, search_results)
         _promote_linkedin_signal_candidates(result, company, search_results)
         if broad_discovery:
-            _normalize_broad_discovery_candidates(result, company, search_results)
+            _normalize_broad_discovery_candidates(result, company, search_results, evidence_pages)
         if include_topeasy and topeasy_export is not None:
             topeasy_summary = merge_topeasy_export(result, company, topeasy_export)
             _write_json(artifacts_dir / "topeasy-import.json", topeasy_summary)
@@ -572,6 +553,7 @@ def discover(
             company,
         )
         _remove_conflicting_contacts(result, signals)
+        _review_employment(result, evidence_pages)
 
     finalize_people(result, include_topeasy=True)
     if people_search_limit:
@@ -585,7 +567,7 @@ def discover(
                   if q.strip() not in executed_query_keys][:people_search_limit]
     topup = dict(reason=initial_diagnostic['primary'], budget=people_search_limit, queries=[],
                  status='disabled' if not people_search_limit else 'target_met' if people_before_topup >= people_target else 'skipped')
-    if people_search_limit and people_before_topup < people_target and topup_plan:
+    if people_search_limit and people_before_topup < people_target and (topup_plan or deferred_urls):
         _write_json(artifacts_dir / "people-baseline.json", result)
         # A separate, bounded budget; explicitly disabling AnySearch also disables it here.
         if anysearch_query_limit is not None and anysearch_query_limit > 0:
@@ -603,10 +585,19 @@ def discover(
                             people_queries.append(query)
             extra_results = search_results[previous_results:]
             topup_stage = 'crawl'
-            existing_urls = {_url_key(page.url) for page in pages + pdf_pages}
+            existing_urls = {_url_key(url) for page in pages + pdf_pages
+                             for url in (page.url, page.requested_url) if url}
             named_urls = _named_person_source_urls(company, result, extra_results)
             external_person_urls.update(_url_key(url) for url in named_urls if not same_site(company.website, url))
-            selected_urls = _unique_urls('', named_urls + _relevant_urls(company, extra_results))
+            # Recover evidence from the official site even if search providers fail.
+            official_followups = discover_official_links(company, pages)
+            official_followups += [url for url in deferred_urls if official_url_in_scope(company, url)]
+            official_followups = sorted(_unique_urls('', official_followups), key=lambda url: (
+                0 if re.search(r'publication|interview|media-cent[er]+|press|news|events', urlparse(url).path, re.I) else 1,
+                official_link_priority(url)))
+            selected_urls = _unique_urls('',
+                [url for url in named_urls if official_url_in_scope(company, url)]
+                + official_followups + named_urls + _relevant_urls(company, extra_results))
             extra_pdf_urls = [url for url in selected_urls if _is_pdf_url(url) and _url_key(url) not in existing_urls][:max(0, 3 - len(pdf_pages))]
             extra_urls = [
                 url for url in selected_urls
@@ -646,12 +637,17 @@ def discover(
     if people_search_limit:
         _attach_named_linkedin_profiles(result, company, search_results, crm_contacts or [])
     topup['queries'] = people_queries
+    topup['reserved_web_pages'] = enrichment_reserve
     topup['new_results'] = len(search_results) - previous_results if people_queries else 0
     topup['source_warnings'] = sum(w.get('query') in people_queries for w in search_warnings)
     if topup['status'] == 'no_new_evidence' and not topup['new_results'] and topup['source_warnings']:
         topup['status'] = 'source_limited'
     # A later fetch can expose conflicts in channels retained by the first pass.
     _remove_conflicting_contacts(result, signals)
+    _review_employment(result, evidence_pages)
+    if broad_discovery:
+        # Late profile attachment can make a full name and an initial seed identical.
+        _normalize_broad_discovery_candidates(result, company, search_results, evidence_pages)
     result['diagnostics'] = diagnostic_for(result)
     result['diagnostics'].update(before=initial_diagnostic, topup=topup)
     _write_json(artifacts_dir / 'diagnostics.json', result['diagnostics'])
@@ -660,6 +656,9 @@ def discover(
         "people_after": _new_contactable_people(result), "target": people_target,
     })
     _write_json(artifacts_dir / "crm-duplicates.json", result.get("crm_duplicates", []))
+    result["source_quality"] = engine_quality_report(
+        search_quality, search_results, result.get("candidates", []), search_warnings)
+    _write_json(artifacts_dir / "engine-quality.json", result["source_quality"])
     contactable_items = _contactable_items(result)
     contact_methods = _contact_method_count(result)
     customs_has_product = any(item["matched_products"] for item in customs_leads)
@@ -731,6 +730,8 @@ def discover(
         "target_contact_methods": company.target_contact_count,
         "contact_methods": contact_methods,
         "contact_target_met": not company.target_contact_count or contact_methods >= company.target_contact_count,
+        "search_quality_rejected": sum(row["rejected"] for row in search_quality),
+        "search_quality_pending": sum(row["pending"] for row in search_quality),
         "broad_discovery": broad_discovery,
         "topeasy_import": topeasy_summary,
     }
@@ -983,6 +984,7 @@ def _add_linkedin_search_candidates(
             or not normalized_name
             or any(
                 normalized_name == alias or normalized_name.startswith(f"{alias} ")
+                or (len(alias.split()) > 1 and f" {alias} " in f" {normalized_name} ")
                 for alias in company_name_aliases(company.name)
             )
             or normalized_name in existing_names
@@ -1050,26 +1052,11 @@ def _normalize_broad_discovery_candidates(
     result: dict[str, Any],
     company: CompanyProfile,
     search_results: list[SearchResult],
+    source_pages: list[CrawledPage] | None = None,
 ) -> None:
     """Remove non-people and apply consistent review tiers after broad discovery."""
 
-    retained_verified: list[dict[str, Any]] = []
-    demoted: list[dict[str, Any]] = []
-    for candidate in result.get("candidates", []) or []:
-        if not isinstance(candidate, dict):
-            continue
-        if _has_only_stale_pdf_employment_evidence(candidate):
-            candidate["company_match"] = "probable"
-            candidate["review_required"] = True
-            candidate.setdefault("validation_reasons", []).append(
-                "only stale PDF role evidence is available; current employment requires review"
-            )
-            demoted.append(candidate)
-        else:
-            retained_verified.append(candidate)
-    result["candidates"] = retained_verified
-    if demoted:
-        result.setdefault("unverified_candidates", []).extend(demoted)
+    _review_employment(result, source_pages)
 
     seen_linkedin_urls: set[str] = set()
     seen_linkedin_ids: set[str] = set()
@@ -1147,31 +1134,6 @@ def _normalize_broad_discovery_candidates(
             seen_linkedin_urls.update(linkedin_urls)
             seen_linkedin_ids.update(linkedin_ids)
         result[group] = kept
-
-
-def _has_only_stale_pdf_employment_evidence(candidate: dict[str, Any]) -> bool:
-    evidence = [
-        item
-        for item in candidate.get("evidence", []) or []
-        if isinstance(item, dict)
-    ]
-    if not evidence or any(
-        ".pdf" not in str(item.get("source_url", "")).casefold()
-        for item in evidence
-    ):
-        return False
-    evidence_text = " ".join(
-        f"{item.get('source_url', '')} {item.get('quote', '')} {item.get('supports', '')}"
-        for item in evidence
-    )
-    years = [int(value) for value in re.findall(r"\b20\d{2}\b", evidence_text)]
-    if not years or max(years) > date.today().year - 2:
-        return False
-    return not re.search(
-        r"\b(?:current|currently|present|since|appointed)\b",
-        evidence_text,
-        re.I,
-    )
 
 
 def _candidate_linkedin_search_result(
@@ -1976,7 +1938,7 @@ def _merge_customs_leads(
 
 def _new_contactable_people(result: dict[str, Any]) -> int:
     return len({
-        normalize_company_name(str(candidate.get("full_name", "")))
+        normalize_person_name(str(candidate.get("full_name", "")))
         for candidate in result.get("candidates", [])
         if candidate.get("company_match") == "verified"
         and not candidate.get("crm_existing_match")
@@ -1998,7 +1960,7 @@ def _merge_people_results(first: dict[str, Any], extra: dict[str, Any]) -> dict[
             return False
         return bool((left_urls & right_urls) - {""}) or (
             bool(left.get("full_name"))
-            and normalize_company_name(left["full_name"]) == normalize_company_name(right.get("full_name", ""))
+            and normalize_person_name(left["full_name"]) == normalize_person_name(right.get("full_name", ""))
         )
 
     for group in ("candidates", "unverified_candidates"):
@@ -2016,7 +1978,7 @@ def _merge_people_results(first: dict[str, Any], extra: dict[str, Any]) -> dict[
                     for item in person.get(field, []):
                         if item not in known.setdefault(field, []):
                             known[field].append(deepcopy(item))
-    for field in ("unassigned_contacts", "validation_rejections", "crm_duplicates", "excluded_candidates"):
+    for field in ("unassigned_contacts", "validation_rejections", "contact_validation_rejections", "crm_duplicates", "excluded_candidates"):
         for item in extra.get(field, []):
             if item not in merged.setdefault(field, []):
                 merged[field].append(deepcopy(item))
@@ -2189,13 +2151,13 @@ def _attach_crm_matched_emails(
     surname_matches: dict[str, dict[str, str]] = {}
     for contact in crm_contacts:
         name = str(contact.get("name", "")).strip()
-        normalized = normalize_company_name(name)
+        normalized = normalize_person_name(name)
         if not normalized:
             continue
         surname_matches.setdefault(normalized.split()[-1], {})[normalized] = name
     candidates = result.get("candidates", [])
     by_name = {
-        normalize_company_name(str(candidate.get("full_name", ""))): candidate
+        normalize_person_name(str(candidate.get("full_name", ""))): candidate
         for candidate in candidates
         if isinstance(candidate, dict)
     }
@@ -2375,9 +2337,9 @@ def _deduplicate_crm_contacts(
     crm_contacts: list[dict[str, Any]],
 ) -> None:
     names = {
-        normalize_company_name(str(contact.get("name", "")))
+        normalize_person_name(str(contact.get("name", "")))
         for contact in crm_contacts
-        if str(contact.get("name", "")).strip()
+        if normalize_person_name(str(contact.get("name", "")))
     }
     emails = {
         value.casefold()
@@ -2408,7 +2370,7 @@ def _deduplicate_crm_contacts(
         kept_candidates = []
         for candidate in result.get(group, []) or []:
             matched_by = []
-            if normalize_company_name(str(candidate.get("full_name", ""))) in names:
+            if normalize_person_name(str(candidate.get("full_name", ""))) in names:
                 matched_by.append("name")
             if any(
                 str(item.get("value", "")).casefold() in emails
@@ -2702,6 +2664,12 @@ def _relevant_urls(company: CompanyProfile, results: list[SearchResult]) -> list
         if same_official_host and (official_url_is_distinctive or text_matches):
             relevant.append(result.url)
             continue
+        if (text_matches and classify_search_result(company, result)[0] == "eligible"
+                and search_result_value(company, result)[1] in {"named_role_evidence", "company_article"}
+                and not _has_conflicting_labeled_employer(company, result.title + " " + result.snippet)
+                and not _former_employment_near_company(company, result.title + " " + result.snippet)):
+            relevant.append(result.url)
+            continue
         trusted_host = any(
             host == trusted or host.endswith(f".{trusted}")
             for trusted in _TRUSTED_EXTERNAL_HOSTS
@@ -2748,24 +2716,28 @@ def _official_website_from_search(
                 continue
             if old_website_is_external and not is_explicit:
                 continue
-            host_tokens = set(normalize_company_name(host).split())
-            if candidate_url == result.url and not company_tokens.intersection(host_tokens):
+            existing_site = not old_website_is_external and same_site(company.website, candidate_url)
+            compact_host = re.sub(r"[^a-z0-9]", "", host)
+            if not is_explicit and not existing_site and not any(token in compact_host for token in company_tokens):
                 continue
             if _is_trusted_external(candidate_url):
                 continue
-            if not _website_identity_continues(company, candidate_url):
+            if not _website_identity_continues(company, candidate_url, explicit_reference=is_explicit):
                 continue
             score = (
-                candidate_url != result.url,
+                bool(existing_site),
+                is_explicit,
                 len(matched) / len(company_tokens),
                 len(matched),
                 -result.rank,
             )
-            candidates.append((score, f"{parsed.scheme}://{parsed.netloc}"))
+            candidates.append((score, company.website if existing_site else f"{parsed.scheme}://{parsed.netloc}"))
     return max(candidates, default=((), ""))[1]
 
 
-def _website_identity_continues(company: CompanyProfile, candidate_url: str) -> bool:
+def _website_identity_continues(
+    company: CompanyProfile, candidate_url: str, *, explicit_reference: bool = False,
+) -> bool:
     old_host = _hostname(company.website)
     if not old_host or same_site(company.website, candidate_url):
         return True
@@ -2780,8 +2752,11 @@ def _website_identity_continues(company: CompanyProfile, candidate_url: str) -> 
     old_compact = re.sub(r"[^a-z0-9]", "", old_host)
     new_compact = re.sub(r"[^a-z0-9]", "", _hostname(candidate_url))
     old_identity = {token for token in company_tokens if token in old_compact}
+    new_identity = {token for token in company_tokens if token in new_compact}
     if not old_identity:
-        return len({token for token in company_tokens if token in new_compact}) >= 2
+        return len(new_identity) >= 2
+    if not explicit_reference:
+        return len(old_identity) >= 2 and old_identity <= new_identity
     return len(old_identity) >= 2 and any(
         len(token) >= 5 and token in new_compact for token in old_identity
     )
@@ -2812,13 +2787,9 @@ def _hostname(url: str) -> str:
 
 
 def _contact_source_priority(company: CompanyProfile, url: str) -> tuple[int, int]:
-    path = unquote(urlparse(url).path).casefold()
     return (
         0 if _url_key(url) == _url_key(company.website) else 1,
-        0
-        if same_site(company.website, url)
-        and any(term in path for term in _CONTACT_SOURCE_PATH_TERMS)
-        else 1,
+        official_link_priority(url) if same_site(company.website, url) else 1,
     )
 
 
