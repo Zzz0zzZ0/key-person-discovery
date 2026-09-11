@@ -1,315 +1,487 @@
-# Key Person Discovery
+# Key Person Discovery / Key Search
 
-从公司画像出发，优先通过 AnySearch 发现公开网页并在无合格结果或失败时降级到 SearXNG，同时主动读取官网 Sitemap；使用 Crawl4AI 并发抓取 HTML、使用 pypdf 提取文本型 PDF，最后由当前 Hermes 主 Agent 输出带来源证据的联系人候选。
+从公司名称、官网和业务画像出发，发现公开网页中的关键人员，输出姓名、任职、LinkedIn、邮箱、电话和可追溯证据。主要服务于采购、技术、生产和经营管理联系人发现，也保留有价值的业务转介人员。
 
-命令行只读取 JSON 公司快照；本地展示页可通过 PostgreSQL 只读事务查询 Twenty 公司并创建快照，但不会写 Twenty CRM，不会自动登录 LinkedIn，也不会探测 WhatsApp 账号是否注册。所有结果都需要人工复核。
+**交接基准：2026-09-11，应用版本 `0.4.0`，功能基线提交 `df32059`，212 项自动化测试通过。** 目前已修复来源筛选、官网定位、补搜预算和重复计数，但最近的三家公司配对**没有证明联系人净增量**。免费搜索限流、任职判定不一致以及姓名有证据但缺个人渠道，仍是主要限制。
 
-项目边界固定为本 README 所在的仓库根目录（目录可以命名为 `key-person-discovery` 或 `key-search`）：代码保存在 `src/`、`web/`、`deploy/` 和 `tests/`，运行输入保存在 `inputs/`，结果保存在 `outputs/`，任务状态与日志保存在 `state/`。CLI、dashboard 和 batch 会拒绝把输出、输入或状态库指向项目目录之外。Twenty PostgreSQL、搜索服务和 Hermes 是外部依赖，但不会接收本项目的代码或结果文件。
+## 阅读导航
 
-## 当前版本（2026-09-11）
+- [项目边界与运行结构](#项目边界与运行结构)
+- [接手现有机器](#接手现有机器)
+- [新机器安装](#新机器安装)
+- [配置文件与优先级](#配置文件与优先级)
+- [启动与使用](#启动与使用)
+- [macOS 自动启动与停止](#macos-自动启动与停止)
+- [结果、证据与计数](#结果证据与计数)
+- [日常维护](#日常维护)
+- [备份、恢复与迁移](#备份恢复与迁移)
+- [故障排查](#故障排查)
+- [开发、测试与发布](#开发测试与发布)
+- [已知限制与后续工作](#已知限制与后续工作)
+- [交接验收清单](#交接验收清单)
 
-已实现官网迁移核验、来源质量筛选、具名渠道补搜、任职证据核验和按失败原因分配追加查询（P0–P3），并支持 macOS 休眠/断网恢复与 Dashboard 诊断。当前自动化测试 **212 项通过**；历史实验只代表所列样本，不表示联系人普遍增长。仓库包含源码、测试与部署模板；新的 `inputs/`、`outputs/`、`state/` 运行数据及环境文件仅保存在本地。历史已经跟踪的运行文件不会因 `.gitignore` 自动移除，本次提交不更新它们。
+详细规则、历次实验和指标保留在[发现规则与验证记录](docs/discovery-and-validation.md)。其中 `state/...` 报告、CRM 快照和冻结回放脚本仅在原机器本地，**不随 Git 克隆交付**；新机器应先运行仓库内的 `tests/`。
 
-以下实验报告和冻结回放脚本的 `state/...` 路径是本机审计索引，不随本次源码提交发布；新检出的仓库使用“测试”一节中的自动化测试即可验证代码。
+## 项目边界与运行结构
 
-## 运行条件
+```text
+CLI 公司 JSON ───────────────────────────────┐
+Dashboard / Batch → Twenty 只读查询 → 本地快照 ├→ 独立任务 / discovery
+                                             ↓
+代理预检 → AnySearch / SearXNG → 来源筛选与官网身份核验
+         → Crawl4AI HTML / pypdf PDF → Hermes 提取
+         → 任职、渠道归属、CRM 去重 → 必要时补搜 → JSON + 证据
+```
 
-- Python 3.11+
-- AnySearch（API Key 可选，匿名访问限额较低）
-- 可返回 JSON 的 SearXNG 实例，作为 AnySearch 的降级来源；本项目已提供仅监听本机 `18080` 端口的配置
-- 已配置的 Hermes 主 Agent；默认命令为 `/Users/acelerzbw/.local/bin/hermes`
+- **不写入 Twenty CRM，不自动发邮件或消息，不登录 LinkedIn，不探测 WhatsApp 注册状态。** 所有人员结果要求人工复核。
+- CLI 直接读取公司 JSON，不需要连接 CRM；Dashboard 的 CRM 选公司功能和 Batch 需要可访问的 Twenty PostgreSQL。
+- 搜索请求会携带公司名、岗位或人员名；Hermes 会接收公司画像和公开来源文本，并使用其自身配置的模型服务。输入快照中的 CRM 联系资料用于本地去重。不要把运行目录、模型日志或完整快照当作可公开数据。
+- Dashboard 默认监听 `0.0.0.0:18181`，**没有登录认证**。同网段可访问者可查询 CRM 并启动消耗搜索/模型额度的任务；仅本机使用时显式设置 `--host 127.0.0.1`。不要直接暴露公网。
+- Python 包通过 editable 安装使用此仓库。CLI 输出目录，以及 Dashboard/Batch 的输入、输出、任务库路径必须位于仓库内；CLI 的 `--company` 是只读输入，不受输出路径限制。
+- 不需要 Node.js 或前端构建。Twenty、Docker/SearXNG、宿主机代理和 Hermes 均为独立依赖，不由 Dashboard 自动启动。
+
+| 路径 | 用途 |
+| --- | --- |
+| `src/key_person_discovery/cli.py` | 单家公司入口、预算及代理预检 |
+| `pipeline.py`、`sources.py`、`search_quality.py` | 发现流程、采集、相关性和来源贡献 |
+| `hermes.py`、`contact_evidence.py`、`signals.py` | 模型适配、证据归属、渠道提取和校验 |
+| `models.py`、`diagnostics.py` | 公司/来源模型、失败分类和补搜计划 |
+| `dashboard.py`、`jobs.py`、`job_runner.py`、`batch.py` | 展示/API、SQLite 队列、独立 Runner、批处理 |
+| `crm.py`、`preflight.py` | Twenty 只读 SQL、代理和出口检查 |
+| `web/index.html` | Dashboard 页面 |
+| `examples/aceler.json` | CLI 示例公司；Dashboard/Batch 的行业和产品画像模板 |
+| `deploy/searxng/`、`deploy/macos/` | Docker 配置与 LaunchAgent 模板 |
+| `inputs/`、`outputs/`、`state/` | 私有快照、结果及证据、任务库和日志 |
+| `tests/`、`docs/` | 固定数据测试与详细规则/历史验证 |
+
+表中省略目录的 Python 文件均位于 `src/key_person_discovery/`。
+
+## 接手现有机器
+
+先检查现有服务，不重复启动。下面是 2026-09-11 本机核实的部署信息，不是其他机器必须使用的绝对路径。
+
+| 项目 | 当前值 |
+| --- | --- |
+| 仓库 | `/Users/acelershen/Projects/key-search`，分支 `main` |
+| 远端 | [Zzz0zzZ0/key-person-discovery](https://github.com/Zzz0zzZ0/key-person-discovery) |
+| Dashboard | `http://127.0.0.1:18181`，现有服务监听所有网卡 |
+| LaunchAgent | `~/Library/LaunchAgents/com.aceler.key-person-dashboard.plist` |
+| CRM / 应用配置 | 仓库下 `state/twenty.env` / `.env`，依次加载 |
+| SearXNG | 容器 `key-person-searxng`，`127.0.0.1:18080` |
+| SearXNG 当前挂载 | 仓库下 `deploy/searxng/settings.yml` |
+| 代理 | 宿主机 `127.0.0.1:7897`；Docker 内为 `host.docker.internal:7897` |
+| 实验引擎 | 独立模板使用 `18082`，不属于默认生产流程 |
+
+旧 `Documents/ChatGPT/key-search` 是迁移前路径；不要从旧路径重新创建服务。现存 `settings.local.yml` 是旧本机分流配置，当前不加载，不能因文件存在就认定它生效。
+
+在当前仓库根目录检查：
+
+```bash
+pwd
+git status --short
+.venv/bin/python -c 'from key_person_discovery.jobs import PROJECT_DIR; print(PROJECT_DIR)'
+launchctl print "gui/$(id -u)/com.aceler.key-person-dashboard"
+docker compose --env-file deploy/searxng/.env -f deploy/searxng/compose.yml ps
+curl --fail --silent --show-error -o /dev/null -w 'Dashboard HTTP %{http_code}\n' http://127.0.0.1:18181/
+```
+
+仓库历史上已经跟踪过部分运行数据，因此 `state/dashboard.log`、`state/jobs.sqlite3` 出现本地修改不一定是异常。`.gitignore` 不会自动取消跟踪；不要用 `git restore .`、`git reset --hard` 或 `git clean` 清理工作区。
+
+## 新机器安装
+
+以下命令默认在 macOS 的仓库根目录执行。Python 要求 3.11+；示例使用 3.11。Docker Desktop/兼容 Docker Engine 需已启动，Compose v2 可用。Linux 上容器访问宿主机代理可能需要额外的 host-gateway 配置；仓库的 macOS 模板不能直接视为已验证的 Linux 部署方案。
+
+### 1. 安装 Python 环境与浏览器
 
 ```bash
 git clone https://github.com/Zzz0zzZ0/key-person-discovery.git
 cd key-person-discovery
 python3.11 -m venv .venv
-.venv/bin/pip install -e .
+.venv/bin/pip install -e '.[test]'
 .venv/bin/playwright install chromium
+mkdir -p inputs outputs state
+chmod 700 inputs outputs state
+```
+
+仅运行项目可使用 `pip install -e .`；执行测试需要 `.[test]`。依赖版本范围见 `pyproject.toml`，目前没有完整依赖锁文件，重新安装可能得到不同的间接依赖版本。
+
+Dashboard/Batch 访问 CRM 还需要本机 `psql`。macOS Homebrew 可执行 `brew install libpq`，并设置 `PSQL_BIN=/opt/homebrew/opt/libpq/bin/psql`；Intel Mac 应使用 `brew --prefix libpq` 下的实际路径。只安装 PostgreSQL 客户端即可，不需新建本地数据库。
+
+### 2. 配置代理、Hermes 与环境文件
+
+```bash
+test -f .env || cp .env.example .env
+chmod 600 .env
+```
+
+编辑 `.env`，逐项确认[配置表](#配置文件与优先级)。**`.env.example` 中仍有历史机器的 Hermes 路径和 `12001` 代理示例；必须替换，不能直接照搬。** 本仓库 SearXNG 模板使用 `7897`，应用与容器代理必须一致。
+
+Hermes 不包含在本仓库中。先在接手机器安装、配置模型凭据，再将 `HERMES_COMMAND` 设置为实际可执行文件的**绝对路径**。适配器需要该命令支持 `--toolsets clarify --usage-file PATH --oneshot PROMPT`；只有同名命令还不够。路径中不要附加命令行参数；需要固定 profile 时可指向现有包装脚本。最近的实验使用 MiniMax-M2.7，但生产代码不锁定模型，实际模型由 Hermes 配置决定，应以每次 `usage*.json` 为准。
+
+### 3. 创建 SearXNG 私有配置并启动
+
+首次安装执行下列脚本；若文件已存在则停止，避免覆盖现有秘密配置：
+
+```bash
+.venv/bin/python - <<'PY'
+from pathlib import Path
+import secrets
+p = Path('deploy/searxng/.env')
+with p.open('x') as f:
+    f.write('SEARXNG_SECRET=' + secrets.token_hex(32) + '\n')
+    f.write('SEARXNG_SETTINGS_PATH=./settings.yml\n')
+p.chmod(0o600)
+PY
 
 docker compose --env-file deploy/searxng/.env -f deploy/searxng/compose.yml up -d
-export KEY_PERSON_PROXY_URL=http://127.0.0.1:7897  # 按本机代理地址调整
-export HERMES_COMMAND="$HOME/.local/bin/hermes"  # 指向已配置、可执行的 Hermes
-# 可选：export ANYSEARCH_API_KEY=...
-.venv/bin/key-person-discovery \
-  --company examples/aceler.json \
-  --output outputs/aceler.json \
-  --phone-region CN
 ```
 
-CLI 默认每家公司最多调用 AnySearch 5 次；其余查询直接使用 `http://127.0.0.1:18080` 的 SearXNG。官网联系页和联系方式密集型 PDF 会优先占用现有抓取名额，因此默认流程不再运行第 6–7 次姓名任职验证；显式设置为 7 时仍保留人工对照能力。可通过 `KEY_PERSON_ANYSEARCH_MAX_QUERIES` 调整上限，设置为 `0` 可完全禁用 AnySearch；如需覆盖 SearXNG 地址可设置 `SEARXNG_URL`。`KEY_PERSON_PROXY_URL` 会显式传给 AnySearch、官网 Sitemap 发现和 Crawl4AI；未设置时回退到 `HTTPS_PROXY` 或 `HTTP_PROXY`。如果 Hermes 不在默认位置，设置 `HERMES_COMMAND`。
+Compose 固定了镜像摘要，首次启动需要拉取镜像；不要为排障直接换成 `latest`。`SEARXNG_SECRET` 由 Compose 传给容器，不能省略。容器设置 `restart: unless-stopped`，但 Docker 本身仍需启动。
 
-### 联系人不足时补搜
-
-CLI、Dashboard 和批处理默认在首次分析、任职证据校验及 CRM 去重后检查新增可联系人员数量。未达到公司快照的 `target_contact_count`（未指定时为 1）时，在来源仍可用时最多追加 3 条人员查询：按主要缺口选择具名渠道补全、当前任职核验或岗位发现。岗位查询使用现有公司名称别名及去法定后缀名称，覆盖采购、技术/生产和管理层。已知电话区域对应德、法、西、葡、中、日、韩语时追加当地职位词。不推测品牌名，不降低任职和联系方式归属要求。
-
-`KEY_PERSON_PEOPLE_SEARCH_MAX_QUERIES` 控制补搜上限（0–6，默认 3；0 恢复原流程）。补搜有独立的 AnySearch 预算，因此默认总上限是基础 5 次 + 补搜 3 次，不含独立海关预算。`KEY_PERSON_ANYSEARCH_MAX_QUERIES=0` 时补搜也只使用 SearXNG。直接调用 Python `discover()` 的既有调用者保持原行为，需要显式传入 `people_search_limit=3` 启用。
-
-补搜最多抓取 6 个新 HTML 页面，且仍受本次 `max_urls` 总额度约束；仅出现新增有效证据时再调用一次 Hermes。新证据优先进入提示词，第二次分析失败保留第一轮结果，成功则合并两轮经过校验的人员及联系方式。原始人员不因第二轮模型遗漏而丢失。公共邮箱、总机、待核验人员、仅有推测邮箱的人员以及 CRM 已有人员的新渠道均不计入“新增可联系人员”，原有联系方式统计继续保留。
-
-`run_summary` 新增 `new_contactable_people`、`people_before_topup`、`people_topup_gain`、`people_search_queries` 和 `people_anysearch_queries`。页面单独展示新增可联系人员及补搜增益。`people-baseline.json` 保存触发补搜前结果，`people-search.json` 保存补搜查询和前后人数；两次模型用量分别保存在 `usage.json` 和 `usage-people-topup.json`，核算时应相加。
-
-针对性回归命令：`.venv/bin/python -m unittest discover -s tests -p test_people_recall.py`。真实公司试验产物位于 `state/people-recall-20260907/`，属于本地运行数据。
-
-2026-09-07 免费来源审计见 本地实验报告（仅本地：`state/free-sources-20260907/report.md`）：5 家低产出公司 + EKW 对照，人工辅助提取在 EKW 补回 17 名经当前 CRM 去重的相关业务联系人，全部姓名已在历史抓取文本中；其余 5 家本轮没有新增可直接联系人员。该报告记录修复前的实验，后续生产修复与配对验证见下文；不能将技术销售联系人数量视为采购决策人增益。
-
-### 官网联系人归属与邮箱解析
-
-Crawl4AI 现在从已获取的 HTML 中保留独立的联系人段落及 `mailto:`、`tel:` 证据，使用现有 BeautifulSoup 依赖，不追加网页请求。当前支持带 H2–H6 标题和联系链接、长度不超过 2,500 字符、最多向上 4 层的单标题容器；其他布局继续走原有正文分析。只将同站已成功抓取的卡片优先送入 Hermes，总正文预算保持 100,000 字符。卡片保留相邻章节标题，人物、任职和目标公司关系仍由分析与原有校验流程确认。
-
-明确的 `(at)`、`[at]` 邮箱写法会在信号、提示词和证据归属校验中统一解析。已有卡片结构时，不能仅凭同一网页上的两个值就将其他人的电话或邮箱附到当前人员。显示地址与链接地址不一致的渠道标为 `conflicting`，从具名联系人、未归属渠道及后续补搜合并结果中隔离；不会作为推测邮箱重新补入。传真继续排除，普通手机号不标为已验证 WhatsApp。
-
-`pages.json` 增加 `contact_blocks`、`contact_conflicts`；每次分析保存 `contact-conflicts.json`。`run_summary` 增加 `contact_card_blocks`、`contact_channel_conflicts`、`excluded_role_candidates`。目标人数是最低覆盖要求，不限制有证据支持的人员数量；技术销售作为业务转介联系人保留。明确的人事或网站维护岗位进入 `excluded_candidates` 供复核，不计目标人员；同时兼任采购、技术或经营职责的岗位保留。无姓名部门不作为人员。
-
-验证命令：`.venv/bin/python -m unittest discover -s tests -q`（140 项通过）。EKW 原始公司配置与同页对照中，去重后的个人邮箱从 0 增至 12 个；统一剔除人事、已确认 CRM 重复人员及冲突渠道后，可联系人员从 20 增至 21 名。修复后的结果也覆盖此前人工审计的 17 名历史遗漏人员，但没有新增同页姓名，不能把 17 当作本次 A/B 增益。证据与限制见 修复验证报告（仅本地：`state/contact-attribution-fix-20260907/review.md`）。本地验证数据不写入 CRM，旧任务结果不会被自动重写，重新运行任务即可使用修复后的流程。
-
-后续 12 家公司扩大验证（仅本地：`state/expanded-contact-test-20260907/report.md`） **未通过扩大验收**：11 家完成同页对照、1 家官网失败，新增有效入口集中在 Schmiedeberger 的 2 个具名部门邮箱；另有 4 人共享公共邮箱转介，独立个人邮箱人数未增加。140 项现有测试通过，但 3 项补充边界检查复现了部分卡片误挡正文、人事职称漏过滤和具名 WhatsApp 归属丢失。冻结证据、逐家结果及复现脚本位于 `state/expanded-contact-test-20260907/`；本轮只扩大测试，生产代码未变。
-
-上述问题已在 边界修复与冻结重放（仅本地：`state/contact-boundary-fix-20260907/report.md`） 中修复：卡片只约束其覆盖的人员或渠道，未覆盖人员仍可使用正文直接引用；德语人员专员、人员事务职称及纯人事副总裁被排除，兼采购/生产职责仍保留；抓取页面上的具名 WhatsApp 链接保留姓名与号码的实际关联，后续补入也使用同一规则，号码不会再同时计为未归属 WhatsApp。目标公司只出现在页面链接中时，相关人员转入待核验，不能仅凭集团导航确认任职。
-
-该轮验证为 **145 项测试及 3 项原冻结失败用例全部通过**。12 家样本保留原页面、CRM 快照和模型输出，11 家各重放前后两份输出（22 次），1 家原抓取失败仍单列；恢复 2 名待核验人员的 WhatsApp，旧模型输出中的 2 名人事人员被排除，其余已保留渠道无变化。上一轮修复后样本的已确认新增人数保持 7，不能把恢复的 2 个号码当作已确认目标公司增益。EKW 回归保持 21 名新增可联系人员、12 个个人邮箱及 3 处冲突隔离。本轮没有重新抓取或调用模型；冻结重放命令：`.venv/bin/python state/contact-boundary-fix-20260907/replay.py`。
-
-### 官网定位与联系页覆盖（P0＋P1）
-
-抓取结果保存请求地址、最终地址、页面标题及链接文字。官网入口每次新抓取一次，避免 Crawl4AI 当前磁盘缓存丢失重定向地址；其他页面继续使用缓存。跨域迁移需要页面标题/主标题中的企业证据，不能只凭跳转或集团导航确认。跳到错误企业时，仅尝试具名目标企业链接，实际抓取并核验后再采用；错误页面单独存入 `website-routing-pages.json`，不供联系人提取使用。集团 `/companies/`、`/empresas/`、`/subsidiaries/` 企业页限制在对应子路径。迁移决策见 `website-resolution.json`，Dashboard 显示核实状态。
-
-联系页发现结合 sitemap、URL 和实际链接文字，补充德语、葡语、意大利语、芬兰语等常见词；人员、采购、联系及法律声明页面优先于普通新闻，保持原抓取上限与 PDF 上限。联系方式放进姓名字段的模型输出会被拒绝；有证据的邮箱仍保留为未归属公共渠道。
-
-20 家新公司对照报告（仅本地：`state/official-coverage-20260907/report.md`）：每侧每家公司最多 8 个网页、3 个 PDF，0 次搜索查询；共享 URL 的采集结果和 CRM 快照一致。16 家完成配对，3 家无可用抓取证据，1 家基线处理失败；共 34 次 MiniMax-M2.7 调用。成功网页 **54 → 73**，完整配对中的具名渠道 **2 → 2**、新增可联系人员 **1 → 1**，**未达到至少 3 家获益及渠道增长 20% 的目标**。新增姓名缺少渠道或命中 CRM；不能把覆盖增长解释为联系人增长。最终 **154 项测试通过**，33 份模型输出通过修复后重放；原 12 家与 EKW 回归保持。该实验未测试 P2；后续结果见下节。
-
-### 已知人员渠道补搜（P2）
-
-优先为已确认任职、非 CRM、缺少渠道的人员执行姓名＋公司、LinkedIn 个人页、PDF 查询，仍受 `people_search_limit` 限制。摘要同时精确提及目标姓名和公司时可以补抓外部页面，但该页面的公共页脚不归属于目标公司；补抓仍最多 6 个网页、总计 3 个 PDF。实际源段落约束姓名与邮箱/电话的绑定，防止模型将法定代表人和单独的公司联系段拼接；唯一、完整姓名且明确当前雇主的 LinkedIn 个人页可以在模型遗漏或可选补搜失败时保留，状态为 `probable`，排除 CRM 已有链接和含糊匹配。
-
-7 家、8 人固定实验报告（仅本地：`state/person-channel-20260907/report.md`）：各 21 次免费 SearXNG 查询，最终共同规则下两侧均补到 **2 名人员的 LinkedIn 线索，个人邮箱/电话净增 0**。旧模型曾漏掉两侧都检索到的 EWW 链接，不能将修复前的 1→2 解释为查询召回提升。成功网页 31→55，模型 tokens 80,141→130,592，**尚未证明来源扩展提高可联系人数**。12 次模型调用中 11 次费用未知；新侧 1 次补搜处理失败保留原结果。另有 2 条待核验个人页（其中 1 条旧查询也找到），单列且不计增量。最终 **162 项测试通过**，历史 12 家与 EKW 回归保持；不扩大查询预算。
-
-### 按失败阶段分配补搜（P3）
-
-补搜前根据实际结果选择下一步：已确认人员缺渠道时使用 P2 具名查询；任职不明时只查姓名和当前雇主；全部人员与 CRM 重复时查其他岗位并排除已知姓名；未提取到目标岗位人员时使用岗位查询。已达目标、已识别的官网归属未确认或没有任何可分析证据时不追加人员搜索。部分抓取失败但仍有可用证据时可以继续补全。初始采集无可分析证据时跳过模型；已有搜索中的合格具名 LinkedIn 会在决定追加预算之前保留。
-
-结果与 `.artifacts/diagnostics.json` 同时保存缺口、文档/人员计数、追加原因、执行查询和阶段错误码。Dashboard 的结果卡片与终态任务展示“本次结果诊断”和下一步，首次分析失败也能显示原因；补搜失败保留原结果。诊断不会复制任意模型输出或凭据。旧任务没有诊断时保持原显示，不自动重写历史输出。网络预检或首次采集在取得诊断输入前退出，仍走现有任务错误与网络恢复机制。
-
-P3 实现与验证报告（仅本地：`state/failure-routing-20260908/report.md`）：**169 项测试通过**，P2 的 2 条 LinkedIn、原 12 家和 EKW 回归保持。20 家冻结证据的计划追加查询 **57→46（减少 19.3%）**；这是离线计划对比，不是实测费用或联系人增长。本轮没有新联网搜索或模型调用，未增加原有查询预算。Dashboard 已完成桌面/手机布局与错误展示检查。
-
-### 来源质量第一轮（2026-09-09）
-
-默认搜索现在先进行结果分级，再使用每来源原有的 5 条名额（宽搜实验的 SearXNG 仍为 10 条）。SearXNG 保留同一次响应中完整的解析结果，因此排除前排异常后可以补回后面的合格页面；不增加翻页、单来源请求次数或 AnySearch 返回条数上限。AnySearch 与 Tavily 也保留实际响应中的完整解析结果，不额外申请更多结果。
-
-- **来源可追溯**：`SearchResult.engines` 保存 SearXNG 实际引擎列表；没有该字段的旧数据保持兼容。`search-responses.json` 保存每次取得的结果池及 SearXNG 原始响应，`search-quality.json` 保存逐条分级、原因与来源。接口失败仍写入 `search-warnings.json`，不伪装成质量过滤。
-- **明确异常拒绝**：无效 URL、登录/注册入口、完整回显带搜索语法的查询标题，以及违反单一正向 `site:` 域名或路径限定的结果。多 `site:`、否定语法不套用单一域名规则。
-- **相关性分级后降级**：包含公司别名或属于输入官网路径范围的结果优先；其余标记 `pending`，不因陌生域名或摘要短就硬删。没有优先结果时继续下一来源；所有来源都没有优先结果时，按原顺序保留最多 5 条待核验线索。原有网页准入、任职和渠道归属验证继续生效，`eligible` 仅表示通过搜索层初筛。
-
-AnySearch 基础、人员补搜和海关预算，以及抓取/模型预算配置均不变。无合格结果时可能比过去多执行已有降级链中的 SearXNG 请求，这不等于实际调用次数或费用必然不变。独立海关检索仍使用原有贸易语义筛选。
-
-本地报告：`state/source-quality-20260909/report.md`。3 家预先固定公司、9 次 SearXNG 查询共享原始响应，人工复核“公司相关且符合查询范围”的已选结果 **17/45 → 26/30**；三个 LinkedIn 限定查询全部被过滤为空。还存在同名地理实体误入和招聘页占位问题，因此这是结果筛选改善，**没有验证新增可联系人员**。另行抓取的两个补回第三方页面及一个历史快照缺页均成功；这不代表它们全部通过生产抓取准入。
-
-**176 项测试通过**；P2 两条 LinkedIn、原 12 家中的 22 份可回放模型输出、EKW 的 21 名新增可联系人员与 12 个个人邮箱保持；3,139 个历史文件哈希未变。SCHWARZ 的新选页面不在原冻结抓取池中，保留该离线回放缺口，另存联网检查结果，不回填旧实验。单独请求 Qwant 复现 10/10 条查询回显，确认异常已存在于进入本项目之前的单引擎响应；直接访问上游的代理探针连接被拒，尚不能断言根因在上游网站、出口或 SearXNG 解析器。
-
-### 来源质量第二轮：页面价值与引擎贡献（P1，2026-09-09）
-
-在第一轮分级基础上，单词公司名仅命中名称时进入 `pending`，需要企业/岗位背景、输入官网范围或品牌域名联系页等额外信号才优先使用；这是相关性初筛，不代表已核验公司身份。陌生域名和简短摘要仍保留待核验机会，不加入特定公司黑名单。
-
-每个响应内按稳定优先级排序并在截取前去重：官网团队/联系页 → LinkedIn 个人页 → 具名岗位证据 → 官网其他页 → 企业资料及公司专属行业文章 → 人员目录 → 招聘页 → 表单确认页。同级保持来源原顺序；全部只有招聘页时仍可保留背景材料。抓取队列保留官网首页、联系页的原有优先级，其余按页面价值排序，不增加抓取名额。
-
-对满足公司关联的具名岗位页，及 URL 明确指向该公司且包含岗位/采购主题的新闻、访谈、案例文章，允许使用现有抓取预算；明确离职或冲突雇主线索不会通过这个新增入口。实际正文、当前任职、个人渠道及 CRM 去重仍由后续验证决定。普通行业文章只在正文/摘要偶然提到公司，不能因此获得这个新增抓取资格。
-
-正常返回的结果新增 `source_quality`，同级产物新增 `engine-quality.json`。按实际来源统计观察结果、初筛状态、去重入选页面、独有入选页面，以及来源 URL 能对应到的已保留人员和渠道。多引擎共同返回一个页面会共享归属，不能相加当作新增联系人；去重后的结果可从本次审计记录恢复已观察到的多来源归属。没有引擎信息的旧数据标记未知；未执行渠道评估时为 `null`，不会冒充 0。该轮只记录贡献，不自动调整引擎权重；2026-09-11 另加入任务内重复失败暂停，见下文。
-
-本地报告：`state/source-value-20260909/report.md`。固定的 9 条旧响应在 P0/P1 两侧各保留 30 条结果；人工审查中，同名百科误入 **4→0**，明确公司相关 **26→28**，另有 **2 条公司主体未确认**。这一响应池曾用于发现问题，不是新的盲审留出集。另对 Sibelco、Calderys、Imerys 执行 3 次预先固定查询，官网联系/站点页进入前列，体育、系统问答、照片冲印等无关结果被移开；没有新模型提取或联系人增量结论。
-
-**182 项测试通过**；P2 的两条 LinkedIn、原 12 家中 22 份可回放输出及 EKW 的 21 名可联系人员、12 个个人邮箱保持；3,834 个历史文件未变。原 SCHWARZ 冻结缺页与 Paul Gläser 模型处理失败继续单列保留。两个上一轮已经成功抓取的 RHI 采购专题/案例页面现在通过生产抓取入口，但未用其重新调用模型。本轮 3 次联网搜索、0 次模型或付费搜索 API 调用，沿用 EKW 脚本执行一次 CRM 只读查询，无 CRM 写入。
-
-### 来源质量完整流程配对测试（2026-09-09）
-
-本地报告：`state/source-e2e-20260909/report.md`。固定 Refratechnik、Zircar Ceramics、Capital Refractories 三家新样本，比较提交 `1caebbc` 与当前 P0＋P1 来源质量版本。两侧采用相同预算和 CRM 快照，重合查询/网页共享响应；6 次完整流程、10 次 MiniMax-M2.7 真实提取全部完成，没有复用旧模型输出。
-
-**尚未验证联系人净增量**：程序新增可联系人数 **3→3**；剔除只有 2020 年旧任职证据的一人后，人工保守复核为 **2→2**。改进版补回 Nigel Robson 的 LinkedIn，但 Tim Hall 从已确认集合退到待核实，因此不能说原人员全部保持。保留搜索结果 **340→215**，模型总 token **182,021→191,747（+5.3%）**；减少结果条数不等于联系人或成本改善。
-
-冻结实验定位了四个问题，后续修复见下一节：长导航占满每页 20,000 字符，导致联系正文未进入模型；旧 PDF 日期仅从候选引用中检查，遗漏原文发布日期；一条非法 LinkedIn 来源连带剔除同一人的有效 PDF 邮箱/电话；显式历史创始人被标为当前已确认。原始模型输出、真实提示词、校验拒绝原因及人工复核均单独保留。
-
-共享来源池实际执行 36 次 SearXNG 搜索、35 次浏览器 URL 尝试、7 次 PDF 获取、3 次官网发现调用；浏览器子请求与官网发现内部 HTTP 请求未逐项计数。付费搜索 API 调用和 CRM 写入均为 0；模型费用有 5 次未知，不能算作免费。**182 项测试通过，3,834 个历史实验文件未变**。本轮只新增实验产物和文档，没有根据这三家公司调参；只读重算命令为 `.venv/bin/python state/source-e2e-20260909/analyze.py`。
-
-### 正文与任职证据修复（2026-09-09）
-
-本地报告：`state/evidence-fix-20260909/report.md`。上述四项缺陷已修复：长导航前缀移至正文之后，contact cards 优先，剩余字符预算在文档间分配；旧 PDF 的明确出版/更新日期从实际正文检查；非法渠道来源只剔除该渠道并记录 `contact_validation_rejections`；显式历史/前任职位和只有历史前身公司证据的人转入待核实。原网页、每页 20,000/总计 100,000 字符边界及人物证据 URL 校验继续保留，没有增加依赖。
-
-**191 项测试通过**。10 份原始模型输出重评中，Tim Hall 的 1 个邮箱、1 个电话恢复为待核实渠道；Alan Benson 和历史创始人退出当前已确认集合；其他个人渠道未减少。旧 22 份回放、P2 两条 LinkedIn、EKW 的 21 名可联系人员/12 个邮箱保持上一轮验收结果，3,834 个历史文件及 234 个原始配对实验文件未变。
-
-另用冻结证据进行了两次真实 MiniMax-M2.7 首轮重提取：Refratechnik 的实际正文来源数 **5→10**，Capital 为 **5→19**；Capital 保留 Tim/Nigel 两条 probable LinkedIn，Refratechnik 没有新增可联系人员。两次总 token **80,023→62,663（−21.7%）**，费用均未知；这是固定证据的首轮重提取，**不代表新公司完整流程已取得净增量**。本轮无新搜索/网页抓取或 CRM 写入。可运行 `.venv/bin/python state/evidence-fix-20260909/revalidate.py` 只读重算原始输出校验；通用回归在 `tests/test_evidence_quality.py`。
-
-### 新公司联系人增量验证（2026-09-09）
-
-本地报告：`state/increment-holdout-20260909/report.md`。固定此前未用于修复的 Gouda、Trent、Resco、Allied，比较四项证据修复前后，完成 8 次完整流程和 8 次真实 MiniMax-M2.7 提取。预算、CRM 快照和重合来源响应一致，期间没有更换公司或调参。
-
-**未验证出净增量**：程序计数 **1→1**；人工确认的 3 家有效目标对照仍为 **1→1**，唯一一条是两版共有的 Jose Martin probable LinkedIn，没有个人邮箱/电话增量。Resco 两版均把正确输入官网替换为同名动物保健企业，必须列作**定位失败**，不能当作正常零召回。全部调用总 token **114,466→108,352（−5.3%）**，不代表联系人增长。
-
-本轮还确认 Gouda 的 `Mr M. Schuchmann` 未匹配 CRM 已有 `M. Schuchmann`，导致重复候选占用补搜名额；具名人数变化不能直接算新联系人。原实验保留当时版本与结论；后续官网选择和称谓去重修复见下一节。
-
-共享池执行 52 次 SearXNG 搜索、47 次浏览器 URL 尝试、1 次 PDF 获取和 4 次官网发现调用；7 次模型费用未知，无付费搜索 API 或 CRM 写入。**191 项测试通过，4,814 个历史文件未变**。只读重算：`.venv/bin/python state/increment-holdout-20260909/analyze.py`。
-
-### 官网身份、称谓去重与图片链接修复（2026-09-09）
-
-本地报告：`state/identity-fix-20260909/report.md`。官网选择支持连写品牌域名，优先保留有搜索证据支持的输入官网及其子公司路径；隐式跨域替换需保留原域名中的品牌词，显式 Website 引用和实际重定向继续走已有核验。CRM 去重、人员合并、人数计数与补搜共用称谓清理，保留首字母和姓名粒子，不把 `M. Green` 自动扩展为某个全名；旧人员的新渠道仍保留但不计为新增人员。网页链接解析保留嵌套图片外层的页面链接，排除图片、样式与脚本文件。
-
-冻结四家公司回放：Resco 恢复正确官网；Gouda 剔除一名 CRM 重复人员，补搜名额转给其他人员；Allied 原有 LinkedIn 保留。另做 Resco 两次独立完整流程，记录仅身份修复和追加图片链接修复的结果，共 2 次真实 MiniMax-M2.7 提取；沿用原查询响应，新增来源另存，不改写原实验。
-
-图片修复后，10 个抓取名额中的图片 **2→0**，有效文档 **6→7**，新读取的 Locations 页提供 **10 个公共电话**（含加拿大分支），另保留 1 个公共邮箱。**新增可联系人员仍为 0**，公共渠道不计作人员增量；CEO 页面未成功提取，3 条人员补搜仍受来源不足限制。两次模型总 token 为 **54,501**，费用均未知，无付费搜索 API 或 CRM 写入。本轮是问题样本的开发验证，不能作为独立留出集的增长证据。
-
-**198 项测试通过**；旧 22 份可回放模型输出与上一轮验收一致，4,814 个历史文件及 278 个原增量实验文件哈希未变。离线审计：`.venv/bin/python state/identity-fix-20260909/analyze.py`；通用回归：`tests/test_identity_recovery.py`。
-
-### 人员全名线索补全（2026-09-09）
-
-本地报告：`state/person-identity-20260909/report.md`。新增 `B.V.` / `N.V.` 法律后缀别名；人员搜索仅在前导拉丁字母首字母形式下放宽为姓氏检索，保留姓名粒子，完整名字继续精确搜索。该搜索词不用于身份键、CRM 去重或 LinkedIn 自动绑定；没有通过猜测扩展姓名。另过滤包含完整多词公司名的职位描述，避免把它当作人员姓名。
-
-Gouda、Trent 两家公司完成 4 次完整配对流程、4 次真实 MiniMax-M2.7 提取。自动新增可联系人员仍为 **0→0**。别名修复让冻结 Qwant 响应中的 **Michel Grootenboer、Edwin Aalbers、Michiel Smedes** 三条真实全名线索进入待核实集合；原配对另有一条职位描述误识别，后续通用过滤已通过冻结响应回放。Gouda 网页证据集合未增加，新的姓氏补搜没有产生可用新证据；Trent 两版均无新增人员。
-
-独立人工网页核查为 Michel 补齐官网职位与公开 LinkedIn 交叉证据，另两人仍待核实，见本地 `manual-leads.json`。人工结果不混入配对指标，也未写入 CRM。本次新 SearXNG 查询观察到 Bing 返回明显无关结果，其他引擎存在解析错误、限流和 CAPTCHA；只证明当前检索链路的响应异常，尚未定位其根因。下一步优先恢复有效检索，并补充官网刊物、企业动态的任职证据覆盖。
-
-模型总 token **68,355→64,268**，3 次费用未知；新增 SearXNG 调用 9、浏览器 URL 尝试 8、官网发现函数 1，独立人工核查另计。**203 项测试通过**，旧 22 份回放与上一轮验收一致，4,814 个历史文件及最近两轮 807 个冻结文件未变。离线重算：`.venv/bin/python state/person-identity-20260909/analyze.py`；回归用例：`tests/test_person_identity_queries.py`。
-
-### 搜索故障与追加证据修复（2026-09-11）
-
-固定两条 Gouda 查询，分别探测 4 个引擎，并直接请求 Bing 对照：Bing 在 SearXNG 和直接响应中均出现无关页面，不能归因于本项目解析；Qwant CAPTCHA、DuckDuckGo Web 解析失败。Google CSE 在探测及 Gouda、RATH 流程中返回相关内容，因此默认保留该来源，但随后 Calderys 触发限流，**免费来源的连续可用性仍有限**。任务内重复失败暂停已生效，CLI 与本机 Docker 使用同一默认配置。
-
-Gouda 开发样本、RATH 和 Calderys 两个新冻结样本，使用相同预算与共享新来源池完成 6 次流程。两版均使用恢复后的来源，因此该配对只比较流程改动，不能用来计算来源恢复的增益。每版每家公司最多 10 个网页、3 个 PDF、3 条人员补搜和 2 次模型提取，AnySearch 为 0。
-
-| 样本 | 基线可联系人数 | 首版修复人数 | 观察 |
-| --- | ---: | ---: | --- |
-| Gouda | 4 | 1 | 3 人保留在待核验集合；同样的 LinkedIn 摘要在模型中出现任职判定差异 |
-| RATH | 8 | 8 | 相同 8 个个人邮箱可对应官网卡片；网页 10→7 |
-| Calderys | 0 | 0 | Google CSE 限流，官网 Sitemap 证书校验失败；改进版仍完成官网追加读取 |
-
-该配对**未通过联系人净增量验收**：原始程序计数 12→9，模型 token 123,882→147,791；不能宣称人数或费用改善。随后修正官网证据被第三方目录挤占的问题：Gouda 补充验证实际读到 Publications 页的具名任职证据，3 次新浏览器 URL 尝试、2 次模型调用。该次原始输出的 2 人是 M. Smedes / Michiel Smedes 对应同一 LinkedIn，最终去重回放为 **1 人**；不计作增长。Carla Vierhout 已有官网具名角色，但尚未附上可计数的个人渠道；Michel 的全名与缩写仍未自动合并。
-
-最终版本另外修复已知重定向旧网址重复抓取，以及补挂 LinkedIn 后同一账号再次计数。最后两项通过固定失败用例和离线结果回放验证，未另跑完整联网模型流程。**212 项测试通过**，旧 22 份有效输出回放一致，4,814 个历史文件及最近三轮 1,382 个冻结文件未变。7 次完整流程共调用 MiniMax-M2.7 11 次、326,876 token，6 次费用未知；未使用付费搜索 API，未写入 CRM。
-
-本地审查报告：`state/retrieval-repair-20260911/report.md`；原配对离线重算：`.venv/bin/python state/retrieval-repair-20260911/analyze.py`；补充验证：`state/retrieval-confirmation-20260911/`；最终去重复核：`state/retrieval-repair-20260911/final-postprocess-review.json`。原始对照、失败及重复计数产物均保留。
-
-### 海关查询与来源预算
-
-海关数据使用独立的 AnySearch 预算。只有公司快照明确包含 `customs_search_enabled=true` 时才会查询；未被公司匹配模块选中的普通公司保持 0 次。选中后默认最多 2 次，可通过 `KEY_PERSON_CUSTOMS_ANYSEARCH_MAX_QUERIES` 设置为 0–3。首次查询没有同时匹配目标公司和贸易语义的有效线索时立即停止；命中后才继续核实。结果保存在 `customs` 字段和 `customs-search-results.json`，只添加“海关采购证据”或“海关记录待核实”标签，不改变公司匹配分，也不进入联系人抽取。实际调用数写入 `run_summary.customs_anysearch_queries`。
-
-每次运行前会验证本机代理、Crawl4AI出口和本地SearXNG代理配置一致，只保存12位出口哈希，不保存公网IP。运行产物位于输出JSON同级的 `<文件名>.artifacts/`，包括带 provider、rank、source type 和抓取时间的搜索结果、来源告警、HTML 抓取内容、`pdf-pages.json` 和 Hermes usage。
-
-基础查询在 AnySearch 预算内优先调用 AnySearch，没有合格结果或失败时降级到 SearXNG；超过该预算后的查询只调用 SearXNG。实际 AnySearch 调用次数写入结果的 `run_summary.anysearch_queries`。2026-09-11 的单引擎与直接请求检查后，SearXNG 默认使用 Google CSE；Bing 返回无关结果、DuckDuckGo Web 解析错误、Qwant CAPTCHA，因此默认停用。`--phone-region` 为 `CN`、`KR` 或俄语区国家代码时，仍按既有规则追加 Baidu、Naver 或 Yandex；这些地区来源未在本轮重新验证。显式实验引擎设置继续保留。一个客户端内同一引擎连续两次报告失败后，本任务停止请求该引擎；全部暂停时直接记录来源故障，下个任务使用新客户端重新尝试。成功返回该引擎结果会清除连续失败计数。原始错误写入 `search-warnings.json`，官网或其他来源仍可用时继续处理。
-
-官网发现会读取 `robots.txt` 中声明的 Sitemap 以及默认 `/sitemap.xml`，优先选择团队、管理层、公司介绍、新闻和联系页面。只有 CRM 网址本身能与公司名匹配时，Sitemap 页面才会直接进入抓取队列；否则先抓首页，再从首页发现同域联系页，避免错误的 CRM 网址占满抓取预算。单个网页抓取失败时会有界地重试 1 次。
-
-启用人员补搜时，为补充证据保留 `min(3, max_urls // 3)` 个网页名额，例如总预算 10 页时首轮最多 7 页；禁用补搜保持原预算。首轮未达到目标时，用剩余名额优先抓取官网具名证据、官网刊物、访谈、媒体中心、新闻或活动页，其后才读取合格第三方人员页；搜索故障也可继续沿已知官网链接读取。确认页、隐私和 Cookie 页面降级，已抓取的原网址及重定向目标均去重。没有合格新来源时允许少用预算，已达到目标时不增加模型调用。发现的是首字母姓名、同时已有待核实全名时，先查询全名任职；身份与个人渠道仍按完整证据核验，最多追加一次模型提取。广泛发现模式补挂 LinkedIn 后再次按现有账号标识去重，避免缩写和全名重复计数。
-
-同域 PDF 和 `filetype:pdf` 搜索结果会交给 pypdf，而不会再发送给浏览器。每家公司最多处理 3 个 PDF，单文件最多 15 MB、前 60 页；加密、损坏、超限或纯扫描件会记录错误但不终止任务。首版不做 OCR。
-
-抓取前会先过滤搜索结果：同域页面需要 CRM 网址本身可识别，或搜索结果精确出现公司名；外部页面必须同时包含公司名称，并且 URL 本身包含公司名称或来自受信任的企业资料、工商、贸易或 LinkedIn 域名。公司名校验会忽略大小写、重音、商标符号和法定后缀（包括西班牙 `S.L.`），并接受输入名称中明确写出的括号别名，不接受任意局部匹配。Hermes 输出的候选必须有目标公司的当前任职证据。证据来源必须是本次成功抓取页面、成功提取的 PDF，或通过“LinkedIn 个人页 + 精确公司名 + Current/Present/at company”预筛的搜索引擎 `search_excerpt`；后者的 LinkedIn 状态强制为 `probable`。母集团职位或其他未经预筛的 probable 证据会进入 `validation_rejections`。
-
-## SearXNG 管理
-
-当前配置只绑定 `127.0.0.1:18080`。默认配置通过宿主机 `7897` 代理访问搜索引擎；本机可在 `deploy/searxng/.env` 中设置 `SEARXNG_SETTINGS_PATH=./settings.local.yml`，让不同引擎使用各自的已验证出口。`settings.local.yml` 会被 Git 忽略，避免提交本机代理认证信息。
-
-2026-09-11 已将本机服务重新指向当前项目的 `settings.yml`，Google CSE 使用宿主机 `7897`，并通过实际查询验证。旧 `settings.local.yml` 中的引擎分流配置保留在本地，当前不加载；再次切换出口或启用引擎前应运行单引擎相关性检查。HTTP 200 或结果数量非零不能证明搜索有效。
+默认引擎是 Google CSE；Bing、Qwant、DuckDuckGo Web 因最近实测异常默认关闭。验证接口和实际相关性：
 
 ```bash
-# 查看状态
-docker compose --env-file deploy/searxng/.env -f deploy/searxng/compose.yml ps
-
-# 停止
-docker compose --env-file deploy/searxng/.env -f deploy/searxng/compose.yml down
-```
-
-### 免费引擎接入实验（2026-09-09）
-
-新增独立的 `deploy/searxng/compose.experimental.yml` 和 `settings.experimental.yml`，复用固定版本的 SearXNG 镜像，在 `127.0.0.1:18082` 提供 Brave、Mojeek、Startpage。生产实例的 `18080` 端口、默认引擎和配置不变；实验实例没有自动重启策略。本机本轮测试后已停止实验实例。
-
-固定 7 家公司、8 名已知人员的 16 条查询，每个引擎请求均检查原始结果的 `engines` 归属。现有组合完成 16 次查询，返回 314 个不同 URL，但包含明显无关及复述查询的异常结果，**不能把 URL 数量当作有效联系人数量**。三个新引擎各尝试 3 次后按连续故障规则停止，剩余各 13 条未执行；Brave 限流、Mojeek 连接错误、Startpage CAPTCHA，均未返回结果。部分请求直接命中 SearXNG 暂停状态，不是新的上游请求。**本轮新增有效联系人为 0，尚不能比较新引擎的召回质量，暂不加入默认流程。**
-
-另有 3 次健康检查和 3 次现有 `SearxngClient` 联网检查；客户端将来源故障报告为 `RuntimeError`，不会当作正常空结果。未调用搜索付费 API 或模型，未写入 CRM；原有 **169 项测试通过**。冻结查询、原始响应、网络诊断和审查报告仅在本地：`state/search-engines-20260909/report.md`。本轮使用既有样本，属于开发对照，不是新的独立留出测试。
-
-复现接入检查（需要现有 Docker、宿主机代理 `7897` 和包含 `SEARXNG_SECRET` 的本地环境文件）：
-
-```bash
-docker compose --env-file deploy/searxng/.env -f deploy/searxng/compose.experimental.yml up -d
-
-# 启动完成后检查配置和单引擎原始响应；engines 可换为 mojeek 或 startpage。
-curl --fail --silent --show-error http://127.0.0.1:18082/config
-curl --fail --silent --show-error --get http://127.0.0.1:18082/search \
-  --data-urlencode 'q=refractories' \
-  --data-urlencode 'engines=brave' \
+curl --fail --silent --show-error http://127.0.0.1:18080/config
+curl --fail --silent --show-error --get http://127.0.0.1:18080/search \
+  --data-urlencode 'q="Gouda Refractories"' \
+  --data-urlencode 'engines=google cse' \
   --data-urlencode 'format=json'
-
-docker compose --env-file deploy/searxng/.env -f deploy/searxng/compose.experimental.yml down
 ```
 
-HTTP 200 仅表示本地 SearXNG 接口正常，还需检查 `unresponsive_engines`、非空结果和实际 `engines` 归属。CAPTCHA、限流和连接失败时停止扩测；先恢复来源可用性，再比较经核验的联系人增量。
+应同时检查 `results` 的公司相关性、`engines` 归属和 `unresponsive_engines`。HTTP 200、空结果、结果很多都不能单独证明搜索源健康。遇到 CAPTCHA/限流就停止扩大测试。
 
-## 输出约束
+### 4. 配置 CRM（CLI 单独使用可跳过）
 
-- LinkedIn：只收集公开可见的个人主页链接，不自动登录或互动；搜索引擎摘要来源保存在 `search-evidence.json`，不会伪装成直接页面抓取。
-- 邮箱：公开出现的地址记为 `observed`；Hermes 推测的地址必须标记为 `guessed`。
-- 电话：使用 E.164 保存，并分别记录号码格式状态和来源；CRM 国家字段中已观察到的中英文国名（日本、越南、韩国、西班牙、泰国）会转为对应电话区域；带 Fax、Telefax、Facsimile 或 Télécopie 标签的传真不会计为电话。
-- WhatsApp：只有来源明确标注 WhatsApp，或出现对应的 `wa.me` / `api.whatsapp.com` 链接时才是 `verified`；普通手机号保持 `unknown`。
-- 未绑定到个人的联系方式只从企业专属页面，或同时包含精确公司名和明确联系方式的紧凑搜索摘要生成，并按渠道和值去重；仅在大型目录页正文出现公司名，不足以把站点页脚电话或邮箱归给该公司。CRM 网站为目录页时，精确公司联系人摘要可作为 `probable` 公共联系方式。PDF 中未绑定到具体人员的孤立联系方式仍会被排除，避免把监管机构或文档签发方号码误认为公司号码。Hermes 不能自行补写无来源联系方式。
-- 耐火材料工程师、冶金工程师、技术经理等技术影响者应保留，不仅限采购岗位。
+向维护者取得相应 Twenty 实例的只读连接参数，写入 `state/twenty.env`，权限设为 `600`。所需键见下表。不要把真实主机、账号、密码或工作区标识写入 README。
 
-## 测试
+代码使用 `BEGIN READ ONLY`，查询有 10 秒 statement timeout、15 秒子进程超时；数据库账号仍应由管理员配置相应读取权限。`TWENTY_WORKSPACE_SCHEMA` 必须符合 `workspace_[a-z0-9]+`，且 schema 中存在当前代码使用的 `company`、`person` 字段。Twenty 版本或自定义字段变化后须重新验证 SQL。
+
+## 配置文件与优先级
+
+**Dashboard/Batch：已有进程环境优先，其次是先加载的环境文件。** 加载器使用 `os.environ.setdefault`，空字符串也会占位，后加载文件不会覆盖。正确顺序通常是 `--env-file state/twenty.env --env-file .env`。文件不存在会被跳过，并不会立即报错。
+
+**CLI 不自动读取 `.env`，也没有 `--env-file` 参数。** 可通过下一节的 Python 启动示例显式加载。文件只写 `KEY=VALUE`，含空格的值用引号；不要使用 `export KEY=...`，也不要期待 `$HOME`、`~` 或 `$(...)` 被展开。
+
+| 变量 | 默认/范围 | 注意事项 |
+| --- | --- | --- |
+| `KEY_PERSON_PROXY_URL` | CLI 必须有有效代理 | 未设时回退 `HTTPS_PROXY`、`HTTP_PROXY`；优先使用完整 HTTP 代理地址及端口 |
+| `SEARXNG_URL` | `http://127.0.0.1:18080` | JSON 搜索端点所在实例 |
+| `HERMES_COMMAND` | 代码有旧机器路径 | 必须显式改为本机可执行文件绝对路径 |
+| `KEY_PERSON_TIMEOUT_SECONDS` | `600`，30–3600 | 单次 Hermes 超时，不是整家公司总时限 |
+| `ANYSEARCH_API_KEY` | 空 | 匿名访问额度较低；API 与模型费用分别计算 |
+| `KEY_PERSON_ANYSEARCH_MAX_QUERIES` | `5`，0–100 | 基础预算；0 禁用基础及人员补搜中的 AnySearch |
+| `KEY_PERSON_PEOPLE_SEARCH_MAX_QUERIES` | `3`，0–6 | 额外人员查询预算；0 关闭补搜 |
+| `KEY_PERSON_CUSTOMS_ANYSEARCH_MAX_QUERIES` | `2`，0–3 | 独立海关预算；完全免费搜索实验应另设为 0 |
+| `KEY_PERSON_EXPERIMENTAL_BROAD_DISCOVERY` | 未设为关闭 | `true` 开启两源融合、较宽人员保留及额外账号去重；不是保证增量的开关 |
+| `KEY_PERSON_EXPERIMENTAL_SEARXNG_ENGINES` | 未设 | 逗号分隔；只有开启 broad discovery 才使用显式覆盖 |
+| `SEARXNG_SETTINGS_PATH`（应用环境） | 仓库 `deploy/searxng/settings.yml` | 本地代理预检读取的文件；覆盖时建议用绝对路径 |
+| `SEARXNG_SETTINGS_PATH`（Compose `.env`） | `./settings.yml` | 决定实际挂载文件，相对 `deploy/searxng/`；与应用预检文件必须指向同一配置 |
+| `SEARXNG_SECRET`（仅 Compose `.env`） | 无 | 本机生成，禁止提交 |
+| `TWENTY_DB_HOST/NAME/USER/PASSWORD` | 无业务默认值 | 连接目标 Twenty PostgreSQL，密码按数据库认证方式提供 |
+| `TWENTY_DB_PORT` | `5432` | 目标数据库端口 |
+| `TWENTY_DB_SSLMODE` | `prefer` | 按数据库管理员要求设置，不为消除报错关闭 TLS 校验 |
+| `TWENTY_DB_CONNECT_TIMEOUT` | `5` | PostgreSQL 连接超时秒数 |
+| `TWENTY_WORKSPACE_SCHEMA` | 必填 | 目标工作区 schema |
+| `PSQL_BIN` | PATH，其次 Apple Silicon Homebrew 路径 | 新机器和 LaunchAgent 建议显式设置绝对路径 |
+
+预算补充：默认基础 AnySearch 5 次，人员补搜另有最多 3 次；海关只有公司快照明确启用时才运行，且预算独立。免费搜索模式仍可能产生 Hermes 模型费用。CLI 对部分区域还会追加 Baidu、Naver 或 Yandex，这些来源未在最近一轮重新验收。
+
+改配置后，已启动的 Dashboard、Batch、Runner 不会自动重新加载。需要重启入口进程；已经启动的独立任务仍使用旧环境，正在调用的模型也不会切换配置。
+
+## 启动与使用
+
+### 单家公司 CLI
+
+在仓库内准备 JSON，`name` 必填，建议提供精确官网；官网为子公司目录时保留完整子路径。`industries`、`products` 为字符串数组；可指定 `target_contact_count`。提供 `crm_contacts` 才能按该快照去重；未提供时不能声称“相对 CRM 新增”。完整字段见 `CompanyProfile.from_dict` 与 `examples/aceler.json`。
+
+下面使用示例公司启动一次真实搜索及模型任务，输出目录按时间区分。已准备自己的公司输入时替换 `--company`：
 
 ```bash
-.venv/bin/pip install -e '.[test]'
-.venv/bin/python -m unittest discover -s tests -q
+.venv/bin/python -c 'from pathlib import Path; from key_person_discovery.crm import load_env_file; load_env_file(Path(".env")); from key_person_discovery.cli import main; main()' \
+  --company examples/aceler.json \
+  --output "outputs/manual-$(date +%Y%m%d-%H%M%S)/aceler.json" \
+  --phone-region CN \
+  --max-urls 10
 ```
 
-当前测试共 **212 项**，覆盖来源核验、渠道归属、补搜预算、引擎连续失败暂停、官网证据优先、重定向别名去重、补挂账号后的重复人员清理、失败诊断、CRM 去重、官网身份、嵌套图片链接、人员检索与身份边界、任务恢复和旧结果兼容。测试使用固定数据与替身，不启动真实搜索或模型任务。
+`--max-urls` 默认 20，允许 1–100。启用补搜时保留 `min(3, max_urls // 3)` 页，例如 10 页分为首轮最多 7 页、补充最多 3 页；最多 3 个 PDF，单份 15 MB、前 60 页，无 OCR。只有新有效证据才追加模型，单任务最多两轮提取。
 
-## 本地展示页
+可选 `--topeasy-export` 接受 TopEasy 决策人 CSV 导出，包括扩展名为 `.xls` 的 CSV；不是通用 Excel 二进制文件导入器。CLI 写同一个输出路径会覆盖既有结果及部分同级产物，因此复测请使用新路径。
 
-FastAPI 展示服务读取 `outputs/` 下的结果，并支持按名称查询 Twenty CRM、选择公司后创建本地快照并启动联网任务。CRM 查询通过本机 `psql` 客户端使用参数化 SQL、`BEGIN READ ONLY` 和 10 秒超时；Twenty 凭据不会传给浏览器或搜索子进程。页面不需要 Node.js 或前端构建工具，默认监听 `0.0.0.0:18181`，可由同一内网设备访问：
+### Dashboard 前台启动
 
 ```bash
 .venv/bin/key-person-dashboard \
-  --env-file /path/to/twenty-local.env \
+  --host 127.0.0.1 --port 18181 \
+  --env-file state/twenty.env \
   --env-file .env
 ```
 
-环境文件需要提供 `TWENTY_DB_HOST`、`TWENTY_DB_PORT`、`TWENTY_DB_NAME`、`TWENTY_DB_USER`、`TWENTY_DB_PASSWORD` 和 `TWENTY_WORKSPACE_SCHEMA`；可同时在另一个环境文件中提供代理、AnySearch 和 Hermes 配置。公司输入至少 2 个字符，点击匹配项后才会开始联网搜索；CRM 中没有的公司可手动输入。快照保存在 `inputs/web-YYYYMMDD/`，结果保存在 `outputs/web-YYYYMMDD/`，搜索失败日志位于同批次 `inputs` 目录。
+打开 `http://127.0.0.1:18181/`。输入至少两个字符查询 CRM，选择公司后创建快照并开始任务；也可手动输入公司。仅查看已有结果或手动输入不需要 CRM 查询成功。`--profile` 默认 `examples/aceler.json`，Dashboard/Batch 只取其中行业和产品画像，目标公司来自用户选择/CRM。
 
-任务状态保存在 `state/jobs.sqlite3`，任务 Runner 独立于展示服务运行。页面每 2 秒读取队列状态，首屏只汇总当前批次，展示进度、排队、网络预检、等待网络恢复、搜索、抓取、Hermes 分析、有新结果、无新增联系人、公开来源不可用和执行失败。结果区默认只显示当前批次的输出，也可用“结果范围”下拉框查看历史日期批次。单家公司启动区和结果公司卡片默认折叠。“无新增联系人”是正常完成，不进入结果列表；“公开来源不可用”保持可重试。刷新页面或重启 dashboard 都不会丢失任务。Runner 心跳超过 5 分钟且对应进程已经不存在时才会标记失败，避免合盖唤醒时误判仍存活的任务。
+前台服务用 Ctrl-C 停止。若已有 LaunchAgent 占用端口，不要再运行第二个 Dashboard；可用 `--port 18182` 临时验证，但注意两个页面默认共用任务库。
 
-## CRM 批量挖掘
+### Batch 先预览，再小批量运行
 
-批量脚本默认读取 CRM 中未删除、名称和官网均非空的公司，使用 UUID 游标稳定分页；已经存在于任务库的公司会跳过。默认单并发累计有效运行 48 小时，停止时间到达后不再创建新任务，已经启动的任务仍会完成。Mac 休眠期间进程和网络都会暂停，这段时间不计入有效运行时长；唤醒后先进入 10 秒恢复宽限期。若网络尚未恢复，任务保持 `waiting_network` 并每 30 秒检查一次出口，网络恢复后再宽限 10 秒并重试同一任务，不创建重复任务；所有活跃任务都在等待网络时，批次有效时长暂停累计。Runner 在 macOS 上会自动通过系统 `/usr/bin/caffeinate -i -s` 阻止任务执行期间的空闲睡眠，但合盖强制睡眠仍由 macOS 控制。页面每 2 秒显示累计有效时长、剩余时长和恢复状态：
-
-```bash
-nohup .venv/bin/key-person-batch \
-  --env-file /path/to/twenty-local.env \
-  --env-file .env \
-  --duration-hours 48 \
-  --workers 1 \
-  > state/batch.log 2>&1 &
-```
-
-启动前可只读预览前三家公司，不创建任务：
+只读预览前三家公司，不创建任务、搜索或模型调用；输出含公司资料，仅用于本地检查：
 
 ```bash
 .venv/bin/key-person-batch \
-  --env-file /path/to/twenty-local.env \
-  --env-file .env \
+  --env-file state/twenty.env --env-file .env \
   --dry-run --max-companies 3
 ```
 
-`--workers` 支持 1–4；建议先使用 1，确认搜索源、VPN 和 Hermes 连续稳定后再提高。`--max-companies N` 可设置公司数量上限，默认 0 表示只受 48 小时时间限制。批量脚本和 dashboard 默认共享同一个 `state/jobs.sqlite3`，所以内网页面可以实时查看运行情况。
-
-CRM 有效联系人少于 4 条时，快照会记录 `target_contact_count=4`，该任务增加管理层、工程师和官网公共联系方式查询，并把最大抓取页面数从 20 提高到 30；其他公司每次也至少要求 1 个新的可联系渠道。快照同时保存 CRM 现有联系人的姓名、LinkedIn、邮箱和电话，仅用于本地精确去重；新结果会先剔除与 CRM 重复的人员和公共渠道，再计算目标数量。人员补搜目标按经任职核验、非 CRM 已有且至少具备一个非推测 LinkedIn/邮箱/电话的人员计数。旧的联系方式指标另行保留，按“具名可联系人员 + 未归属公共邮箱/电话/WhatsApp”统计；公共渠道不会补足新增人员目标，公共号码的电话和 WhatsApp 不重复计数。目标是尽量达到 4 个，不会为了凑数编造联系人、降低当前任职证据或把公共联系方式强行绑定到个人。去重后零可联系项但公开来源已正常检查时，标记为“无新增联系人”并正常完成；只有搜索与抓取来源不可用时才保持失败和可重试。
-
-本机可打开 `http://127.0.0.1:18181`，其他内网设备使用本机局域网 IP，例如 `http://192.168.x.x:18181`。端口冲突时可使用 `--port 18182`，只允许本机访问时使用 `--host 127.0.0.1`。当前页面没有登录认证，局域网内能够访问该端口的设备都可以查询 CRM 公司并启动任务。当前直连 PostgreSQL 是本机已有凭据下的可验证实现；取得稳定的 Twenty API Token 后，可将 CRM 查询替换为 REST/GraphQL，后续快照与搜索流程无需改变。
-
-### macOS 登录后自动运行
-
-`deploy/macos/com.aceler.key-person-dashboard.plist.example` 是 Dashboard 的 LaunchAgent 模板。将其中所有 `__PROJECT_DIR__` 替换为项目绝对路径，并把 `__CRM_ENV_FILE__` 替换为只读 Twenty 环境文件的绝对路径，保存到 `~/Library/LaunchAgents/com.aceler.key-person-dashboard.plist` 后先确保项目的 `state/` 日志目录存在，再加载：
+首次运行建议先 3 家、单并发；以下命令会真实创建任务：
 
 ```bash
-mkdir -p state  # 在仓库根目录执行
+.venv/bin/key-person-batch \
+  --env-file state/twenty.env --env-file .env \
+  --duration-hours 1 --workers 1 --max-companies 3
+```
+
+长期运行可在确认来源及模型稳定后使用：
+
+```bash
+mkdir -p state
+nohup .venv/bin/key-person-batch \
+  --env-file state/twenty.env --env-file .env \
+  --duration-hours 48 --workers 1 \
+  > "state/batch-$(date +%Y%m%d-%H%M%S).log" 2>&1 &
+```
+
+默认 48 小时有效运行、1 个 worker；时长允许大于 0 至 168 小时，workers 1–4，`--page-size` 默认 100（1–500），`--max-companies 0` 不设公司数量上限。按 UUID 游标读取名称/官网非空且未删除的公司；任务库中出现过的公司会被 Batch 跳过，**失败的历史任务也不会由新批次自动重跑**。需要复查时从 Dashboard 明确重新发起；同公司仍有活跃任务时会复用该任务。
+
+CRM 联系人少于 4 条的快照目标设为 4，Runner 使用 30 个网页名额；其他情况目标通常为 1、网页 20。目标是尽量达到的新增人员数，不是结果上限，也不保证一定满足。
+
+### 任务状态与停止边界
+
+SQLite 中任务主状态为 `queued/running/completed/failed`，`stage` 区分预检、搜索、抓取、分析、`waiting_network`、`recovering`、`no_new_contact` 和 `source_limited` 等阶段。
+
+- Runner 独立于 Dashboard 和 Batch。页面刷新、Dashboard 重启不会取消在途任务；Batch 到达时限/公司数后停止派发，已启动任务继续完成。批次显示完成不等于所有子任务都完成。
+- 代理网络不可用时每 30 秒检测，恢复后等 10 秒，再重试同一个任务。网络正常但搜索源限流，不一定进入等待网络，可能以来源受限结束，需要来源恢复后再手动重试。
+- 心跳超过 5 分钟且 Runner PID 不存在，才会清理为失败。状态保存在 SQLite 不代表进程被系统终止后一定自动续跑。
+- Mac 运行任务时使用 `caffeinate -i -s` 阻止空闲睡眠，不能保证合盖仍运行；睡眠间隔不计 Batch 有效时长，所有活跃任务等待网络时也暂停计时。
+- 当前没有统一的暂停/取消 API。正常维护应停止新派发并等待任务完成。紧急停止前用 `ps` 核对 Batch、Runner、CLI、Hermes 的 PID/父子关系，再只停止本项目对应进程；仅停止 Dashboard 或 Batch 不会终止所有子进程。不要宽泛执行 `pkill python` 或删除数据库“清队列”。
+
+## macOS 自动启动与停止
+
+模板：[com.aceler.key-person-dashboard.plist.example](deploy/macos/com.aceler.key-person-dashboard.plist.example)。使用登录用户的 LaunchAgent，不用 sudo。先确保 `.venv`、两个环境文件和 `state/` 存在；Docker、代理和 Hermes 也要独立配置。
+
+首次安装生成本机 plist，已存在的配置不会被覆盖。此示例将监听地址改为仅本机：
+
+```bash
+.venv/bin/python - <<'PY'
+from pathlib import Path
+from xml.sax.saxutils import escape
+import plistlib
+root = Path.cwd().resolve()
+text = (root / 'deploy/macos/com.aceler.key-person-dashboard.plist.example').read_text()
+text = text.replace('__PROJECT_DIR__', escape(str(root)))
+text = text.replace('__CRM_ENV_FILE__', escape(str(root / 'state/twenty.env')))
+data = plistlib.loads(text.encode())
+args = data['ProgramArguments']
+args[args.index('--host') + 1] = '127.0.0.1'
+target = Path.home() / 'Library/LaunchAgents/com.aceler.key-person-dashboard.plist'
+target.parent.mkdir(parents=True, exist_ok=True)
+with target.open('xb') as f:
+    plistlib.dump(data, f)
+PY
+plutil -lint "$HOME/Library/LaunchAgents/com.aceler.key-person-dashboard.plist"
 launchctl bootstrap "gui/$(id -u)" "$HOME/Library/LaunchAgents/com.aceler.key-person-dashboard.plist"
 launchctl enable "gui/$(id -u)/com.aceler.key-person-dashboard"
 launchctl kickstart -k "gui/$(id -u)/com.aceler.key-person-dashboard"
 ```
 
-LaunchAgent 会在登录后启动 Dashboard，并在它异常退出时重新拉起；系统真正睡眠期间不会执行 Python，开盖后由原进程或 LaunchAgent 恢复。不要为批处理配置无条件 `KeepAlive`，否则正常完成的批次也会被重新启动。
+常用维护命令：
 
-macOS 会限制后台 LaunchAgent 访问 `Documents`、`Desktop` 等受保护目录。如果项目位于 `Documents`，直接加载模板可能得到 `Operation not permitted`；应先把仓库迁移到例如 `~/Projects/key-search`，或在“系统设置 → 隐私与安全性 → 完全磁盘访问权限”中明确允许项目使用的 Python 解释器。不要通过关闭系统保护来绕过该限制。
+```bash
+# 状态与日志
+launchctl print "gui/$(id -u)/com.aceler.key-person-dashboard"
+tail -n 100 state/dashboard.log
+
+# 已加载的 Dashboard 重启：用于更新应用 .env 或代码；不取消独立任务
+launchctl kickstart -k "gui/$(id -u)/com.aceler.key-person-dashboard"
+
+# 卸载本次登录会话中的服务
+launchctl bootout "gui/$(id -u)" "$HOME/Library/LaunchAgents/com.aceler.key-person-dashboard.plist"
+
+# 如需跨登录保持停用，再执行；重新启用用 enable，随后 bootstrap
+launchctl disable "gui/$(id -u)/com.aceler.key-person-dashboard"
+```
+
+修改 plist 的参数或路径后，需要 bootout 后重新 bootstrap，不能只 kickstart。不要给 Batch 配置无条件 `KeepAlive`，否则结束后会再次启动批次。
+
+macOS 后台服务可能无权读取 `Documents` / `Desktop`。出现 `Operation not permitted` 时，优先将仓库放在 `~/Projects/`，或按组织要求授权具体解释器；不要关闭系统保护。迁移还需重新创建虚拟环境及 plist，见迁移章节。
+
+## 结果、证据与计数
+
+| 产物 | 位置/用途 |
+| --- | --- |
+| 手工 CLI 结果 | `--output` 指定的 JSON |
+| Dashboard / Batch 输入 | `inputs/web-YYYYMMDD/` 或 `inputs/batch-YYYYMMDD/` |
+| 任务日志 | 输入 JSON 同名 `.log`；日期按 UTC 生成 |
+| 任务结果 | `outputs/web-YYYYMMDD/` 或 `outputs/batch-YYYYMMDD/` |
+| 证据目录 | 结果文件名后追加 `.artifacts/`，例如 `company.json.artifacts/` |
+| 状态 | `state/jobs.sqlite3`；SQLite 使用 WAL，运行时可能有 `-wal/-shm` |
+| Dashboard 日志 | 当前 LaunchAgent 配置为 `state/dashboard.log` |
+
+重要结果字段：
+
+- `candidates`：保留的目标人员；`unverified_candidates`：任职/身份仍待核验；`excluded_candidates`：岗位等规则排除人员。
+- `unassigned_contacts`：未归属具体人的公共渠道；`crm_duplicates`：相对本次 CRM 快照识别的重复；`validation_rejections`：任职/输出校验原因。
+- `run_summary.new_contactable_people`：已确认目标公司关联、非 CRM 已有、至少有一条非 guessed 个人渠道的人数。公共邮箱/总机、待核验人员、只含推测邮箱者不补足该目标。
+- `contactable_items` / `contact_methods` 是兼容的渠道指标，口径不同；任务 `completed` 也可能仅有待核验人员或公共渠道，不能据此宣布新增目标人员。
+- `diagnostics`：当前缺口、前后诊断、补搜原因、查询与失败阶段。搜索 `eligible` 只代表初筛相关，不等于当前任职或渠道归属已确认。
+
+证据目录重点文件：`search-responses.json`（成功取得的原始响应）、`search-quality.json`、`engine-quality.json`、`search-warnings.json`、`website-resolution.json`、`website-routing-pages.json`、`pages.json`、`pdf-pages.json`、`search-evidence.json`、`contact-signals.json`、`contact-conflicts.json`、`people-baseline.json`、`people-search.json`、`diagnostics.json`。按执行阶段不同，并非每个文件都会存在。
+
+费用同时检查 `usage.json` 和 `usage-people-topup.json`；`cost_status=unknown` 不能当作免费。模型、provider、token 以产物为准，不从 README 的历史实验推断。
+
+人工复核应同时核对：目标公司/子公司、当前角色、姓名身份、渠道与该人的直接绑定、证据日期、当前 CRM 重复情况。LinkedIn 搜索摘要链接保持 `probable`；推测邮箱必须 `guessed`；普通手机号不是已验证 WhatsApp；只有明确标注或对应链接才可标为 verified。不要把同姓或首字母姓名自动展开为特定全名，也不要把一条公共渠道重复算为多人。
+
+## 日常维护
+
+| 周期/场景 | 操作 |
+| --- | --- |
+| 每次开始 | 核对代理、Docker、Dashboard 状态；小范围验证搜索相关性；确认 Hermes 模型和预算 |
+| 每批结束 | 核对 jobs 和 batches，抽查成功、零结果与失败样本；分别统计新增人员、公共渠道及待核验人员 |
+| 每日有运行时 | 查看任务日志、限流/验证码、模型失败及 usage；观察 `du -sh inputs outputs state` 的容量 |
+| 改配置后 | 核对应用读取的配置和容器实际挂载，重启需要加载新环境的入口；先单家公司验证 |
+| 升级/迁移前 | 停止新派发，等待在途任务结束，备份数据库、输入输出、配置与证据 |
+| 清理前 | 先归档，保留实验 manifest、原始失败、代码版本及哈希；不要删除仍被任务库引用的输出 |
+
+SearXNG 运维：
+
+```bash
+docker compose --env-file deploy/searxng/.env -f deploy/searxng/compose.yml ps
+docker compose --env-file deploy/searxng/.env -f deploy/searxng/compose.yml logs --tail 100 searxng
+docker inspect key-person-searxng --format '{{range .Mounts}}{{println .Source "->" .Destination}}{{end}}'
+
+# 修改 settings 或挂载路径后，在无在途采集时重新创建
+docker compose --env-file deploy/searxng/.env -f deploy/searxng/compose.yml up -d --force-recreate
+
+# 停止该项目的搜索服务
+docker compose --env-file deploy/searxng/.env -f deploy/searxng/compose.yml down
+```
+
+切换宿主机代理端口时同时修改应用代理和实际挂载的 SearXNG outgoing proxy，并保证预检读取同一个文件。不要将 `docker compose config` 的完整渲染结果发到公共日志，它可能含展开后的秘密值。
+
+当前没有自动日志轮转和数据保留策略。`dashboard.log` 轮转宜在 Dashboard 停止后归档再启动；任务日志要与输入/输出一起保存。可归档旧结果后移出活跃 `outputs/` 以减少加载量，但页面将不再展示这些文件，恢复方式和存放位置应一并记录。
+
+## 备份、恢复与迁移
+
+Git 推送不是业务数据备份。应保留 `inputs/`、`outputs/`（含 `.artifacts`）、`state/`、应用 `.env`、Compose `.env`、正在使用的 `settings.local.yml`（若有）、LaunchAgent，以及 Hermes 模型/profile 配置的安全交接方式。Hermes 和 Twenty 的服务端数据不在本项目备份范围内。
+
+为保证文件之间一致，先停新任务并等待在途任务完成，再卸载 Dashboard。SQLite 不要在运行中仅复制主 `.sqlite3` 文件；可使用标准库 backup API。以下示例按默认 `--db/--inputs/--outputs` 路径备份；使用自定义路径时需对应调整，所有任务数据库都应采用一致性备份。备份位于用户私有目录，包含运行数据和秘密文件，不应上传仓库：
+
+```bash
+.venv/bin/python - <<'PY'
+from datetime import datetime, timezone
+from pathlib import Path
+import shutil, sqlite3, subprocess, os
+os.umask(0o077)
+root = Path.cwd().resolve()
+backup = Path.home() / 'Backups/key-search' / datetime.now(timezone.utc).strftime('%Y%m%d-%H%M%S')
+backup.mkdir(parents=True, exist_ok=False)
+for name in ('inputs', 'outputs', 'state'):
+    if (root / name).exists():
+        shutil.copytree(root / name, backup / name, ignore=shutil.ignore_patterns('jobs.sqlite3*'))
+if (root / 'state/jobs.sqlite3').is_file():
+    with sqlite3.connect((root / 'state/jobs.sqlite3').as_uri() + '?mode=ro', uri=True) as src:
+        with sqlite3.connect(backup / 'state/jobs.sqlite3') as dst:
+            src.backup(dst)
+            assert dst.execute('PRAGMA integrity_check').fetchone()[0] == 'ok'
+for name in ('.env', 'deploy/searxng/.env', 'deploy/searxng/settings.yml', 'deploy/searxng/settings.local.yml'):
+    source = root / name
+    if source.is_file():
+        target = backup / name
+        target.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(source, target)
+plist = Path.home() / 'Library/LaunchAgents/com.aceler.key-person-dashboard.plist'
+if plist.is_file():
+    shutil.copy2(plist, backup / plist.name)
+(backup / 'commit.txt').write_text(subprocess.check_output(['git', 'rev-parse', 'HEAD'], text=True))
+(backup / 'requirements-snapshot.txt').write_text(subprocess.check_output(['.venv/bin/pip', 'freeze'], text=True))
+print(backup)
+PY
+```
+
+该快照记录已提交代码版本；如果有未提交源码修改，另保存受控补丁，不把包含 CRM 数据的全仓库 diff 当作可公开补丁。检查备份容量和完整性，并按组织要求加密保管。
+
+恢复/迁移顺序：
+
+1. 在目标机器取得备份对应的代码版本，重新创建 `.venv` 并 `pip install -e '.[test]'`、安装 Chromium。**不要直接复用移动前的虚拟环境**，其脚本包含绝对路径。
+2. 停止所有读取旧任务库的进程后，恢复输入、输出、证据、SQLite 和私有配置；不要将旧 WAL 文件随意混入备份恢复的数据库。
+3. 修改 Hermes、psql、代理、Compose 挂载和 LaunchAgent 的绝对路径。任务库的 `input_path/output_path/log_path` 也保存绝对路径：跨目录移动须备份后做受控路径迁移；不能只改 plist。当前没有一键历史任务路径迁移命令。
+4. 不要在新旧目录同时运行同一批次。若不能迁移旧任务库，保留它作只读历史，另用仓库内的新 `--db`；这会丢失旧库的已处理公司去重信息，Batch 可能重跑历史公司。
+5. 启动 Docker/代理，核实挂载和模型；验证 CLI 导入路径、CRM dry-run、单家公司，再加载 Dashboard。验证前保留旧备份，不覆盖冻结失败样本。
+
+## 故障排查
+
+| 现象 | 先查什么 | 处理原则 |
+| --- | --- | --- |
+| `KEY_PERSON_PROXY_URL is required` | CLI 是否实际加载 `.env`，进程环境是否有空值 | 使用显式加载示例，纠正加载顺序 |
+| `Local SearXNG proxy does not match` | 应用代理、预检 YAML、Docker 实际挂载 | 同步三者；预检只检查本地配置与 HTTP/浏览器出口，不保证每个搜索引擎可用 |
+| `Unable to verify proxy egress` / 出口不一致 | 代理服务、Crawl4AI、出口检查站点、Docker 网络 | 排查出口，不跳过校验来掩盖路由不一致 |
+| SearXNG 200 但没有有效结果 | 原始响应、`unresponsive_engines`、结果是否对应目标公司 | 区分正常空结果、相关性筛掉、限流和验证码；不要反复扩大请求 |
+| `All ... engines suspended` | 同一客户端内连续失败记录 | 客户端两次失败后暂停该引擎；新任务可再试，但不代表上游限流已解除 |
+| `Hermes command is not executable` | 路径、权限、解释器、LaunchAgent 环境 | 使用可执行绝对路径；不要沿用旧机器路径 |
+| Hermes 超时/JSON 校验失败 | 任务日志、`usage*.json`、`diagnostics.json` | 确认实际模型/额度/适配参数；超时仅允许 30–3600 秒，补搜失败会保留首轮结果 |
+| Chromium 缺失或抓取启动失败 | 当前 `.venv` 与 Playwright 浏览器安装 | 用当前虚拟环境重新安装 Chromium；旧虚拟环境移动后需重建 |
+| `psql client is unavailable` | `PSQL_BIN` 或进程 PATH | 安装本机 libpq，给后台进程显式绝对路径 |
+| CRM 查询 503 / `CRM query failed (psql)` | 网络、数据库账号/schema、字段、环境加载顺序 | 用 batch dry-run 做只读验证；终端能连不证明 LaunchAgent 的 VPN 路由也正常 |
+| Sitemap `CERTIFICATE_VERIFY_FAILED` | 系统/解释器信任链、站点证书、代理证书 | 正确配置可信证书，不关闭 TLS 验证 |
+| `Operation not permitted` | 项目是否在 Documents、解释器权限 | 使用 Projects 目录或精确授权，再处理迁移路径 |
+| `Address already in use` | `lsof -nP -iTCP:18181 -sTCP:LISTEN` 和 launchctl | 识别已有服务，不重复启动或误杀其他项目 |
+| 页面有任务但结果为空 | 当前批次筛选、job stage、JSON/证据路径 | `no_new_contact` 是正常终态；旧任务可能引用迁移前路径 |
+| 人名很多但可联系人数少 | 任职、个人渠道、CRM 重复、公共渠道口径 | 查看 pending/rejections/diagnostics，不降低核验标准凑数 |
+| 重启后没有恢复任务 | Runner PID、心跳、`queued/running` 状态 | Dashboard 重启不等于 Runner 复活；先确认失活，再手动重试 |
+
+不含个人数据的接口状态检查：
+
+```bash
+curl --fail --silent --show-error -o /dev/null -w 'jobs HTTP %{http_code}\n' http://127.0.0.1:18181/api/jobs
+curl --fail --silent --show-error -o /dev/null -w 'results HTTP %{http_code}\n' http://127.0.0.1:18181/api/results
+curl --fail --silent --show-error -o /dev/null -w 'batches HTTP %{http_code}\n' http://127.0.0.1:18181/api/batches
+```
+
+这些检查不验证 CRM 或模型是否可用。`/api/crm/companies?q=...` 是只读查询；`POST /api/discover` 会真实创建任务，不应当作无副作用的健康检查。
+
+## 开发、测试与发布
+
+```bash
+.venv/bin/pip install -e '.[test]'
+.venv/bin/python -m unittest discover -s tests -q
+git diff --check
+```
+
+截至交接，212 项固定数据测试通过，不启动真实搜索或模型任务。可定向运行 `-p test_retrieval_repair.py`（来源暂停、预算、官网优先、重定向、晚附账号去重）或 `-p test_people_recall.py`。单元测试通过不等于在线召回增长。
+
+更新现有部署：先停止新派发、等待在途任务、完成备份；检查 `git status --short`，解决相关本地代码修改后再 `git pull --ff-only`。如果被已跟踪的运行文件阻挡，不要丢弃数据或把 CRM 文件混入提交，应先单独备份并处理冲突。安装依赖、运行测试；根据改动重启 Dashboard 或重新创建 SearXNG。模型和数据库版本变更另做小样本验证。
+
+发布前：核对 diff、同步 README、保存实验输入/代码版本/原始失败，明确哪些是单元测试、离线回放和真实联网结果。对照使用同预算和冻结公司，报告 CRM 去重后的独立人员及渠道；来源失败、模型随机差异和重复账号不能当作增量。
+
+只暂存明确的源码、测试、部署模板和文档路径，再检查 `git diff --cached --name-only`、`git diff --cached --check` 后提交并 `git push origin main`。不要默认 `git add -A`；新运行数据被忽略并不意味着历史跟踪文件安全。禁止提交 `.env`、密钥、任务库、CRM 快照和私人模型日志。
+
+回退代码应保留已推送历史，使用经过审查的 `git revert` 或单独恢复分支，不强推覆盖共享 `main`。数据库及输出回退需用对应备份，代码回退不会自动恢复任务状态；目前没有数据库降级脚本。
+
+## 已知限制与后续工作
+
+1. **来源连续可用性不足。** 最近 Google CSE 能返回相关结果但也触发限流；Bing 无关结果、Qwant CAPTCHA、DuckDuckGo Web 解析失败。Brave/Mojeek/Startpage 的独立实验也未验证增益，保持非默认。详见[历史实验](docs/discovery-and-validation.md)。
+2. **联系人净增量仍未验收。** 最近配对原始计数为 Gouda 4→1、RATH 8→8、Calderys 0→0。Gouda 后续 2 条记录实际共用一个账号，去重为 1。官网证据覆盖改善不能写成新增人员增长。
+3. **任职判断与渠道归属仍要人工复核。** 相同 LinkedIn 摘要可能被模型标成 verified 或 probable；旧 HTML 新闻时效、集团/子公司、缩写/全名关系仍可能含糊。不要靠更宽的自动合并提高数字。
+4. **运行管理不是完整调度平台。** 没有认证、一键取消、日志轮转、数据保留策略或跨目录迁移器；免费来源不足时提高并发往往只会增加限流。
+5. **依赖和部署需要维护。** 没有全依赖锁文件，Hermes 为外部适配，macOS 模板含绝对路径占位符；Linux/新 Twenty schema 需要单独验证。PDF 无 OCR，反爬/robots 阻止的页面不保证获取。
+
+下一轮建议先解决来源限流下的稳定采集和任职判定一致性，再用新冻结样本验证“新增可联系人员”；优先使用现有来源与证据，不先扩大请求数量或引入新框架。
+
+## 交接验收清单
+
+- [ ] 接手人已确认仓库、分支、代码版本和实际运行路径。
+- [ ] 已通过安全渠道取得应用/CRM/Compose 配置及 Hermes profile；未将秘密写入 Git。
+- [ ] Python editable 安装指向新仓库，Chromium、psql、代理、Docker 和 Hermes 均可用。
+- [ ] CLI、Dashboard、Batch 的环境优先级及启动命令已理解，未重复启动服务。
+- [ ] CRM dry-run、搜索相关性和一家公司完整流程分别验证；预算和模型费用已核对。
+- [ ] 知道日志、SQLite、原始证据及冻结实验的位置，已验证备份和恢复路径。
+- [ ] 理解独立 Runner 的停止/重试边界、Dashboard 无认证和联系人计数口径。
+- [ ] 已阅读最新限制；没有把历史实验、公共渠道或重复账号称为联系人净增量。
